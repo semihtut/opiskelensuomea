@@ -83,7 +83,20 @@ const week2: Week = {
     {
       day: 5,
       theme: "Sää ja luonto",
-      wordSlugs: [],
+      wordSlugs: [
+        "sää",
+        "ilma",
+        "sade",
+        "lumi",
+        "aurinko",
+        "tuuli",
+        "taivas",
+        "metsä",
+        "järvi",
+        "meri",
+        "puu",
+        "kylmä",
+      ],
     },
     {
       day: 6,

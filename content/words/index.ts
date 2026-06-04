@@ -130,6 +130,19 @@ import punainen from "./punainen";
 import sininen from "./sininen";
 import keltainen from "./keltainen";
 import vihrea from "./vihreä";
+// Week 2 · Day 5 — Sää ja luonto
+import saa from "./sää";
+import ilma from "./ilma";
+import sade from "./sade";
+import lumi from "./lumi";
+import aurinko from "./aurinko";
+import tuuli from "./tuuli";
+import taivas from "./taivas";
+import metsa from "./metsä";
+import jarvi from "./järvi";
+import meri from "./meri";
+import puu from "./puu";
+import kylma from "./kylmä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -266,5 +279,18 @@ export const words: Word[] = [
   sininen,
   keltainen,
   vihrea,
+  // Week 2 · Day 5 — Sää ja luonto
+  saa,
+  ilma,
+  sade,
+  lumi,
+  aurinko,
+  tuuli,
+  taivas,
+  metsa,
+  jarvi,
+  meri,
+  puu,
+  kylma,
   talo,
 ];
