@@ -84,7 +84,7 @@ export default async function WordPage({
         </div>
 
         <div className="lg:sticky lg:top-6">
-          <Flashcard word={word} />
+          <Flashcard word={word} trackProgress />
         </div>
       </section>
 

@@ -1,9 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import type { Word } from "@/lib/content-types";
+import type { CardStatus, Word } from "@/lib/content-types";
 import { getPartitives, isNominal } from "@/lib/forms";
 import { WordIcon } from "@/lib/icons";
+import { loadProgress, markWord, saveProgress } from "@/lib/progress";
 import { LevelBadge } from "./LevelBadge";
 
 /**
@@ -13,9 +14,21 @@ import { LevelBadge } from "./LevelBadge";
  * screen-reader accessible); clicking the card body also flips for pointer users.
  * prefers-reduced-motion turns the flip into an instant change (global CSS rule).
  */
-export function Flashcard({ word }: { word: Word }) {
+export function Flashcard({
+  word,
+  trackProgress = false,
+}: {
+  word: Word;
+  trackProgress?: boolean;
+}) {
   const [flipped, setFlipped] = useState(false);
+  const [answered, setAnswered] = useState<CardStatus | null>(null);
   const toggle = () => setFlipped((f) => !f);
+
+  function answer(status: CardStatus) {
+    saveProgress(markWord(loadProgress(), word.slug, status));
+    setAnswered(status);
+  }
 
   const { sg, pl } = getPartitives(word);
   const showPartitive = isNominal(word) && (sg || pl);
@@ -117,6 +130,39 @@ export function Flashcard({ word }: { word: Word }) {
               {word.esimerkit.A2.en}
             </p>
           </div>
+
+          {/* Answer controls — record progress (spaced repetition) when enabled */}
+          {trackProgress && (
+            <div onClick={(e) => e.stopPropagation()}>
+              {answered ? (
+                <p
+                  className={`rounded-chip px-3 py-2 text-center text-sm font-semibold text-surface ${
+                    answered === "known" ? "bg-success" : "bg-again"
+                  }`}
+                  role="status"
+                >
+                  {answered === "known" ? "✓ Merkitty opituksi" : "↻ Lisätty kertauslistalle"}
+                </p>
+              ) : (
+                <div className="flex gap-2">
+                  <button
+                    type="button"
+                    onClick={() => answer("again")}
+                    className="flex-1 rounded-chip border border-again px-3 py-2 text-sm font-semibold text-again transition hover:bg-again hover:text-surface"
+                  >
+                    Kertaa
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => answer("known")}
+                    className="flex-1 rounded-chip bg-success px-3 py-2 text-sm font-semibold text-surface transition hover:opacity-90"
+                  >
+                    Osaan ✓
+                  </button>
+                </div>
+              )}
+            </div>
+          )}
 
           <button
             type="button"

@@ -143,3 +143,42 @@ export interface Article {
   publishedAt: string;
   updatedAt: string;
 }
+
+// ---- Gamification & progress (engagement layer — see docs/DESIGN-SYSTEM.md) ----
+
+export type CardStatus = "new" | "learning" | "known" | "again";
+
+export interface WordProgress {
+  slug: string;
+  status: CardStatus;
+  seen: number; // times reviewed
+  lastReviewed?: string; // ISO
+  dueAt?: string; // ISO — next review (spaced repetition)
+}
+
+export interface DailyStat {
+  date: string; // ISO yyyy-mm-dd
+  learned: number;
+  goal: number; // default 12
+}
+
+export interface UserProgress {
+  words: Record<string, WordProgress>;
+  daily: DailyStat[];
+  streak: number; // consecutive days the goal was met
+  xp: number;
+  unlockedBadges: string[]; // badge ids
+  currentWeek: number;
+  currentDay: number;
+}
+
+export type BadgeKind = "lukuteksti" | "phase" | "streak" | "words" | "perfect";
+
+export interface Badge {
+  id: string;
+  kind: BadgeKind;
+  title: string; // FINNISH name, e.g. "Viikon lukija"
+  description: string; // unlock criteria, FINNISH
+  icon: string; // icon key
+  threshold?: number; // e.g. streak 7 / words 100 / week n
+}
