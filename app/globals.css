@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Phase 1 placeholder — brand tokens (CSS vars, light/dark) land in Phase 2. */
