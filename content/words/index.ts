@@ -117,6 +117,19 @@ import sairas from "./sairas";
 import kipu from "./kipu";
 import laakari from "./lääkäri";
 import terveys from "./terveys";
+// Week 2 · Day 4 — Vaatteet ja värit
+import vaate from "./vaate";
+import paita from "./paita";
+import housut from "./housut";
+import kenka from "./kenkä";
+import takki from "./takki";
+import vari from "./väri";
+import valkoinen from "./valkoinen";
+import musta from "./musta";
+import punainen from "./punainen";
+import sininen from "./sininen";
+import keltainen from "./keltainen";
+import vihrea from "./vihreä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -240,5 +253,18 @@ export const words: Word[] = [
   kipu,
   laakari,
   terveys,
+  // Week 2 · Day 4 — Vaatteet ja värit
+  vaate,
+  paita,
+  housut,
+  kenka,
+  takki,
+  vari,
+  valkoinen,
+  musta,
+  punainen,
+  sininen,
+  keltainen,
+  vihrea,
   talo,
 ];

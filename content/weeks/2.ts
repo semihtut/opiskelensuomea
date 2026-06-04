@@ -65,7 +65,20 @@ const week2: Week = {
     {
       day: 4,
       theme: "Vaatteet ja värit",
-      wordSlugs: [],
+      wordSlugs: [
+        "vaate",
+        "paita",
+        "housut",
+        "kenkä",
+        "takki",
+        "väri",
+        "valkoinen",
+        "musta",
+        "punainen",
+        "sininen",
+        "keltainen",
+        "vihreä",
+      ],
     },
     {
       day: 5,
