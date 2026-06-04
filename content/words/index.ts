@@ -39,6 +39,19 @@ import nukkua from "./nukkua";
 import herata from "./herätä";
 import siivota from "./siivota";
 import arki from "./arki";
+// Week 1 · Day 4 — Ruoka ja juoma
+import ruoka from "./ruoka";
+import syoda from "./syödä";
+import juoda from "./juoda";
+import leipa from "./leipä";
+import maito from "./maito";
+import vesi from "./vesi";
+import kahvi from "./kahvi";
+import omena from "./omena";
+import liha from "./liha";
+import kala from "./kala";
+import juusto from "./juusto";
+import peruna from "./peruna";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -84,5 +97,18 @@ export const words: Word[] = [
   herata,
   siivota,
   arki,
+  // Day 4 — Ruoka ja juoma
+  ruoka,
+  syoda,
+  juoda,
+  leipa,
+  maito,
+  vesi,
+  kahvi,
+  omena,
+  liha,
+  kala,
+  juusto,
+  peruna,
   talo,
 ];
