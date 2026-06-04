@@ -60,6 +60,13 @@ export interface Word {
   en: string; // English meaning(s)
   selitys: string; // short FINNISH definition
 
+  kuva?: {
+    // visual for dual-coding on the flashcard (icon-first) — see docs/DESIGN-SYSTEM.md
+    icon?: string; // icon key (mapped to inline SVG in lib/icons)
+    emoji?: string; // quick fallback glyph until a vector exists
+    alt: string; // accessible description of the illustration
+  };
+
   kielioppi: {
     // always-visible summary
     tyyppi: string; // short type/gradation note

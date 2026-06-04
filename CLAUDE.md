@@ -67,13 +67,19 @@ docs/                architecture, content model, SEO/GEO, roadmap, accuracy
      it blindly. See `docs/FINNISH-ACCURACY.md` for the verification protocol and the
      catalogue of known source errors to avoid.
    - When creating word entries, use the **finnish-word-entry** skill.
-2. **Every public page is built for SEO + GEO and on-brand.** Answer-first TL;DR, correct
-   single H1, JSON-LD schema, FAQ block, visible author + published/updated dates, internal
-   links, canonical URL. When creating/editing a public page, use the **content-page-seo**
-   skill; for its visual layer use the **site-design** skill (brand tokens, WCAG 2.2 AA, fast).
+2. **Engagement first; this is a learning app, not a document.** Priority order is
+   **accuracy → learner delight/engagement → accessibility (WCAG 2.2 AA) → SEO/GEO.** Build
+   visual, gamified, interactive experiences (flashcards, progress, roadmap, badges) — never
+   ship a text dump because it's "good for SEO." Use the **site-design** skill (tokens,
+   flashcard/gamification components, motion) for ALL UI; full spec in `docs/DESIGN-SYSTEM.md`.
+   - Two surface types: **reference/acquisition** pages (`/`, `/words`, `/words/[slug]`,
+     `/program`, `/week/*`, `/about`) stay server-rendered, schema-rich, canonical-www and meet
+     the **content-page-seo** checklist (TL;DR, single H1, JSON-LD, FAQ, author+dates, links).
+     **Learning/engagement** surfaces (`/dashboard`, `/learn`, `/roadmap`) are app-like, client
+     islands, built for delight first (may be `noindex`). SEO must not flatten the experience.
 3. **Do not block AI crawlers.** `public/robots.txt` must keep GPTBot, OAI-SearchBot,
-   PerplexityBot, ClaudeBot, Google-Extended, Applebot allowed. Blocking = invisible to
-   that engine. Do not edit robots.txt to disallow them.
+   PerplexityBot, ClaudeBot, Google-Extended, Applebot allowed (matters for the reference
+   pages above). Blocking = invisible to that engine. Do not edit robots.txt to disallow them.
 4. **Content is data, pages are derived.** Add/maintain a word in `content/`, never
    hard-code linguistic content inside a React component. Pages render from the typed data.
 
@@ -95,6 +101,7 @@ docs/                architecture, content model, SEO/GEO, roadmap, accuracy
 - How to add a word → `.claude/skills/finnish-word-entry/SKILL.md`
 - How to ship an optimized page → `.claude/skills/content-page-seo/SKILL.md`
 - How to design/style any UI → `.claude/skills/site-design/SKILL.md`
+- Full visual/UX system (palette, flashcards, gamification, wireframes) → `docs/DESIGN-SYSTEM.md`
 - Data shapes → `docs/CONTENT-MODEL.md`
 - Linguistic rules + verification → `docs/FINNISH-ACCURACY.md`
 - Site structure / pipeline → `docs/ARCHITECTURE.md`

@@ -28,6 +28,12 @@ export interface Word {
   en: string;                 // English meaning(s)
   selitys: string;            // short FINNISH definition
 
+  kuva?: {                    // visual for dual-coding on the flashcard (icon-first)
+    icon?: string;            // icon key (e.g. "house") → mapped to an inline SVG in lib/icons
+    emoji?: string;           // quick fallback glyph until a vector exists (e.g. "🏠")
+    alt: string;              // accessible description of the illustration
+  };
+
   kielioppi: {                // always-visible summary
     tyyppi: string;           // short type/gradation note
     muodot: FormRow[];        // 3–4 key forms (incl. partitive for nominals)
@@ -90,3 +96,46 @@ export interface Article { slug: string; title: string; bodyMdx: string; author:
 Keep these forward-compatible: prose content uses MDX; structured content uses typed objects.
 Every content object exposes `slug`, `updatedAt`, and (where public) renders with the
 SEO/GEO requirements in the content-page-seo skill.
+
+## Gamification & progress (engagement layer — see docs/DESIGN-SYSTEM.md)
+
+Progress is **client-side first** (localStorage), with an account-synced backend a later
+milestone. Catalogue data (badge definitions) is typed content; per-user state is local.
+
+```ts
+// Per-word learning state (drives review queue / spaced repetition).
+export type CardStatus = "new" | "learning" | "known" | "again";
+export interface WordProgress {
+  slug: string;
+  status: CardStatus;
+  seen: number;            // times reviewed
+  lastReviewed?: string;   // ISO
+  dueAt?: string;          // ISO — next review (spaced repetition)
+}
+
+// Daily goal + streak + XP (the dashboard glance state).
+export interface DailyStat { date: string; learned: number; goal: number; } // goal default 12
+export interface UserProgress {
+  words: Record<string, WordProgress>;
+  daily: DailyStat[];
+  streak: number;          // consecutive days the goal was met
+  xp: number;
+  unlockedBadges: string[];// badge ids
+  currentWeek: number;
+  currentDay: number;
+}
+
+// Badge catalogue (typed content; rendered locked/unlocked).
+export type BadgeKind = "lukuteksti" | "phase" | "streak" | "words" | "perfect";
+export interface Badge {
+  id: string;
+  kind: BadgeKind;
+  title: string;           // FINNISH name, e.g. "Viikon lukija"
+  description: string;     // unlock criteria, FINNISH
+  icon: string;            // icon key
+  threshold?: number;      // e.g. streak 7 / words 100 / week n
+}
+```
+
+Keep gamification data derivable and resettable; never block content access on it. Accuracy
+of the underlying word data still comes first (FINNISH-ACCURACY.md).
