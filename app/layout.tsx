@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
+import { fraunces, hankenGrotesk } from "./fonts";
 import "./globals.css";
 
-// Root layout. Fonts, Organization JSON-LD, and the shared header/footer are
-// added in Phases 2/4 via the site-design and content-page-seo skills.
+// Root layout. Organization JSON-LD + shared header/footer arrive in Phases 4/5.
 export const metadata: Metadata = {
   title: "Opiskelen Suomea",
   description: "Free, structured way to learn Finnish — Suomi 90.",
@@ -14,7 +14,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className={`${fraunces.variable} ${hankenGrotesk.variable}`}>
       <body>{children}</body>
     </html>
   );

@@ -2,4 +2,104 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Phase 1 placeholder — brand tokens (CSS vars, light/dark) land in Phase 2. */
+/*
+ * Brand tokens — single source of truth as CSS custom properties.
+ * Light is the default ("paper"); dark applies automatically via
+ * prefers-color-scheme, or explicitly via [data-theme="dark"] (future toggle).
+ * Every pair is WCAG 2.2 AA-verified for its role — see the site-design skill.
+ */
+:root {
+  --color-bg: #f4f1e9; /* warm paper page background */
+  --color-surface: #fffdf8; /* cards / raised surfaces */
+  --color-ink: #1c2533; /* primary text (AA everywhere) */
+  --color-ink-soft: #4f5a6b; /* secondary text */
+  --color-line: #e2dccd; /* hairline borders */
+  --color-accent: #b04a2f; /* terracotta: brand / headings / emphasis */
+  --color-link: #285c93; /* link blue (AA on paper) */
+
+  /* level accents */
+  --color-a2: #5a7d4f; /* sage */
+  --color-b1: #2f6aa8; /* blue */
+  --color-b2: #b04a2f; /* terracotta */
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: #1a2026;
+    --color-surface: #232b33;
+    --color-ink: #ece7da;
+    --color-ink-soft: #aab3c0;
+    --color-line: #374049;
+    --color-accent: #d8744f;
+    --color-link: #86b4e6;
+
+    --color-a2: #8fb583;
+    --color-b1: #86b4e6;
+    --color-b2: #d8744f;
+
+    color-scheme: dark;
+  }
+}
+
+/* Explicit manual override (forward-compatible with a future theme toggle). */
+[data-theme="dark"] {
+  --color-bg: #1a2026;
+  --color-surface: #232b33;
+  --color-ink: #ece7da;
+  --color-ink-soft: #aab3c0;
+  --color-line: #374049;
+  --color-accent: #d8744f;
+  --color-link: #86b4e6;
+
+  --color-a2: #8fb583;
+  --color-b1: #86b4e6;
+  --color-b2: #d8744f;
+
+  color-scheme: dark;
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-ink font-sans antialiased;
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-display text-ink;
+    text-wrap: balance;
+  }
+
+  a {
+    @apply text-link underline-offset-2;
+  }
+  a:hover {
+    @apply underline;
+  }
+
+  /* Visible focus ring on every interactive element (never bare outline:none). */
+  :where(a, button, input, select, textarea, summary, [tabindex]):focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-surface);
+  }
+}
+
+/* Honor reduced-motion: micro-interactions only, never essential. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
