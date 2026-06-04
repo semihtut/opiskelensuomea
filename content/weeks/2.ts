@@ -29,7 +29,20 @@ const week2: Week = {
     {
       day: 2,
       theme: "Työ ja opiskelu",
-      wordSlugs: [],
+      wordSlugs: [
+        "työ",
+        "opiskella",
+        "oppia",
+        "lukea",
+        "kirjoittaa",
+        "koulu",
+        "opettaja",
+        "oppilas",
+        "kirja",
+        "kysymys",
+        "vastaus",
+        "tietää",
+      ],
     },
     {
       day: 3,

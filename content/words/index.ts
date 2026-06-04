@@ -91,6 +91,19 @@ import auto from "./auto";
 import juna from "./juna";
 import asema from "./asema";
 import matka from "./matka";
+// Week 2 · Day 2 — Työ ja opiskelu
+import tyo from "./työ";
+import opiskella from "./opiskella";
+import oppia from "./oppia";
+import lukea from "./lukea";
+import kirjoittaa from "./kirjoittaa";
+import koulu from "./koulu";
+import opettaja from "./opettaja";
+import oppilas from "./oppilas";
+import kirja from "./kirja";
+import kysymys from "./kysymys";
+import vastaus from "./vastaus";
+import tietaa from "./tietää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -188,5 +201,18 @@ export const words: Word[] = [
   juna,
   asema,
   matka,
+  // Week 2 · Day 2 — Työ ja opiskelu
+  tyo,
+  opiskella,
+  oppia,
+  lukea,
+  kirjoittaa,
+  koulu,
+  opettaja,
+  oppilas,
+  kirja,
+  kysymys,
+  vastaus,
+  tietaa,
   talo,
 ];
