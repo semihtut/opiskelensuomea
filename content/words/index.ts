@@ -78,6 +78,19 @@ import kallis from "./kallis";
 import kiitos from "./kiitos";
 import anteeksi from "./anteeksi";
 import oleHyva from "./ole-hyvä";
+// Week 2 · Day 1 — Liikkuminen ja paikat
+import menna from "./mennä";
+import tulla from "./tulla";
+import kavella from "./kävellä";
+import ajaa from "./ajaa";
+import lahtea from "./lähteä";
+import kaupunki from "./kaupunki";
+import katu from "./katu";
+import tie from "./tie";
+import auto from "./auto";
+import juna from "./juna";
+import asema from "./asema";
+import matka from "./matka";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -162,5 +175,18 @@ export const words: Word[] = [
   kiitos,
   anteeksi,
   oleHyva,
+  // Week 2 · Day 1 — Liikkuminen ja paikat
+  menna,
+  tulla,
+  kavella,
+  ajaa,
+  lahtea,
+  kaupunki,
+  katu,
+  tie,
+  auto,
+  juna,
+  asema,
+  matka,
   talo,
 ];
