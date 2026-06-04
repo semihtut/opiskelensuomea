@@ -17,9 +17,11 @@ import { LevelBadge } from "./LevelBadge";
 export function Flashcard({
   word,
   trackProgress = false,
+  onAnswer,
 }: {
   word: Word;
   trackProgress?: boolean;
+  onAnswer?: (status: CardStatus) => void;
 }) {
   const [flipped, setFlipped] = useState(false);
   const [answered, setAnswered] = useState<CardStatus | null>(null);
@@ -27,7 +29,9 @@ export function Flashcard({
 
   function answer(status: CardStatus) {
     saveProgress(markWord(loadProgress(), word.slug, status));
-    setAnswered(status);
+    // In a session, advance immediately; on a word page, show the confirmation.
+    if (onAnswer) onAnswer(status);
+    else setAnswered(status);
   }
 
   const { sg, pl } = getPartitives(word);

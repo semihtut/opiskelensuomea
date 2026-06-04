@@ -64,14 +64,12 @@ export default function DashboardPage() {
               ? "Hienoa työtä — tule huomenna jatkamaan putkea."
               : `${stat.learned}/${stat.goal} opittu. ${remaining} sanaa jäljellä.`}
           </p>
-          {nextWord && (
-            <Link
-              href={`/words/${nextWord.slug}`}
-              className="mt-4 inline-flex items-center rounded-chip bg-accent px-5 py-2.5 font-semibold text-bg no-underline transition hover:opacity-90"
-            >
-              {done ? "Jatka silti →" : `Jatka — ${remaining} jäljellä →`}
-            </Link>
-          )}
+          <Link
+            href="/learn"
+            className="mt-4 inline-flex items-center rounded-chip bg-accent px-5 py-2.5 font-semibold text-bg no-underline transition hover:opacity-90"
+          >
+            {done ? "Harjoittele lisää →" : `Aloita harjoitus — ${remaining} jäljellä →`}
+          </Link>
         </div>
       </section>
 
@@ -80,7 +78,7 @@ export default function DashboardPage() {
         {/* Review mistakes */}
         {reviewWord ? (
           <Link
-            href={`/words/${reviewWord}`}
+            href="/learn?mode=review"
             className="rounded-card border border-line bg-surface p-5 no-underline shadow-soft transition hover:border-accent"
           >
             <h3 className="font-display text-xl text-accent">Kertaa virheet ({again.length})</h3>
@@ -98,7 +96,7 @@ export default function DashboardPage() {
         {/* Continue */}
         {nextWord ? (
           <Link
-            href={`/words/${nextWord.slug}`}
+            href="/learn"
             className="rounded-card border border-line bg-surface p-5 no-underline shadow-soft transition hover:border-accent"
           >
             <h3 className="font-display text-xl text-accent">Jatka kohdasta</h3>
