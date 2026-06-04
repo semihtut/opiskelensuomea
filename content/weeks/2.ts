@@ -101,40 +101,63 @@ const week2: Week = {
     {
       day: 6,
       theme: "Tunteet ja kuvailu",
-      wordSlugs: [],
+      wordSlugs: [
+        "iloinen",
+        "surullinen",
+        "väsynyt",
+        "vihainen",
+        "iso",
+        "pieni",
+        "kaunis",
+        "ruma",
+        "uusi",
+        "helppo",
+        "vaikea",
+        "tärkeä",
+      ],
     },
   ],
   teksti: {
-    title: "Matka kaupunkiin",
+    title: "Matka kaupunkiin ja metsään",
     level: "A2",
-    topic: "Tavallinen aamumatka kotoa keskustaan eri kulkuvälineillä.",
+    topic: "Tavallinen päivä: matka kaupunkiin töihin ja illalla luontoon.",
     paragraph:
       "Aamulla minä [[lähden]] kotoa aikaisin. " +
-      "Ensin [[kävelen]] [[asemalle]] pitkin hiljaista [[katua]]. " +
-      "Sitten [[tulee]] [[juna]], ja minä [[menen]] sisään. " +
-      "[[Matka]] keskustaan kestää vain vartin. " +
-      "[[Kaupunki]] on jo täynnä ihmisiä ja [[autoja]]. " +
-      "Joskus [[ajan]] itse, mutta [[tie]] on usein ruuhkainen.",
+      "Ensin [[kävelen]] [[asemalle]], ja sitten [[juna]] vie minut [[kaupunkiin]]. " +
+      "[[Sää]] on kaunis: [[aurinko]] paistaa, vaikka [[ilma]] on vielä [[kylmä]]. " +
+      "[[Työ]] on joskus [[vaikeaa]], mutta se on minulle [[tärkeää]]. " +
+      "Illalla olen [[väsynyt]], joten [[menen]] [[metsään]] kävelylle [[meren]] rantaan. " +
+      "[[Puut]] ovat [[vihreitä]] ja maisema on [[kaunis]]. " +
+      "Kun palaan kotiin, olen taas [[iloinen]].",
     translation:
       "In the morning I leave home early. " +
-      "First I walk to the station along the quiet street. " +
-      "Then the train comes, and I go inside. " +
-      "The trip to the center takes only fifteen minutes. " +
-      "The city is already full of people and cars. " +
-      "Sometimes I drive myself, but the road is often congested.",
+      "First I walk to the station, and then the train takes me to the city. " +
+      "The weather is beautiful: the sun shines, even though the air is still cold. " +
+      "Work is sometimes difficult, but it is important to me. " +
+      "In the evening I'm tired, so I go to the forest for a walk by the sea. " +
+      "The trees are green and the scenery is beautiful. " +
+      "When I get home, I'm happy again.",
     targets: [
       "lähteä",
       "kävellä",
       "asema",
-      "katu",
-      "tulla",
       "juna",
-      "mennä",
-      "matka",
       "kaupunki",
-      "auto",
-      "ajaa",
-      "tie",
+      "sää",
+      "aurinko",
+      "ilma",
+      "kylmä",
+      "työ",
+      "vaikea",
+      "tärkeä",
+      "väsynyt",
+      "mennä",
+      "metsä",
+      "meri",
+      "puu",
+      "vihreä",
+      "kaunis",
+      "iloinen",
     ],
   },
 };

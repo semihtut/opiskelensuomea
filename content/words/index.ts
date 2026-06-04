@@ -143,6 +143,19 @@ import jarvi from "./järvi";
 import meri from "./meri";
 import puu from "./puu";
 import kylma from "./kylmä";
+// Week 2 · Day 6 — Tunteet ja kuvailu
+import iloinen from "./iloinen";
+import surullinen from "./surullinen";
+import vasynyt from "./väsynyt";
+import vihainen from "./vihainen";
+import iso from "./iso";
+import pieni from "./pieni";
+import kaunis from "./kaunis";
+import ruma from "./ruma";
+import uusi from "./uusi";
+import helppo from "./helppo";
+import vaikea from "./vaikea";
+import tarkea from "./tärkeä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -292,5 +305,18 @@ export const words: Word[] = [
   meri,
   puu,
   kylma,
+  // Week 2 · Day 6 — Tunteet ja kuvailu
+  iloinen,
+  surullinen,
+  vasynyt,
+  vihainen,
+  iso,
+  pieni,
+  kaunis,
+  ruma,
+  uusi,
+  helppo,
+  vaikea,
+  tarkea,
   talo,
 ];
