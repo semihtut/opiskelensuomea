@@ -21,12 +21,11 @@ npm i -D @opennextjs/cloudflare wrangler
 
 ### Node version
 
-The OpenNext adapter CLI requires **Node 20+**. `wrangler` is pinned to **v3
-(≥3.99, supported by `@opennextjs/cloudflare` v1)** so `npm run preview` runs on
-Node 20. Upgrading to `wrangler` v4 is fine but requires **Node 22+** — bump the
-local/CI Node version first. Verified locally: `opennextjs-cloudflare build`
-bundles `.open-next/worker.js`, and `wrangler dev` serves all routes (200) on the
-Workers runtime.
+`@opennextjs/cloudflare` requires **`wrangler` v4** (peer `^4.86.0`), and wrangler
+v4 requires **Node 22+**. Cloudflare Workers Builds runs Node 22 by default, so the
+default `npm ci` resolves cleanly there. Locally you also need Node 22 to run
+`wrangler dev`/`deploy` (the `opennextjs-cloudflare build` step itself only needs
+Node 20+). Use `nvm use 22` (or set `NODE_VERSION`) before `npm run preview`.
 
 ## Config files
 
