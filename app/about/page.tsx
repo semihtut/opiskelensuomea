@@ -1,7 +1,7 @@
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { Tldr } from "@/components/Tldr";
-import { breadcrumbSchema, personSchema } from "@/lib/schema";
+import { breadcrumbSchema } from "@/lib/schema";
 import { pageMetadata } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
@@ -20,7 +20,7 @@ export default function AboutPage() {
 
   return (
     <main className="mx-auto max-w-prose px-6 py-8">
-      <JsonLd data={[personSchema(), breadcrumbSchema(crumbs)]} />
+      <JsonLd data={breadcrumbSchema(crumbs)} />
       <Breadcrumbs crumbs={crumbs} />
 
       <h1 className="mt-6 font-display text-3xl font-semibold text-accent">
