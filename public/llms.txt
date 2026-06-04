@@ -1,0 +1,20 @@
+# Opiskelen Suomea
+
+> Free, structured way to learn Finnish, made for learners who already have some Finnish but
+> feel stuck. Flagship: Suomi 90, a 3-month (13-week) program covering the ~1000 most common
+> Finnish words. Each word has a Finnish definition, English meaning, full case/conjugation
+> tables (incl. negatives, perfect, imperative), derived words with example sentences, and
+> A2/B1/B2 examples. Levels A1–B2. Keep this file short and curated; update quarterly.
+
+## Start here
+- [Suomi 90 — the 3-month program](https://www.opiskelensuomea.com/program): 13 weeks, 3 phases.
+- [How the method works](https://www.opiskelensuomea.com/method): ~12 words/day, 6 days + review.
+
+## Word reference
+- [1000 most common Finnish words](https://www.opiskelensuomea.com/words): full searchable list.
+- [Finnish verbs](https://www.opiskelensuomea.com/words?type=verb): full conjugations.
+- [Finnish nouns & cases](https://www.opiskelensuomea.com/words?type=noun): full declensions.
+
+## Weeks (examples)
+- [Week 1 — Everyday basics](https://www.opiskelensuomea.com/week/1)
+- [Week 1 reading text "Tavallinen päivä"](https://www.opiskelensuomea.com/week/1/text)
