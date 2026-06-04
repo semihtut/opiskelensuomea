@@ -65,6 +65,19 @@ import maanantai from "./maanantai";
 import lauantai from "./lauantai";
 import tanaan from "./tänään";
 import huomenna from "./huomenna";
+// Week 1 · Day 6 — Asiointi ja kohteliaisuus
+import kauppa from "./kauppa";
+import raha from "./raha";
+import hinta from "./hinta";
+import ostaa from "./ostaa";
+import maksaa from "./maksaa";
+import kysya from "./kysyä";
+import auttaa from "./auttaa";
+import tarvita from "./tarvita";
+import kallis from "./kallis";
+import kiitos from "./kiitos";
+import anteeksi from "./anteeksi";
+import oleHyva from "./ole-hyvä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -136,5 +149,18 @@ export const words: Word[] = [
   lauantai,
   tanaan,
   huomenna,
+  // Day 6 — Asiointi ja kohteliaisuus
+  kauppa,
+  raha,
+  hinta,
+  ostaa,
+  maksaa,
+  kysya,
+  auttaa,
+  tarvita,
+  kallis,
+  kiitos,
+  anteeksi,
+  oleHyva,
   talo,
 ];
