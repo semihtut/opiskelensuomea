@@ -1,10 +1,9 @@
 import type { Config } from "tailwindcss";
 
 /**
- * Brand token system for Opiskelen Suomea — "calm Nordic editorial".
- * Colors map to CSS custom properties (defined in app/globals.css) so the
- * light/dark themes switch via prefers-color-scheme with zero client JS.
- * Token values + WCAG 2.2 AA reasoning live in .claude/skills/site-design/SKILL.md.
+ * Brand token system — "Cozy Nordic EdTech" (docs/DESIGN-SYSTEM.md).
+ * Colors map to CSS custom properties (app/globals.css) so light/dark switch via
+ * prefers-color-scheme with zero client JS. All pairs are WCAG 2.2 AA-verified.
  */
 const config: Config = {
   content: [
@@ -15,29 +14,40 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        bg: "var(--color-bg)",
-        surface: "var(--color-surface)",
+        bg: "var(--color-bg)", // warm paper canvas
+        surface: "var(--color-surface)", // cards / sheets
+        elevated: "var(--color-elevated)", // raised interactive cards (flashcards)
         ink: {
           DEFAULT: "var(--color-ink)",
           soft: "var(--color-ink-soft)",
         },
         line: "var(--color-line)",
-        accent: "var(--color-accent)",
-        link: "var(--color-link)",
-        // Level accents — consistent across the app (badges, emphasis).
+        accent: "var(--color-accent)", // terracotta — brand / headwords / emphasis
+        primary: "var(--color-primary)", // teal — actions / focus / progress
+        link: "var(--color-link)", // = primary (kept for base <a> styling)
+        // gamification reward spectrum
+        success: "var(--color-success)",
+        amber: {
+          DEFAULT: "var(--color-amber)", // fills (with ink text)
+          deep: "var(--color-amber-deep)", // amber as text/icon on light
+        },
+        gold: "var(--color-gold)",
+        again: "var(--color-again)",
+        // CEFR level accents
         level: {
+          a1: "var(--color-a1)",
           a2: "var(--color-a2)",
           b1: "var(--color-b1)",
           b2: "var(--color-b2)",
         },
       },
       fontFamily: {
-        // Display serif for H1/H2 and Finnish lemmas; humanist sans for body/UI.
         display: ["var(--font-fraunces)", "Georgia", "serif"],
         sans: ["var(--font-hanken)", "system-ui", "sans-serif"],
       },
       fontSize: {
-        // ~1.25 modular scale: 14 / 16 / 20 / 25 / 31 / 39 / 49
+        // ~1.25 scale: 13 / 14 / 16 / 20 / 25 / 31 / 39 / 49 / 61
+        "2xs": ["0.8125rem", { lineHeight: "1.5" }], // 13
         xs: ["0.875rem", { lineHeight: "1.5" }], // 14
         base: ["1rem", { lineHeight: "1.65" }], // 16
         lg: ["1.25rem", { lineHeight: "1.5" }], // 20
@@ -45,23 +55,29 @@ const config: Config = {
         "2xl": ["1.9375rem", { lineHeight: "1.25" }], // 31
         "3xl": ["2.4375rem", { lineHeight: "1.15" }], // 39
         "4xl": ["3.0625rem", { lineHeight: "1.1" }], // 49
+        "5xl": ["3.8125rem", { lineHeight: "1.05" }], // 61
       },
       borderRadius: {
-        // cards 10–14px; chips/buttons 6–8px
-        card: "12px",
-        chip: "7px",
+        card: "16px",
+        flashcard: "20px",
+        chip: "10px",
+        pill: "9999px",
       },
       boxShadow: {
-        // soft & low — no heavy drop shadows
-        soft: "0 8px 22px rgba(28, 37, 51, 0.08)",
-        "soft-lg": "0 12px 32px rgba(28, 37, 51, 0.10)",
+        soft: "0 6px 18px rgba(28, 37, 51, 0.07)", // rest
+        "soft-lg": "0 14px 34px rgba(28, 37, 51, 0.12)", // hover
+        lift: "0 20px 48px rgba(28, 37, 51, 0.16)", // flashcard lift
       },
       maxWidth: {
-        // comfortable reading measure (~65–75ch) for prose / reading texts
         prose: "70ch",
       },
       transitionDuration: {
-        DEFAULT: "180ms",
+        DEFAULT: "200ms",
+        flip: "480ms",
+      },
+      transitionTimingFunction: {
+        standard: "cubic-bezier(.2,.8,.2,1)",
+        flip: "cubic-bezier(.2,.7,.2,1)",
       },
     },
   },

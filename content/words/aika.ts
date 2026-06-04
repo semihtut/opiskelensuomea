@@ -11,6 +11,8 @@ const aika: Word = {
   en: "time",
   selitys:
     "Ajan kulkua tai sen jaksoa tarkoittava sana. Astevaihtelussa vahva aik- vaihtuu heikoksi aj- (aika → ajan).",
+  kuva: { emoji: "⏰", alt: "aika – kello" },
+
   kielioppi: {
     tyyppi: "substantiivi; astevaihtelu k : – (aika → ajan)",
     muodot: [

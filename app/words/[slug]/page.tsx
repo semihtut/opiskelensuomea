@@ -4,6 +4,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { DeclensionTable } from "@/components/DeclensionTable";
 import { ExampleList } from "@/components/ExampleList";
 import { Faq } from "@/components/Faq";
+import { Flashcard } from "@/components/Flashcard";
 import { JohdoksetCards } from "@/components/JohdoksetCards";
 import { JsonLd } from "@/components/JsonLd";
 import { LevelBadge } from "@/components/LevelBadge";
@@ -49,7 +50,7 @@ export default async function WordPage({
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-4xl px-6 py-8">
       <JsonLd data={[wordSchema(word), faqSchema(faq), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs
         crumbs={crumbs}
@@ -57,27 +58,35 @@ export default async function WordPage({
         next={next ? { label: next.fi, href: `/words/${next.slug}` } : undefined}
       />
 
-      {/* Header: single H1 (lemma + meaning), part of speech, level */}
-      <header className="mt-6">
-        <div className="flex flex-wrap items-center gap-3">
-          <h1 className="font-display text-4xl font-semibold text-accent" lang="fi">
-            {word.fi}
-          </h1>
-          <LevelBadge level={word.level} />
+      {/* Hero: single H1 + meaning + TL;DR on the left, interactive flashcard on the right */}
+      <section className="mt-6 grid items-start gap-8 lg:grid-cols-[1fr_22rem]">
+        <div>
+          <header>
+            <div className="flex flex-wrap items-center gap-3">
+              <h1 className="font-display text-4xl font-semibold text-accent" lang="fi">
+                {word.fi}
+              </h1>
+              <LevelBadge level={word.level} />
+            </div>
+            <p className="mt-1 text-xl text-ink" lang="en">
+              {word.en}
+            </p>
+            <p className="mt-1 text-sm text-ink-soft">{word.pos}</p>
+          </header>
+
+          <p className="mt-4 max-w-prose text-ink" lang="fi">
+            {word.selitys}
+          </p>
+
+          <div className="mt-6">
+            <Tldr>{wordTldr(word)}</Tldr>
+          </div>
         </div>
-        <p className="mt-1 text-xl text-ink" lang="en">
-          {word.en}
-        </p>
-        <p className="mt-1 text-sm text-ink-soft">{word.pos}</p>
-      </header>
 
-      <div className="mt-6">
-        <Tldr>{wordTldr(word)}</Tldr>
-      </div>
-
-      <p className="mt-6 max-w-prose text-ink" lang="fi">
-        {word.selitys}
-      </p>
+        <div className="lg:sticky lg:top-6">
+          <Flashcard word={word} />
+        </div>
+      </section>
 
       {/* Key forms (always visible) + partitive callout for nominals */}
       <section className="mt-8">

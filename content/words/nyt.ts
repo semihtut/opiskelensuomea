@@ -10,6 +10,8 @@ const nyt: Word = {
   en: "now",
   selitys:
     "Ajan adverbi, joka viittaa nykyhetkeen. Ei taivuteta. Sijoittuu usein lauseen alkuun tai verbin jälkeen.",
+  kuva: { emoji: "⏱️", alt: "nyt – sekuntikello" },
+
   kielioppi: {
     tyyppi: "adverbi; ei taivuteta",
     muodot: [

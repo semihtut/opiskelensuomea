@@ -11,6 +11,8 @@ const henkilö: Word = {
   en: "person, individual",
   selitys:
     "Yksittäinen ihminen, usein virallisemmassa sävyssä kuin 'ihminen' (esim. lomakkeissa ja tilastoissa). Ei astevaihtelua.",
+  kuva: { emoji: "🧑", alt: "henkilö – ihminen" },
+
   kielioppi: {
     tyyppi: "substantiivi; ei astevaihtelua (vartalo henkilö-)",
     muodot: [

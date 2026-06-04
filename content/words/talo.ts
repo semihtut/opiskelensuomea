@@ -11,6 +11,8 @@ const talo: Word = {
   en: "house, building",
   selitys:
     "Asuin- tai muu rakennus. Säännöllinen o-loppuinen substantiivi (Kotus-tyyppi 1, valo) — ei astevaihtelua.",
+  kuva: { icon: "house", emoji: "🏠", alt: "talo – piirros talosta" },
+
   kielioppi: {
     tyyppi: "substantiivi (Kotus-tyyppi 1, valo); ei astevaihtelua",
     muodot: [

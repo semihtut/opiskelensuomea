@@ -10,6 +10,8 @@ const ja: Word = {
   en: "and",
   selitys:
     "Rinnastuskonjunktio, joka yhdistää samanarvoisia sanoja tai lauseita. Ei taivuteta.",
+  kuva: { emoji: "➕", alt: "ja – plusmerkki" },
+
   kielioppi: {
     tyyppi: "rinnastuskonjunktio; ei taivuteta",
     muodot: [
