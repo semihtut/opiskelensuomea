@@ -1,0 +1,108 @@
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { LevelBadge } from "@/components/LevelBadge";
+import { Tldr } from "@/components/Tldr";
+import { allWeeks, getWeek, wordsForDay } from "@/lib/content";
+
+export function generateStaticParams() {
+  return allWeeks().map((w) => ({ n: String(w.week) }));
+}
+
+export default async function WeekPage({
+  params,
+}: {
+  params: Promise<{ n: string }>;
+}) {
+  const { n } = await params;
+  const week = getWeek(Number(n));
+  if (!week) notFound();
+
+  const totalWords = week.days.reduce((sum, d) => sum + d.wordSlugs.length, 0);
+
+  return (
+    <main className="mx-auto max-w-3xl px-6 py-8">
+      <Breadcrumbs
+        crumbs={[
+          { label: "Etusivu", href: "/" },
+          { label: "Ohjelma", href: "/program" },
+          { label: `Viikko ${week.week}`, href: `/week/${week.week}` },
+        ]}
+      />
+
+      <p className="mt-6 text-sm font-semibold uppercase tracking-wide text-ink-soft">
+        {week.phase} · Viikko {week.week}
+      </p>
+      <h1 className="mt-1 font-display text-3xl font-semibold text-accent" lang="fi">
+        {week.theme}
+      </h1>
+
+      <div className="mt-6">
+        <Tldr>
+          Viikko {week.week} kuuluu {week.phase}-vaiheeseen. Se sisältää kuusi
+          opiskelupäivää ({totalWords} sanaa tällä hetkellä) ja viikon lukutekstin
+          ”{week.teksti.title}”.
+        </Tldr>
+      </div>
+
+      <section className="mt-8">
+        <h2 className="text-xl text-accent">Päivät</h2>
+        <ol className="mt-3 flex flex-col gap-4">
+          {week.days.map((day) => {
+            const dayWords = wordsForDay(day);
+            return (
+              <li
+                key={day.day}
+                className="rounded-card border border-line bg-surface p-4 shadow-soft"
+              >
+                <h3 className="font-semibold text-ink">
+                  Päivä {day.day}: <span lang="fi">{day.theme}</span>
+                </h3>
+                {dayWords.length > 0 ? (
+                  <ul className="mt-2 flex flex-wrap gap-2">
+                    {dayWords.map((word) => (
+                      <li key={word.slug}>
+                        <Link
+                          href={`/words/${word.slug}`}
+                          className="inline-flex items-center gap-2 rounded-chip border border-line bg-bg px-3 py-1 text-sm no-underline hover:border-accent"
+                        >
+                          <span className="font-medium text-accent" lang="fi">
+                            {word.fi}
+                          </span>
+                          <LevelBadge level={word.level} />
+                        </Link>
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p className="mt-2 text-sm text-ink-soft">Sanat tulossa.</p>
+                )}
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+
+      <section className="mt-8">
+        <h2 className="text-xl text-accent">Viikon teksti</h2>
+        <Link
+          href={`/week/${week.week}/text`}
+          className="mt-3 flex items-center justify-between rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+        >
+          <span>
+            <span className="font-display text-lg font-semibold text-accent" lang="fi">
+              {week.teksti.title}
+            </span>
+            <span className="mt-1 block text-sm text-ink-soft">{week.teksti.topic}</span>
+          </span>
+          <span className="flex items-center gap-3">
+            <LevelBadge level={week.teksti.level} />
+            <span aria-hidden="true" className="text-accent">
+              →
+            </span>
+          </span>
+        </Link>
+      </section>
+    </main>
+  );
+}
