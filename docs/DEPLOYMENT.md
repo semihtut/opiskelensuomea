@@ -19,6 +19,15 @@ Domain + DNS are on **Cloudflare Registrar**; CI is **Workers Builds** (connect 
 npm i -D @opennextjs/cloudflare wrangler
 ```
 
+### Node version
+
+The OpenNext adapter CLI requires **Node 20+**. `wrangler` is pinned to **v3
+(≥3.99, supported by `@opennextjs/cloudflare` v1)** so `npm run preview` runs on
+Node 20. Upgrading to `wrangler` v4 is fine but requires **Node 22+** — bump the
+local/CI Node version first. Verified locally: `opennextjs-cloudflare build`
+bundles `.open-next/worker.js`, and `wrangler dev` serves all routes (200) on the
+Workers runtime.
+
 ## Config files
 
 ### `open-next.config.ts` (repo root)

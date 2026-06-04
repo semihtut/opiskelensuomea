@@ -6,6 +6,7 @@
 # opennext / wrangler
 /.open-next/
 .wrangler/
+cloudflare-env.d.ts
 # production
 /build
 # misc
