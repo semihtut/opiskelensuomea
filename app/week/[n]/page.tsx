@@ -1,12 +1,31 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
 import { LevelBadge } from "@/components/LevelBadge";
 import { Tldr } from "@/components/Tldr";
 import { allWeeks, getWeek, wordsForDay } from "@/lib/content";
+import { breadcrumbSchema } from "@/lib/schema";
+import { pageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return allWeeks().map((w) => ({ n: String(w.week) }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ n: string }>;
+}): Promise<Metadata> {
+  const { n } = await params;
+  const week = getWeek(Number(n));
+  if (!week) return {};
+  return pageMetadata({
+    title: `Viikko ${week.week}: ${week.theme} — Suomi 90`,
+    description: `Suomi 90, viikko ${week.week} (${week.phase}): ${week.theme}. Päivittäiset sanat ja viikon lukuteksti ”${week.teksti.title}”.`,
+    path: `/week/${week.week}`,
+  });
 }
 
 export default async function WeekPage({
@@ -19,16 +38,16 @@ export default async function WeekPage({
   if (!week) notFound();
 
   const totalWords = week.days.reduce((sum, d) => sum + d.wordSlugs.length, 0);
+  const crumbs = [
+    { label: "Etusivu", href: "/" },
+    { label: "Ohjelma", href: "/program" },
+    { label: `Viikko ${week.week}`, href: `/week/${week.week}` },
+  ];
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-8">
-      <Breadcrumbs
-        crumbs={[
-          { label: "Etusivu", href: "/" },
-          { label: "Ohjelma", href: "/program" },
-          { label: `Viikko ${week.week}`, href: `/week/${week.week}` },
-        ]}
-      />
+      <JsonLd data={breadcrumbSchema(crumbs)} />
+      <Breadcrumbs crumbs={crumbs} />
 
       <p className="mt-6 text-sm font-semibold uppercase tracking-wide text-ink-soft">
         {week.phase} · Viikko {week.week}

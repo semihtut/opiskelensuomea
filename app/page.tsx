@@ -1,6 +1,14 @@
 import Link from "next/link";
 import { Tldr } from "@/components/Tldr";
 import { allWords } from "@/lib/content";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata = pageMetadata({
+  title: "Opi suomea Suomi 90 -ohjelmalla",
+  description:
+    "Ilmainen ja selkeä tapa oppia suomea. Suomi 90 kattaa noin 1000 yleisintä sanaa: selitykset, taivutukset, johdokset ja esimerkit tasoilla A2–B2.",
+  path: "/",
+});
 
 // Home / landing. A calm editorial hero + a small bento grid of entry points.
 export default function HomePage() {

@@ -1,20 +1,34 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { DeclensionTable } from "@/components/DeclensionTable";
 import { ExampleList } from "@/components/ExampleList";
 import { Faq } from "@/components/Faq";
 import { JohdoksetCards } from "@/components/JohdoksetCards";
+import { JsonLd } from "@/components/JsonLd";
 import { LevelBadge } from "@/components/LevelBadge";
 import { PartitiveBox } from "@/components/PartitiveBox";
 import { SummaryForms } from "@/components/SummaryForms";
 import { SynonymChips } from "@/components/SynonymChips";
 import { Tldr } from "@/components/Tldr";
 import { allWords, getWordByParam, neighbours } from "@/lib/content";
+import { breadcrumbSchema, faqSchema, wordSchema } from "@/lib/schema";
+import { wordMetadata } from "@/lib/seo";
 import { wordFaq, wordTldr } from "@/lib/word-copy";
 
 // Statically generate one page per word (great Core Web Vitals + crawlability).
 export function generateStaticParams() {
   return allWords().map((w) => ({ slug: w.slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const word = getWordByParam(slug);
+  return word ? wordMetadata(word) : {};
 }
 
 export default async function WordPage({
@@ -28,15 +42,17 @@ export default async function WordPage({
 
   const { prev, next } = neighbours(word.slug);
   const faq = wordFaq(word);
+  const crumbs = [
+    { label: "Etusivu", href: "/" },
+    { label: "Sanat", href: "/words" },
+    { label: word.fi, href: `/words/${word.slug}` },
+  ];
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-8">
+      <JsonLd data={[wordSchema(word), faqSchema(faq), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs
-        crumbs={[
-          { label: "Etusivu", href: "/" },
-          { label: "Sanat", href: "/words" },
-          { label: word.fi, href: `/words/${word.slug}` },
-        ]}
+        crumbs={crumbs}
         prev={prev ? { label: prev.fi, href: `/words/${prev.slug}` } : undefined}
         next={next ? { label: next.fi, href: `/words/${next.slug}` } : undefined}
       />

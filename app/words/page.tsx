@@ -1,21 +1,30 @@
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
 import { LevelBadge } from "@/components/LevelBadge";
 import { Tldr } from "@/components/Tldr";
 import { allWordsAlphabetical } from "@/lib/content";
+import { breadcrumbSchema, itemListSchema } from "@/lib/schema";
+import { pageMetadata } from "@/lib/seo";
 
-// Word index. ItemList JSON-LD is added in Phase 5; this renders the list now.
+export const metadata = pageMetadata({
+  title: "Suomen sanat — taivutukset ja merkitykset",
+  description:
+    "Selaa suomen yleisimpiä sanoja. Jokaisella sanalla oma sivunsa: selitys, taivutus, johdokset ja esimerkit tasoilla A2–B2.",
+  path: "/words",
+});
+
 export default function WordsIndexPage() {
   const words = allWordsAlphabetical();
+  const crumbs = [
+    { label: "Etusivu", href: "/" },
+    { label: "Sanat", href: "/words" },
+  ];
 
   return (
     <main className="mx-auto max-w-3xl px-6 py-8">
-      <Breadcrumbs
-        crumbs={[
-          { label: "Etusivu", href: "/" },
-          { label: "Sanat", href: "/words" },
-        ]}
-      />
+      <JsonLd data={[itemListSchema(words), breadcrumbSchema(crumbs)]} />
+      <Breadcrumbs crumbs={crumbs} />
 
       <h1 className="mt-6 font-display text-3xl font-semibold text-accent">
         Suomen sanat

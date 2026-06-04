@@ -1,8 +1,18 @@
 import Link from "next/link";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
 import { Tldr } from "@/components/Tldr";
 import { getWeek } from "@/lib/content";
 import type { Phase } from "@/lib/content-types";
+import { breadcrumbSchema, courseSchema } from "@/lib/schema";
+import { pageMetadata } from "@/lib/seo";
+
+export const metadata = pageMetadata({
+  title: "Suomi 90 — 13 viikon ohjelma suomen oppimiseen",
+  description:
+    "Suomi 90 on 13 viikon ohjelma, joka kattaa noin 1000 yleisintä suomen sanaa kolmessa vaiheessa: Reaktivointi, Laajennus ja Sujuvuus.",
+  path: "/program",
+});
 
 // Suomi 90 pillar page. Course JSON-LD is added in Phase 5; this renders the
 // 3-phase / 13-week structure from content data.
@@ -25,14 +35,23 @@ const PHASES: { phase: Phase; weeks: number[]; kuvaus: string }[] = [
 ];
 
 export default function ProgramPage() {
+  const crumbs = [
+    { label: "Etusivu", href: "/" },
+    { label: "Ohjelma", href: "/program" },
+  ];
+
   return (
     <main className="mx-auto max-w-3xl px-6 py-8">
-      <Breadcrumbs
-        crumbs={[
-          { label: "Etusivu", href: "/" },
-          { label: "Ohjelma", href: "/program" },
+      <JsonLd
+        data={[
+          courseSchema({
+            weeks: 13,
+            syllabus: PHASES.map((p) => ({ phase: p.phase, kuvaus: p.kuvaus })),
+          }),
+          breadcrumbSchema(crumbs),
         ]}
       />
+      <Breadcrumbs crumbs={crumbs} />
 
       <h1 className="mt-6 font-display text-4xl font-semibold text-accent">
         Suomi 90

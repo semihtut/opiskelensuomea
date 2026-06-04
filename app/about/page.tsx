@@ -1,17 +1,27 @@
 import { Breadcrumbs } from "@/components/Breadcrumbs";
+import { JsonLd } from "@/components/JsonLd";
 import { Tldr } from "@/components/Tldr";
+import { breadcrumbSchema, personSchema } from "@/lib/schema";
+import { pageMetadata } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
-// Author / E-E-A-T page. Person + Organization JSON-LD is added in Phase 5.
+export const metadata = pageMetadata({
+  title: "Tietoa sivustosta ja kirjoittajasta",
+  description: `${SITE.name} on ilmainen sivusto suomen oppimiseen. Sisältö tarkistetaan Kielitoimiston sanakirjasta ja Wiktionarysta.`,
+  path: "/about",
+});
+
+// Author / E-E-A-T page.
 export default function AboutPage() {
+  const crumbs = [
+    { label: "Etusivu", href: "/" },
+    { label: "Tietoa", href: "/about" },
+  ];
+
   return (
     <main className="mx-auto max-w-prose px-6 py-8">
-      <Breadcrumbs
-        crumbs={[
-          { label: "Etusivu", href: "/" },
-          { label: "Tietoa", href: "/about" },
-        ]}
-      />
+      <JsonLd data={[personSchema(), breadcrumbSchema(crumbs)]} />
+      <Breadcrumbs crumbs={crumbs} />
 
       <h1 className="mt-6 font-display text-3xl font-semibold text-accent">
         Tietoa sivustosta

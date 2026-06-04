@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { fraunces, hankenGrotesk } from "./fonts";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { JsonLd } from "@/components/JsonLd";
+import { organizationSchema, websiteSchema } from "@/lib/schema";
 import { SITE } from "@/lib/site";
 import "./globals.css";
 
@@ -24,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="fi" className={`${fraunces.variable} ${hankenGrotesk.variable}`}>
       <body className="flex min-h-screen flex-col">
+        <JsonLd data={[organizationSchema(), websiteSchema()]} />
         <Header />
         <div className="flex-1">{children}</div>
         <Footer />
