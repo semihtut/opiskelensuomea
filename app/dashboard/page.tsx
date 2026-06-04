@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { BadgeShelf } from "@/components/BadgeShelf";
 import { ProgressRing } from "@/components/ProgressRing";
 import { useProgress } from "@/components/useProgress";
 import { allWords } from "@/lib/content";
@@ -116,7 +117,20 @@ export default function DashboardPage() {
         )}
       </div>
 
-      <p className="mt-6 rounded-card border border-line bg-surface p-4 text-sm text-ink-soft shadow-soft">
+      {/* Badges + path peek */}
+      <section className="mt-8">
+        <div className="flex items-baseline justify-between gap-3">
+          <h2 className="font-display text-xl text-accent">Rozetit</h2>
+          <Link href="/roadmap" className="text-sm font-semibold text-primary">
+            Edistymispolku →
+          </Link>
+        </div>
+        <div className="mt-4">
+          <BadgeShelf limit={5} />
+        </div>
+      </section>
+
+      <p className="mt-8 rounded-card border border-line bg-surface p-4 text-sm text-ink-soft shadow-soft">
         Vinkki: avaa sanakortti ja käännä se — paina{" "}
         <span className="font-semibold text-success">Osaan ✓</span> kerätäksesi edistymistä.
       </p>

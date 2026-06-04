@@ -4,6 +4,7 @@ import { SITE } from "@/lib/site";
 // Site header / primary navigation. Server-rendered, semantic <nav>.
 const NAV = [
   { href: "/dashboard", label: "Oma" },
+  { href: "/roadmap", label: "Polku" },
   { href: "/program", label: "Ohjelma" },
   { href: "/words", label: "Sanat" },
   { href: "/week/1", label: "Viikot" },
