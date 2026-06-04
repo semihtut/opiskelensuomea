@@ -104,6 +104,19 @@ import kirja from "./kirja";
 import kysymys from "./kysymys";
 import vastaus from "./vastaus";
 import tietaa from "./tietää";
+// Week 2 · Day 3 — Keho ja terveys
+import paa from "./pää";
+import kasi from "./käsi";
+import silma from "./silmä";
+import jalka from "./jalka";
+import suu from "./suu";
+import korva from "./korva";
+import sydan from "./sydän";
+import terve from "./terve";
+import sairas from "./sairas";
+import kipu from "./kipu";
+import laakari from "./lääkäri";
+import terveys from "./terveys";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -214,5 +227,18 @@ export const words: Word[] = [
   kysymys,
   vastaus,
   tietaa,
+  // Week 2 · Day 3 — Keho ja terveys
+  paa,
+  kasi,
+  silma,
+  jalka,
+  suu,
+  korva,
+  sydan,
+  terve,
+  sairas,
+  kipu,
+  laakari,
+  terveys,
   talo,
 ];

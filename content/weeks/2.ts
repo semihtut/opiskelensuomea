@@ -47,7 +47,20 @@ const week2: Week = {
     {
       day: 3,
       theme: "Keho ja terveys",
-      wordSlugs: [],
+      wordSlugs: [
+        "pää",
+        "käsi",
+        "silmä",
+        "jalka",
+        "suu",
+        "korva",
+        "sydän",
+        "terve",
+        "sairas",
+        "kipu",
+        "lääkäri",
+        "terveys",
+      ],
     },
     {
       day: 4,
