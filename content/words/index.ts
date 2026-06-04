@@ -26,6 +26,19 @@ import nimi from "./nimi";
 import vanha from "./vanha";
 import nuori from "./nuori";
 import asua from "./asua";
+// Week 1 · Day 3 — Koti ja arki
+import koti from "./koti";
+import huone from "./huone";
+import ovi from "./ovi";
+import ikkuna from "./ikkuna";
+import poyta from "./pöytä";
+import sanky from "./sänky";
+import keittio from "./keittiö";
+import avain from "./avain";
+import nukkua from "./nukkua";
+import herata from "./herätä";
+import siivota from "./siivota";
+import arki from "./arki";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -58,5 +71,18 @@ export const words: Word[] = [
   vanha,
   nuori,
   asua,
+  // Day 3 — Koti ja arki
+  koti,
+  huone,
+  ovi,
+  ikkuna,
+  poyta,
+  sanky,
+  keittio,
+  avain,
+  nukkua,
+  herata,
+  siivota,
+  arki,
   talo,
 ];
