@@ -182,6 +182,19 @@ import pitaa from "./pitää";
 import soittaa from "./soittaa";
 import nayttaa from "./näyttää";
 import kertoa from "./kertoa";
+// Week 3 · Day 3 — Yleiset verbit II: toiminta ja muutos
+import alkaa from "./alkaa";
+import loppua from "./loppua";
+import jaada from "./jäädä";
+import kayda from "./käydä";
+import paasta from "./päästä";
+import loytaa from "./löytää";
+import etsia from "./etsiä";
+import muistaa from "./muistaa";
+import unohtaa from "./unohtaa";
+import ymmartaa from "./ymmärtää";
+import ajatella from "./ajatella";
+import haluta from "./haluta";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -370,5 +383,18 @@ export const words: Word[] = [
   soittaa,
   nayttaa,
   kertoa,
+  // Week 3 · Day 3 — Yleiset verbit II: toiminta ja muutos
+  alkaa,
+  loppua,
+  jaada,
+  kayda,
+  paasta,
+  loytaa,
+  etsia,
+  muistaa,
+  unohtaa,
+  ymmartaa,
+  ajatella,
+  haluta,
   talo,
 ];
