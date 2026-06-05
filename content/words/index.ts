@@ -169,6 +169,19 @@ import se from "./se";
 import kuka from "./kuka";
 import mika from "./mikä";
 import milloin from "./milloin";
+// Week 3 · Day 2 — Yleiset verbit I: havainnot ja viestintä
+import sanoa from "./sanoa";
+import puhua from "./puhua";
+import kuulla from "./kuulla";
+import kuunnella from "./kuunnella";
+import nahda from "./nähdä";
+import katsoa from "./katsoa";
+import antaa from "./antaa";
+import ottaa from "./ottaa";
+import pitaa from "./pitää";
+import soittaa from "./soittaa";
+import nayttaa from "./näyttää";
+import kertoa from "./kertoa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -344,5 +357,18 @@ export const words: Word[] = [
   kuka,
   mika,
   milloin,
+  // Week 3 · Day 2 — Yleiset verbit I: havainnot ja viestintä
+  sanoa,
+  puhua,
+  kuulla,
+  kuunnella,
+  nahda,
+  katsoa,
+  antaa,
+  ottaa,
+  pitaa,
+  soittaa,
+  nayttaa,
+  kertoa,
   talo,
 ];
