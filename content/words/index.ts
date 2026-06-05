@@ -260,6 +260,19 @@ import naapuri from "./naapuri";
 import suku from "./suku";
 import mukava from "./mukava";
 import yksin from "./yksin";
+// Week 4 · Day 3 — Sijainti ja suunta
+import edessa from "./edessä";
+import takana from "./takana";
+import vieressa from "./vieressä";
+import alla from "./alla";
+import paalla from "./päällä";
+import valissa from "./välissä";
+import lahella from "./lähellä";
+import kaukana from "./kaukana";
+import oikealla from "./oikealla";
+import vasemmalla from "./vasemmalla";
+import ylos from "./ylös";
+import alas from "./alas";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -526,5 +539,18 @@ export const words: Word[] = [
   suku,
   mukava,
   yksin,
+  // Week 4 · Day 3 — Sijainti ja suunta
+  edessa,
+  takana,
+  vieressa,
+  alla,
+  paalla,
+  valissa,
+  lahella,
+  kaukana,
+  oikealla,
+  vasemmalla,
+  ylos,
+  alas,
   talo,
 ];
