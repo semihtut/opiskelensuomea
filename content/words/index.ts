@@ -247,6 +247,19 @@ import yrittaa from "./yrittää";
 import osata from "./osata";
 import korjata from "./korjata";
 import kayttaa from "./käyttää";
+// Week 4 · Day 2 — Elämä ja ihmissuhteet
+import elaa from "./elää";
+import kuolla from "./kuolla";
+import syntya from "./syntyä";
+import kasvaa from "./kasvaa";
+import rakastaa from "./rakastaa";
+import tavata from "./tavata";
+import tuntea from "./tuntea";
+import muuttaa from "./muuttaa";
+import naapuri from "./naapuri";
+import suku from "./suku";
+import mukava from "./mukava";
+import yksin from "./yksin";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -500,5 +513,18 @@ export const words: Word[] = [
   osata,
   korjata,
   kayttaa,
+  // Week 4 · Day 2 — Elämä ja ihmissuhteet
+  elaa,
+  kuolla,
+  syntya,
+  kasvaa,
+  rakastaa,
+  tavata,
+  tuntea,
+  muuttaa,
+  naapuri,
+  suku,
+  mukava,
+  yksin,
   talo,
 ];
