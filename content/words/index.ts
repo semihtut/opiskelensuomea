@@ -234,6 +234,19 @@ import paljon from "./paljon";
 import vahan from "./vähän";
 import kaikki from "./kaikki";
 import moni from "./moni";
+// Week 4 · Day 1 — Yleiset verbit III: arjen toiminnot
+import istua from "./istua";
+import seisoa from "./seisoa";
+import nousta from "./nousta";
+import avata from "./avata";
+import sulkea from "./sulkea";
+import laittaa from "./laittaa";
+import pesta from "./pestä";
+import odottaa from "./odottaa";
+import yrittaa from "./yrittää";
+import osata from "./osata";
+import korjata from "./korjata";
+import kayttaa from "./käyttää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -474,5 +487,18 @@ export const words: Word[] = [
   vahan,
   kaikki,
   moni,
+  // Week 4 · Day 1 — Yleiset verbit III: arjen toiminnot
+  istua,
+  seisoa,
+  nousta,
+  avata,
+  sulkea,
+  laittaa,
+  pesta,
+  odottaa,
+  yrittaa,
+  osata,
+  korjata,
+  kayttaa,
   talo,
 ];
