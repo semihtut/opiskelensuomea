@@ -195,6 +195,19 @@ import unohtaa from "./unohtaa";
 import ymmartaa from "./ymmärtää";
 import ajatella from "./ajatella";
 import haluta from "./haluta";
+// Week 3 · Day 4 — Kaupunki ja palvelut
+import pankki from "./pankki";
+import posti from "./posti";
+import ravintola from "./ravintola";
+import hotelli from "./hotelli";
+import kirjasto from "./kirjasto";
+import museo from "./museo";
+import apteekki from "./apteekki";
+import tori from "./tori";
+import kahvila from "./kahvila";
+import puisto from "./puisto";
+import kirkko from "./kirkko";
+import sairaala from "./sairaala";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -396,5 +409,18 @@ export const words: Word[] = [
   ymmartaa,
   ajatella,
   haluta,
+  // Week 3 · Day 4 — Kaupunki ja palvelut
+  pankki,
+  posti,
+  ravintola,
+  hotelli,
+  kirjasto,
+  museo,
+  apteekki,
+  tori,
+  kahvila,
+  puisto,
+  kirkko,
+  sairaala,
   talo,
 ];
