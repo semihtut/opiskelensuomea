@@ -286,6 +286,19 @@ import seka from "./sekä";
 import joten from "./joten";
 import kuitenkin from "./kuitenkin";
 import siksi from "./siksi";
+// Week 4 · Day 5 — Aika ja toistuvuus
+import aina from "./aina";
+import usein from "./usein";
+import joskus from "./joskus";
+import harvoin from "./harvoin";
+import jo from "./jo";
+import viela from "./vielä";
+import heti from "./heti";
+import pian from "./pian";
+import taas from "./taas";
+import yleensa from "./yleensä";
+import ennen from "./ennen";
+import sitten from "./sitten";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -578,5 +591,18 @@ export const words: Word[] = [
   joten,
   kuitenkin,
   siksi,
+  // Week 4 · Day 5 — Aika ja toistuvuus
+  aina,
+  usein,
+  joskus,
+  harvoin,
+  jo,
+  viela,
+  heti,
+  pian,
+  taas,
+  yleensa,
+  ennen,
+  sitten,
   talo,
 ];
