@@ -208,6 +208,19 @@ import kahvila from "./kahvila";
 import puisto from "./puisto";
 import kirkko from "./kirkko";
 import sairaala from "./sairaala";
+// Week 3 · Day 5 — Koti ja esineet
+import tuoli from "./tuoli";
+import peili from "./peili";
+import lamppu from "./lamppu";
+import seina from "./seinä";
+import lattia from "./lattia";
+import katto from "./katto";
+import kaappi from "./kaappi";
+import sohva from "./sohva";
+import televisio from "./televisio";
+import puhelin from "./puhelin";
+import tietokone from "./tietokone";
+import kello from "./kello";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -422,5 +435,18 @@ export const words: Word[] = [
   puisto,
   kirkko,
   sairaala,
+  // Week 3 · Day 5 — Koti ja esineet
+  tuoli,
+  peili,
+  lamppu,
+  seina,
+  lattia,
+  katto,
+  kaappi,
+  sohva,
+  televisio,
+  puhelin,
+  tietokone,
+  kello,
   talo,
 ];
