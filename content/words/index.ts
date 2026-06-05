@@ -273,6 +273,19 @@ import oikealla from "./oikealla";
 import vasemmalla from "./vasemmalla";
 import ylos from "./ylös";
 import alas from "./alas";
+// Week 4 · Day 4 — Konjunktiot ja sidesanat
+import mutta from "./mutta";
+import koska from "./koska";
+import etta from "./että";
+import jos from "./jos";
+import kun from "./kun";
+import vaikka from "./vaikka";
+import tai from "./tai";
+import vai from "./vai";
+import seka from "./sekä";
+import joten from "./joten";
+import kuitenkin from "./kuitenkin";
+import siksi from "./siksi";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -552,5 +565,18 @@ export const words: Word[] = [
   vasemmalla,
   ylos,
   alas,
+  // Week 4 · Day 4 — Konjunktiot ja sidesanat
+  mutta,
+  koska,
+  etta,
+  jos,
+  kun,
+  vaikka,
+  tai,
+  vai,
+  seka,
+  joten,
+  kuitenkin,
+  siksi,
   talo,
 ];
