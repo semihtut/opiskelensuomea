@@ -98,37 +98,63 @@ const week3: Week = {
         "kello",
       ],
     },
-    { day: 6, theme: "Koko ja määrä", wordSlugs: [] },
+    {
+      day: 6,
+      theme: "Koko ja määrä",
+      wordSlugs: [
+        "pitkä",
+        "lyhyt",
+        "korkea",
+        "matala",
+        "nopea",
+        "hidas",
+        "raskas",
+        "kevyt",
+        "paljon",
+        "vähän",
+        "kaikki",
+        "moni",
+      ],
+    },
   ],
   teksti: {
-    title: "Kuka sinä olet?",
+    title: "Päivä kaupungissa",
     level: "A2",
-    topic: "Lyhyt esittäytyminen ja kysymyksiä uudelle tuttavalle.",
+    topic: "Aino kertoo päivästään: asiointia kaupungilla ja illan suunnitelmat.",
     paragraph:
-      "”[[Kuka]] sinä olet?” minä kysyn. " +
-      "”[[Minä]] olen Aino, ja [[tämä]] on ystäväni Leo.” " +
-      "”[[Mikä]] tuo on?” [[hän]] kysyy ja osoittaa kirjaa. " +
-      "”[[Se]] on suomen kirja. [[Me]] opiskelemme suomea yhdessä.” " +
-      "”[[Milloin]] [[te]] aloititte?” " +
-      "”Viime vuonna. [[Tuo]] toinen kirja on myös meidän.”",
+      "[[Minä]] [[ajattelen]] usein, että päivässä on liian [[vähän]] aikaa. " +
+      "Aamulla [[käyn]] [[pankissa]] ja sitten [[kahvilassa]], jossa juon [[kaikki]] kahvit liian [[nopeasti]]. " +
+      "[[Hän]], [[kuka]]? No, ystäväni — [[hän]] [[soittaa]] ja [[kysyy]]: ”[[Mikä]] sinulla kestää?” " +
+      "[[Minä]] [[etsin]] vielä uutta [[puhelinta]], koska vanha on liian [[hidas]]. " +
+      "Illalla [[me]] [[menemme]] [[ravintolaan]] — se ei ole [[pitkä]] matka, mutta [[kaikki]] [[haluavat]] eri paikkaan!",
     translation:
-      "“Who are you?” I ask. " +
-      "“I am Aino, and this is my friend Leo.” " +
-      "“What is that?” she asks, pointing at a book. " +
-      "“It is a Finnish book. We study Finnish together.” " +
-      "“When did you start?” " +
-      "“Last year. That other book is also ours.”",
+      "I often think there's too little time in a day. " +
+      "In the morning I visit the bank and then the café, where I drink all the coffees too quickly. " +
+      "Who is she? Well, my friend — she calls and asks: “What's taking you so long?” " +
+      "I'm still looking for a new phone, because the old one is too slow. " +
+      "In the evening we go to a restaurant — it isn't a long trip, but everyone wants a different place!",
     targets: [
-      "kuka",
       "minä",
-      "tämä",
-      "mikä",
+      "ajatella",
+      "vähän",
+      "käydä",
+      "pankki",
+      "kahvila",
+      "kaikki",
+      "nopea",
       "hän",
-      "se",
+      "kuka",
+      "soittaa",
+      "kysyä",
+      "mikä",
+      "etsiä",
+      "puhelin",
+      "hidas",
       "me",
-      "milloin",
-      "te",
-      "tuo",
+      "mennä",
+      "ravintola",
+      "pitkä",
+      "haluta",
     ],
   },
 };

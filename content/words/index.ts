@@ -221,6 +221,19 @@ import televisio from "./televisio";
 import puhelin from "./puhelin";
 import tietokone from "./tietokone";
 import kello from "./kello";
+// Week 3 · Day 6 — Koko ja määrä
+import pitka from "./pitkä";
+import lyhyt from "./lyhyt";
+import korkea from "./korkea";
+import matala from "./matala";
+import nopea from "./nopea";
+import hidas from "./hidas";
+import raskas from "./raskas";
+import kevyt from "./kevyt";
+import paljon from "./paljon";
+import vahan from "./vähän";
+import kaikki from "./kaikki";
+import moni from "./moni";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -448,5 +461,18 @@ export const words: Word[] = [
   puhelin,
   tietokone,
   kello,
+  // Week 3 · Day 6 — Koko ja määrä
+  pitka,
+  lyhyt,
+  korkea,
+  matala,
+  nopea,
+  hidas,
+  raskas,
+  kevyt,
+  paljon,
+  vahan,
+  kaikki,
+  moni,
   talo,
 ];
