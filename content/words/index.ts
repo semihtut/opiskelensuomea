@@ -156,6 +156,19 @@ import uusi from "./uusi";
 import helppo from "./helppo";
 import vaikea from "./vaikea";
 import tarkea from "./tärkeä";
+// Week 3 · Day 1 — Pronominit ja kysymyssanat
+import mina from "./minä";
+import sina from "./sinä";
+import han from "./hän";
+import me from "./me";
+import te from "./te";
+import he from "./he";
+import tama from "./tämä";
+import tuo from "./tuo";
+import se from "./se";
+import kuka from "./kuka";
+import mika from "./mikä";
+import milloin from "./milloin";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -318,5 +331,18 @@ export const words: Word[] = [
   helppo,
   vaikea,
   tarkea,
+  // Week 3 · Day 1 — Pronominit ja kysymyssanat
+  mina,
+  sina,
+  han,
+  me,
+  te,
+  he,
+  tama,
+  tuo,
+  se,
+  kuka,
+  mika,
+  milloin,
   talo,
 ];
