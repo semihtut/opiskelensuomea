@@ -442,6 +442,19 @@ import vatsa from "./vatsa";
 import hius from "./hius";
 import terveellinen from "./terveellinen";
 import parantua from "./parantua";
+// Week 6 · Day 5 — Liike ja matkustus
+import matkustaa from "./matkustaa";
+import lentaa from "./lentää";
+import laiva from "./laiva";
+import pyora from "./pyörä";
+import lippu from "./lippu";
+import reitti from "./reitti";
+import nopeus from "./nopeus";
+import saapua from "./saapua";
+import kulkea from "./kulkea";
+import pysahtya from "./pysähtyä";
+import jattaa from "./jättää";
+import kuljettaa from "./kuljettaa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -890,5 +903,18 @@ export const words: Word[] = [
   hius,
   terveellinen,
   parantua,
+  // Week 6 · Day 5 — Liike ja matkustus
+  matkustaa,
+  lentaa,
+  laiva,
+  pyora,
+  lippu,
+  reitti,
+  nopeus,
+  saapua,
+  kulkea,
+  pysahtya,
+  jattaa,
+  kuljettaa,
   talo,
 ];
