@@ -559,6 +559,19 @@ import kuljettaja from "./kuljettaja";
 import matkustaja from "./matkustaja";
 import kartta from "./kartta";
 import ylittaa from "./ylittää";
+// Week 8 · Day 2 — Koti ja asuminen
+import asunto from "./asunto";
+import kerros from "./kerros";
+import piha from "./piha";
+import matto from "./matto";
+import hylly from "./hylly";
+import uuni from "./uuni";
+import vuokra from "./vuokra";
+import vessa from "./vessa";
+import parveke from "./parveke";
+import jaakaappi from "./jääkaappi";
+import sisustus from "./sisustus";
+import remontti from "./remontti";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1124,5 +1137,18 @@ export const words: Word[] = [
   matkustaja,
   kartta,
   ylittaa,
+  // Week 8 · Day 2 — Koti ja asuminen
+  asunto,
+  kerros,
+  piha,
+  matto,
+  hylly,
+  uuni,
+  vuokra,
+  vessa,
+  parveke,
+  jaakaappi,
+  sisustus,
+  remontti,
   talo,
 ];
