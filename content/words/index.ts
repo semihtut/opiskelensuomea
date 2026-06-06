@@ -390,6 +390,19 @@ import tyontekija from "./työntekijä";
 import sopimus from "./sopimus";
 import talous from "./talous";
 import lasku from "./lasku";
+// Week 6 · Day 1 — Viestintä ja kieli
+import sana from "./sana";
+import kieli from "./kieli";
+import uutinen from "./uutinen";
+import lehti from "./lehti";
+import viesti from "./viesti";
+import aani from "./ääni";
+import keskustella from "./keskustella";
+import mainita from "./mainita";
+import ilmoittaa from "./ilmoittaa";
+import kuvata from "./kuvata";
+import kutsua from "./kutsua";
+import neuvoa from "./neuvoa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -786,5 +799,18 @@ export const words: Word[] = [
   sopimus,
   talous,
   lasku,
+  // Week 6 · Day 1 — Viestintä ja kieli
+  sana,
+  kieli,
+  uutinen,
+  lehti,
+  viesti,
+  aani,
+  keskustella,
+  mainita,
+  ilmoittaa,
+  kuvata,
+  kutsua,
+  neuvoa,
   talo,
 ];
