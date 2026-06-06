@@ -338,6 +338,19 @@ import kaantaa from "./kääntää";
 import pudota from "./pudota";
 import tarttua from "./tarttua";
 import kaataa from "./kaataa";
+// Week 5 · Day 3 — Tunteet ja luonne
+import onni from "./onni";
+import ilo from "./ilo";
+import suru from "./suru";
+import pelko from "./pelko";
+import tunne from "./tunne";
+import rakkaus from "./rakkaus";
+import rohkea from "./rohkea";
+import ystavallinen from "./ystävällinen";
+import kiltti from "./kiltti";
+import rehellinen from "./rehellinen";
+import ahkera from "./ahkera";
+import laiska from "./laiska";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -682,5 +695,18 @@ export const words: Word[] = [
   pudota,
   tarttua,
   kaataa,
+  // Week 5 · Day 3 — Tunteet ja luonne
+  onni,
+  ilo,
+  suru,
+  pelko,
+  tunne,
+  rakkaus,
+  rohkea,
+  ystavallinen,
+  kiltti,
+  rehellinen,
+  ahkera,
+  laiska,
   talo,
 ];
