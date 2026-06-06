@@ -455,6 +455,19 @@ import kulkea from "./kulkea";
 import pysahtya from "./pysähtyä";
 import jattaa from "./jättää";
 import kuljettaa from "./kuljettaa";
+// Week 6 · Day 6 — Vapaa-aika ja kulttuuri
+import harrastus from "./harrastus";
+import peli from "./peli";
+import elokuva from "./elokuva";
+import musiikki from "./musiikki";
+import laulu from "./laulu";
+import kuva from "./kuva";
+import taide from "./taide";
+import pelata from "./pelata";
+import voittaa from "./voittaa";
+import juhla from "./juhla";
+import urheilu from "./urheilu";
+import tanssia from "./tanssia";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -916,5 +929,18 @@ export const words: Word[] = [
   pysahtya,
   jattaa,
   kuljettaa,
+  // Week 6 · Day 6 — Vapaa-aika ja kulttuuri
+  harrastus,
+  peli,
+  elokuva,
+  musiikki,
+  laulu,
+  kuva,
+  taide,
+  pelata,
+  voittaa,
+  juhla,
+  urheilu,
+  tanssia,
   talo,
 ];
