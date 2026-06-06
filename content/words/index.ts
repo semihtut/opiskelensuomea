@@ -520,6 +520,19 @@ import epailla from "./epäillä";
 import keksia from "./keksiä";
 import pohtia from "./pohtia";
 import kuvitella from "./kuvitella";
+// Week 7 · Day 5 — Tunteet ja luonne
+import pelataToFear from "./pelätä";
+import nauraa from "./nauraa";
+import itkea from "./itkeä";
+import hymyilla from "./hymyillä";
+import tylsa from "./tylsä";
+import ujo from "./ujo";
+import ylpea from "./ylpeä";
+import rauhallinen from "./rauhallinen";
+import karsivallinen from "./kärsivällinen";
+import hermostua from "./hermostua";
+import pettya from "./pettyä";
+import nauttia from "./nauttia";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1046,5 +1059,18 @@ export const words: Word[] = [
   keksia,
   pohtia,
   kuvitella,
+  // Week 7 · Day 5 — Tunteet ja luonne
+  pelataToFear,
+  nauraa,
+  itkea,
+  hymyilla,
+  tylsa,
+  ujo,
+  ylpea,
+  rauhallinen,
+  karsivallinen,
+  hermostua,
+  pettya,
+  nauttia,
   talo,
 ];
