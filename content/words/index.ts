@@ -598,6 +598,19 @@ import sumu from "./sumu";
 import pilvinen from "./pilvinen";
 import aste from "./aste";
 import sataa from "./sataa";
+// Week 8 · Day 5 — Viestintä ja media
+import netti from "./netti";
+import sahkoposti from "./sähköposti";
+import ohjelma from "./ohjelma";
+import sivusto from "./sivusto";
+import video from "./video";
+import salasana from "./salasana";
+import laite from "./laite";
+import naytto from "./näyttö";
+import yhteys from "./yhteys";
+import kayttaja from "./käyttäjä";
+import lahettaa from "./lähettää";
+import ladata from "./ladata";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1202,5 +1215,18 @@ export const words: Word[] = [
   pilvinen,
   aste,
   sataa,
+  // Week 8 · Day 5 — Viestintä ja media
+  netti,
+  sahkoposti,
+  ohjelma,
+  sivusto,
+  video,
+  salasana,
+  laite,
+  naytto,
+  yhteys,
+  kayttaja,
+  lahettaa,
+  ladata,
   talo,
 ];
