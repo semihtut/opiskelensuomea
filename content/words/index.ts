@@ -468,6 +468,19 @@ import voittaa from "./voittaa";
 import juhla from "./juhla";
 import urheilu from "./urheilu";
 import tanssia from "./tanssia";
+// Week 7 · Day 1 — Ammatti ja työelämä
+import ammatti from "./ammatti";
+import tyopaikka from "./työpaikka";
+import pomo from "./pomo";
+import kollega from "./kollega";
+import taito from "./taito";
+import hakemus from "./hakemus";
+import haastattelu from "./haastattelu";
+import hoitaa from "./hoitaa";
+import menestya from "./menestyä";
+import sopia from "./sopia";
+import johtaa from "./johtaa";
+import palkata from "./palkata";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -942,5 +955,18 @@ export const words: Word[] = [
   juhla,
   urheilu,
   tanssia,
+  // Week 7 · Day 1 — Ammatti ja työelämä
+  ammatti,
+  tyopaikka,
+  pomo,
+  kollega,
+  taito,
+  hakemus,
+  haastattelu,
+  hoitaa,
+  menestya,
+  sopia,
+  johtaa,
+  palkata,
   talo,
 ];
