@@ -494,6 +494,19 @@ import myyda from "./myydä";
 import ansaita from "./ansaita";
 import lainata from "./lainata";
 import sijoittaa from "./sijoittaa";
+// Week 7 · Day 3 — Opiskelu ja tieto
+import tieto from "./tieto";
+import yliopisto from "./yliopisto";
+import tutkinto from "./tutkinto";
+import koe from "./koe";
+import laksy from "./läksy";
+import sivu from "./sivu";
+import numero from "./numero";
+import opettaa from "./opettaa";
+import tutkia from "./tutkia";
+import harjoitella from "./harjoitella";
+import kokeilla from "./kokeilla";
+import selvittaa from "./selvittää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -994,5 +1007,18 @@ export const words: Word[] = [
   ansaita,
   lainata,
   sijoittaa,
+  // Week 7 · Day 3 — Opiskelu ja tieto
+  tieto,
+  yliopisto,
+  tutkinto,
+  koe,
+  laksy,
+  sivu,
+  numero,
+  opettaa,
+  tutkia,
+  harjoitella,
+  kokeilla,
+  selvittaa,
   talo,
 ];
