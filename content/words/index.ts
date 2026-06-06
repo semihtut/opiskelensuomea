@@ -546,6 +546,19 @@ import tapahtua from "./tapahtua";
 import kestaa from "./kestää";
 import viimeinen from "./viimeinen";
 import seuraava from "./seuraava";
+// Week 8 · Day 1 — Kaupunki ja liikenne
+import liikenne from "./liikenne";
+import silta from "./silta";
+import risteys from "./risteys";
+import pysakki from "./pysäkki";
+import lentokentta from "./lentokenttä";
+import asukas from "./asukas";
+import keskusta from "./keskusta";
+import alue from "./alue";
+import kuljettaja from "./kuljettaja";
+import matkustaja from "./matkustaja";
+import kartta from "./kartta";
+import ylittaa from "./ylittää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1098,5 +1111,18 @@ export const words: Word[] = [
   kestaa,
   viimeinen,
   seuraava,
+  // Week 8 · Day 1 — Kaupunki ja liikenne
+  liikenne,
+  silta,
+  risteys,
+  pysakki,
+  lentokentta,
+  asukas,
+  keskusta,
+  alue,
+  kuljettaja,
+  matkustaja,
+  kartta,
+  ylittaa,
   talo,
 ];
