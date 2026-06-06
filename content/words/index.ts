@@ -325,6 +325,19 @@ import vastata from "./vastata";
 import kiittaa from "./kiittää";
 import esittaa from "./esittää";
 import ehdottaa from "./ehdottaa";
+// Week 5 · Day 2 — Käsittely ja liike
+import nostaa from "./nostaa";
+import laskea from "./laskea";
+import vetaa from "./vetää";
+import tyontaa from "./työntää";
+import heittaa from "./heittää";
+import kantaa from "./kantaa";
+import panna from "./panna";
+import siirtaa from "./siirtää";
+import kaantaa from "./kääntää";
+import pudota from "./pudota";
+import tarttua from "./tarttua";
+import kaataa from "./kaataa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -656,5 +669,18 @@ export const words: Word[] = [
   kiittaa,
   esittaa,
   ehdottaa,
+  // Week 5 · Day 2 — Käsittely ja liike
+  nostaa,
+  laskea,
+  vetaa,
+  tyontaa,
+  heittaa,
+  kantaa,
+  panna,
+  siirtaa,
+  kaantaa,
+  pudota,
+  tarttua,
+  kaataa,
   talo,
 ];
