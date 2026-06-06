@@ -1,27 +1,27 @@
 import type { Word } from "@/lib/content-types";
 
-// Verified against Wiktionary: Kotus type 10/koira, no gradation, stem maailma-.
-// Genitive maailman, partitive maailmaa, illative maailmaan, partitive pl maailmoja.
+// Verified against Wiktionary: Kotus type 13/katiska, no gradation, stem maailma-.
+// Genitive maailman, partitive maailmaa, illative maailmaan, partitive pl maailmoita/maailmoja.
 const maailma: Word = {
   fi: "maailma",
   slug: "maailma",
-  pos: "substantiivi (tyyppi 10/koira)",
+  pos: "substantiivi (tyyppi 13/katiska)",
   posClass: "substantiivi",
   level: "A2",
   en: "world",
   selitys:
-    "Koko maapallo tai jokin kokonaisuus: 'koko maailma'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko maailmoja. Yhdyssana maa + ilma. Vrt. maailmankaikkeus (universe), maailmanlaajuinen (global).",
+    "Koko maapallo tai jokin kokonaisuus: 'koko maailma'. Tyyppi 13, ei astevaihtelua. Partitiivin monikko maailmoita (tai maailmoja). Yhdyssana maa + ilma. Vrt. maailmankaikkeus (universe), maailmanlaajuinen (global).",
   kuva: { emoji: "🌍", alt: "maailma – koko maapallo" },
 
   kielioppi: {
-    tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",
+    tyyppi: "substantiivi, tyyppi 13/katiska; ei astevaihtelua",
     muodot: [
       { sija: "genetiivi (yks.)", muoto: "maailman", merkitys: "of the world" },
       { sija: "partitiivi (yks.)", muoto: "maailmaa", merkitys: "world (partitive)" },
-      { sija: "partitiivi (mon.)", muoto: "maailmoja", merkitys: "worlds (partitive pl.)" },
+      { sija: "partitiivi (mon.)", muoto: "maailmoita / maailmoja", merkitys: "worlds (partitive pl.)" },
     ],
     huom:
-      "Partitiivin monikossa a → o: maailmoja. 'Koko maailma' = the whole world. Vrt. maailmankuva = worldview, maailmanmestari = world champion.",
+      "Tyyppi 13: partitiivin monikko -oita tai -oja (maailmoita/maailmoja), genetiivin monikko maailmoiden/maailmojen. 'Koko maailma' = the whole world. Vrt. maailmankuva = worldview.",
   },
   taivutus: {
     sections: [
@@ -45,8 +45,8 @@ const maailma: Word = {
         title: "Monikko (avainmuodot)",
         rows: [
           { label: "Nominatiivi", form: "maailmat" },
-          { label: "Partitiivi", form: "maailmoja" },
-          { label: "Genetiivi", form: "maailmojen" },
+          { label: "Partitiivi", form: "maailmoita / maailmoja" },
+          { label: "Genetiivi", form: "maailmoiden / maailmojen" },
         ],
       },
     ],

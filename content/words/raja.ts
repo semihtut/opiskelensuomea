@@ -1,20 +1,20 @@
 import type { Word } from "@/lib/content-types";
 
-// Verified against Wiktionary: Kotus type 10/koira, no gradation, stem raja-.
+// Verified against Wiktionary: Kotus type 9/kala, no gradation, stem raja-.
 // Genitive rajan, partitive rajaa, illative rajaan, partitive pl rajoja.
 const raja: Word = {
   fi: "raja",
   slug: "raja",
-  pos: "substantiivi (tyyppi 10/koira)",
+  pos: "substantiivi (tyyppi 9/kala)",
   posClass: "substantiivi",
   level: "A2",
   en: "border, boundary; limit",
   selitys:
-    "Kahta aluetta erottava viiva tai äärimmäinen kohta: 'maan raja' / 'kärsivällisyyden raja'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko rajoja. Vrt. rajoittaa (to limit), rajaton (limitless).",
+    "Kahta aluetta erottava viiva tai äärimmäinen kohta: 'maan raja' / 'kärsivällisyyden raja'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko rajoja (a → o). Vrt. rajoittaa (to limit), rajaton (limitless).",
   kuva: { emoji: "🚧", alt: "raja – alueita erottava viiva tai äärikohta" },
 
   kielioppi: {
-    tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",
+    tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",
     muodot: [
       { sija: "genetiivi (yks.)", muoto: "rajan", merkitys: "of the border" },
       { sija: "partitiivi (yks.)", muoto: "rajaa", merkitys: "border (partitive)" },

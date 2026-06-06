@@ -1,20 +1,20 @@
 import type { Word } from "@/lib/content-types";
 
-// Verified against Wiktionary: Kotus type 9/kala, no gradation, stem voima-.
+// Verified against Wiktionary: Kotus type 10/koira, no gradation, stem voima-.
 // Genitive voiman, partitive voimaa, illative voimaan, partitive pl voimia.
 const voima: Word = {
   fi: "voima",
   slug: "voima",
-  pos: "substantiivi (tyyppi 9/kala)",
+  pos: "substantiivi (tyyppi 10/koira)",
   posClass: "substantiivi",
   level: "B1",
   en: "strength, force, power",
   selitys:
-    "Fyysinen tai henkinen kyky vaikuttaa: 'käyttää voimaa'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko voimia. Vrt. voimakas (strong), voimistua (to grow stronger), voida (to be able).",
+    "Fyysinen tai henkinen kyky vaikuttaa: 'käyttää voimaa'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko voimia (a katoaa). Vrt. voimakas (strong), voimistua (to grow stronger), voida (to be able).",
   kuva: { emoji: "💪", alt: "voima – kyky vaikuttaa" },
 
   kielioppi: {
-    tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",
+    tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",
     muodot: [
       { sija: "genetiivi (yks.)", muoto: "voiman", merkitys: "of strength" },
       { sija: "partitiivi (yks.)", muoto: "voimaa", merkitys: "strength (partitive)" },
