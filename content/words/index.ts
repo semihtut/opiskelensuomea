@@ -481,6 +481,19 @@ import menestya from "./menestyä";
 import sopia from "./sopia";
 import johtaa from "./johtaa";
 import palkata from "./palkata";
+// Week 7 · Day 2 — Raha ja talous
+import halpa from "./halpa";
+import ostos from "./ostos";
+import tili from "./tili";
+import kortti from "./kortti";
+import kateinen from "./käteinen";
+import velka from "./velka";
+import tulo from "./tulo";
+import meno from "./meno";
+import myyda from "./myydä";
+import ansaita from "./ansaita";
+import lainata from "./lainata";
+import sijoittaa from "./sijoittaa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -968,5 +981,18 @@ export const words: Word[] = [
   sopia,
   johtaa,
   palkata,
+  // Week 7 · Day 2 — Raha ja talous
+  halpa,
+  ostos,
+  tili,
+  kortti,
+  kateinen,
+  velka,
+  tulo,
+  meno,
+  myyda,
+  ansaita,
+  lainata,
+  sijoittaa,
   talo,
 ];
