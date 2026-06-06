@@ -312,6 +312,19 @@ import varmasti from "./varmasti";
 import tietysti from "./tietysti";
 import juuri from "./juuri";
 import vasta from "./vasta";
+// Week 5 · Day 1 — Mieli ja viestintä
+import uskoa from "./uskoa";
+import toivoa from "./toivoa";
+import luulla from "./luulla";
+import tarkoittaa from "./tarkoittaa";
+import paattaa from "./päättää";
+import huomata from "./huomata";
+import selittaa from "./selittää";
+import pyytaa from "./pyytää";
+import vastata from "./vastata";
+import kiittaa from "./kiittää";
+import esittaa from "./esittää";
+import ehdottaa from "./ehdottaa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -630,5 +643,18 @@ export const words: Word[] = [
   tietysti,
   juuri,
   vasta,
+  // Week 5 · Day 1 — Mieli ja viestintä
+  uskoa,
+  toivoa,
+  luulla,
+  tarkoittaa,
+  paattaa,
+  huomata,
+  selittaa,
+  pyytaa,
+  vastata,
+  kiittaa,
+  esittaa,
+  ehdottaa,
   talo,
 ];
