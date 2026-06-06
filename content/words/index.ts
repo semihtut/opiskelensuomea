@@ -507,6 +507,19 @@ import tutkia from "./tutkia";
 import harjoitella from "./harjoitella";
 import kokeilla from "./kokeilla";
 import selvittaa from "./selvittää";
+// Week 7 · Day 4 — Mieli ja ajattelu
+import mieli from "./mieli";
+import ajatus from "./ajatus";
+import idea from "./idea";
+import muisti from "./muisti";
+import unelma from "./unelma";
+import uni from "./uni";
+import jarki from "./järki";
+import aivot from "./aivot";
+import epailla from "./epäillä";
+import keksia from "./keksiä";
+import pohtia from "./pohtia";
+import kuvitella from "./kuvitella";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1020,5 +1033,18 @@ export const words: Word[] = [
   harjoitella,
   kokeilla,
   selvittaa,
+  // Week 7 · Day 4 — Mieli ja ajattelu
+  mieli,
+  ajatus,
+  idea,
+  muisti,
+  unelma,
+  uni,
+  jarki,
+  aivot,
+  epailla,
+  keksia,
+  pohtia,
+  kuvitella,
   talo,
 ];
