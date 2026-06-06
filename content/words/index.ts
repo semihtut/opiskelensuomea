@@ -403,6 +403,19 @@ import ilmoittaa from "./ilmoittaa";
 import kuvata from "./kuvata";
 import kutsua from "./kutsua";
 import neuvoa from "./neuvoa";
+// Week 6 · Day 2 — Yhteiskunta ja valta
+import valtio from "./valtio";
+import hallitus from "./hallitus";
+import laki from "./laki";
+import yhteiskunta from "./yhteiskunta";
+import kansa from "./kansa";
+import raja from "./raja";
+import valta from "./valta";
+import oikeus from "./oikeus";
+import paatos from "./päätös";
+import aanestaa from "./äänestää";
+import vaikuttaa from "./vaikuttaa";
+import jarjestaa from "./järjestää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -812,5 +825,18 @@ export const words: Word[] = [
   kuvata,
   kutsua,
   neuvoa,
+  // Week 6 · Day 2 — Yhteiskunta ja valta
+  valtio,
+  hallitus,
+  laki,
+  yhteiskunta,
+  kansa,
+  raja,
+  valta,
+  oikeus,
+  paatos,
+  aanestaa,
+  vaikuttaa,
+  jarjestaa,
   talo,
 ];
