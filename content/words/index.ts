@@ -533,6 +533,19 @@ import karsivallinen from "./kärsivällinen";
 import hermostua from "./hermostua";
 import pettya from "./pettyä";
 import nauttia from "./nauttia";
+// Week 7 · Day 6 — Aika ja muutos
+import eilen from "./eilen";
+import hetki from "./hetki";
+import menneisyys from "./menneisyys";
+import tulevaisuus from "./tulevaisuus";
+import kausi from "./kausi";
+import muutos from "./muutos";
+import kehitys from "./kehitys";
+import jatkua from "./jatkua";
+import tapahtua from "./tapahtua";
+import kestaa from "./kestää";
+import viimeinen from "./viimeinen";
+import seuraava from "./seuraava";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1072,5 +1085,18 @@ export const words: Word[] = [
   hermostua,
   pettya,
   nauttia,
+  // Week 7 · Day 6 — Aika ja muutos
+  eilen,
+  hetki,
+  menneisyys,
+  tulevaisuus,
+  kausi,
+  muutos,
+  kehitys,
+  jatkua,
+  tapahtua,
+  kestaa,
+  viimeinen,
+  seuraava,
   talo,
 ];
