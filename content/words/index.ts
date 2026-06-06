@@ -351,6 +351,19 @@ import kiltti from "./kiltti";
 import rehellinen from "./rehellinen";
 import ahkera from "./ahkera";
 import laiska from "./laiska";
+// Week 5 · Day 4 — Abstraktit käsitteet
+import asia from "./asia";
+import syy from "./syy";
+import tapa from "./tapa";
+import ongelma from "./ongelma";
+import esimerkki from "./esimerkki";
+import ero from "./ero";
+import keino from "./keino";
+import tilanne from "./tilanne";
+import mahdollisuus from "./mahdollisuus";
+import vaikutus from "./vaikutus";
+import merkitys from "./merkitys";
+import kokemus from "./kokemus";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -708,5 +721,18 @@ export const words: Word[] = [
   rehellinen,
   ahkera,
   laiska,
+  // Week 5 · Day 4 — Abstraktit käsitteet
+  asia,
+  syy,
+  tapa,
+  ongelma,
+  esimerkki,
+  ero,
+  keino,
+  tilanne,
+  mahdollisuus,
+  vaikutus,
+  merkitys,
+  kokemus,
   talo,
 ];
