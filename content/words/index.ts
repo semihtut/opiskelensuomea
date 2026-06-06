@@ -299,6 +299,19 @@ import taas from "./taas";
 import yleensa from "./yleensä";
 import ennen from "./ennen";
 import sitten from "./sitten";
+// Week 4 · Day 6 — Määrä ja aste
+import hyvin from "./hyvin";
+import todella from "./todella";
+import melko from "./melko";
+import liian from "./liian";
+import erittain from "./erittäin";
+import vain from "./vain";
+import myos from "./myös";
+import ehka from "./ehkä";
+import varmasti from "./varmasti";
+import tietysti from "./tietysti";
+import juuri from "./juuri";
+import vasta from "./vasta";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -604,5 +617,18 @@ export const words: Word[] = [
   yleensa,
   ennen,
   sitten,
+  // Week 4 · Day 6 — Määrä ja aste
+  hyvin,
+  todella,
+  melko,
+  liian,
+  erittain,
+  vain,
+  myos,
+  ehka,
+  varmasti,
+  tietysti,
+  juuri,
+  vasta,
   talo,
 ];
