@@ -611,6 +611,19 @@ import yhteys from "./yhteys";
 import kayttaja from "./käyttäjä";
 import lahettaa from "./lähettää";
 import ladata from "./ladata";
+// Week 8 · Day 6 — Maailma ja matkailu
+import maa from "./maa";
+import loma from "./loma";
+import paakaupunki from "./pääkaupunki";
+import lentokone from "./lentokone";
+import passi from "./passi";
+import turisti from "./turisti";
+import kulttuuri from "./kulttuuri";
+import kansainvalinen from "./kansainvälinen";
+import ulkomaalainen from "./ulkomaalainen";
+import seikkailu from "./seikkailu";
+import tutustua from "./tutustua";
+import varata from "./varata";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1228,5 +1241,18 @@ export const words: Word[] = [
   kayttaja,
   lahettaa,
   ladata,
+  // Week 8 · Day 6 — Maailma ja matkailu
+  maa,
+  loma,
+  paakaupunki,
+  lentokone,
+  passi,
+  turisti,
+  kulttuuri,
+  kansainvalinen,
+  ulkomaalainen,
+  seikkailu,
+  tutustua,
+  varata,
   talo,
 ];
