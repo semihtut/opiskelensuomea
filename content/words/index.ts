@@ -585,6 +585,19 @@ import maistua from "./maistua";
 import keittaa from "./keittää";
 import paistaa from "./paistaa";
 import leipoa from "./leipoa";
+// Week 8 · Day 4 — Sää ja vuodenajat
+import kesa from "./kesä";
+import talvi from "./talvi";
+import syksy from "./syksy";
+import kevat from "./kevät";
+import lammin from "./lämmin";
+import kuuma from "./kuuma";
+import pakkanen from "./pakkanen";
+import myrsky from "./myrsky";
+import sumu from "./sumu";
+import pilvinen from "./pilvinen";
+import aste from "./aste";
+import sataa from "./sataa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1176,5 +1189,18 @@ export const words: Word[] = [
   keittaa,
   paistaa,
   leipoa,
+  // Week 8 · Day 4 — Sää ja vuodenajat
+  kesa,
+  talvi,
+  syksy,
+  kevat,
+  lammin,
+  kuuma,
+  pakkanen,
+  myrsky,
+  sumu,
+  pilvinen,
+  aste,
+  sataa,
   talo,
 ];
