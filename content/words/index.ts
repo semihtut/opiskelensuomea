@@ -364,6 +364,19 @@ import mahdollisuus from "./mahdollisuus";
 import vaikutus from "./vaikutus";
 import merkitys from "./merkitys";
 import kokemus from "./kokemus";
+// Week 5 · Day 5 — Muutos ja kehitys
+import muuttua from "./muuttua";
+import kehittaa from "./kehittää";
+import lisata from "./lisätä";
+import vahentaa from "./vähentää";
+import kasvattaa from "./kasvattaa";
+import riittaa from "./riittää";
+import jatkaa from "./jatkaa";
+import jakaa from "./jakaa";
+import kerata from "./kerätä";
+import yhdistaa from "./yhdistää";
+import parantaa from "./parantaa";
+import saastaa from "./säästää";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -734,5 +747,18 @@ export const words: Word[] = [
   vaikutus,
   merkitys,
   kokemus,
+  // Week 5 · Day 5 — Muutos ja kehitys
+  muuttua,
+  kehittaa,
+  lisata,
+  vahentaa,
+  kasvattaa,
+  riittaa,
+  jatkaa,
+  jakaa,
+  kerata,
+  yhdistaa,
+  parantaa,
+  saastaa,
   talo,
 ];
