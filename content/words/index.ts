@@ -377,6 +377,19 @@ import kerata from "./kerätä";
 import yhdistaa from "./yhdistää";
 import parantaa from "./parantaa";
 import saastaa from "./säästää";
+// Week 5 · Day 6 — Työ ja talous
+import palkka from "./palkka";
+import asiakas from "./asiakas";
+import yritys from "./yritys";
+import kokous from "./kokous";
+import ala from "./ala";
+import palvelu from "./palvelu";
+import tuote from "./tuote";
+import johtaja from "./johtaja";
+import tyontekija from "./työntekijä";
+import sopimus from "./sopimus";
+import talous from "./talous";
+import lasku from "./lasku";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -760,5 +773,18 @@ export const words: Word[] = [
   yhdistaa,
   parantaa,
   saastaa,
+  // Week 5 · Day 6 — Työ ja talous
+  palkka,
+  asiakas,
+  yritys,
+  kokous,
+  ala,
+  palvelu,
+  tuote,
+  johtaja,
+  tyontekija,
+  sopimus,
+  talous,
+  lasku,
   talo,
 ];
