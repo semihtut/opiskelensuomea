@@ -429,6 +429,19 @@ import tahti from "./tähti";
 import kukka from "./kukka";
 import vuori from "./vuori";
 import ilmasto from "./ilmasto";
+// Week 6 · Day 4 — Keho ja terveys
+import keho from "./keho";
+import veri from "./veri";
+import hammas from "./hammas";
+import selka from "./selkä";
+import sormi from "./sormi";
+import voima from "./voima";
+import laake from "./lääke";
+import sairaus from "./sairaus";
+import vatsa from "./vatsa";
+import hius from "./hius";
+import terveellinen from "./terveellinen";
+import parantua from "./parantua";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -864,5 +877,18 @@ export const words: Word[] = [
   kukka,
   vuori,
   ilmasto,
+  // Week 6 · Day 4 — Keho ja terveys
+  keho,
+  veri,
+  hammas,
+  selka,
+  sormi,
+  voima,
+  laake,
+  sairaus,
+  vatsa,
+  hius,
+  terveellinen,
+  parantua,
   talo,
 ];
