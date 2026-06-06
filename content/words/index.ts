@@ -416,6 +416,19 @@ import paatos from "./päätös";
 import aanestaa from "./äänestää";
 import vaikuttaa from "./vaikuttaa";
 import jarjestaa from "./järjestää";
+// Week 6 · Day 3 — Luonto ja ympäristö
+import luonto from "./luonto";
+import maailma from "./maailma";
+import elain from "./eläin";
+import kasvi from "./kasvi";
+import ymparisto from "./ympäristö";
+import ranta from "./ranta";
+import saari from "./saari";
+import pilvi from "./pilvi";
+import tahti from "./tähti";
+import kukka from "./kukka";
+import vuori from "./vuori";
+import ilmasto from "./ilmasto";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -838,5 +851,18 @@ export const words: Word[] = [
   aanestaa,
   vaikuttaa,
   jarjestaa,
+  // Week 6 · Day 3 — Luonto ja ympäristö
+  luonto,
+  maailma,
+  elain,
+  kasvi,
+  ymparisto,
+  ranta,
+  saari,
+  pilvi,
+  tahti,
+  kukka,
+  vuori,
+  ilmasto,
   talo,
 ];
