@@ -572,6 +572,19 @@ import parveke from "./parveke";
 import jaakaappi from "./jääkaappi";
 import sisustus from "./sisustus";
 import remontti from "./remontti";
+// Week 8 · Day 3 — Ruoka ja ruoanlaitto
+import kana from "./kana";
+import riisi from "./riisi";
+import keitto from "./keitto";
+import hedelma from "./hedelmä";
+import vihannes from "./vihannes";
+import sokeri from "./sokeri";
+import suola from "./suola";
+import nalka from "./nälkä";
+import maistua from "./maistua";
+import keittaa from "./keittää";
+import paistaa from "./paistaa";
+import leipoa from "./leipoa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1150,5 +1163,18 @@ export const words: Word[] = [
   jaakaappi,
   sisustus,
   remontti,
+  // Week 8 · Day 3 — Ruoka ja ruoanlaitto
+  kana,
+  riisi,
+  keitto,
+  hedelma,
+  vihannes,
+  sokeri,
+  suola,
+  nalka,
+  maistua,
+  keittaa,
+  paistaa,
+  leipoa,
   talo,
 ];
