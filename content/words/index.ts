@@ -832,6 +832,19 @@ import tartunta from "./tartunta";
 import hoito from "./hoito";
 import jaksaa from "./jaksaa";
 import kunto from "./kunto";
+// Week 11 · Day 5 — Ympäristö ja luonto
+import saaste from "./saaste";
+import suojella from "./suojella";
+import suojelu from "./suojelu";
+import kierrattaa from "./kierrättää";
+import jate from "./jäte";
+import energia from "./energia";
+import kestava from "./kestävä";
+import paasto from "./päästö";
+import lampotila from "./lämpötila";
+import sailyttaa from "./säilyttää";
+import saastua from "./saastua";
+import luonnonvara from "./luonnonvara";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1670,5 +1683,18 @@ export const words: Word[] = [
   hoito,
   jaksaa,
   kunto,
+  // Week 11 · Day 5 — Ympäristö ja luonto
+  saaste,
+  suojella,
+  suojelu,
+  kierrattaa,
+  jate,
+  energia,
+  kestava,
+  paasto,
+  lampotila,
+  sailyttaa,
+  saastua,
+  luonnonvara,
   talo,
 ];
