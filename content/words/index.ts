@@ -754,6 +754,19 @@ import huolimaton from "./huolimaton";
 import joustava from "./joustava";
 import itsevarma from "./itsevarma";
 import vastuullinen from "./vastuullinen";
+// Week 10 · Day 5 — Yhteiskunta ja vaikuttaminen
+import kansalainen from "./kansalainen";
+import yhteinen from "./yhteinen";
+import julkinen from "./julkinen";
+import yksityinen from "./yksityinen";
+import vapaus from "./vapaus";
+import saanto from "./sääntö";
+import velvollisuus from "./velvollisuus";
+import vastuu from "./vastuu";
+import valinta from "./valinta";
+import jarjesto from "./järjestö";
+import jasen from "./jäsen";
+import aanestys from "./äänestys";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1514,5 +1527,18 @@ export const words: Word[] = [
   joustava,
   itsevarma,
   vastuullinen,
+  // Week 10 · Day 5 — Yhteiskunta ja vaikuttaminen
+  kansalainen,
+  yhteinen,
+  julkinen,
+  yksityinen,
+  vapaus,
+  saanto,
+  velvollisuus,
+  vastuu,
+  valinta,
+  jarjesto,
+  jasen,
+  aanestys,
   talo,
 ];
