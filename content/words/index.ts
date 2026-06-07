@@ -910,6 +910,19 @@ import varmistaa from "./varmistaa";
 import kasitella from "./käsitellä";
 import maksu from "./maksu";
 import hakija from "./hakija";
+// Week 12 · Day 5 — Kieli ja ilmaisu
+import ilmaisu from "./ilmaisu";
+import lause from "./lause";
+import puhe from "./puhe";
+import aantaa from "./ääntää";
+import kielioppi from "./kielioppi";
+import vaarinkasitys from "./väärinkäsitys";
+import selitys from "./selitys";
+import sisalto from "./sisältö";
+import murre from "./murre";
+import aidinkieli from "./äidinkieli";
+import sujuva from "./sujuva";
+import ymmarrys from "./ymmärrys";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1826,5 +1839,18 @@ export const words: Word[] = [
   kasitella,
   maksu,
   hakija,
+  // Week 12 · Day 5 — Kieli ja ilmaisu
+  ilmaisu,
+  lause,
+  puhe,
+  aantaa,
+  kielioppi,
+  vaarinkasitys,
+  selitys,
+  sisalto,
+  murre,
+  aidinkieli,
+  sujuva,
+  ymmarrys,
   talo,
 ];
