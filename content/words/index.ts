@@ -715,6 +715,19 @@ import vaatia from "./vaatia";
 import edellyttaa from "./edellyttää";
 import merkita from "./merkitä";
 import vaihtoehto from "./vaihtoehto";
+// Week 10 · Day 2 — Muutos ja kehitys
+import kehittya from "./kehittyä";
+import uudistua from "./uudistua";
+import uudistus from "./uudistus";
+import muodostaa from "./muodostaa";
+import muodostua from "./muodostua";
+import siirtya from "./siirtyä";
+import laajentua from "./laajentua";
+import yleistya from "./yleistyä";
+import hidastua from "./hidastua";
+import vahvistua from "./vahvistua";
+import heikentya from "./heikentyä";
+import vahitellen from "./vähitellen";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1436,5 +1449,18 @@ export const words: Word[] = [
   edellyttaa,
   merkita,
   vaihtoehto,
+  // Week 10 · Day 2 — Muutos ja kehitys
+  kehittya,
+  uudistua,
+  uudistus,
+  muodostaa,
+  muodostua,
+  siirtya,
+  laajentua,
+  yleistya,
+  hidastua,
+  vahvistua,
+  heikentya,
+  vahitellen,
   talo,
 ];
