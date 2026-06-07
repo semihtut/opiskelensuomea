@@ -663,6 +663,19 @@ import pyrkia from "./pyrkiä";
 import edeta from "./edetä";
 import keskittya from "./keskittyä";
 import paamaara from "./päämäärä";
+// Week 9 · Day 4 — Aika, järjestys ja kesto
+import vaihe from "./vaihe";
+import jakso from "./jakso";
+import nykyaan from "./nykyään";
+import aikaisemmin from "./aikaisemmin";
+import myohemmin from "./myöhemmin";
+import lopulta from "./lopulta";
+import vihdoin from "./vihdoin";
+import jatkuvasti from "./jatkuvasti";
+import valilla from "./välillä";
+import toistua from "./toistua";
+import jatkossa from "./jatkossa";
+import ajoissa from "./ajoissa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1332,5 +1345,18 @@ export const words: Word[] = [
   edeta,
   keskittya,
   paamaara,
+  // Week 9 · Day 4 — Aika, järjestys ja kesto
+  vaihe,
+  jakso,
+  nykyaan,
+  aikaisemmin,
+  myohemmin,
+  lopulta,
+  vihdoin,
+  jatkuvasti,
+  valilla,
+  toistua,
+  jatkossa,
+  ajoissa,
   talo,
 ];
