@@ -741,6 +741,19 @@ import riita from "./riita";
 import sopu from "./sopu";
 import pettaa from "./pettää";
 import laheinen from "./läheinen";
+// Week 10 · Day 4 — Luonne ja käytös
+import itsenainen from "./itsenäinen";
+import luotettava from "./luotettava";
+import avoin from "./avoin";
+import utelias from "./utelias";
+import vaatimaton from "./vaatimaton";
+import itsekas from "./itsekäs";
+import kohtelias from "./kohtelias";
+import huolellinen from "./huolellinen";
+import huolimaton from "./huolimaton";
+import joustava from "./joustava";
+import itsevarma from "./itsevarma";
+import vastuullinen from "./vastuullinen";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1488,5 +1501,18 @@ export const words: Word[] = [
   sopu,
   pettaa,
   laheinen,
+  // Week 10 · Day 4 — Luonne ja käytös
+  itsenainen,
+  luotettava,
+  avoin,
+  utelias,
+  vaatimaton,
+  itsekas,
+  kohtelias,
+  huolellinen,
+  huolimaton,
+  joustava,
+  itsevarma,
+  vastuullinen,
   talo,
 ];
