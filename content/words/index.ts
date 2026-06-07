@@ -676,6 +676,19 @@ import valilla from "./välillä";
 import toistua from "./toistua";
 import jatkossa from "./jatkossa";
 import ajoissa from "./ajoissa";
+// Week 9 · Day 5 — Vertailu ja määrä
+import erota from "./erota";
+import verrata from "./verrata";
+import samanlainen from "./samanlainen";
+import erilainen from "./erilainen";
+import vastaava from "./vastaava";
+import maara from "./määrä";
+import osuus from "./osuus";
+import lisaantya from "./lisääntyä";
+import vahentya from "./vähentyä";
+import riittava from "./riittävä";
+import enemmisto from "./enemmistö";
+import keskimaarin from "./keskimäärin";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1358,5 +1371,18 @@ export const words: Word[] = [
   toistua,
   jatkossa,
   ajoissa,
+  // Week 9 · Day 5 — Vertailu ja määrä
+  erota,
+  verrata,
+  samanlainen,
+  erilainen,
+  vastaava,
+  maara,
+  osuus,
+  lisaantya,
+  vahentya,
+  riittava,
+  enemmisto,
+  keskimaarin,
   talo,
 ];
