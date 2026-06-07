@@ -819,6 +819,19 @@ import ikava from "./ikävä";
 import tuntua from "./tuntua";
 import kokea from "./kokea";
 import jarkyttya from "./järkyttyä";
+// Week 11 · Day 4 — Terveys ja keho
+import hengittaa from "./hengittää";
+import levata from "./levätä";
+import lepo from "./lepo";
+import liikkua from "./liikkua";
+import hyvinvointi from "./hyvinvointi";
+import loukkaantua from "./loukkaantua";
+import vamma from "./vamma";
+import oire from "./oire";
+import tartunta from "./tartunta";
+import hoito from "./hoito";
+import jaksaa from "./jaksaa";
+import kunto from "./kunto";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1644,5 +1657,18 @@ export const words: Word[] = [
   tuntua,
   kokea,
   jarkyttya,
+  // Week 11 · Day 4 — Terveys ja keho
+  hengittaa,
+  levata,
+  lepo,
+  liikkua,
+  hyvinvointi,
+  loukkaantua,
+  vamma,
+  oire,
+  tartunta,
+  hoito,
+  jaksaa,
+  kunto,
   talo,
 ];
