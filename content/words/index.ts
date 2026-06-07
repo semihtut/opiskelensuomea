@@ -949,6 +949,19 @@ import leuka from "./leuka";
 import otsa from "./otsa";
 import poski from "./poski";
 import kaula from "./kaula";
+// Week 13 · Day 2 — Eläimet ja luonto
+import koira from "./koira";
+import kissa from "./kissa";
+import lintu from "./lintu";
+import hevonen from "./hevonen";
+import lehma from "./lehmä";
+import karhu from "./karhu";
+import susi from "./susi";
+import kettu from "./kettu";
+import janis from "./jänis";
+import hirvi from "./hirvi";
+import hyttynen from "./hyttynen";
+import mehilainen from "./mehiläinen";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1904,5 +1917,18 @@ export const words: Word[] = [
   otsa,
   poski,
   kaula,
+  // Week 13 · Day 2 — Eläimet ja luonto
+  koira,
+  kissa,
+  lintu,
+  hevonen,
+  lehma,
+  karhu,
+  susi,
+  kettu,
+  janis,
+  hirvi,
+  hyttynen,
+  mehilainen,
   talo,
 ];
