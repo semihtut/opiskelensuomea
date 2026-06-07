@@ -988,6 +988,19 @@ import kieltaytya from "./kieltäytyä";
 import suositella from "./suositella";
 import vasya from "./väsyä";
 import kiirehtia from "./kiirehtiä";
+// Week 13 · Day 5 — Määrä ja osat
+import osa from "./osa";
+import puoli from "./puoli";
+import pari from "./pari";
+import joukko from "./joukko";
+import ryhma from "./ryhmä";
+import laatu from "./laatu";
+import taso from "./taso";
+import yksilo from "./yksilö";
+import kokonaisuus from "./kokonaisuus";
+import vahemmisto from "./vähemmistö";
+import lukumaara from "./lukumäärä";
+import keskiarvo from "./keskiarvo";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1982,5 +1995,18 @@ export const words: Word[] = [
   suositella,
   vasya,
   kiirehtia,
+  // Week 13 · Day 5 — Määrä ja osat
+  osa,
+  puoli,
+  pari,
+  joukko,
+  ryhma,
+  laatu,
+  taso,
+  yksilo,
+  kokonaisuus,
+  vahemmisto,
+  lukumaara,
+  keskiarvo,
   talo,
 ];
