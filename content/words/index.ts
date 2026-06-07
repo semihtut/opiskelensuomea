@@ -962,6 +962,19 @@ import janis from "./jänis";
 import hirvi from "./hirvi";
 import hyttynen from "./hyttynen";
 import mehilainen from "./mehiläinen";
+// Week 13 · Day 3 — Ruoka ja keittiö
+import voi from "./voi";
+import muna from "./muna";
+import kerma from "./kerma";
+import makkara from "./makkara";
+import jaatelo from "./jäätelö";
+import mauste from "./mauste";
+import pippuri from "./pippuri";
+import hunaja from "./hunaja";
+import jauho from "./jauho";
+import oljy from "./öljy";
+import kakku from "./kakku";
+import jogurtti from "./jogurtti";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1930,5 +1943,18 @@ export const words: Word[] = [
   hirvi,
   hyttynen,
   mehilainen,
+  // Week 13 · Day 3 — Ruoka ja keittiö
+  voi,
+  muna,
+  kerma,
+  makkara,
+  jaatelo,
+  mauste,
+  pippuri,
+  hunaja,
+  jauho,
+  oljy,
+  kakku,
+  jogurtti,
   talo,
 ];
