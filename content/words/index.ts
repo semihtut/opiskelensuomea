@@ -793,6 +793,19 @@ import tieteellinen from "./tieteellinen";
 import loyto from "./löytö";
 import aineisto from "./aineisto";
 import julkaista from "./julkaista";
+// Week 11 · Day 2 — Talous ja kuluttaminen
+import markkinat from "./markkinat";
+import kysynta from "./kysyntä";
+import tarjonta from "./tarjonta";
+import kuluttaa from "./kuluttaa";
+import kuluttaja from "./kuluttaja";
+import tuottaa from "./tuottaa";
+import tuotanto from "./tuotanto";
+import voitto from "./voitto";
+import kustannus from "./kustannus";
+import kallistua from "./kallistua";
+import vero from "./vero";
+import sijoitus from "./sijoitus";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1592,5 +1605,18 @@ export const words: Word[] = [
   loyto,
   aineisto,
   julkaista,
+  // Week 11 · Day 2 — Talous ja kuluttaminen
+  markkinat,
+  kysynta,
+  tarjonta,
+  kuluttaa,
+  kuluttaja,
+  tuottaa,
+  tuotanto,
+  voitto,
+  kustannus,
+  kallistua,
+  vero,
+  sijoitus,
   talo,
 ];
