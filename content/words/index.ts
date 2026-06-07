@@ -689,6 +689,19 @@ import vahentya from "./vähentyä";
 import riittava from "./riittävä";
 import enemmisto from "./enemmistö";
 import keskimaarin from "./keskimäärin";
+// Week 9 · Day 6 — Viestintä ja vuorovaikutus
+import ilmaista from "./ilmaista";
+import viitata from "./viitata";
+import vakuuttaa from "./vakuuttaa";
+import neuvotella from "./neuvotella";
+import vaihtaa from "./vaihtaa";
+import esitella from "./esitellä";
+import tarkentaa from "./tarkentaa";
+import korostaa from "./korostaa";
+import keskeyttaa from "./keskeyttää";
+import vastaanottaa from "./vastaanottaa";
+import mainostaa from "./mainostaa";
+import kuvailla from "./kuvailla";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1384,5 +1397,18 @@ export const words: Word[] = [
   riittava,
   enemmisto,
   keskimaarin,
+  // Week 9 · Day 6 — Viestintä ja vuorovaikutus
+  ilmaista,
+  viitata,
+  vakuuttaa,
+  neuvotella,
+  vaihtaa,
+  esitella,
+  tarkentaa,
+  korostaa,
+  keskeyttaa,
+  vastaanottaa,
+  mainostaa,
+  kuvailla,
   talo,
 ];
