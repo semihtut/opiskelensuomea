@@ -806,6 +806,19 @@ import kustannus from "./kustannus";
 import kallistua from "./kallistua";
 import vero from "./vero";
 import sijoitus from "./sijoitus";
+// Week 11 · Day 3 — Tunteet ja kokemukset
+import pettymys from "./pettymys";
+import helpotus from "./helpotus";
+import jannitys from "./jännitys";
+import innostus from "./innostus";
+import innostua from "./innostua";
+import pelottaa from "./pelottaa";
+import harmittaa from "./harmittaa";
+import kaivata from "./kaivata";
+import ikava from "./ikävä";
+import tuntua from "./tuntua";
+import kokea from "./kokea";
+import jarkyttya from "./järkyttyä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1618,5 +1631,18 @@ export const words: Word[] = [
   kallistua,
   vero,
   sijoitus,
+  // Week 11 · Day 3 — Tunteet ja kokemukset
+  pettymys,
+  helpotus,
+  jannitys,
+  innostus,
+  innostua,
+  pelottaa,
+  harmittaa,
+  kaivata,
+  ikava,
+  tuntua,
+  kokea,
+  jarkyttya,
   talo,
 ];
