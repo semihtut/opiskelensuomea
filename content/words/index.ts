@@ -884,6 +884,19 @@ import oikeudenmukainen from "./oikeudenmukainen";
 import valittaa from "./valittaa";
 import tuomita from "./tuomita";
 import todistaja from "./todistaja";
+// Week 12 · Day 3 — Koulutus ja oppiminen
+import koulutus from "./koulutus";
+import kurssi from "./kurssi";
+import luento from "./luento";
+import tentti from "./tentti";
+import arvosana from "./arvosana";
+import todistus from "./todistus";
+import peruskoulu from "./peruskoulu";
+import lukio from "./lukio";
+import opiskelija from "./opiskelija";
+import sanasto from "./sanasto";
+import kaannos from "./käännös";
+import edistya from "./edistyä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1774,5 +1787,18 @@ export const words: Word[] = [
   valittaa,
   tuomita,
   todistaja,
+  // Week 12 · Day 3 — Koulutus ja oppiminen
+  koulutus,
+  kurssi,
+  luento,
+  tentti,
+  arvosana,
+  todistus,
+  peruskoulu,
+  lukio,
+  opiskelija,
+  sanasto,
+  kaannos,
+  edistya,
   talo,
 ];
