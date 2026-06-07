@@ -923,6 +923,19 @@ import murre from "./murre";
 import aidinkieli from "./äidinkieli";
 import sujuva from "./sujuva";
 import ymmarrys from "./ymmärrys";
+// Week 12 · Day 6 — Yhteiskunnalliset ilmiöt
+import vaesto from "./väestö";
+import tasaArvo from "./tasa-arvo";
+import syrjinta from "./syrjintä";
+import koyhyys from "./köyhyys";
+import varallisuus from "./varallisuus";
+import verotus from "./verotus";
+import eriarvoisuus from "./eriarvoisuus";
+import maahanmuutto from "./maahanmuutto";
+import maahanmuuttaja from "./maahanmuuttaja";
+import tyottomyys from "./työttömyys";
+import turvallisuus from "./turvallisuus";
+import ilmio from "./ilmiö";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1852,5 +1865,18 @@ export const words: Word[] = [
   aidinkieli,
   sujuva,
   ymmarrys,
+  // Week 12 · Day 6 — Yhteiskunnalliset ilmiöt
+  vaesto,
+  tasaArvo,
+  syrjinta,
+  koyhyys,
+  varallisuus,
+  verotus,
+  eriarvoisuus,
+  maahanmuutto,
+  maahanmuuttaja,
+  tyottomyys,
+  turvallisuus,
+  ilmio,
   talo,
 ];
