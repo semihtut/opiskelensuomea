@@ -1,109 +1,76 @@
-# Deployment — Cloudflare Workers + OpenNext
+# Deployment — Vercel (domain + DNS on Cloudflare)
 
-Opiskelen Suomea runs on **Cloudflare Workers** via the **OpenNext adapter**
-(`@opennextjs/cloudflare`). NOT Vercel. NOT Cloudflare Pages (`next-on-pages` is deprecated).
-Domain + DNS are on **Cloudflare Registrar**; CI is **Workers Builds** (connect the GitHub repo).
+Opiskelen Suomea is hosted on **Vercel** (the native Next.js platform). The domain stays
+registered at **Cloudflare Registrar** and DNS is managed in Cloudflare; only the records
+point to Vercel.
 
-> Re-confirm adapter/runtime specifics against the OpenNext + Cloudflare docs before a real
-> production deploy — this area moves quickly.
+> History: the site originally ran on **Cloudflare Workers** via the **OpenNext adapter**.
+> It was migrated to Vercel on **2026-06-07** because the free Workers plan's ~10ms CPU limit
+> caused intermittent **error 1102** ("render edemiyor") on cold/uncached page renders. On
+> Vercel the fully-static ~970-page site is served from the edge CDN with no per-request
+> function/CPU, so that error class is gone.
 
 ## Why this stack
 
-- Static-first Next.js 15 (App Router) pages → excellent Core Web Vitals (a ranking + GEO factor).
-- Workers gives global edge delivery; OpenNext adapts the Next build to the Workers runtime
-  (so SSR/route handlers/ISR work, not just static export).
+- Static-first Next.js 15 (App Router) → excellent Core Web Vitals (a ranking + GEO factor).
+- Vercel serves prerendered (SSG) pages directly from its global CDN — zero per-request
+  compute for the static content that makes up almost the whole site.
+- Native Next.js: no adapter, no `wrangler`/OpenNext config, image optimization out of the box.
 
-## Packages
+## Deploying
+
+There is **no deploy script** — Vercel deploys automatically:
+
+1. The GitHub repo is connected to a Vercel project.
+2. Every push to `main` triggers a production build + deploy; other branches get preview deploys.
+3. Build command `next build`, detected automatically (Next.js preset).
+
+Local checks before pushing:
 
 ```
-npm i -D @opennextjs/cloudflare wrangler
+npm run typecheck   # tsc --noEmit
+npm run lint        # eslint
+npm run build       # next build (must succeed)
+npm run start       # optionally serve the production build locally
 ```
 
-### Node version
+## Domain & DNS (Cloudflare Registrar → Vercel)
 
-`@opennextjs/cloudflare` requires **`wrangler` v4** (peer `^4.86.0`), and wrangler
-v4 requires **Node 22+**. Cloudflare Workers Builds runs Node 22 by default, so the
-default `npm ci` resolves cleanly there. Locally you also need Node 22 to run
-`wrangler dev`/`deploy` (the `opennextjs-cloudflare build` step itself only needs
-Node 20+). Use `nvm use 22` (or set `NODE_VERSION`) before `npm run preview`.
+The domain is registered at **Cloudflare Registrar**, so it must keep **Cloudflare
+nameservers** — you cannot move DNS away. Instead, point the records at Vercel:
 
-## Config files
+- **`www`** → `CNAME` → the value Vercel shows for the project
+  (e.g. `<hash>.vercel-dns-017.com`), **Proxy: DNS only (grey cloud)**. Proxied/orange breaks
+  Vercel's SSL and domain verification.
+- The old Workers **Custom Domain** for `www` (a "Worker"-type DNS record) must be removed from
+  the Worker first: **Workers & Pages → the worker → Settings → Domains & Routes → remove
+  `www.opiskelensuomea.com`**. Only then can the Vercel CNAME be added.
+- **Canonical host is `https://www.opiskelensuomea.com` (with `www`)** — see CLAUDE.md. The bare
+  apex (`opiskelensuomea.com`) 301-redirects to `www` via a **Cloudflare Redirect Rule** (Rules →
+  Redirect Rules). The apex DNS record stays proxied (orange) so the Redirect Rule applies; `www`
+  is DNS-only and goes straight to Vercel.
 
-### `open-next.config.ts` (repo root)
-Minimal default config for the Cloudflare adapter; extend (caching, R2 incremental cache) later.
+Vercel issues and renews TLS certificates automatically once the CNAME verifies.
 
-```ts
-import { defineCloudflareConfig } from "@opennextjs/cloudflare";
+## SEO essentials (unchanged by the host)
 
-export default defineCloudflareConfig({
-  // incrementalCache: r2IncrementalCache,  // add when ISR/R2 is needed
-});
-```
+- `public/robots.txt` keeps AI/search bots allowed and links the sitemap; use the canonical host
+  `www` everywhere (canonical tags, JSON-LD `@id`/`url`, sitemap, OG URLs).
+- `app/sitemap.ts` generates the sitemap; submit it in Google Search Console and Bing.
 
-### `wrangler.jsonc` (repo root)
-`nodejs_compat` is required by the adapter; `compatibility_date` must be **2024-09-23 or later**.
+## Cleanup notes (post-migration)
 
-```jsonc
-{
-  "name": "opiskelensuomea",
-  "main": ".open-next/worker.js",
-  "compatibility_date": "2024-09-23",
-  "compatibility_flags": ["nodejs_compat"],
-  "assets": {
-    "directory": ".open-next/assets",
-    "binding": "ASSETS"
-  }
-  // Bindings (KV/R2/D1) added here as features need them.
-}
-```
-
-### `next.config.ts`
-For now disable the Next image optimizer (no Vercel loader on Workers); a Cloudflare Images
-loader comes later. Keep `images.unoptimized = true`.
-
-```ts
-import type { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  images: { unoptimized: true },
-};
-
-export default nextConfig;
-```
-
-## Scripts (`package.json`)
-
-```json
-{
-  "preview": "opennextjs-cloudflare build && wrangler dev",
-  "deploy":  "opennextjs-cloudflare build && wrangler deploy"
-}
-```
-
-- `npm run preview` — builds with the OpenNext adapter and runs the Worker **locally** on the
-  Workers runtime (verify here before shipping). This is the gate for Phase 6: it must build
-  and run locally; do **not** deploy from local.
-- `npm run deploy` — publishes to Cloudflare (run via Workers Builds CI, not by hand normally).
-
-## Hosting & DNS conventions
-
-- **Canonical host: `https://www.opiskelensuomea.com` (with `www`).** Used in every canonical
-  tag, JSON-LD URL, sitemap entry, robots `Sitemap:` line, OG URL, and absolute internal link.
-- **301-redirect the bare apex** `opiskelensuomea.com` → `www` with a **Cloudflare Redirect
-  Rule** (dashboard → Rules → Redirect Rules). Never serve both hosts (splits SEO/GEO authority).
-- TLS + caching managed in the Cloudflare dashboard. Static assets cached at the edge.
-
-## CI — Workers Builds
-
-Connect the GitHub repo in the Cloudflare dashboard (Workers & Pages → Builds). Build command
-`npm run deploy` (or the OpenNext build + `wrangler deploy`). Pushes to the default branch
-deploy automatically.
+- The old Cloudflare Worker (project `opiskelensuomea`) and any apex Worker **route** can be
+  removed once Vercel is confirmed stable — but first make sure the **apex → www 301** is a
+  Cloudflare **Redirect Rule**, not handled by the Worker.
+- The earlier "cache everything" Cloudflare **Cache Rule** is now moot for `www` (DNS-only,
+  bypasses Cloudflare); it only affects the proxied apex. Harmless; can be left or removed.
+- `@opennextjs/cloudflare`, `wrangler`, `open-next.config.ts` and `wrangler.jsonc` have been
+  removed from the repo.
 
 ## Pre-deploy checklist
 
-- [ ] `npm run build` (Next) and `npm run typecheck` pass.
-- [ ] `npm run preview` builds with the OpenNext adapter and runs locally on the Workers runtime.
-- [ ] `compatibility_date` ≥ 2024-09-23 and `nodejs_compat` flag set.
-- [ ] `images.unoptimized = true` until the Cloudflare Images loader is wired.
-- [ ] Apex→www redirect rule in place; canonical host used everywhere.
-- [ ] `robots.txt` still allows AI bots; `sitemap.xml` reachable at the www host.
+- [ ] `npm run build` and `npm run typecheck` pass locally.
+- [ ] `npm run lint` clean.
+- [ ] Canonical host (`www`) used everywhere; apex→www Redirect Rule in place.
+- [ ] `robots.txt` still allows AI/search bots; `sitemap.xml` reachable at the www host.

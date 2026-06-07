@@ -19,10 +19,11 @@ Build for extension, not a one-off.
 - **Tailwind CSS** for styling.
 - **Content as typed data**: TS/JSON modules for structured content (words, weeks);
   MDX for prose (articles, grammar guides). No CMS yet.
-- **Cloudflare** for everything: domain + DNS on **Cloudflare Registrar**, hosting on
-  **Cloudflare Workers** via the **OpenNext adapter** (`@opennextjs/cloudflare`). CI via
-  **Workers Builds** (connect the GitHub repo). NOT Vercel, NOT Cloudflare Pages
-  (`next-on-pages` is deprecated). Deploy details: `docs/DEPLOYMENT.md`.
+- **Hosting on Vercel** (native Next.js): auto-deploys on every push to the GitHub repo;
+  static pages served from Vercel's edge CDN. **Domain + DNS stay on Cloudflare Registrar**
+  (`www` is a DNS-only CNAME → Vercel; apex 301→www via a Cloudflare Redirect Rule).
+  Migrated off Cloudflare Workers/OpenNext on 2026-06-07 (the free Workers CPU limit caused
+  intermittent error 1102 on cold renders). Deploy details: `docs/DEPLOYMENT.md`.
 - Aim for excellent **Core Web Vitals** (static pages, no client JS where not needed).
 
 ## Commands
@@ -30,14 +31,13 @@ Build for extension, not a one-off.
 ```
 npm run dev        # local dev server (next dev)
 npm run build      # production build (next build)
+npm run start      # serve the production build locally (next start)
 npm run lint       # eslint
 npm run typecheck  # tsc --noEmit
 npm test           # tests, if/when present
-npm run preview    # opennextjs-cloudflare build && wrangler dev  (run on Workers locally)
-npm run deploy     # opennextjs-cloudflare build && wrangler deploy
 ```
 (Adjust if the repo uses pnpm/bun. Prefer running a single file's tests over the full suite.
- Cloudflare deploy specifics — OpenNext config, nodejs_compat, image loader — in docs/DEPLOYMENT.md.)
+ Deploys are automatic on Vercel when you push to GitHub — no deploy script. See docs/DEPLOYMENT.md.)
 
 ## Repo layout
 
@@ -105,6 +105,6 @@ docs/                architecture, content model, SEO/GEO, roadmap, accuracy
 - Data shapes → `docs/CONTENT-MODEL.md`
 - Linguistic rules + verification → `docs/FINNISH-ACCURACY.md`
 - Site structure / pipeline → `docs/ARCHITECTURE.md`
-- Hosting / deploy (Cloudflare Workers + OpenNext) → `docs/DEPLOYMENT.md`
+- Hosting / deploy (Vercel; domain + DNS on Cloudflare) → `docs/DEPLOYMENT.md`
 - Discoverability strategy → `docs/SEO-GEO.md`
 - What to build next → `docs/ROADMAP.md`
