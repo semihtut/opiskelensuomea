@@ -728,6 +728,19 @@ import hidastua from "./hidastua";
 import vahvistua from "./vahvistua";
 import heikentya from "./heikentyä";
 import vahitellen from "./vähitellen";
+// Week 10 · Day 3 — Ihmissuhteet ja luottamus
+import suhde from "./suhde";
+import luottaa from "./luottaa";
+import luottamus from "./luottamus";
+import tukea from "./tukea";
+import tuki from "./tuki";
+import kohdella from "./kohdella";
+import kunnioittaa from "./kunnioittaa";
+import riidella from "./riidellä";
+import riita from "./riita";
+import sopu from "./sopu";
+import pettaa from "./pettää";
+import laheinen from "./läheinen";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1462,5 +1475,18 @@ export const words: Word[] = [
   vahvistua,
   heikentya,
   vahitellen,
+  // Week 10 · Day 3 — Ihmissuhteet ja luottamus
+  suhde,
+  luottaa,
+  luottamus,
+  tukea,
+  tuki,
+  kohdella,
+  kunnioittaa,
+  riidella,
+  riita,
+  sopu,
+  pettaa,
+  laheinen,
   talo,
 ];
