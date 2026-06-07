@@ -702,6 +702,19 @@ import keskeyttaa from "./keskeyttää";
 import vastaanottaa from "./vastaanottaa";
 import mainostaa from "./mainostaa";
 import kuvailla from "./kuvailla";
+// Week 10 · Day 1 — Syy, ehto ja logiikka
+import ehto from "./ehto";
+import peruste from "./peruste";
+import todiste from "./todiste";
+import todistaa from "./todistaa";
+import olettaa from "./olettaa";
+import oletus from "./oletus";
+import johtua from "./johtua";
+import riippua from "./riippua";
+import vaatia from "./vaatia";
+import edellyttaa from "./edellyttää";
+import merkita from "./merkitä";
+import vaihtoehto from "./vaihtoehto";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1410,5 +1423,18 @@ export const words: Word[] = [
   vastaanottaa,
   mainostaa,
   kuvailla,
+  // Week 10 · Day 1 — Syy, ehto ja logiikka
+  ehto,
+  peruste,
+  todiste,
+  todistaa,
+  olettaa,
+  oletus,
+  johtua,
+  riippua,
+  vaatia,
+  edellyttaa,
+  merkita,
+  vaihtoehto,
   talo,
 ];
