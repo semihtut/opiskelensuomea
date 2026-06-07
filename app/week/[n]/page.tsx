@@ -5,7 +5,7 @@ import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { JsonLd } from "@/components/JsonLd";
 import { LevelBadge } from "@/components/LevelBadge";
 import { Tldr } from "@/components/Tldr";
-import { allWeeks, getWeek, wordsForDay } from "@/lib/content";
+import { allWeeks, getWeek, scenariosForWeek, wordsForDay } from "@/lib/content";
 import { breadcrumbSchema } from "@/lib/schema";
 import { pageMetadata } from "@/lib/seo";
 
@@ -38,6 +38,7 @@ export default async function WeekPage({
   if (!week) notFound();
 
   const totalWords = week.days.reduce((sum, d) => sum + d.wordSlugs.length, 0);
+  const scenarios = scenariosForWeek(week.week);
   const crumbs = [
     { label: "Etusivu", href: "/" },
     { label: "Ohjelma", href: "/program" },
@@ -122,6 +123,42 @@ export default async function WeekPage({
           </span>
         </Link>
       </section>
+
+      {scenarios.length > 0 && (
+        <section className="mt-8">
+          <h2 className="text-xl text-accent">Viikon tilanne</h2>
+          <p className="mt-1 text-sm text-ink-soft">
+            Arjen tilanne, jossa viikon sanat tulevat käyttöön. Napauta korostettuja
+            sanoja nähdäksesi niiden merkityksen.
+          </p>
+          <ul className="mt-3 flex flex-col gap-3">
+            {scenarios.map((s) => (
+              <li key={s.slug}>
+                <Link
+                  href={`/scenarios/${s.slug}`}
+                  className="flex items-center justify-between gap-4 rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+                >
+                  <span>
+                    <span
+                      className="font-display text-lg font-semibold text-accent"
+                      lang="fi"
+                    >
+                      {s.title}
+                    </span>
+                    <span className="mt-1 block text-sm text-ink-soft">{s.topic}</span>
+                  </span>
+                  <span className="flex items-center gap-3">
+                    <LevelBadge level={s.level} />
+                    <span aria-hidden="true" className="text-accent">
+                      →
+                    </span>
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </main>
   );
 }

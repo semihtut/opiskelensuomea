@@ -1,5 +1,5 @@
 import type { FaqItem } from "@/components/Faq";
-import type { Week, Word } from "./content-types";
+import type { Scenario, Week, Word } from "./content-types";
 import { SITE, absoluteUrl } from "./site";
 
 /**
@@ -141,6 +141,24 @@ export function courseSchema(opts: {
       courseMode: "online",
       courseWorkload: "P13W",
     },
+  };
+}
+
+export function scenarioSchema(scenario: Scenario) {
+  const url = absoluteUrl(`/scenarios/${scenario.slug}`);
+  return {
+    "@context": "https://schema.org",
+    "@type": ["Article", "LearningResource"],
+    "@id": url,
+    url,
+    headline: scenario.title,
+    inLanguage: "fi",
+    educationalLevel: scenario.level,
+    learningResourceType: scenario.format === "dialogi" ? "dialogue" : "reading text",
+    about: scenario.topic,
+    dateModified: scenario.updatedAt,
+    author: { "@id": PERSON_ID },
+    publisher: { "@id": ORG_ID },
   };
 }
 

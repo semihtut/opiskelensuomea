@@ -1,11 +1,11 @@
 import type { MetadataRoute } from "next";
-import { allWeeks, allWords } from "@/lib/content";
+import { allScenarios, allWeeks, allWords } from "@/lib/content";
 import { absoluteUrl } from "@/lib/site";
 
 // Sitemap on the canonical www host. Submit to Google Search Console AND Bing
 // Webmaster Tools (ChatGPT live search is Bing-backed). robots.txt links here.
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPaths = ["/", "/program", "/words", "/about"];
+  const staticPaths = ["/", "/program", "/words", "/scenarios", "/about"];
 
   const staticEntries: MetadataRoute.Sitemap = staticPaths.map((path) => ({
     url: absoluteUrl(path),
@@ -33,5 +33,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
   ]);
 
-  return [...staticEntries, ...wordEntries, ...weekEntries];
+  const scenarioEntries: MetadataRoute.Sitemap = allScenarios().map((s) => ({
+    url: absoluteUrl(`/scenarios/${s.slug}`),
+    lastModified: s.updatedAt,
+    changeFrequency: "monthly",
+    priority: 0.7,
+  }));
+
+  return [...staticEntries, ...wordEntries, ...weekEntries, ...scenarioEntries];
 }

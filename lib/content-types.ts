@@ -117,6 +117,56 @@ export interface Program {
   weeks: Week[];
 }
 
+// ---- Scenarios ("Viikon tilanne") — real-life situation texts ----
+// Practical situations a learner actually faces in Finland. Each scenario is tied
+// to a week (so it is part of the 90-day plan) and tagged by life category. Marked
+// words use the [[surface|english]] convention; tapping one reveals ONLY the English
+// meaning (no emoji, no full definition). See memory: scenarios-feature.
+
+export type ScenarioCategory =
+  | "terveys"
+  | "asuminen"
+  | "liikenne"
+  | "ruoka"
+  | "raha"
+  | "tyo"
+  | "asiointi"
+  | "vapaa-aika"
+  | "teknologia"
+  | "matka"
+  | "sosiaalinen";
+
+export type ScenarioFormat = "kerronta" | "dialogi";
+
+/** One line of a dialogue scenario. `fi` may contain [[surface|english]] markers. */
+export interface ScenarioLine {
+  speaker: string;
+  fi: string;
+  en: string;
+}
+
+/** A headline focus word, shown as a chip and used for SEO/summary. */
+export interface ScenarioFocus {
+  fi: string;
+  en: string;
+}
+
+export interface Scenario {
+  slug: string;
+  week: number; // 1..13 — ties the scenario into the 90-day plan
+  category: ScenarioCategory;
+  format: ScenarioFormat;
+  title: string; // Finnish title
+  titleEn: string;
+  level: Level;
+  topic: string; // short English context line
+  paragraph?: string; // kerronta: text with [[surface|english]] markers
+  translation?: string; // kerronta: full English translation
+  lines?: ScenarioLine[]; // dialogi: alternating speaker lines
+  focus: ScenarioFocus[];
+  updatedAt: string;
+}
+
 // ---- Future content types (stub now, build later — see ROADMAP) ----
 
 export interface GrammarLesson {

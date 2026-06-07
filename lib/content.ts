@@ -1,9 +1,11 @@
 import { words } from "@/content/words";
 import { weeks } from "@/content/weeks";
-import type { Day, Week, Word } from "./content-types";
+import { scenarios } from "@/content/scenarios";
+import type { Day, Scenario, ScenarioCategory, Week, Word } from "./content-types";
 
 const wordBySlug = new Map<string, Word>(words.map((w) => [w.slug, w]));
 const weekByNumber = new Map<number, Week>(weeks.map((w) => [w.week, w]));
+const scenarioBySlug = new Map<string, Scenario>(scenarios.map((s) => [s.slug, s]));
 
 // ---- Words ----
 
@@ -54,4 +56,43 @@ export function wordsForDay(day: Day): Word[] {
   return day.wordSlugs
     .map((slug) => wordBySlug.get(slug))
     .filter((w): w is Word => Boolean(w));
+}
+
+// ---- Scenarios ("Viikon tilanne") ----
+
+/** Finnish display labels for scenario categories. */
+export const SCENARIO_CATEGORY_LABEL: Record<ScenarioCategory, string> = {
+  terveys: "Terveys",
+  asuminen: "Asuminen",
+  liikenne: "Liikenne",
+  ruoka: "Ruoka ja kauppa",
+  raha: "Raha",
+  tyo: "Työ ja opiskelu",
+  asiointi: "Asiointi",
+  "vapaa-aika": "Vapaa-aika",
+  teknologia: "Teknologia",
+  matka: "Matka",
+  sosiaalinen: "Sosiaalinen",
+};
+
+/** All scenarios, ordered by week then title. */
+export function allScenarios(): Scenario[] {
+  return [...scenarios].sort(
+    (a, b) => a.week - b.week || a.title.localeCompare(b.title, "fi"),
+  );
+}
+
+/** Look up one scenario by slug. */
+export function getScenario(slug: string): Scenario | undefined {
+  return scenarioBySlug.get(slug);
+}
+
+/** Decoded-slug lookup helper (route params may arrive URL-encoded). */
+export function getScenarioByParam(param: string): Scenario | undefined {
+  return getScenario(decodeURIComponent(param));
+}
+
+/** Scenarios that belong to a given week (the "Viikon tilanne" of that week). */
+export function scenariosForWeek(n: number): Scenario[] {
+  return allScenarios().filter((s) => s.week === n);
 }

@@ -8,6 +8,7 @@ const NAV = [
   { href: "/program", label: "Ohjelma" },
   { href: "/words", label: "Sanat" },
   { href: "/week/1", label: "Viikot" },
+  { href: "/scenarios", label: "Tilanteet" },
   { href: "/about", label: "Tietoa" },
 ];
 
