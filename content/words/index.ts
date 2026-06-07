@@ -845,6 +845,19 @@ import lampotila from "./lämpötila";
 import sailyttaa from "./säilyttää";
 import saastua from "./saastua";
 import luonnonvara from "./luonnonvara";
+// Week 11 · Day 6 — Media, tieto ja teknologia
+import tiedosto from "./tiedosto";
+import sovellus from "./sovellus";
+import verkko from "./verkko";
+import tallentaa from "./tallentaa";
+import poistaa from "./poistaa";
+import asentaa from "./asentaa";
+import paivittaa from "./päivittää";
+import tekoaly from "./tekoäly";
+import lahde from "./lähde";
+import selain from "./selain";
+import kaynnistaa from "./käynnistää";
+import tietoturva from "./tietoturva";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1696,5 +1709,18 @@ export const words: Word[] = [
   sailyttaa,
   saastua,
   luonnonvara,
+  // Week 11 · Day 6 — Media, tieto ja teknologia
+  tiedosto,
+  sovellus,
+  verkko,
+  tallentaa,
+  poistaa,
+  asentaa,
+  paivittaa,
+  tekoaly,
+  lahde,
+  selain,
+  kaynnistaa,
+  tietoturva,
   talo,
 ];
