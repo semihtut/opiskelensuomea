@@ -38,7 +38,7 @@ function GlossWord({
         onClick={onToggle}
         aria-expanded={open}
         aria-describedby={open ? popoverId : undefined}
-        className="cursor-pointer border-0 border-b border-dotted border-accent/60 bg-transparent p-0 font-semibold text-accent"
+        className="cursor-pointer rounded bg-transparent px-0.5 py-0 font-semibold text-primary transition-colors hover:bg-primary/10"
         lang="fi"
       >
         {surface}
