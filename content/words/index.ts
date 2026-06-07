@@ -1001,6 +1001,19 @@ import kokonaisuus from "./kokonaisuus";
 import vahemmisto from "./vähemmistö";
 import lukumaara from "./lukumäärä";
 import keskiarvo from "./keskiarvo";
+// Week 13 · Day 6 — Elämä ja juhlat
+import syntyma from "./syntymä";
+import lapsuus from "./lapsuus";
+import nuoruus from "./nuoruus";
+import aikuinen from "./aikuinen";
+import vanhuus from "./vanhuus";
+import kuolema from "./kuolema";
+import avioliitto from "./avioliitto";
+import haat from "./häät";
+import hautajaiset from "./hautajaiset";
+import sukupolvi from "./sukupolvi";
+import perinne from "./perinne";
+import juhlia from "./juhlia";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -2008,5 +2021,18 @@ export const words: Word[] = [
   vahemmisto,
   lukumaara,
   keskiarvo,
+  // Week 13 · Day 6 — Elämä ja juhlat
+  syntyma,
+  lapsuus,
+  nuoruus,
+  aikuinen,
+  vanhuus,
+  kuolema,
+  avioliitto,
+  haat,
+  hautajaiset,
+  sukupolvi,
+  perinne,
+  juhlia,
   talo,
 ];
