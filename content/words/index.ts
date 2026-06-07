@@ -650,6 +650,19 @@ import onnistua from "./onnistua";
 import epaonnistua from "./epäonnistua";
 import selvita from "./selvitä";
 import ehkaista from "./ehkäistä";
+// Week 9 · Day 3 — Suunnitelma ja tavoite
+import suunnitelma from "./suunnitelma";
+import suunnitella from "./suunnitella";
+import tavoite from "./tavoite";
+import tarkoitus from "./tarkoitus";
+import valmistautua from "./valmistautua";
+import saavuttaa from "./saavuttaa";
+import toteuttaa from "./toteuttaa";
+import aikoa from "./aikoa";
+import pyrkia from "./pyrkiä";
+import edeta from "./edetä";
+import keskittya from "./keskittyä";
+import paamaara from "./päämäärä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1306,5 +1319,18 @@ export const words: Word[] = [
   epaonnistua,
   selvita,
   ehkaista,
+  // Week 9 · Day 3 — Suunnitelma ja tavoite
+  suunnitelma,
+  suunnitella,
+  tavoite,
+  tarkoitus,
+  valmistautua,
+  saavuttaa,
+  toteuttaa,
+  aikoa,
+  pyrkia,
+  edeta,
+  keskittya,
+  paamaara,
   talo,
 ];
