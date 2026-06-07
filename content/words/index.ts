@@ -858,6 +858,19 @@ import lahde from "./lähde";
 import selain from "./selain";
 import kaynnistaa from "./käynnistää";
 import tietoturva from "./tietoturva";
+// Week 12 · Day 1 — Työ ja ura
+import ura from "./ura";
+import tehtava from "./tehtävä";
+import tyonantaja from "./työnantaja";
+import elake from "./eläke";
+import tyoton from "./työtön";
+import esimies from "./esimies";
+import hakea from "./hakea";
+import johto from "./johto";
+import palkkio from "./palkkio";
+import irtisanoa from "./irtisanoa";
+import patevyys from "./pätevyys";
+import ylennys from "./ylennys";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1722,5 +1735,18 @@ export const words: Word[] = [
   selain,
   kaynnistaa,
   tietoturva,
+  // Week 12 · Day 1 — Työ ja ura
+  ura,
+  tehtava,
+  tyonantaja,
+  elake,
+  tyoton,
+  esimies,
+  hakea,
+  johto,
+  palkkio,
+  irtisanoa,
+  patevyys,
+  ylennys,
   talo,
 ];
