@@ -1,0 +1,182 @@
+import type { Week } from "@/lib/content-types";
+
+// Week 10 — second week of the Sujuvuus phase (weeks 9–13), deepening abstract B1–B2
+// vocabulary: cause & logic, change & development, relationships & trust, character &
+// behaviour, society & influence, and thinking & knowledge. The reading text uses only
+// words that already exist in the corpus (Weeks 1–10).
+const week10: Week = {
+  week: 10,
+  phase: "Sujuvuus",
+  theme: "Ajattelu, muutos ja yhteiskunta",
+  days: [
+    {
+      day: 1,
+      theme: "Syy, ehto ja logiikka",
+      wordSlugs: [
+        "ehto",
+        "peruste",
+        "todiste",
+        "todistaa",
+        "olettaa",
+        "oletus",
+        "johtua",
+        "riippua",
+        "vaatia",
+        "edellyttää",
+        "merkitä",
+        "vaihtoehto",
+      ],
+    },
+    {
+      day: 2,
+      theme: "Muutos ja kehitys",
+      wordSlugs: [
+        "kehittyä",
+        "uudistua",
+        "uudistus",
+        "muodostaa",
+        "muodostua",
+        "siirtyä",
+        "laajentua",
+        "yleistyä",
+        "hidastua",
+        "vahvistua",
+        "heikentyä",
+        "vähitellen",
+      ],
+    },
+    {
+      day: 3,
+      theme: "Ihmissuhteet ja luottamus",
+      wordSlugs: [
+        "suhde",
+        "luottaa",
+        "luottamus",
+        "tukea",
+        "tuki",
+        "kohdella",
+        "kunnioittaa",
+        "riidellä",
+        "riita",
+        "sopu",
+        "pettää",
+        "läheinen",
+      ],
+    },
+    {
+      day: 4,
+      theme: "Luonne ja käytös",
+      wordSlugs: [
+        "itsenäinen",
+        "luotettava",
+        "avoin",
+        "utelias",
+        "vaatimaton",
+        "itsekäs",
+        "kohtelias",
+        "huolellinen",
+        "huolimaton",
+        "joustava",
+        "itsevarma",
+        "vastuullinen",
+      ],
+    },
+    {
+      day: 5,
+      theme: "Yhteiskunta ja vaikuttaminen",
+      wordSlugs: [
+        "kansalainen",
+        "yhteinen",
+        "julkinen",
+        "yksityinen",
+        "vapaus",
+        "sääntö",
+        "velvollisuus",
+        "vastuu",
+        "valinta",
+        "järjestö",
+        "jäsen",
+        "äänestys",
+      ],
+    },
+    {
+      day: 6,
+      theme: "Ajattelu ja tieto",
+      wordSlugs: [
+        "käsite",
+        "käsittää",
+        "havaita",
+        "havainto",
+        "päätellä",
+        "johtopäätös",
+        "arvioida",
+        "arvio",
+        "erottaa",
+        "tulkita",
+        "määritellä",
+        "huomio",
+      ],
+    },
+  ],
+  teksti: {
+    title: "Muutoksen edessä",
+    level: "B1",
+    topic: "Kaupungin kirjasto aiotaan sulkea. Kansalaiset perustavat järjestön, perustelevat kantansa ja vaikuttavat lopulta päätökseen yhteisellä vastuulla.",
+    paragraph:
+      "Kaupungissamme oli [[edessä]] iso [[muutos]]: vanha kirjasto aiottiin sulkea. Päätös [[jakoi]] [[kansalaiset]] kahtia. Joukko asukkaita [[muodosti]] oman [[järjestön]], jotta he voisivat [[vaikuttaa]] [[päätökseen]] yhdessä. Monet [[olettivat]], että sulkeminen [[johtui]] vain rahasta, mutta totuus oli mutkikkaampi. " +
+      "[[Järjestön]] [[jäsenet]] olivat aluksi eri mieltä. Osa [[vaati]] kirjaston säilyttämistä [[ehtona]] kaikelle muulle, toiset etsivät [[vaihtoehtoja]]. Rakentava keskustelu [[edellytti]] [[avointa]] mieltä ja toisten [[kunnioittamista]]. Vaikka välillä syntyi [[riitaa]], [[jäsenet]] [[luottivat]] toisiinsa ja pyrkivät [[sopuun]]. " +
+      "Kokouksessa [[arvioitiin]] eri [[vaihtoehtoja]] huolellisesti. Yksi [[jäsen]] esitti [[todisteita]] siitä, että kirjasto oli [[yhteinen]] voimavara. Hän [[perusteli]] kantansa selkeästi ja [[todisti]], että kävijämäärä oli itse asiassa kasvanut. Tästä saatoimme [[päätellä]], että aiempi [[johtopäätös]] sulkemisesta oli ollut hätäinen. " +
+      "[[Vähitellen]] ilmapiiri [[kehittyi]] parempaan suuntaan. Kaupunki tunnusti [[vastuunsa]] ja lupasi [[arvioida]] [[päätöksen]] uudelleen. [[Kansalaiset]] puolestaan [[ymmärsivät]], että myös heillä oli [[velvollisuus]] osallistua. [[Luottamus]] osapuolten välillä [[vahvistui]], kun molemmat [[kohtelivat]] toisiaan reilusti. " +
+      "[[Lopulta]] järjestettiin [[äänestys]]. [[Enemmistö]] kannatti kirjaston säilyttämistä, ja kaupunki [[suostui]] [[ratkaisuun]]. Opimme, että [[avoin]] keskustelu ja [[yhteinen]] [[vastuu]] voivat muuttaa jopa valmiilta näyttävän [[päätöksen]]. Pieni [[järjestö]] oli [[vaikuttanut]] enemmän kuin kukaan oli [[arvioinut]].",
+    translation:
+      "Our city was facing a big change: the old library was going to be closed. The decision split the citizens in two. A group of residents formed their own organization so that they could influence the decision together. Many assumed that the closure was only about money, but the truth was more complicated. " +
+      "The organization's members disagreed at first. Some demanded keeping the library as a condition for everything else, others looked for alternatives. A constructive discussion required an open mind and respect for others. Although a quarrel sometimes arose, the members trusted each other and strove for harmony. " +
+      "At the meeting the different alternatives were evaluated carefully. One member presented evidence that the library was a shared resource. He justified his position clearly and proved that the number of visitors had in fact grown. From this we could deduce that the earlier conclusion about closing it had been hasty. " +
+      "Gradually the atmosphere developed in a better direction. The city acknowledged its responsibility and promised to evaluate the decision again. The citizens, for their part, understood that they too had a duty to take part. Trust between the parties strengthened when both treated each other fairly. " +
+      "In the end a vote was held. The majority supported keeping the library, and the city agreed to the solution. We learned that open discussion and shared responsibility can change even a decision that seems final. A small organization had influenced more than anyone had estimated.",
+    targets: [
+      "edessä",
+      "muutos",
+      "jakaa",
+      "kansalainen",
+      "muodostaa",
+      "järjestö",
+      "vaikuttaa",
+      "päätös",
+      "olettaa",
+      "johtua",
+      "jäsen",
+      "vaatia",
+      "ehto",
+      "vaihtoehto",
+      "edellyttää",
+      "avoin",
+      "kunnioittaa",
+      "riita",
+      "luottaa",
+      "sopu",
+      "arvioida",
+      "todiste",
+      "yhteinen",
+      "perustella",
+      "todistaa",
+      "päätellä",
+      "johtopäätös",
+      "vähitellen",
+      "kehittyä",
+      "vastuu",
+      "ymmärtää",
+      "velvollisuus",
+      "luottamus",
+      "vahvistua",
+      "kohdella",
+      "lopulta",
+      "äänestys",
+      "enemmistö",
+      "suostua",
+      "ratkaisu",
+    ],
+  },
+};
+
+export default week10;
