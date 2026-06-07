@@ -637,6 +637,19 @@ import kieltaa from "./kieltää";
 import suostua from "./suostua";
 import huomauttaa from "./huomauttaa";
 import puolustaa from "./puolustaa";
+// Week 9 · Day 2 — Ongelma ja ratkaisu
+import ratkaisu from "./ratkaisu";
+import ratkaista from "./ratkaista";
+import vaikeus from "./vaikeus";
+import este from "./este";
+import haaste from "./haaste";
+import seuraus from "./seuraus";
+import aiheuttaa from "./aiheuttaa";
+import valttaa from "./välttää";
+import onnistua from "./onnistua";
+import epaonnistua from "./epäonnistua";
+import selvita from "./selvitä";
+import ehkaista from "./ehkäistä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1280,5 +1293,18 @@ export const words: Word[] = [
   suostua,
   huomauttaa,
   puolustaa,
+  // Week 9 · Day 2 — Ongelma ja ratkaisu
+  ratkaisu,
+  ratkaista,
+  vaikeus,
+  este,
+  haaste,
+  seuraus,
+  aiheuttaa,
+  valttaa,
+  onnistua,
+  epaonnistua,
+  selvita,
+  ehkaista,
   talo,
 ];
