@@ -780,6 +780,19 @@ import erottaa from "./erottaa";
 import tulkita from "./tulkita";
 import maaritella from "./määritellä";
 import huomio from "./huomio";
+// Week 11 · Day 1 — Tiede ja tutkimus
+import tiede from "./tiede";
+import tutkimus from "./tutkimus";
+import tutkija from "./tutkija";
+import tulos from "./tulos";
+import menetelma from "./menetelmä";
+import teoria from "./teoria";
+import mitata from "./mitata";
+import osoittaa from "./osoittaa";
+import tieteellinen from "./tieteellinen";
+import loyto from "./löytö";
+import aineisto from "./aineisto";
+import julkaista from "./julkaista";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1566,5 +1579,18 @@ export const words: Word[] = [
   tulkita,
   maaritella,
   huomio,
+  // Week 11 · Day 1 — Tiede ja tutkimus
+  tiede,
+  tutkimus,
+  tutkija,
+  tulos,
+  menetelma,
+  teoria,
+  mitata,
+  osoittaa,
+  tieteellinen,
+  loyto,
+  aineisto,
+  julkaista,
   talo,
 ];
