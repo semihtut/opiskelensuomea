@@ -767,6 +767,19 @@ import valinta from "./valinta";
 import jarjesto from "./järjestö";
 import jasen from "./jäsen";
 import aanestys from "./äänestys";
+// Week 10 · Day 6 — Ajattelu ja tieto
+import kasite from "./käsite";
+import kasittaa from "./käsittää";
+import havaita from "./havaita";
+import havainto from "./havainto";
+import paatella from "./päätellä";
+import johtopaatos from "./johtopäätös";
+import arvioida from "./arvioida";
+import arvio from "./arvio";
+import erottaa from "./erottaa";
+import tulkita from "./tulkita";
+import maaritella from "./määritellä";
+import huomio from "./huomio";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1540,5 +1553,18 @@ export const words: Word[] = [
   jarjesto,
   jasen,
   aanestys,
+  // Week 10 · Day 6 — Ajattelu ja tieto
+  kasite,
+  kasittaa,
+  havaita,
+  havainto,
+  paatella,
+  johtopaatos,
+  arvioida,
+  arvio,
+  erottaa,
+  tulkita,
+  maaritella,
+  huomio,
   talo,
 ];
