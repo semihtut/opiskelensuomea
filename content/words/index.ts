@@ -624,6 +624,19 @@ import ulkomaalainen from "./ulkomaalainen";
 import seikkailu from "./seikkailu";
 import tutustua from "./tutustua";
 import varata from "./varata";
+// Week 9 · Day 1 — Mielipide ja perustelu
+import mielipide from "./mielipide";
+import nakemys from "./näkemys";
+import perustella from "./perustella";
+import vaittaa from "./väittää";
+import arvostaa from "./arvostaa";
+import kannattaa from "./kannattaa";
+import vastustaa from "./vastustaa";
+import myontaa from "./myöntää";
+import kieltaa from "./kieltää";
+import suostua from "./suostua";
+import huomauttaa from "./huomauttaa";
+import puolustaa from "./puolustaa";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1254,5 +1267,18 @@ export const words: Word[] = [
   seikkailu,
   tutustua,
   varata,
+  // Week 9 · Day 1 — Mielipide ja perustelu
+  mielipide,
+  nakemys,
+  perustella,
+  vaittaa,
+  arvostaa,
+  kannattaa,
+  vastustaa,
+  myontaa,
+  kieltaa,
+  suostua,
+  huomauttaa,
+  puolustaa,
   talo,
 ];
