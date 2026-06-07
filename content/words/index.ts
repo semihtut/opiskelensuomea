@@ -897,6 +897,19 @@ import opiskelija from "./opiskelija";
 import sanasto from "./sanasto";
 import kaannos from "./käännös";
 import edistya from "./edistyä";
+// Week 12 · Day 4 — Asiointi ja hallinto
+import lupa from "./lupa";
+import lomake from "./lomake";
+import virasto from "./virasto";
+import virkailija from "./virkailija";
+import asiakirja from "./asiakirja";
+import allekirjoittaa from "./allekirjoittaa";
+import ilmoittautua from "./ilmoittautua";
+import peruuttaa from "./peruuttaa";
+import varmistaa from "./varmistaa";
+import kasitella from "./käsitellä";
+import maksu from "./maksu";
+import hakija from "./hakija";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1800,5 +1813,18 @@ export const words: Word[] = [
   sanasto,
   kaannos,
   edistya,
+  // Week 12 · Day 4 — Asiointi ja hallinto
+  lupa,
+  lomake,
+  virasto,
+  virkailija,
+  asiakirja,
+  allekirjoittaa,
+  ilmoittautua,
+  peruuttaa,
+  varmistaa,
+  kasitella,
+  maksu,
+  hakija,
   talo,
 ];
