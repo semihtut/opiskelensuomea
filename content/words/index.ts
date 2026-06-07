@@ -936,6 +936,19 @@ import maahanmuuttaja from "./maahanmuuttaja";
 import tyottomyys from "./työttömyys";
 import turvallisuus from "./turvallisuus";
 import ilmio from "./ilmiö";
+// Week 13 · Day 1 — Keho ja terveys
+import nena from "./nenä";
+import kasvot from "./kasvot";
+import iho from "./iho";
+import luu from "./luu";
+import lihas from "./lihas";
+import polvi from "./polvi";
+import olkapaa from "./olkapää";
+import nilkka from "./nilkka";
+import leuka from "./leuka";
+import otsa from "./otsa";
+import poski from "./poski";
+import kaula from "./kaula";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1878,5 +1891,18 @@ export const words: Word[] = [
   tyottomyys,
   turvallisuus,
   ilmio,
+  // Week 13 · Day 1 — Keho ja terveys
+  nena,
+  kasvot,
+  iho,
+  luu,
+  lihas,
+  polvi,
+  olkapaa,
+  nilkka,
+  leuka,
+  otsa,
+  poski,
+  kaula,
   talo,
 ];
