@@ -975,6 +975,19 @@ import jauho from "./jauho";
 import oljy from "./öljy";
 import kakku from "./kakku";
 import jogurtti from "./jogurtti";
+// Week 13 · Day 4 — Arjen verbit
+import tuoda from "./tuoda";
+import vieda from "./viedä";
+import joutua from "./joutua";
+import ehtia from "./ehtiä";
+import huolehtia from "./huolehtia";
+import parjata from "./pärjätä";
+import viihtya from "./viihtyä";
+import totella from "./totella";
+import kieltaytya from "./kieltäytyä";
+import suositella from "./suositella";
+import vasya from "./väsyä";
+import kiirehtia from "./kiirehtiä";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1956,5 +1969,18 @@ export const words: Word[] = [
   oljy,
   kakku,
   jogurtti,
+  // Week 13 · Day 4 — Arjen verbit
+  tuoda,
+  vieda,
+  joutua,
+  ehtia,
+  huolehtia,
+  parjata,
+  viihtya,
+  totella,
+  kieltaytya,
+  suositella,
+  vasya,
+  kiirehtia,
   talo,
 ];
