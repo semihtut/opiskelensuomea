@@ -8,9 +8,10 @@ import week5 from "./5";
 import week6 from "./6";
 import week7 from "./7";
 import week8 from "./8";
+import week9 from "./9";
 
 /**
  * Registry of all week definitions. Add a week: create content/weeks/<n>.ts and
  * import it here. The full Suomi 90 program is 13 weeks across 3 phases.
  */
-export const weeks: Week[] = [week1, week2, week3, week4, week5, week6, week7, week8];
+export const weeks: Week[] = [week1, week2, week3, week4, week5, week6, week7, week8, week9];
