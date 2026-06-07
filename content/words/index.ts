@@ -871,6 +871,19 @@ import palkkio from "./palkkio";
 import irtisanoa from "./irtisanoa";
 import patevyys from "./pätevyys";
 import ylennys from "./ylennys";
+// Week 12 · Day 2 — Laki ja oikeus
+import rikos from "./rikos";
+import rangaistus from "./rangaistus";
+import tuomio from "./tuomio";
+import tuomari from "./tuomari";
+import syyllinen from "./syyllinen";
+import syyton from "./syytön";
+import laillinen from "./laillinen";
+import laiton from "./laiton";
+import oikeudenmukainen from "./oikeudenmukainen";
+import valittaa from "./valittaa";
+import tuomita from "./tuomita";
+import todistaja from "./todistaja";
 
 /**
  * Registry of all word entries. Order is the canonical learning sequence used
@@ -1748,5 +1761,18 @@ export const words: Word[] = [
   irtisanoa,
   patevyys,
   ylennys,
+  // Week 12 · Day 2 — Laki ja oikeus
+  rikos,
+  rangaistus,
+  tuomio,
+  tuomari,
+  syyllinen,
+  syyton,
+  laillinen,
+  laiton,
+  oikeudenmukainen,
+  valittaa,
+  tuomita,
+  todistaja,
   talo,
 ];
