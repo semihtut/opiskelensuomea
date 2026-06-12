@@ -11,7 +11,7 @@ const kerata: Word = {
   en: "to collect, gather, pick",
   selitys:
     "Koota yhteen useita asioita: 'kerätä marjoja' / 'kerätä rahaa'. Tyyppi 4 (-ätä): kerätä → kerään. Vrt. keräys (collection), koota (to assemble).",
-  kuva: { emoji: "🧺", alt: "kerätä – koota yhteen useita asioita" },
+  kuva: { alt: "kerätä – koota yhteen useita asioita" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ätä); ei astevaihtelua; vartalo kerää-",

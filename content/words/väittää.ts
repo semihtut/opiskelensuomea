@@ -11,7 +11,7 @@ const vaittaa: Word = {
   en: "to claim, assert, argue",
   selitys:
     "Esittää jotakin todeksi, vaikka asia ei olisi varma: 'hän väittää olevansa oikeassa'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (väitän). Usein että-lauseen kanssa. Vrt. väite, väittely.",
-  kuva: { emoji: "🙋", alt: "väittää – esittää jotakin todeksi" },
+  kuva: { alt: "väittää – esittää jotakin todeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (väitä- ~ väittä-)",

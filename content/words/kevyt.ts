@@ -11,7 +11,7 @@ const kevyt: Word = {
   en: "light (not heavy)",
   selitys:
     "Vähän painava; myös helppo tai vähärasvainen. Tyyppi 43, ei astevaihtelua. Vartalo kevye-: kevyen, kevyttä. Vastakohta raskas.",
-  kuva: { emoji: "🪶", alt: "kevyt – kevyt sulka" },
+  kuva: { alt: "kevyt – kevyt sulka" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 43/ohut; ei astevaihtelua",

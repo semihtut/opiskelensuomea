@@ -11,7 +11,7 @@ const tuoda: Word = {
   en: "to bring; to import",
   selitys:
     "Kuljettaa jokin tänne tai puhujaa kohti: 'tuoda lahja'. Vastakohta viedä (kuljettaa pois). Tyyppi 2 (-da), Kotus 64/juoda, ei astevaihtelua; imperfektissä vokaali muuttuu (tuon → toin). Vrt. viedä, kantaa, tuonti.",
-  kuva: { emoji: "📥", alt: "tuoda – kuljettaa jokin tänne tai puhujaa kohti" },
+  kuva: { alt: "tuoda – kuljettaa jokin tänne tai puhujaa kohti" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-da), Kotus 64/juoda; ei astevaihtelua (vartalo tuo- ~ to-)",

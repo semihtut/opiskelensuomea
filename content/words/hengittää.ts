@@ -11,7 +11,7 @@ const hengittaa: Word = {
   en: "to breathe",
   selitys:
     "Vetää ilmaa keuhkoihin ja päästää sitä ulos: 'hengittää syvään'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (hengitän). Johdettu sanasta henki. Vrt. henki, hengitys, hengästyä.",
-  kuva: { emoji: "🫁", alt: "hengittää – vetää ilmaa keuhkoihin ja ulos" },
+  kuva: { alt: "hengittää – vetää ilmaa keuhkoihin ja ulos" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (hengitä- ~ hengittä-)",

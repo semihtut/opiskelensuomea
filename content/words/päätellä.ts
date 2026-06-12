@@ -11,7 +11,7 @@ const paatella: Word = {
   en: "to deduce, infer, conclude",
   selitys:
     "Tehdä johtopäätös tietojen perusteella: 'päätellä jostakin'. Tyyppi 3 (-llä), Kotus 67/tulla, astevaihtelu tt:t (päättelen vahva, päätellä heikko). Hallitsee elatiivia ('päätellä jostakin'). Vrt. johtopäätös, päättää, päätös.",
-  kuva: { emoji: "🕵️", alt: "päätellä – tehdä johtopäätös tietojen perusteella" },
+  kuva: { alt: "päätellä – tehdä johtopäätös tietojen perusteella" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä), Kotus 67/tulla; astevaihtelu tt:t (päätel- ~ päättele-)",

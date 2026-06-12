@@ -11,7 +11,7 @@ const merkitys: Word = {
   en: "meaning; significance, importance",
   selitys:
     "Asian merkitys tai tärkeys: 'sanan merkitys' / 'suuri merkitys'. Tyyppi 39, ei astevaihtelua. Juuri verbistä merkitä. Vrt. tarkoitus (purpose), tärkeä (important).",
-  kuva: { emoji: "🔣", alt: "merkitys – asian merkitys tai tärkeys" },
+  kuva: { alt: "merkitys – asian merkitys tai tärkeys" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo merkitykse-)",

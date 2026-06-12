@@ -11,7 +11,7 @@ const hoitaa: Word = {
   en: "to take care of, handle, treat, nurse",
   selitys:
     "Pitää huolta jostakin tai hoitaa asia kuntoon: 'hoitaa lapsia' / 'hoitaa asia'. Tyyppi 1 (-aa), astevaihtelu t:d (hoidan ~ hoitaa). Vrt. hoito (care), hoitaja (nurse, carer).",
-  kuva: { emoji: "🩺", alt: "hoitaa – pitää huolta jostakin" },
+  kuva: { alt: "hoitaa – pitää huolta jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu t:d (hoidan ↔ hoitaa); vartalo hoita- ~ hoida-",

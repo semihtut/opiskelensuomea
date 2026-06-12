@@ -62,8 +62,7 @@ export interface Word {
 
   kuva?: {
     // visual for dual-coding on the flashcard (icon-first) — see docs/DESIGN-SYSTEM.md
-    icon?: string; // icon key (mapped to inline SVG in lib/icons)
-    emoji?: string; // quick fallback glyph until a vector exists
+    icon?: string; // icon key (mapped to inline SVG in lib/icons); omit when no vector exists
     alt: string; // accessible description of the illustration
   };
 
@@ -229,6 +228,5 @@ export interface Badge {
   kind: BadgeKind;
   title: string; // FINNISH name, e.g. "Viikon lukija"
   description: string; // unlock criteria, FINNISH
-  icon: string; // icon key
   threshold?: number; // e.g. streak 7 / words 100 / week n
 }

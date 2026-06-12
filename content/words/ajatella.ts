@@ -11,7 +11,7 @@ const ajatella: Word = {
   en: "to think",
   selitys:
     "Käyttää järkeä, pohtia. Tyyppi 3 (-lla), astevaihtelu tt:t (ajattele- → ajatel-). Juuri substantiivista ajatus.",
-  kuva: { emoji: "🤔", alt: "ajatella – ajattelemisen ele" },
+  kuva: { alt: "ajatella – ajattelemisen ele" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); astevaihtelu tt:t (ajattele- ↔ ajatel-)",

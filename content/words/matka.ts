@@ -12,7 +12,7 @@ const matka: Word = {
   en: "trip, journey; distance",
   selitys:
     "Siirtyminen paikasta toiseen tai sen pituus. Tyyppi 9, EI astevaihtelua (matka → matkan). Myös 'matkalla' = on the way.",
-  kuva: { emoji: "🧳", alt: "matka – matkalaukku ja reitti" },
+  kuva: { alt: "matka – matkalaukku ja reitti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

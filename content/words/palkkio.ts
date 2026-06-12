@@ -11,7 +11,7 @@ const palkkio: Word = {
   en: "reward, fee, compensation, bonus",
   selitys:
     "Korvaus tai palkinto tehdystä työstä tai suorituksesta: 'maksaa palkkio', 'kokouspalkkio'. Tyyppi 3/valtio, ei astevaihtelua. Sanasta palkka. Vrt. palkka, palkita, palkinto.",
-  kuva: { emoji: "💰", alt: "palkkio – korvaus tai palkinto tehdystä työstä" },
+  kuva: { alt: "palkkio – korvaus tai palkinto tehdystä työstä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo palkkio-)",

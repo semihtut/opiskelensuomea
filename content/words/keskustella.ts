@@ -11,7 +11,7 @@ const keskustella: Word = {
   en: "to discuss, to converse",
   selitys:
     "Puhua jostakin yhdessä toisen kanssa: 'keskustella asiasta'. Tyyppi 3 (-lla), ei astevaihtelua, vartalo keskustele-. Aiheesta elatiivi: keskustella jostakin. Vrt. keskustelu (discussion), puhua, jutella.",
-  kuva: { emoji: "💬", alt: "keskustella – puhua yhdessä jostakin" },
+  kuva: { alt: "keskustella – puhua yhdessä jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); ei astevaihtelua; vartalo keskustele-",

@@ -11,7 +11,7 @@ const oletus: Word = {
   en: "assumption, supposition, default",
   selitys:
     "Asia, jonka oletetaan olevan totta ilman varmaa tietoa: 'perustuu oletukseen'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä olettaa. Tietotekniikassa: oletusarvo = default. Vrt. olettaa, otaksuma.",
-  kuva: { emoji: "💭", alt: "oletus – asia jonka oletetaan olevan totta" },
+  kuva: { alt: "oletus – asia jonka oletetaan olevan totta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo oletukse-)",

@@ -11,7 +11,7 @@ const perinne: Word = {
   en: "tradition",
   selitys:
     "Sukupolvelta toiselle siirtyvä tapa tai tieto: 'vanha perinne', 'vaalia perinteitä'. Tyyppi 48/hame, astevaihtelu nt:nn (vartalo perintee-, nominatiivi perinne). Johdettu verbistä periä. Vrt. periä, tapa, kulttuuri.",
-  kuva: { emoji: "🪔", alt: "perinne – sukupolvelta toiselle siirtyvä tapa tai tieto" },
+  kuva: { alt: "perinne – sukupolvelta toiselle siirtyvä tapa tai tieto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu nt:nn (perintee- ~ perinne)",

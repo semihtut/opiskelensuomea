@@ -11,7 +11,7 @@ const selittaa: Word = {
   en: "to explain",
   selitys:
     "Tehdä jokin ymmärrettäväksi: 'selitän sinulle' (I'll explain to you). Astevaihtelu tt:t (selittää → selitän). Henkilö allatiivissa: 'selitä minulle'. Vrt. kertoa (tell).",
-  kuva: { emoji: "🗣️", alt: "selittää – tehdä ymmärrettäväksi" },
+  kuva: { alt: "selittää – tehdä ymmärrettäväksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo selittä-",

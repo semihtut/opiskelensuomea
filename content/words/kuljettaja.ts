@@ -11,7 +11,7 @@ const kuljettaja: Word = {
   en: "driver",
   selitys:
     "Henkilö, joka ajaa ajoneuvoa: 'bussin kuljettaja'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko kuljettajia. Tekijännimi verbistä kuljettaa. Vrt. ajaja, bussinkuljettaja.",
-  kuva: { emoji: "🚌", alt: "kuljettaja – henkilö, joka ajaa ajoneuvoa" },
+  kuva: { alt: "kuljettaja – henkilö, joka ajaa ajoneuvoa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua; tekijännimi (-ja)",

@@ -11,7 +11,7 @@ const pesta: Word = {
   en: "to wash",
   selitys:
     "Puhdistaa vedellä (ja saippualla). Tyyppi 3 (e-vartalo): pestä → pesen. Huom. NUT-partisiippi pessyt. Vrt. peseytyä (pestä itsensä).",
-  kuva: { emoji: "🧼", alt: "pestä – peseminen vedellä ja saippualla" },
+  kuva: { alt: "pestä – peseminen vedellä ja saippualla" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-stä → -se); ei astevaihtelua",

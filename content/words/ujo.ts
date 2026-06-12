@@ -11,7 +11,7 @@ const ujo: Word = {
   en: "shy, timid",
   selitys:
     "Arka ja vähäpuheinen muiden seurassa: 'ujo lapsi'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko ujoja. Vertailu ujompi – ujoin. Vastakohta rohkea / ulospäinsuuntautunut.",
-  kuva: { emoji: "😳", alt: "ujo – arka ja vähäpuheinen muiden seurassa" },
+  kuva: { alt: "ujo – arka ja vähäpuheinen muiden seurassa" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 1/valo; ei astevaihtelua",

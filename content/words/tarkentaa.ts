@@ -11,7 +11,7 @@ const tarkentaa: Word = {
   en: "to clarify, specify; to focus",
   selitys:
     "Tehdä jokin tarkemmaksi tai täsmällisemmäksi: 'tarkentaa vastaustaan'. Tyyppi 1 (-aa), Kotus 54/huutaa, astevaihtelu nt:nn (tarkennan) ja imperfektissä t→s (tarkensin). Johdettu sanasta tarkka. Vrt. tarkka, tarkennus.",
-  kuva: { emoji: "🔎", alt: "tarkentaa – tehdä jokin tarkemmaksi tai täsmällisemmäksi" },
+  kuva: { alt: "tarkentaa – tehdä jokin tarkemmaksi tai täsmällisemmäksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 54/huutaa; astevaihtelu nt:nn + imperfektin t→s",

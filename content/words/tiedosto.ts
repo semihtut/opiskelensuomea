@@ -11,7 +11,7 @@ const tiedosto: Word = {
   en: "file (computing)",
   selitys:
     "Tietokoneelle tallennettu kokonaisuus, esim. asiakirja tai kuva: 'avata tiedosto'. Tyyppi 1/valo, ei astevaihtelua (st säilyy). Johdettu sanasta tieto. Vrt. tieto, kansio, tallentaa.",
-  kuva: { emoji: "📄", alt: "tiedosto – tietokoneelle tallennettu kokonaisuus" },
+  kuva: { alt: "tiedosto – tietokoneelle tallennettu kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo tiedosto-)",

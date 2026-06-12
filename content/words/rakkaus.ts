@@ -11,7 +11,7 @@ const rakkaus: Word = {
   en: "love, affection",
   selitys:
     "Syvä lämmin tunne toista kohtaan: 'äidin rakkaus'. Tyyppi 40, astevaihtelu t:d (rakkaus → rakkauden). Juuri adjektiivista rakas (dear). Vrt. rakastaa (to love).",
-  kuva: { emoji: "💕", alt: "rakkaus – syvä lämmin tunne toista kohtaan" },
+  kuva: { alt: "rakkaus – syvä lämmin tunne toista kohtaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d",

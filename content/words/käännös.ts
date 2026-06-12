@@ -11,7 +11,7 @@ const kaannos: Word = {
   en: "translation; turn",
   selitys:
     "1) Tekstin kääntäminen toiselle kielelle tai sen tulos: 'käännös englannista suomeksi'. 2) Suunnan muutos, käännös. Tyyppi 39/vastaus, ei astevaihtelua (-ös → -ökse-). Verbistä kääntää. Vrt. kääntää, kääntäjä, käännöstyö.",
-  kuva: { emoji: "🔄", alt: "käännös – tekstin kääntäminen toiselle kielelle tai suunnan muutos" },
+  kuva: { alt: "käännös – tekstin kääntäminen toiselle kielelle tai suunnan muutos" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo käännökse-)",

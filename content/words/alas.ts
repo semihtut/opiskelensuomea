@@ -11,7 +11,7 @@ const alas: Word = {
   en: "down (to down), downwards",
   selitys:
     "Alaspäin. Suuntamuoto. Paikallissarja: alhaalla (missä) – alhaalta (mistä) – alas (mihin). Vastakohta ylös. Vrt. istua alas = to sit down.",
-  kuva: { emoji: "🔽", alt: "alas – liike alaspäin" },
+  kuva: { alt: "alas – liike alaspäin" },
 
   kielioppi: {
     tyyppi: "suunnan adverbi; paikallissarja alhaalla / alhaalta / alas",

@@ -11,7 +11,7 @@ const veri: Word = {
   en: "blood",
   selitys:
     "Punainen neste, joka kiertää kehossa: 'verta vuotaa'. Tyyppi 26, ei astevaihtelua, vartalo vere-. Poikkeus: partitiivi verta on takavokaalinen, muut muodot etuvokaalisia. Vrt. verinen (bloody), verisuoni (blood vessel).",
-  kuva: { emoji: "🩸", alt: "veri – kehossa kiertävä punainen neste" },
+  kuva: { alt: "veri – kehossa kiertävä punainen neste" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo vere-)",

@@ -11,7 +11,7 @@ const palkata: Word = {
   en: "to hire, employ, recruit",
   selitys:
     "Ottaa joku töihin palkkaa vastaan: 'palkata uusi työntekijä'. Tyyppi 4 (-ata), astevaihtelu kk:k (palkkaan ~ palkata). Johdettu sanasta palkka. Vrt. palkkaus (hiring), työnantaja (employer).",
-  kuva: { emoji: "🧑‍💼", alt: "palkata – ottaa joku töihin palkkaa vastaan" },
+  kuva: { alt: "palkata – ottaa joku töihin palkkaa vastaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); astevaihtelu kk:k (palkkaan ↔ palkata); vartalo palkkaa- ~ palka-",

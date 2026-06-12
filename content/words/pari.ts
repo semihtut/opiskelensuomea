@@ -11,7 +11,7 @@ const pari: Word = {
   en: "pair, couple; a couple of",
   selitys:
     "1) Kaksi yhteen kuuluvaa: 'pari kenkiä'. 2) Pariskunta. 3) Epämääräisesti 'pari' = muutama: 'pari päivää'. Tyyppi 5/risti, ei astevaihtelua. Vrt. kaksi, pariskunta, muutama.",
-  kuva: { emoji: "👫", alt: "pari – kaksi yhteen kuuluvaa tai pariskunta" },
+  kuva: { alt: "pari – kaksi yhteen kuuluvaa tai pariskunta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua (vartalo pari-)",

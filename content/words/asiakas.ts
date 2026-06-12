@@ -11,7 +11,7 @@ const asiakas: Word = {
   en: "customer, client",
   selitys:
     "Henkilö, joka ostaa tai käyttää palvelua: 'tyytyväinen asiakas'. Tyyppi 41, astevaihtelu k:kk (asiakas → asiakkaan). Juuri asia + -kas. Vrt. asiakaspalvelu (customer service).",
-  kuva: { emoji: "🛍️", alt: "asiakas – palvelua tai tuotetta ostava henkilö" },
+  kuva: { alt: "asiakas – palvelua tai tuotetta ostava henkilö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 41/vieras; astevaihtelu k:kk",

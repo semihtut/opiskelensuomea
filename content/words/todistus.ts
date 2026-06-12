@@ -11,7 +11,7 @@ const todistus: Word = {
   en: "certificate; testimony, proof",
   selitys:
     "1) Virallinen asiakirja, joka todistaa jonkin: 'koulutodistus', 'lääkärintodistus'. 2) Todistajan kertomus oikeudessa. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Verbistä todistaa. Vrt. todistaa, todiste, todistaja.",
-  kuva: { emoji: "📜", alt: "todistus – virallinen asiakirja joka todistaa jonkin" },
+  kuva: { alt: "todistus – virallinen asiakirja joka todistaa jonkin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo todistukse-)",

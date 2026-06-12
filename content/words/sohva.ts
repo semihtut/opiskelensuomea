@@ -11,7 +11,7 @@ const sohva: Word = {
   en: "sofa, couch",
   selitys:
     "Pehmeä istuinkaluste usealle hengelle. Tyyppi 9, ei astevaihtelua.",
-  kuva: { emoji: "🛋️", alt: "sohva – olohuoneen sohva" },
+  kuva: { alt: "sohva – olohuoneen sohva" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

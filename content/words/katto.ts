@@ -11,7 +11,7 @@ const katto: Word = {
   en: "roof; ceiling",
   selitys:
     "Rakennuksen ylin osa (roof) tai huoneen yläpinta (ceiling). Tyyppi 1, astevaihtelu tt:t (katto → katon). Vrt. lattia (= floor).",
-  kuva: { emoji: "🏠", alt: "katto – talon katto" },
+  kuva: { alt: "katto – talon katto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t",

@@ -11,7 +11,7 @@ const jatkaa: Word = {
   en: "to continue, go on; to extend",
   selitys:
     "Mennä eteenpäin, ei lopettaa: 'jatkan työtä'. Tyyppi 56 (kaivaa), ei astevaihtelua, imperfekti -oi-: jatkoin. Kohde partitiivissa: 'jatkaa lukemista'. Vastakohta lopettaa.",
-  kuva: { emoji: "▶️", alt: "jatkaa – mennä eteenpäin, ei lopettaa" },
+  kuva: { alt: "jatkaa – mennä eteenpäin, ei lopettaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa, malli kaivaa); ei astevaihtelua; vartalo jatka-",

@@ -11,7 +11,7 @@ const muuttua: Word = {
   en: "to change, become (intransitive)",
   selitys:
     "Tulla erilaiseksi itsestään: 'sää muuttuu'. Astevaihtelu tt:t (muuttua → muutun). Tulosija translatiivi: 'vesi muuttuu jääksi'. Vrt. muuttaa = to change/move (transitiivinen).",
-  kuva: { emoji: "🦋", alt: "muuttua – tulla erilaiseksi" },
+  kuva: { alt: "muuttua – tulla erilaiseksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); astevaihtelu tt:t; vartalo muuttu-",

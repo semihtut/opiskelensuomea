@@ -11,7 +11,7 @@ const ilmio: Word = {
   en: "phenomenon",
   selitys:
     "Havaittava tapahtuma tai asia luonnossa tai yhteiskunnassa: 'yhteiskunnallinen ilmiö', 'luonnonilmiö'. Tyyppi 3/valtio, ei astevaihtelua. Sanasta ilmetä / ilma. Vrt. ilmetä, tapahtuma, luonnonilmiö.",
-  kuva: { emoji: "🌀", alt: "ilmiö – havaittava tapahtuma tai asia luonnossa tai yhteiskunnassa" },
+  kuva: { alt: "ilmiö – havaittava tapahtuma tai asia luonnossa tai yhteiskunnassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo ilmiö-)",

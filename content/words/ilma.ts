@@ -11,7 +11,7 @@ const ilma: Word = {
   en: "air; (colloquial) weather",
   selitys:
     "Kaasuseos, jota hengitämme; arkikielessä myös 'sää'. Tyyppi 9, ei astevaihtelua. HUOM: 'ilman' on myös prepositio (= without).",
-  kuva: { emoji: "💨", alt: "ilma – raikas ilma" },
+  kuva: { alt: "ilma – raikas ilma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

@@ -11,7 +11,7 @@ const kaupunki: Word = {
   en: "city, town",
   selitys:
     "Suuri asutuskeskus. Tyyppi 5, astevaihtelu nk:ng (kaupunki → kaupungin). Vastakohta maaseutu.",
-  kuva: { emoji: "🏙️", alt: "kaupunki – rakennuksia ja katuja" },
+  kuva: { alt: "kaupunki – rakennuksia ja katuja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu nk:ng",

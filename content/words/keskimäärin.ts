@@ -10,7 +10,7 @@ const keskimaarin: Word = {
   en: "on average, on the average",
   selitys:
     "Keskiarvona laskettuna, tavallisesti: 'syön keskimäärin kolme ateriaa päivässä'. Taipumaton adverbi. Vrt. keskiarvo (average), keskimääräinen (average, adj.), suunnilleen.",
-  kuva: { emoji: "📊", alt: "keskimäärin – keskiarvona laskettuna" },
+  kuva: { alt: "keskimäärin – keskiarvona laskettuna" },
 
   kielioppi: {
     tyyppi: "adverbi (määrän adverbi); taipumaton",

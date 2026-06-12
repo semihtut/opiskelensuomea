@@ -11,7 +11,7 @@ const saastua: Word = {
   en: "to become polluted, get contaminated",
   selitys:
     "Tulla likaiseksi tai myrkyttyä haitallisista aineista: 'vesi saastui'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen (transit. saastuttaa). Johdettu sanasta saaste. Vrt. saaste, saastuttaa.",
-  kuva: { emoji: "☣️", alt: "saastua – tulla likaiseksi haitallisista aineista" },
+  kuva: { alt: "saastua – tulla likaiseksi haitallisista aineista" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo saastu-",

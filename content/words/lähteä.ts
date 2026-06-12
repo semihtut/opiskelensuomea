@@ -11,7 +11,7 @@ const lahtea: Word = {
   en: "to leave, set off, depart",
   selitys:
     "Lähteä pois jostakin paikasta; aloittaa matka. Tyyppi 1, vartalo lähte-, astevaihtelu t:d (lähden). Lähtökohta usein elatiivissa.",
-  kuva: { emoji: "🚪", alt: "lähteä – ihminen lähdössä ovesta" },
+  kuva: { alt: "lähteä – ihminen lähdössä ovesta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-eä); t:d-astevaihtelu (lähte- → lähde-)",

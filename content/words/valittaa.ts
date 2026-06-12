@@ -11,7 +11,7 @@ const valittaa: Word = {
   en: "to complain; to appeal; to lament",
   selitys:
     "1) Ilmaista tyytymättömyyttä: 'valittaa palvelusta'. 2) Hakea muutosta tuomioon: 'valittaa päätöksestä'. 3) Voihkia kivusta. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (valitan). HUOM: eri sana kuin valita (= to choose, valitsen). Vrt. valitus, valitettavasti.",
-  kuva: { emoji: "😤", alt: "valittaa – ilmaista tyytymättömyyttä tai hakea muutosta tuomioon" },
+  kuva: { alt: "valittaa – ilmaista tyytymättömyyttä tai hakea muutosta tuomioon" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (valita- ~ valitta-)",

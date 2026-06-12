@@ -11,7 +11,7 @@ const tie: Word = {
   en: "road, way",
   selitys:
     "Reitti paikasta toiseen; myös kuvallisesti 'keino' tai 'reitti'. Tyyppi 19, ei astevaihtelua. Monikkovartalo te- (teitä, teiden).",
-  kuva: { emoji: "🛤️", alt: "tie – maantie kohti horisonttia" },
+  kuva: { alt: "tie – maantie kohti horisonttia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 19/suo; ei astevaihtelua",

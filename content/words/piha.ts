@@ -11,7 +11,7 @@ const piha: Word = {
   en: "yard, courtyard",
   selitys:
     "Talon ympärillä oleva alue: 'leikkiä pihalla'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko pihoja. Vrt. takapiha (backyard), pihapuu, sisäpiha.",
-  kuva: { emoji: "🏡", alt: "piha – talon ympärillä oleva alue" },
+  kuva: { alt: "piha – talon ympärillä oleva alue" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

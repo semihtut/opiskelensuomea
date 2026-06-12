@@ -11,7 +11,7 @@ const matkustaa: Word = {
   en: "to travel",
   selitys:
     "Siirtyä paikasta toiseen kauemmas: 'matkustaa junalla'. Tyyppi 1 (-aa), ei astevaihtelua (st säilyy), vartalo matkusta-. Johdettu sanasta matka. Vrt. matkustaja (traveller), matka (journey).",
-  kuva: { emoji: "🧳", alt: "matkustaa – siirtyä paikasta toiseen" },
+  kuva: { alt: "matkustaa – siirtyä paikasta toiseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); ei astevaihtelua; vartalo matkusta-",

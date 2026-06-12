@@ -11,7 +11,7 @@ const vamma: Word = {
   en: "injury; disability",
   selitys:
     "Kehon vaurio tai pysyvä haitta: 'urheiluvamma'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko vammoja. Vrt. loukkaantua, vammautua, haava.",
-  kuva: { emoji: "🩹", alt: "vamma – kehon vaurio tai pysyvä haitta" },
+  kuva: { alt: "vamma – kehon vaurio tai pysyvä haitta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo vamma-)",

@@ -11,7 +11,7 @@ const ylittää: Word = {
   en: "to cross (over); to exceed",
   selitys:
     "Mennä jonkin yli tai ylittää raja/määrä: 'ylittää katu' / 'ylittää nopeusrajoitus'. Tyyppi 1 (-ää), astevaihtelu tt:t (ylitän ~ ylittää). Johdettu sanasta yli. Vrt. ylitys, alittaa (vastakohta).",
-  kuva: { emoji: "🚸", alt: "ylittää – mennä jonkin yli" },
+  kuva: { alt: "ylittää – mennä jonkin yli" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (ylitän ↔ ylittää)",

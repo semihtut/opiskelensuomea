@@ -12,7 +12,7 @@ const viikonloppu: Word = {
   en: "weekend",
   selitys:
     "Viikon loppu, lauantai ja sunnuntai. Yhdyssana: viikon + loppu. Astevaihtelu pp:p (viikonloppu → viikonlopun).",
-  kuva: { emoji: "🎉", alt: "viikonloppu – vapaapäivien juhla" },
+  kuva: { alt: "viikonloppu – vapaapäivien juhla" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu pp:p (viikonloppu → viikonlopun)",

@@ -11,7 +11,7 @@ const sairaala: Word = {
   en: "hospital",
   selitys:
     "Suuri laitos, jossa hoidetaan sairaita. Tyyppi 13, ei astevaihtelua. Sanasta sairas + -la.",
-  kuva: { emoji: "🏥", alt: "sairaala – sairaalarakennus" },
+  kuva: { alt: "sairaala – sairaalarakennus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 13/katiska; ei astevaihtelua",

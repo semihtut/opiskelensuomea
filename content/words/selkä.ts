@@ -11,7 +11,7 @@ const selka: Word = {
   en: "back (body part)",
   selitys:
     "Kehon takapuoli niskasta lantioon: 'kipeä selkä'. Tyyppi 10, astevaihtelu k:∅ (selkä → selän). Vrt. selkäranka (spine), selkäkipu (back pain), selällään (on one's back).",
-  kuva: { emoji: "🔙", alt: "selkä – kehon takapuoli" },
+  kuva: { alt: "selkä – kehon takapuoli" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu k:∅ (selkä ↔ selä-)",

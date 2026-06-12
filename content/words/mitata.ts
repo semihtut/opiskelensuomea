@@ -11,7 +11,7 @@ const mitata: Word = {
   en: "to measure, gauge",
   selitys:
     "Selvittää jonkin koko, määrä tai arvo: 'mitata pituus'. Tyyppi 4 (-ata), Kotus 73/salata, astevaihtelu tt:t (mittaan vahva, mitata/mitannut heikko). Vrt. mitta, mittari, mittaus.",
-  kuva: { emoji: "📏", alt: "mitata – selvittää koko, määrä tai arvo" },
+  kuva: { alt: "mitata – selvittää koko, määrä tai arvo" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; astevaihtelu tt:t (mittaa- ~ mita-)",

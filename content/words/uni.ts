@@ -11,7 +11,7 @@ const uni: Word = {
   en: "sleep; dream (while asleep)",
   selitys:
     "Nukkuminen tai unessa nähty näky: 'nähdä unta'. Tyyppi 24, ei astevaihtelua; partitiivi unta. Partitiivin monikko unia. HUOM: uni = sleep / dream while sleeping; unelma = aspiration.",
-  kuva: { emoji: "😴", alt: "uni – nukkuminen tai unessa nähty näky" },
+  kuva: { alt: "uni – nukkuminen tai unessa nähty näky" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 24/uni; ei astevaihtelua",

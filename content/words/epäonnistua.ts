@@ -11,7 +11,7 @@ const epaonnistua: Word = {
   en: "to fail",
   selitys:
     "Ei onnistua; jäädä tavoitteesta tai mennä pieleen: 'epäonnistua yrityksessä'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Etuliite epä- = ei-. Asiassa inessiivi. Vastakohta onnistua.",
-  kuva: { emoji: "💥", alt: "epäonnistua – ei onnistua, mennä pieleen" },
+  kuva: { alt: "epäonnistua – ei onnistua, mennä pieleen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo epäonnistu-",

@@ -11,7 +11,7 @@ const pääkaupunki: Word = {
   en: "capital city",
   selitys:
     "Maan tärkein kaupunki, jossa hallitus toimii: 'Suomen pääkaupunki'. Yhdyssana pää + kaupunki. Tyyppi 5, astevaihtelu nk:ng (pääkaupunki → pääkaupungin). Partitiivin monikko pääkaupunkeja.",
-  kuva: { emoji: "🏛️", alt: "pääkaupunki – maan tärkein kaupunki" },
+  kuva: { alt: "pääkaupunki – maan tärkein kaupunki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu nk:ng (pääkaupunki ↔ pääkaupungi-)",

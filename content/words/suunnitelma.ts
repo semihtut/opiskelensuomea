@@ -11,7 +11,7 @@ const suunnitelma: Word = {
   en: "plan",
   selitys:
     "Etukäteen mietitty tapa toteuttaa jokin asia: 'tehdä suunnitelma'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko suunnitelmia. Johdettu verbistä suunnitella. Vrt. tavoite, suunnitella.",
-  kuva: { emoji: "📋", alt: "suunnitelma – etukäteen mietitty toimintatapa" },
+  kuva: { alt: "suunnitelma – etukäteen mietitty toimintatapa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo suunnitelma-)",

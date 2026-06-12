@@ -11,7 +11,7 @@ const vaikea: Word = {
   en: "difficult, hard",
   selitys:
     "Vaivaa tai ponnistelua vaativa; vastakohta helppo. Tyyppi 15, ei astevaihtelua. Monikon partitiivi vaikeita.",
-  kuva: { emoji: "🧗", alt: "vaikea – vaikea, ponnistelua vaativa" },
+  kuva: { alt: "vaikea – vaikea, ponnistelua vaativa" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

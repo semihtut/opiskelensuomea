@@ -11,7 +11,7 @@ const ehdottaa: Word = {
   en: "to suggest, propose",
   selitys:
     "Esittää idea harkittavaksi: 'ehdotan, että…'. Astevaihtelu tt:t (ehdottaa → ehdotan). Vrt. esittää (present), ehdotus (suggestion).",
-  kuva: { emoji: "💡", alt: "ehdottaa – esittää idea harkittavaksi" },
+  kuva: { alt: "ehdottaa – esittää idea harkittavaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t; vartalo ehdotta-",

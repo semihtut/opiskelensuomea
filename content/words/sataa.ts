@@ -11,7 +11,7 @@ const sataa: Word = {
   en: "to rain; to fall (of precipitation)",
   selitys:
     "Kun vettä, lunta tai rakeita tulee taivaalta: 'ulkona sataa'. Tyyppi 1 (-aa), tyyppi 56, astevaihtelu t:d (sataa ~ ei sada). Persoonaton, käytetään 3. persoonassa. Sama verbi kaikelle sateelle: sataa lunta = to snow.",
-  kuva: { emoji: "🌧️", alt: "sataa – vettä tai lunta tulee taivaalta" },
+  kuva: { alt: "sataa – vettä tai lunta tulee taivaalta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 56; astevaihtelu t:d (sataa ↔ sada); persoonaton",

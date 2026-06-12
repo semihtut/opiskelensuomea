@@ -11,7 +11,7 @@ const pankki: Word = {
   en: "bank",
   selitys:
     "Rahalaitos, jossa hoidetaan tilejä ja lainoja. Tyyppi 5, astevaihtelu kk:k (pankki → pankin).",
-  kuva: { emoji: "🏦", alt: "pankki – pankkirakennus" },
+  kuva: { alt: "pankki – pankkirakennus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k",

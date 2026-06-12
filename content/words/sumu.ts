@@ -11,7 +11,7 @@ const sumu: Word = {
   en: "fog, mist",
   selitys:
     "Ilmassa leijuva pieni vesipisarapilvi maan tasalla, joka huonontaa näkyvyyttä: 'paksu sumu'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko sumuja. Vrt. sumuinen (foggy), aamusumu.",
-  kuva: { emoji: "🌫️", alt: "sumu – näkyvyyttä huonontava vesipisarapilvi maan tasalla" },
+  kuva: { alt: "sumu – näkyvyyttä huonontava vesipisarapilvi maan tasalla" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

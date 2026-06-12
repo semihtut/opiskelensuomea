@@ -11,7 +11,7 @@ const laki: Word = {
   en: "law, statute",
   selitys:
     "Yhteiskunnan sitova sääntö: 'noudattaa lakia'. Tyyppi 5, astevaihtelu k:∅ (laki → lain). Vrt. laillinen (legal), laiton (illegal), lakimies (lawyer).",
-  kuva: { emoji: "⚖️", alt: "laki – yhteiskunnan sitova sääntö" },
+  kuva: { alt: "laki – yhteiskunnan sitova sääntö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu k:∅ (laki ↔ lai-)",

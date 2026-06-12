@@ -11,7 +11,7 @@ const tuoli: Word = {
   en: "chair",
   selitys:
     "Yhden hengen istuin, jossa on selkänoja. Tyyppi 5, ei astevaihtelua.",
-  kuva: { emoji: "🪑", alt: "tuoli – tavallinen tuoli" },
+  kuva: { alt: "tuoli – tavallinen tuoli" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

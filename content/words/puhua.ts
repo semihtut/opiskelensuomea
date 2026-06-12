@@ -11,7 +11,7 @@ const puhua: Word = {
   en: "to speak, talk",
   selitys:
     "Käyttää kieltä äänellä; keskustella. Tyyppi 1, vartalo puhu-, ei astevaihtelua. Kieli partitiivissa: 'Puhun suomea.'",
-  kuva: { emoji: "🗣️", alt: "puhua – puhuva ihminen" },
+  kuva: { alt: "puhua – puhuva ihminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); vartalo puhu-, ei astevaihtelua",

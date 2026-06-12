@@ -11,7 +11,7 @@ const koira: Word = {
   en: "dog",
   selitys:
     "Yleinen kotieläin ja ihmisen lemmikki: 'ulkoiluttaa koiraa'. Tyyppi 10/koira – tämä sana on koko taivutustyypin malliesimerkki (ei astevaihtelua, partitiivin monikko koiria). Vrt. kissa, lemmikki, eläin.",
-  kuva: { emoji: "🐶", alt: "koira – yleinen kotieläin ja ihmisen lemmikki" },
+  kuva: { alt: "koira – yleinen kotieläin ja ihmisen lemmikki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira (malliesimerkki); ei astevaihtelua (vartalo koira-)",

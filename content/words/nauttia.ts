@@ -11,7 +11,7 @@ const nauttia: Word = {
   en: "to enjoy; to ingest, consume",
   selitys:
     "Saada mielihyvää jostakin, tai nauttia ravintoa: 'nauttia auringosta' / 'nauttia lääkettä'. Tyyppi 1 (-ia), astevaihtelu tt:t (nautin ~ nauttii). Vrt. nautinto (pleasure), nautinnollinen.",
-  kuva: { emoji: "😌", alt: "nauttia – saada mielihyvää jostakin" },
+  kuva: { alt: "nauttia – saada mielihyvää jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia), Kotus 61/sallia; astevaihtelu tt:t (nautin ↔ nauttii)",

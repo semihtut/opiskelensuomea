@@ -10,7 +10,7 @@ const kun: Word = {
   en: "when, as, since",
   selitys:
     "Alistuskonjunktio, joka ilmaisee aikaa tai syytä. Ei taivuteta. 'Kun tulin kotiin, söin.' Vrt. kysymyssana milloin (when?) ja konjunktio kuin (than).",
-  kuva: { emoji: "⏰", alt: "kun – aika: silloin kun" },
+  kuva: { alt: "kun – aika: silloin kun" },
 
   kielioppi: {
     tyyppi: "alistuskonjunktio (aika/syy); taipumaton",

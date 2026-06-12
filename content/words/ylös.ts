@@ -11,7 +11,7 @@ const ylos: Word = {
   en: "up (to up), upwards",
   selitys:
     "Ylöspäin. Suuntamuoto. Paikallissarja: ylhäällä (missä) – ylhäältä (mistä) – ylös (mihin). Vastakohta alas. Vrt. nousta ylös = to get up.",
-  kuva: { emoji: "🔼", alt: "ylös – liike ylöspäin" },
+  kuva: { alt: "ylös – liike ylöspäin" },
 
   kielioppi: {
     tyyppi: "suunnan adverbi; paikallissarja ylhäällä / ylhäältä / ylös",

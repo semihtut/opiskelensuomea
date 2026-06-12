@@ -11,7 +11,7 @@ const uuni: Word = {
   en: "oven; stove, furnace",
   selitys:
     "Laite ruoan paistamiseen tai lämmittämiseen: 'paistaa uunissa'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko uuneja. Lainasana ruotsista. Vrt. mikroaaltouuni, leivinuuni.",
-  kuva: { emoji: "🔥", alt: "uuni – laite ruoan paistamiseen tai lämmittämiseen" },
+  kuva: { alt: "uuni – laite ruoan paistamiseen tai lämmittämiseen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

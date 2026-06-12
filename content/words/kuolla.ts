@@ -11,7 +11,7 @@ const kuolla: Word = {
   en: "to die",
   selitys:
     "Lakata elämästä. Tyyppi 3 (-lla → -le): kuolla → kuolen. Vastakohta elää / syntyä. Substantiivi kuolema = death.",
-  kuva: { emoji: "🥀", alt: "kuolla – elämän päättyminen" },
+  kuva: { alt: "kuolla – elämän päättyminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla → -le); ei astevaihtelua",

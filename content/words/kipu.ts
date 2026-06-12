@@ -11,7 +11,7 @@ const kipu: Word = {
   en: "pain, ache",
   selitys:
     "Epämiellyttävä tuntemus kehossa. Tyyppi 1, astevaihtelu p:v (kipu → kivun). Vrt. särky (tietynlainen kipu).",
-  kuva: { emoji: "🤕", alt: "kipu – kivun tunne" },
+  kuva: { alt: "kipu – kivun tunne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu p:v",

@@ -11,7 +11,7 @@ const tentti: Word = {
   en: "exam (at university)",
   selitys:
     "Yliopiston tai korkeakoulun koe: 'lukea tenttiin', 'mennä tenttiin'. Tyyppi 5/risti, astevaihtelu tt:t (tentti → tentin). HUOM: koulussa ja kursseilla käytetään sanaa koe; tentti on korkeakoulujen koe. Vrt. koe, kuulustelu, suorittaa.",
-  kuva: { emoji: "📝", alt: "tentti – yliopiston tai korkeakoulun koe" },
+  kuva: { alt: "tentti – yliopiston tai korkeakoulun koe" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (tentti ~ tenti-)",

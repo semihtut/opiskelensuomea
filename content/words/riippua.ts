@@ -11,7 +11,7 @@ const riippua: Word = {
   en: "to depend (on); to hang",
   selitys:
     "1) Olla riippuvainen jostakin: 'se riippuu säästä'. 2) Olla ripustettuna: 'taulu riippuu seinällä'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu pp:p (riipun). Hallitsee elatiivia ('riippua jostakin'). Vrt. riippuvainen, riippumaton.",
-  kuva: { emoji: "🪝", alt: "riippua – olla riippuvainen tai ripustettuna" },
+  kuva: { alt: "riippua – olla riippuvainen tai ripustettuna" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu pp:p (riippu- ~ riipu-)",

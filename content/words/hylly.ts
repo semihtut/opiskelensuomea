@@ -11,7 +11,7 @@ const hylly: Word = {
   en: "shelf",
   selitys:
     "Seinään tai kaappiin kiinnitetty taso tavaroille: 'kirjahylly'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko hyllyjä. Lainasana ruotsista (hylla). Vrt. kirjahylly, seinähylly.",
-  kuva: { emoji: "🗄️", alt: "hylly – seinään kiinnitetty taso tavaroille" },
+  kuva: { alt: "hylly – seinään kiinnitetty taso tavaroille" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

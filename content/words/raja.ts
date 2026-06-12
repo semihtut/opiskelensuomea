@@ -11,7 +11,7 @@ const raja: Word = {
   en: "border, boundary; limit",
   selitys:
     "Kahta aluetta erottava viiva tai äärimmäinen kohta: 'maan raja' / 'kärsivällisyyden raja'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko rajoja (a → o). Vrt. rajoittaa (to limit), rajaton (limitless).",
-  kuva: { emoji: "🚧", alt: "raja – alueita erottava viiva tai äärikohta" },
+  kuva: { alt: "raja – alueita erottava viiva tai äärikohta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

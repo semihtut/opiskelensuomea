@@ -11,7 +11,7 @@ const ilmoittaa: Word = {
   en: "to announce, to notify, to report",
   selitys:
     "Tehdä jokin virallisesti tiedoksi: 'ilmoittaa muutoksesta'. Tyyppi 1 (-aa), astevaihtelu tt:t (ilmoitan, mutta ilmoittaa). Vrt. ilmoitus (notice, ad), ilmoittautua (to enroll/register).",
-  kuva: { emoji: "📢", alt: "ilmoittaa – tehdä jokin tiedoksi" },
+  kuva: { alt: "ilmoittaa – tehdä jokin tiedoksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (ilmoitta- ↔ ilmoita-)",

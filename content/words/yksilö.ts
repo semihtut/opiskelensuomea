@@ -11,7 +11,7 @@ const yksilo: Word = {
   en: "individual",
   selitys:
     "Yksittäinen ihminen tai olento erotuksena ryhmästä: 'yksilön oikeudet'. Tyyppi 2/palvelu, ei astevaihtelua; partitiivin monikko yksilöitä. Sanasta yksi. Vastakohta yhteisö. Vrt. yksi, yksilöllinen, yhteisö.",
-  kuva: { emoji: "🧍", alt: "yksilö – yksittäinen ihminen erotuksena ryhmästä" },
+  kuva: { alt: "yksilö – yksittäinen ihminen erotuksena ryhmästä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo yksilö-)",

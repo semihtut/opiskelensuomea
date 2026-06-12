@@ -12,7 +12,7 @@ const koti: Word = {
   en: "home",
   selitys:
     "Paikka, jossa ihminen asuu ja tuntee olonsa kotoisaksi. Astevaihtelu t:d (koti → kodin).",
-  kuva: { emoji: "🏡", alt: "koti – talo, jossa asutaan" },
+  kuva: { alt: "koti – talo, jossa asutaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu t:d (koti → kodin)",

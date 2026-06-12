@@ -11,7 +11,7 @@ const korjata: Word = {
   en: "to fix, repair, correct",
   selitys:
     "Saattaa rikkinäinen kuntoon; poistaa virhe. Tyyppi 4 (-ata): korjata → korjaan. Myös 'korjata sato' = to harvest.",
-  kuva: { emoji: "🔧", alt: "korjata – korjataan rikkinäinen esine" },
+  kuva: { alt: "korjata – korjataan rikkinäinen esine" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo korjaa-",

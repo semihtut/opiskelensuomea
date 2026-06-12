@@ -11,7 +11,7 @@ const syntyma: Word = {
   en: "birth",
   selitys:
     "Hetki, jolloin ihminen tai eläin syntyy: 'lapsen syntymä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko syntymiä. Johdettu verbistä syntyä. Vastakohta kuolema. Vrt. syntyä, syntymäpäivä, kuolema.",
-  kuva: { emoji: "👶", alt: "syntymä – hetki jolloin ihminen tai eläin syntyy" },
+  kuva: { alt: "syntymä – hetki jolloin ihminen tai eläin syntyy" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo syntymä-)",

@@ -11,7 +11,7 @@ const takki: Word = {
   en: "jacket, coat",
   selitys:
     "Päällysvaate ylävartalolle. Tyyppi 5, astevaihtelu kk:k (takki → takin). Yhdyssanat: talvitakki, sadetakki.",
-  kuva: { emoji: "🧥", alt: "takki – takki" },
+  kuva: { alt: "takki – takki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k",

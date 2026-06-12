@@ -11,7 +11,7 @@ const kausi: Word = {
   en: "period, season, term",
   selitys:
     "Tietty ajanjakso: vuodenaika, tv-kausi tai toimikausi: 'sadekausi' / 'sarjan toinen kausi'. Tyyppi 27, astevaihtelu t:d (kausi → kauden, partitiivi kautta). Vrt. kuukausi, vuorokausi, kausityö.",
-  kuva: { emoji: "🗓️", alt: "kausi – tietty ajanjakso" },
+  kuva: { alt: "kausi – tietty ajanjakso" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d (kaude- ~ kaut-)",

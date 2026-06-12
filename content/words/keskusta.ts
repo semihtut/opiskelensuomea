@@ -11,7 +11,7 @@ const keskusta: Word = {
   en: "centre, downtown, city centre",
   selitys:
     "Kaupungin keskeinen alue, jossa on palveluita ja kauppoja: 'mennä keskustaan'. Tyyppi 13, ei astevaihtelua. Partitiivin monikko keskustoja (tai keskustoita). Johdettu sanasta keski. Vrt. kaupunginkeskusta.",
-  kuva: { emoji: "🏙️", alt: "keskusta – kaupungin keskeinen alue" },
+  kuva: { alt: "keskusta – kaupungin keskeinen alue" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 13/katiska; ei astevaihtelua",

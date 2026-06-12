@@ -11,7 +11,7 @@ const tama: Word = {
   en: "this",
   selitys:
     "Osoittava pronomini lähellä olevasta (this). Genetiivi tämän, partitiivi tätä. Monikko nämä. Sarja: tämä (lähellä) – tuo (kaukana) – se (neutraali).",
-  kuva: { emoji: "👇", alt: "tämä – osoitetaan lähellä olevaa" },
+  kuva: { alt: "tämä – osoitetaan lähellä olevaa" },
 
   kielioppi: {
     tyyppi: "demonstratiivipronomini (läheinen); epäsäännöllinen monikko nämä",

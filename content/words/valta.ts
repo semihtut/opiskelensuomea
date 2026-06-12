@@ -11,7 +11,7 @@ const valta: Word = {
   en: "power, authority",
   selitys:
     "Kyky tai oikeus määrätä ja vaikuttaa: 'poliittinen valta'. Tyyppi 9, astevaihtelu lt:ll (valta → vallan). Partitiivin monikko valtoja. Vrt. valtio (state), vallata (to conquer), valtava (huge).",
-  kuva: { emoji: "👑", alt: "valta – kyky määrätä ja vaikuttaa" },
+  kuva: { alt: "valta – kyky määrätä ja vaikuttaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu lt:ll (valta ↔ valla-)",

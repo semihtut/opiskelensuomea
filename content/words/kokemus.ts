@@ -11,7 +11,7 @@ const kokemus: Word = {
   en: "experience",
   selitys:
     "Se, mitä on eletty tai opittu tekemällä: 'työkokemus' / 'unohtumaton kokemus'. Tyyppi 39, ei astevaihtelua. Juuri verbistä kokea. Vrt. kokenut (experienced).",
-  kuva: { emoji: "🧭", alt: "kokemus – mitä on eletty tai opittu" },
+  kuva: { alt: "kokemus – mitä on eletty tai opittu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo kokemukse-)",

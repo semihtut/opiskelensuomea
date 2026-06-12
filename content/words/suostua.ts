@@ -11,7 +11,7 @@ const suostua: Word = {
   en: "to agree, consent, comply",
   selitys:
     "Hyväksyä pyyntö tai ehdotus; suostua johonkin: 'suostua sopimukseen'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Hallitsee illatiivia: 'suostua johonkin'. Vastakohta kieltäytyä. Vrt. suostumus.",
-  kuva: { emoji: "✅", alt: "suostua – hyväksyä pyyntö tai ehdotus" },
+  kuva: { alt: "suostua – hyväksyä pyyntö tai ehdotus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo suostu-",

@@ -11,7 +11,7 @@ const selvittää: Word = {
   en: "to find out, clarify, sort out, resolve",
   selitys:
     "Ottaa selvää asiasta tai ratkaista se: 'selvittää totuus'. Tyyppi 1 (-ää), astevaihtelu tt:t (selvitän ~ selvittää). Johdettu sanasta selvä. Vrt. selvitys (report, account), selvä (clear).",
-  kuva: { emoji: "🔎", alt: "selvittää – ottaa selvää asiasta tai ratkaista se" },
+  kuva: { alt: "selvittää – ottaa selvää asiasta tai ratkaista se" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); astevaihtelu tt:t (selvitän ↔ selvittää); vartalo selvittä- ~ selvitä-",

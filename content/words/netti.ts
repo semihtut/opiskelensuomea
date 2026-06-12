@@ -11,7 +11,7 @@ const netti: Word = {
   en: "the internet, the net",
   selitys:
     "Internet arkikielessä: 'etsiä netistä'. Tyyppi 5, astevaihtelu tt:t (netti → netin). Yleensä yksikössä. Lyhentymä sanasta internet. Vrt. internet (virallisempi), nettisivu, netissä.",
-  kuva: { emoji: "🌐", alt: "netti – internet arkikielessä" },
+  kuva: { alt: "netti – internet arkikielessä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (netti ↔ neti-)",

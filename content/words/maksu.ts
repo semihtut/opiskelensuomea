@@ -11,7 +11,7 @@ const maksu: Word = {
   en: "payment, fee, charge",
   selitys:
     "Rahasumma, joka maksetaan jostakin, tai maksamisen tapahtuma: 'maksaa lasku', 'kuukausimaksu'. Tyyppi 1/valo, ei astevaihtelua. Johdettu verbistä maksaa. Vrt. maksaa, lasku, palkkio.",
-  kuva: { emoji: "💳", alt: "maksu – rahasumma joka maksetaan jostakin" },
+  kuva: { alt: "maksu – rahasumma joka maksetaan jostakin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo maksu-)",

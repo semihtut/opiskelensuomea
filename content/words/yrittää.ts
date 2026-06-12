@@ -11,7 +11,7 @@ const yrittaa: Word = {
   en: "to try, attempt",
   selitys:
     "Tehdä parhaansa jonkin saavuttamiseksi. Tyyppi 1, astevaihtelu tt:t: yrittää → yritän. Seuraava verbi infinitiivissä: 'yritän tehdä'.",
-  kuva: { emoji: "💪", alt: "yrittää – yritetään parhaansa" },
+  kuva: { alt: "yrittää – yritetään parhaansa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t",

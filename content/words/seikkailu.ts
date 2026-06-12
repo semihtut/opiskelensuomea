@@ -11,7 +11,7 @@ const seikkailu: Word = {
   en: "adventure",
   selitys:
     "Jännittävä ja tavallisuudesta poikkeava kokemus: 'jännittävä seikkailu'. Tyyppi 2, ei astevaihtelua. Partitiivin monikko seikkailuja. Johdettu verbistä seikkailla. Vrt. seikkailukirja, seikkailla.",
-  kuva: { emoji: "🧭", alt: "seikkailu – jännittävä, tavallisuudesta poikkeava kokemus" },
+  kuva: { alt: "seikkailu – jännittävä, tavallisuudesta poikkeava kokemus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

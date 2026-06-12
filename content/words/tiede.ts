@@ -11,7 +11,7 @@ const tiede: Word = {
   en: "science, scholarship",
   selitys:
     "Järjestelmällinen tiedon hankkiminen ja tutkimus: 'luonnontiede'. Tyyppi 48/hame, astevaihtelu t:d (nominatiivi tiede heikko, vartalo tietee-). Suomessa kattaa myös humanistiset alat. Vrt. tieteellinen, tutkimus, tietää.",
-  kuva: { emoji: "🔬", alt: "tiede – järjestelmällinen tiedon hankkiminen ja tutkimus" },
+  kuva: { alt: "tiede – järjestelmällinen tiedon hankkiminen ja tutkimus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d (vartalo tietee-)",

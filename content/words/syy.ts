@@ -11,7 +11,7 @@ const syy: Word = {
   en: "reason, cause; fault",
   selitys:
     "Se, mikä aiheuttaa jonkin: 'mistä syystä?'. Tyyppi 18 (yksitavuinen pitkä vokaali), ei astevaihtelua. Illatiivi syyhyn. Vrt. takia (because of), johtua (to be due to).",
-  kuva: { emoji: "❓", alt: "syy – se mikä aiheuttaa jonkin" },
+  kuva: { alt: "syy – se mikä aiheuttaa jonkin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

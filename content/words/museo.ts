@@ -11,7 +11,7 @@ const museo: Word = {
   en: "museum",
   selitys:
     "Paikka, jossa on esillä esineitä tai taidetta. Tyyppi 3, ei astevaihtelua. Partitiivi museota.",
-  kuva: { emoji: "🏛️", alt: "museo – museorakennus pylväineen" },
+  kuva: { alt: "museo – museorakennus pylväineen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua",

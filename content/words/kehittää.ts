@@ -11,7 +11,7 @@ const kehittaa: Word = {
   en: "to develop, improve",
   selitys:
     "Saada jokin paremmaksi tai luoda uutta: 'kehittää taitoja'. Astevaihtelu tt:t (kehittää → kehitän). Vrt. kehittyä = to develop (intransitiivinen), kehitys (development).",
-  kuva: { emoji: "📈", alt: "kehittää – saada paremmaksi, luoda uutta" },
+  kuva: { alt: "kehittää – saada paremmaksi, luoda uutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo kehittä-",

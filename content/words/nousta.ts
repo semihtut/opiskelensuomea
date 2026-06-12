@@ -11,7 +11,7 @@ const nousta: Word = {
   en: "to rise, get up, go up",
   selitys:
     "Liikkua ylöspäin; nousta seisomaan tai sängystä; kohota. Tyyppi 3 (e-vartalo): nousta → nousen. Vastakohta laskea / istua. Vrt. herätä (wake up).",
-  kuva: { emoji: "⬆️", alt: "nousta – liike ylöspäin" },
+  kuva: { alt: "nousta – liike ylöspäin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-sta → -se); ei astevaihtelua",

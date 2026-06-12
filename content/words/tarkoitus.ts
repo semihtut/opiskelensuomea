@@ -11,7 +11,7 @@ const tarkoitus: Word = {
   en: "purpose, intention; meaning",
   selitys:
     "Se, mitä varten jokin tehdään, tai aikomus: 'mikä on tämän tarkoitus?'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä tarkoittaa. 'On tarkoitus tehdä' = the intention is to do.",
-  kuva: { emoji: "🎯", alt: "tarkoitus – se, mitä varten jokin tehdään" },
+  kuva: { alt: "tarkoitus – se, mitä varten jokin tehdään" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo tarkoitukse-)",

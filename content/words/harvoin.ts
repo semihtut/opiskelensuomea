@@ -10,7 +10,7 @@ const harvoin: Word = {
   en: "rarely, seldom",
   selitys:
     "Vain muutaman kerran; ei usein. Toistuvuuden adverbi. Vertailu: harvoin – harvemmin – harvimmin. Vastakohta usein. Pohjana adjektiivi harva.",
-  kuva: { emoji: "🌙", alt: "harvoin – vain harvoin, harvinaista" },
+  kuva: { alt: "harvoin – vain harvoin, harvinaista" },
 
   kielioppi: {
     tyyppi: "toistuvuuden adverbi; vertailu harvemmin / harvimmin",

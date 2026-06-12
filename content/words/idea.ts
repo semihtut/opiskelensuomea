@@ -11,7 +11,7 @@ const idea: Word = {
   en: "idea",
   selitys:
     "Uusi ajatus tai oivallus, suunnitelman alku: 'loistava idea'. Tyyppi 12, ei astevaihtelua. Partitiivin monikko ideoita. Vrt. ajatus (thought), idealismi, ideoida (to brainstorm).",
-  kuva: { emoji: "💡", alt: "idea – uusi ajatus tai oivallus" },
+  kuva: { alt: "idea – uusi ajatus tai oivallus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

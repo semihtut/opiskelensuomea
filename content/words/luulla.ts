@@ -11,7 +11,7 @@ const luulla: Word = {
   en: "to think, suppose, assume (possibly wrongly)",
   selitys:
     "Olettaa jotain ilman varmuutta — usein virheellinen oletus: 'Luulin, että…' (I thought, but I was wrong). Vrt. ajatella (pohtia), uskoa (pitää totena), tietää (olla varma).",
-  kuva: { emoji: "🤔", alt: "luulla – olettaa ilman varmuutta" },
+  kuva: { alt: "luulla – olettaa ilman varmuutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); ei astevaihtelua; vartalo luul-",

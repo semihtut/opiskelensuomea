@@ -11,7 +11,7 @@ const kaynnistaa: Word = {
   en: "to start, start up, launch",
   selitys:
     "Saada kone, ohjelma tai hanke käyntiin: 'käynnistää tietokone'. Tyyppi 1 (-ää), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Johdettu sanasta käynti/käydä. Vrt. käynnistyä, käydä, aloittaa.",
-  kuva: { emoji: "▶️", alt: "käynnistää – saada kone tai hanke käyntiin" },
+  kuva: { alt: "käynnistää – saada kone tai hanke käyntiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; ei astevaihtelua; vartalo käynnistä-",

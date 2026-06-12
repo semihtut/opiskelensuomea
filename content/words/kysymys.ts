@@ -11,7 +11,7 @@ const kysymys: Word = {
   en: "question",
   selitys:
     "Ilmaus, johon odotetaan vastausta; myös 'asia, ongelma'. Tyyppi 39, ei astevaihtelua. Juuri verbistä kysyä.",
-  kuva: { emoji: "❓", alt: "kysymys – kysymysmerkki" },
+  kuva: { alt: "kysymys – kysymysmerkki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua",

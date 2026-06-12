@@ -11,7 +11,7 @@ const innostus: Word = {
   en: "enthusiasm, excitement, eagerness",
   selitys:
     "Innokas ja iloinen kiinnostus johonkin: 'suuri innostus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä innostua/innostaa. Vrt. innostua, innostaa, into.",
-  kuva: { emoji: "🤩", alt: "innostus – innokas ja iloinen kiinnostus" },
+  kuva: { alt: "innostus – innokas ja iloinen kiinnostus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo innostukse-)",

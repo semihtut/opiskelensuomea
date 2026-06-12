@@ -11,7 +11,7 @@ const kevät: Word = {
   en: "spring (season)",
   selitys:
     "Vuodenaika talven ja kesän välissä, jolloin luonto herää: 'aikainen kevät'. Tyyppi 44, ei astevaihtelua; vartalo kevää-. Partitiivi kevättä. 'Keväällä' = in spring (adessiivi). Vrt. kevätloma.",
-  kuva: { emoji: "🌷", alt: "kevät – vuodenaika, jolloin luonto herää" },
+  kuva: { alt: "kevät – vuodenaika, jolloin luonto herää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 44/kevät; ei astevaihtelua; vartalo kevää-",

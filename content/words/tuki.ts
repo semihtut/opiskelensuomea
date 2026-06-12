@@ -11,7 +11,7 @@ const tuki: Word = {
   en: "support, aid, subsidy",
   selitys:
     "Apu, joka tukee fyysisesti, henkisesti tai taloudellisesti: 'saada tukea'. Tyyppi 7/ovi, astevaihtelu k:∅ (tuki → tuen). Johdettu verbistä tukea. Vrt. tukea, tukija, opintotuki.",
-  kuva: { emoji: "🩼", alt: "tuki – apu joka tukee fyysisesti tai henkisesti" },
+  kuva: { alt: "tuki – apu joka tukee fyysisesti tai henkisesti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; astevaihtelu k:∅ (vartalo tue-)",

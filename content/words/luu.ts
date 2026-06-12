@@ -11,7 +11,7 @@ const luu: Word = {
   en: "bone",
   selitys:
     "Luuston kova rakenneosa: 'murtaa luu', 'kalan luut'. Tyyppi 18/maa, ei astevaihtelua; partitiivi luuta, partitiivin monikko luita. Vrt. luusto, murtua, lihas.",
-  kuva: { emoji: "🦴", alt: "luu – luuston kova rakenneosa" },
+  kuva: { alt: "luu – luuston kova rakenneosa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua (vartalo luu-)",

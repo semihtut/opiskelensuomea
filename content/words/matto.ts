@@ -11,7 +11,7 @@ const matto: Word = {
   en: "rug, carpet, mat",
   selitys:
     "Lattialla oleva pehmeä peite: 'pyyhi jalat mattoon'. Tyyppi 1, astevaihtelu tt:t (matto → maton). Partitiivin monikko mattoja. Vrt. ovimatto (doormat), kokolattiamatto.",
-  kuva: { emoji: "🟫", alt: "matto – lattialla oleva pehmeä peite" },
+  kuva: { alt: "matto – lattialla oleva pehmeä peite" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (matto ↔ mato-)",

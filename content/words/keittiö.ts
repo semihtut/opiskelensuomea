@@ -10,7 +10,7 @@ const keittiö: Word = {
   level: "A2",
   en: "kitchen",
   selitys: "Huone, jossa valmistetaan ruokaa. Ei astevaihtelua (tt säilyy).",
-  kuva: { emoji: "🍳", alt: "keittiö – tila, jossa laitetaan ruokaa" },
+  kuva: { alt: "keittiö – tila, jossa laitetaan ruokaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua",

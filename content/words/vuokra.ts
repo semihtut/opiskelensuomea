@@ -11,7 +11,7 @@ const vuokra: Word = {
   en: "rent",
   selitys:
     "Maksu, jonka asukas maksaa asunnosta: 'maksaa vuokra'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko vuokria. Vrt. vuokra-asunto (rental flat), vuokranantaja (landlord), vuokrata.",
-  kuva: { emoji: "💸", alt: "vuokra – maksu asunnosta" },
+  kuva: { alt: "vuokra – maksu asunnosta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

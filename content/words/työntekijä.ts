@@ -11,7 +11,7 @@ const tyontekija: Word = {
   en: "employee, worker",
   selitys:
     "Henkilö, joka tekee palkkatyötä: 'uusi työntekijä'. Tyyppi 12, ei astevaihtelua. Yhdyssana työ + tekijä. Vastakohta työnantaja. Vrt. tehdä (to do).",
-  kuva: { emoji: "👷", alt: "työntekijä – palkkatyötä tekevä henkilö" },
+  kuva: { alt: "työntekijä – palkkatyötä tekevä henkilö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

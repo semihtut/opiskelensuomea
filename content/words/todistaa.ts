@@ -11,7 +11,7 @@ const todistaa: Word = {
   en: "to prove; to testify, witness",
   selitys:
     "Osoittaa jokin todeksi tai olla todistajana: 'todistaa väite oikeaksi'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Johdettu sanasta tosi. Vrt. todiste, todistus, todistaja.",
-  kuva: { emoji: "⚖️", alt: "todistaa – osoittaa jokin todeksi" },
+  kuva: { alt: "todistaa – osoittaa jokin todeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo todista-",

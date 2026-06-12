@@ -11,7 +11,7 @@ const ajaa: Word = {
   en: "to drive; to chase",
   selitys:
     "Ohjata ajoneuvoa, esim. autoa. Tyyppi 1, vartalo aja-, ei astevaihtelua. Imperfektissä a → o ennen i:tä (ajoin).",
-  kuva: { emoji: "🚗", alt: "ajaa – auton ratissa ajaminen" },
+  kuva: { alt: "ajaa – auton ratissa ajaminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); vartalo aja-, ei astevaihtelua",

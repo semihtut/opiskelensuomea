@@ -12,7 +12,7 @@ const vuosi: Word = {
   en: "year",
   selitys:
     "Kahdentoista kuukauden jakso. Konsonanttivartalo (partitiivi vuotta), astevaihtelu t:d.",
-  kuva: { emoji: "📆", alt: "vuosi – vuosikalenteri" },
+  kuva: { alt: "vuosi – vuosikalenteri" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d, konsonanttivartalo",

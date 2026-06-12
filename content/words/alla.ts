@@ -11,7 +11,7 @@ const alla: Word = {
   en: "under, below",
   selitys:
     "Alapuolella. Paikallissarja: alla (missä) – alta (mistä) – alle (mihin). Postpositiona genetiivin kanssa: 'pöydän alla'. Vastakohta päällä.",
-  kuva: { emoji: "⬇️", alt: "alla – jonkin alapuolella" },
+  kuva: { alt: "alla – jonkin alapuolella" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

@@ -11,7 +11,7 @@ const ahkera: Word = {
   en: "diligent, hard-working, industrious",
   selitys:
     "Paljon ja innokkaasti työtä tekevä: 'ahkera opiskelija'. Tyyppi 10, ei astevaihtelua. Vrt. ahkeruus (diligence). Vastakohta laiska.",
-  kuva: { emoji: "🐝", alt: "ahkera – paljon työtä tekevä" },
+  kuva: { alt: "ahkera – paljon työtä tekevä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const nayttaa: Word = {
   en: "to show; to look/seem",
   selitys:
     "1) esittää jotakin nähtäväksi (show), 2) vaikuttaa joltakin (look/seem, + ablatiivi). Tyyppi 1, astevaihtelu tt:t (näyttä- → näytä-).",
-  kuva: { emoji: "👆", alt: "näyttää – näytetään jotakin" },
+  kuva: { alt: "näyttää – näytetään jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); astevaihtelu tt:t (näyttä- → näytä-)",

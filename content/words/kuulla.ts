@@ -11,7 +11,7 @@ const kuulla: Word = {
   en: "to hear",
   selitys:
     "Aistia ääniä korvilla; saada tietää. Tyyppi 3 (-lla → -e-), vartalo kuule-, ei astevaihtelua. Vrt. kuunnella (= listen, aktiivinen).",
-  kuva: { emoji: "👂", alt: "kuulla – ääntä kuuleva korva" },
+  kuva: { alt: "kuulla – ääntä kuuleva korva" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); vartalo kuule-, ei astevaihtelua",

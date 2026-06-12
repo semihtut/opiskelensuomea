@@ -11,7 +11,7 @@ const panna: Word = {
   en: "to put, place, set",
   selitys:
     "Asettaa jotain johonkin: 'panen kirjan pöydälle'. Tyyppi 3 (-nna). Yleiskielessä usein laittaa tai asettaa kohteliaampia. Kohde tulosijassa (mihin).",
-  kuva: { emoji: "📥", alt: "panna – asettaa jotain johonkin" },
+  kuva: { alt: "panna – asettaa jotain johonkin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-nna); ei astevaihtelua; vartalo pan-",

@@ -11,7 +11,7 @@ const uutinen: Word = {
   en: "news, news item",
   selitys:
     "Tieto tuoreesta tapahtumasta: 'hyvä uutinen'. Tyyppi 38, ei astevaihtelua, vartalo uutise-. Monikko uutiset = the news (broadcast). Vrt. uusi (new), uutisoida (to report).",
-  kuva: { emoji: "📰", alt: "uutinen – tieto tuoreesta tapahtumasta" },
+  kuva: { alt: "uutinen – tieto tuoreesta tapahtumasta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo uutise-)",

@@ -11,7 +11,7 @@ const jaatelo: Word = {
   en: "ice cream",
   selitys:
     "Jäädytetty makea jälkiruoka: 'suklaajäätelö'. Tyyppi 2/palvelu, ei astevaihtelua. Sanasta jäätää. Vrt. jää, jälkiruoka, kerma.",
-  kuva: { emoji: "🍦", alt: "jäätelö – jäädytetty makea jälkiruoka" },
+  kuva: { alt: "jäätelö – jäädytetty makea jälkiruoka" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo jäätelö-)",

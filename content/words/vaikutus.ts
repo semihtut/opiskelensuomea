@@ -11,7 +11,7 @@ const vaikutus: Word = {
   en: "effect, impact, influence",
   selitys:
     "Se, mitä jokin saa aikaan: 'suuri vaikutus'. Tyyppi 39, ei astevaihtelua (s → ks taivutuksessa). Juuri verbistä vaikuttaa. Vrt. seuraus (consequence).",
-  kuva: { emoji: "🌊", alt: "vaikutus – se mitä jokin saa aikaan" },
+  kuva: { alt: "vaikutus – se mitä jokin saa aikaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo vaikutukse-)",

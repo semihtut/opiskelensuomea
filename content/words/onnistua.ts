@@ -11,7 +11,7 @@ const onnistua: Word = {
   en: "to succeed, manage",
   selitys:
     "Saada jokin tehtyä hyvin tai päästä tavoitteeseen: 'onnistua kokeessa'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Asiassa inessiivi ('onnistua jossakin') tai 3. infinitiivin illatiivi ('onnistua tekemään'). Vastakohta epäonnistua.",
-  kuva: { emoji: "🎉", alt: "onnistua – saada jokin tehtyä hyvin" },
+  kuva: { alt: "onnistua – saada jokin tehtyä hyvin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo onnistu-",

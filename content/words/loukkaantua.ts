@@ -11,7 +11,7 @@ const loukkaantua: Word = {
   en: "to get injured; to be offended",
   selitys:
     "1) Saada fyysinen vamma: 'loukkaantua pelissä'. 2) Pahastua henkisesti: 'loukkaantua sanoista'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu nt:nn (loukkaannun). Intransitiivinen. Vrt. loukata, loukkaus, vamma.",
-  kuva: { emoji: "🤕", alt: "loukkaantua – saada vamma tai pahastua" },
+  kuva: { alt: "loukkaantua – saada vamma tai pahastua" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu nt:nn (loukkaantu- ~ loukkaannu-)",

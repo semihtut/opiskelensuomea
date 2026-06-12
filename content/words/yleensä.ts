@@ -11,7 +11,7 @@ const yleensa: Word = {
   en: "usually, generally",
   selitys:
     "Tavallisesti, useimmiten. Toistuvuuden adverbi. 'Yleensä herään seitsemältä.' Pohjana adjektiivi yleinen (general). Vrt. tavallisesti.",
-  kuva: { emoji: "📊", alt: "yleensä – useimmiten, tavallisesti" },
+  kuva: { alt: "yleensä – useimmiten, tavallisesti" },
 
   kielioppi: {
     tyyppi: "toistuvuuden adverbi (yleinen-sanan essiivi); taipumaton tässä käytössä",

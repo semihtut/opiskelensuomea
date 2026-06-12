@@ -11,7 +11,7 @@ const luottamus: Word = {
   en: "trust, confidence",
   selitys:
     "Usko siihen, että joku tai jokin on luotettava: 'rakentaa luottamus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä luottaa. Vrt. luottaa, luottamuksellinen, epäluottamus.",
-  kuva: { emoji: "🤝", alt: "luottamus – usko siihen että joku on luotettava" },
+  kuva: { alt: "luottamus – usko siihen että joku on luotettava" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo luottamukse-)",

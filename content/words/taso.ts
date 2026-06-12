@@ -11,7 +11,7 @@ const taso: Word = {
   en: "level; surface, plane",
   selitys:
     "1) Korkeus tai aste asteikolla: 'kielitaito hyvällä tasolla'. 2) Tasainen pinta. Tyyppi 1/valo, ei astevaihtelua. Sanasta tasa/tasainen. Vrt. tasainen, laatu, aste.",
-  kuva: { emoji: "📊", alt: "taso – korkeus tai aste asteikolla" },
+  kuva: { alt: "taso – korkeus tai aste asteikolla" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo taso-)",

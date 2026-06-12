@@ -11,7 +11,7 @@ const lahde: Word = {
   en: "source; spring (of water)",
   selitys:
     "1) Tiedon alkuperä: 'luotettava lähde'. 2) Paikka, josta vesi nousee maasta. Tyyppi 48/hame, astevaihtelu t:d (nominatiivi lähde heikko, vartalo lähtee-). Vrt. lähteä, lähtö, alkuperä.",
-  kuva: { emoji: "📚", alt: "lähde – tiedon alkuperä tai veden lähde" },
+  kuva: { alt: "lähde – tiedon alkuperä tai veden lähde" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d (vartalo lähtee-)",

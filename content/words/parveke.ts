@@ -11,7 +11,7 @@ const parveke: Word = {
   en: "balcony",
   selitys:
     "Talon ulkoseinään liittyvä avoin taso: 'istua parvekkeella'. Tyyppi 48, astevaihtelu k:kk (parveke → parvekkeen). Partitiivin monikko parvekkeita. Johdettu sanasta parvi. Vrt. parvekekasvi.",
-  kuva: { emoji: "🪟", alt: "parveke – talon ulkoseinään liittyvä avoin taso" },
+  kuva: { alt: "parveke – talon ulkoseinään liittyvä avoin taso" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu k:kk (parveke ↔ parvekkee-)",

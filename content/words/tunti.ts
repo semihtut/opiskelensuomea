@@ -11,7 +11,7 @@ const tunti: Word = {
   en: "hour; (school) lesson",
   selitys:
     "Kuudenkymmenen minuutin ajanjakso; myös oppitunti. Astevaihtelu nt:nn (tunti → tunnin).",
-  kuva: { emoji: "⏱️", alt: "tunti – ajanotto, tunti aikaa" },
+  kuva: { alt: "tunti – ajanotto, tunti aikaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu nt:nn (tunti → tunnin)",

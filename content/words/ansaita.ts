@@ -11,7 +11,7 @@ const ansaita: Word = {
   en: "to earn; to deserve",
   selitys:
     "Saada palkkaa työstä tai olla jonkin arvoinen: 'ansaita hyvin' / 'ansaita kiitos'. Tyyppi 5 (-ita), vartalo -tse- (ansaitsen). NUT-partisiippi ansainnut. Vrt. ansio (merit, earnings).",
-  kuva: { emoji: "💶", alt: "ansaita – saada palkkaa tai olla jonkin arvoinen" },
+  kuva: { alt: "ansaita – saada palkkaa tai olla jonkin arvoinen" },
 
   kielioppi: {
     tyyppi: "tyyppi 5 (-ita); vartalo ansaitse-; NUT-partisiippi ansainnut",

@@ -11,7 +11,7 @@ const vastuu: Word = {
   en: "responsibility, accountability, liability",
   selitys:
     "Velvollisuus huolehtia jostakin ja vastata seurauksista: 'ottaa vastuu'. Tyyppi 17/vapaa, ei astevaihtelua; pitkä loppuvokaali uu. Johdettu verbistä vastata. Vrt. vastata, vastuullinen, velvollisuus.",
-  kuva: { emoji: "🪨", alt: "vastuu – velvollisuus huolehtia ja vastata seurauksista" },
+  kuva: { alt: "vastuu – velvollisuus huolehtia ja vastata seurauksista" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 17/vapaa; ei astevaihtelua (vartalo vastuu-)",

@@ -11,7 +11,7 @@ const olettaa: Word = {
   en: "to assume, suppose, presume",
   selitys:
     "Pitää jotakin todennäköisenä ilman varmaa tietoa: 'oletan, että hän tulee'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (oletan). Usein että-lauseen kanssa. Vrt. oletus, oletettavasti.",
-  kuva: { emoji: "🤔", alt: "olettaa – pitää jotakin todennäköisenä ilman varmaa tietoa" },
+  kuva: { alt: "olettaa – pitää jotakin todennäköisenä ilman varmaa tietoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (oleta- ~ oletta-)",

@@ -11,7 +11,7 @@ const aivot: Word = {
   en: "brain(s)",
   selitys:
     "Pään sisällä oleva ajattelun ja hermoston keskus: 'ihmisen aivot'. Käytetään yleensä monikossa (aivot). Tyyppi 1, ei astevaihtelua. Vrt. aivosolu (brain cell), aivotyö (brain work).",
-  kuva: { emoji: "🧠", alt: "aivot – ajattelun ja hermoston keskus" },
+  kuva: { alt: "aivot – ajattelun ja hermoston keskus" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (plurale tantum); tyyppi 1/valo, ei astevaihtelua",

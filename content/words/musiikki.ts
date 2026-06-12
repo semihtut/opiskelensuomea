@@ -11,7 +11,7 @@ const musiikki: Word = {
   en: "music",
   selitys:
     "Sävelistä ja rytmistä koostuva taide: 'kuunnella musiikkia'. Tyyppi 5, astevaihtelu kk:k (musiikki → musiikin). Yleensä yksiköllinen. Vrt. muusikko (musician), musiikillinen (musical), soitto.",
-  kuva: { emoji: "🎵", alt: "musiikki – sävelistä koostuva taide" },
+  kuva: { alt: "musiikki – sävelistä koostuva taide" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k (musiikki ↔ musiiki-)",

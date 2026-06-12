@@ -11,7 +11,7 @@ const harjoitella: Word = {
   en: "to practise, train, rehearse",
   selitys:
     "Tehdä jotakin toistuvasti oppiakseen tai parantuakseen: 'harjoitella soittamista'. Tyyppi 3 (-lla), astevaihtelu tt:t (harjoittelen ~ harjoitella). Johdettu verbistä harjoittaa. Vrt. harjoitus (exercise).",
-  kuva: { emoji: "🏋️", alt: "harjoitella – tehdä jotakin toistuvasti oppiakseen" },
+  kuva: { alt: "harjoitella – tehdä jotakin toistuvasti oppiakseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); astevaihtelu tt:t (harjoittele- ↔ harjoitel-)",

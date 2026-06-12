@@ -11,7 +11,7 @@ const jarjesto: Word = {
   en: "organization, association",
   selitys:
     "Ihmisten muodostama yhteenliittymä yhteistä tarkoitusta varten: 'kansalaisjärjestö'. Tyyppi 2/palvelu, ei astevaihtelua; partitiivin monikko järjestöjä. Johdettu verbistä järjestää. Vrt. järjestää, järjestys, yhdistys.",
-  kuva: { emoji: "🏢", alt: "järjestö – ihmisten yhteenliittymä yhteistä tarkoitusta varten" },
+  kuva: { alt: "järjestö – ihmisten yhteenliittymä yhteistä tarkoitusta varten" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo järjestö-)",

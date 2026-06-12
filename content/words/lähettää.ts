@@ -11,7 +11,7 @@ const lähettää: Word = {
   en: "to send; to broadcast",
   selitys:
     "Toimittaa jotakin toiselle, esim. viesti tai paketti: 'lähettää sähköposti'. Tyyppi 1 (-ää), astevaihtelu tt:t (lähetän ~ lähettää). Johdettu sanasta lähteä. Vrt. lähetys (broadcast/shipment), lähettäjä.",
-  kuva: { emoji: "📤", alt: "lähettää – toimittaa jotakin toiselle" },
+  kuva: { alt: "lähettää – toimittaa jotakin toiselle" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (lähetän ↔ lähettää)",

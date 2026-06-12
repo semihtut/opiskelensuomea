@@ -10,7 +10,7 @@ const joskus: Word = {
   en: "sometimes; at some time",
   selitys:
     "Silloin tällöin; jonain aikana. Toistuvuuden adverbi, ei taivuteta. 'Joskus käyn elokuvissa.' Myös menneestä/tulevasta: 'joskus ennen', 'joskus vielä'.",
-  kuva: { emoji: "🎲", alt: "joskus – silloin tällöin" },
+  kuva: { alt: "joskus – silloin tällöin" },
 
   kielioppi: {
     tyyppi: "toistuvuuden adverbi; taipumaton",

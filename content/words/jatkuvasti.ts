@@ -10,7 +10,7 @@ const jatkuvasti: Word = {
   en: "continuously, constantly, all the time",
   selitys:
     "Koko ajan, taukoamatta: 'puhelin soi jatkuvasti'. Taipumaton tavan adverbi (adjektiivista jatkuva + -sti). Vrt. jatkuva (continuous), jatkua (to continue), koko ajan.",
-  kuva: { emoji: "♾️", alt: "jatkuvasti – koko ajan, taukoamatta" },
+  kuva: { alt: "jatkuvasti – koko ajan, taukoamatta" },
 
   kielioppi: {
     tyyppi: "adverbi (tavan adverbi, -sti); taipumaton",

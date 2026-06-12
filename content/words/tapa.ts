@@ -11,7 +11,7 @@ const tapa: Word = {
   en: "way, manner; habit, custom",
   selitys:
     "Tottumus tai toimintatapa: 'hyvä tapa' / 'minulla on tapana…'. Tyyppi 9, astevaihtelu p:v (tapa → tavan). Vrt. tapana = as a habit, tavallinen (ordinary).",
-  kuva: { emoji: "🔁", alt: "tapa – tottumus tai toimintatapa" },
+  kuva: { alt: "tapa – tottumus tai toimintatapa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu p:v",

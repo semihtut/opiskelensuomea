@@ -11,7 +11,7 @@ const lumi: Word = {
   en: "snow",
   selitys:
     "Valkoiset jääkiteet, joita sataa talvella. Tyyppi 25, ei astevaihtelua, mutta konsonanttivartalo näkyy partitiivissa lunta.",
-  kuva: { emoji: "❄️", alt: "lumi – lumihiutaleita" },
+  kuva: { alt: "lumi – lumihiutaleita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 25/toimi; ei astevaihtelua, konsonanttivartalo",

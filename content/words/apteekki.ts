@@ -11,7 +11,7 @@ const apteekki: Word = {
   en: "pharmacy, drugstore",
   selitys:
     "Liike, josta saa lääkkeitä. Tyyppi 5, astevaihtelu kk:k (apteekki → apteekin).",
-  kuva: { emoji: "💊", alt: "apteekki – lääkkeitä apteekissa" },
+  kuva: { alt: "apteekki – lääkkeitä apteekissa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k",

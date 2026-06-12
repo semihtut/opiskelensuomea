@@ -11,7 +11,7 @@ const osoittaa: Word = {
   en: "to show, demonstrate, point; to address",
   selitys:
     "1) Näyttää tai todistaa jokin todeksi: 'tutkimus osoittaa'. 2) Suunnata, osoittaa sormella. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (osoitan). Johdettu sanasta osa/osoite. Vrt. osoite, osoitus, näyttää.",
-  kuva: { emoji: "👉", alt: "osoittaa – näyttää tai todistaa jokin todeksi" },
+  kuva: { alt: "osoittaa – näyttää tai todistaa jokin todeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (osoita- ~ osoitta-)",

@@ -11,7 +11,7 @@ const seina: Word = {
   en: "wall",
   selitys:
     "Pystysuora rakenne, joka rajaa huoneen. Tyyppi 10, ei astevaihtelua. Vrt. muuri (= ulkoseinä/aita).",
-  kuva: { emoji: "🧱", alt: "seinä – huoneen seinä" },
+  kuva: { alt: "seinä – huoneen seinä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

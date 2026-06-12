@@ -11,7 +11,7 @@ const kala: Word = {
   en: "fish",
   selitys:
     "Vedessä elävä eläin; myös sen liha ruokana. Ei astevaihtelua; monikon partitiivi kaloja.",
-  kuva: { emoji: "🐟", alt: "kala – kala" },
+  kuva: { alt: "kala – kala" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

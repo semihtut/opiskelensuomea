@@ -11,7 +11,7 @@ const keino: Word = {
   en: "means, method, way",
   selitys:
     "Tapa saavuttaa jokin tavoite: 'keino ratkaista ongelma'. Tyyppi 1, ei astevaihtelua. Vrt. tapa (way, habit), keinotekoinen (artificial).",
-  kuva: { emoji: "🛠️", alt: "keino – tapa saavuttaa tavoite" },
+  kuva: { alt: "keino – tapa saavuttaa tavoite" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

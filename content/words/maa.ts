@@ -11,7 +11,7 @@ const maa: Word = {
   en: "country; land, ground, earth, soil",
   selitys:
     "Valtio, maaperä tai maan pinta: 'vieras maa' / 'kaivaa maata'. Tyyppi 18, ei astevaihtelua. Partitiivi maata, partitiivin monikko maita. Vrt. maailma, maaperä, ulkomaa, kotimaa.",
-  kuva: { emoji: "🌍", alt: "maa – valtio, maaperä tai maan pinta" },
+  kuva: { alt: "maa – valtio, maaperä tai maan pinta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

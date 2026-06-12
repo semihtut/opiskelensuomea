@@ -11,7 +11,7 @@ const kieltaytya: Word = {
   en: "to refuse, decline",
   selitys:
     "Olla suostumatta tai vastaanottamatta jotakin: 'kieltäytyä tarjouksesta'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu t:d (kieltäydyn). Refleksiivijohdos verbistä kieltää. Rektio: elatiivi (kieltäytyä jostakin). Vrt. kieltää, suostua, kieltäytyminen.",
-  kuva: { emoji: "🙅", alt: "kieltäytyä – olla suostumatta tai vastaanottamatta jotakin" },
+  kuva: { alt: "kieltäytyä – olla suostumatta tai vastaanottamatta jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu t:d (kieltäyty- ~ kieltäydy-)",

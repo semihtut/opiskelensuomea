@@ -11,7 +11,7 @@ const rohkea: Word = {
   en: "brave, bold, courageous",
   selitys:
     "Sellainen, joka uskaltaa toimia pelosta huolimatta: 'rohkea päätös'. Tyyppi 15, ei astevaihtelua. Vrt. rohkeus (courage), uskaltaa (to dare). Vastakohta arka.",
-  kuva: { emoji: "🦁", alt: "rohkea – uskaltava, peloton" },
+  kuva: { alt: "rohkea – uskaltava, peloton" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

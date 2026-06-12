@@ -11,7 +11,7 @@ const nopea: Word = {
   en: "fast, quick",
   selitys:
     "Suurta vauhtia; lyhyessä ajassa tapahtuva. Tyyppi 15, ei astevaihtelua. Vastakohta hidas.",
-  kuva: { emoji: "⚡", alt: "nopea – nopea vauhti" },
+  kuva: { alt: "nopea – nopea vauhti" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

@@ -11,7 +11,7 @@ const päivä: Word = {
   en: "day",
   selitys:
     "Vuorokauden valoisa osa tai kokonainen vuorokausi. Esiintyy tavallisessa tervehdyksessä 'hyvää päivää'. Ei astevaihtelua.",
-  kuva: { emoji: "☀️", alt: "päivä – aurinko" },
+  kuva: { alt: "päivä – aurinko" },
 
   kielioppi: {
     tyyppi: "substantiivi; ei astevaihtelua (vartalo päivä-)",

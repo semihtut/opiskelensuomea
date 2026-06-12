@@ -11,7 +11,7 @@ const sanoa: Word = {
   en: "to say",
   selitys:
     "Tuottaa sanoja puheena; ilmaista jotakin sanoin. Tyyppi 1, vartalo sano-, ei astevaihtelua. Tämä on koko verbityypin mallisana.",
-  kuva: { emoji: "🗨️", alt: "sanoa – puhekupla" },
+  kuva: { alt: "sanoa – puhekupla" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); vartalo sano-, ei astevaihtelua",

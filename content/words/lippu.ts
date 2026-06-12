@@ -11,7 +11,7 @@ const lippu: Word = {
   en: "ticket; flag",
   selitys:
     "Matkaan tai tapahtumaan oikeuttava kortti, tai kankainen tunnus: 'ostaa lippu' / 'Suomen lippu'. Tyyppi 1, astevaihtelu pp:p (lippu → lipun). Vrt. pääsylippu (admission ticket), lipunmyynti (ticket sales).",
-  kuva: { emoji: "🎫", alt: "lippu – matkaan oikeuttava kortti tai tunnus" },
+  kuva: { alt: "lippu – matkaan oikeuttava kortti tai tunnus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu pp:p (lippu ↔ lipu-)",

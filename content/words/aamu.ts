@@ -10,7 +10,7 @@ const aamu: Word = {
   level: "A1",
   en: "morning",
   selitys: "Päivän alkuosa, heräämisen aika. Ei astevaihtelua.",
-  kuva: { emoji: "🌅", alt: "aamu – auringonnousu" },
+  kuva: { alt: "aamu – auringonnousu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

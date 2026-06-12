@@ -11,7 +11,7 @@ const koe: Word = {
   en: "test, exam; experiment",
   selitys:
     "Tilanne, jossa mitataan osaamista, tai tieteellinen kokeilu: 'matematiikan koe'. Tyyppi 48, astevaihtelu k:∅ (koe ↔ kokeen). Partitiivin monikko kokeita. Johdettu verbistä kokea. Vrt. kokeilla (to try).",
-  kuva: { emoji: "🧪", alt: "koe – osaamisen mittaaminen tai tieteellinen kokeilu" },
+  kuva: { alt: "koe – osaamisen mittaaminen tai tieteellinen kokeilu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu k:∅ (koe ↔ koke-)",

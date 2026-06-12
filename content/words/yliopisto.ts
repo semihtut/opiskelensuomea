@@ -11,7 +11,7 @@ const yliopisto: Word = {
   en: "university",
   selitys:
     "Korkein oppilaitos, jossa tehdään tutkimusta ja suoritetaan tutkintoja: 'opiskella yliopistossa'. Tyyppi 2, ei astevaihtelua. Partitiivin monikko yliopistoja. Yhdyssana yli + opisto. Vrt. korkeakoulu.",
-  kuva: { emoji: "🎓", alt: "yliopisto – korkein oppilaitos" },
+  kuva: { alt: "yliopisto – korkein oppilaitos" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

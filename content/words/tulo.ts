@@ -11,7 +11,7 @@ const tulo: Word = {
   en: "arrival; (pl.) income",
   selitys:
     "Tuleminen tai saatu raha: 'junan tulo' / 'kuukauden tulot'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko tuloja. Monikossa tulot = income. Johdettu verbistä tulla. Vastakohta meno.",
-  kuva: { emoji: "💰", alt: "tulo – saatu raha tai tuleminen" },
+  kuva: { alt: "tulo – saatu raha tai tuleminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

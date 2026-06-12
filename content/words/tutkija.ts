@@ -11,7 +11,7 @@ const tutkija: Word = {
   en: "researcher, scientist, investigator",
   selitys:
     "Henkilö, joka tekee tutkimusta: 'yliopiston tutkija'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko tutkijoita. Johdettu verbistä tutkia. Vrt. tutkia, tutkimus, tieteilijä.",
-  kuva: { emoji: "🧑‍🔬", alt: "tutkija – henkilö joka tekee tutkimusta" },
+  kuva: { alt: "tutkija – henkilö joka tekee tutkimusta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo tutkija-)",

@@ -11,7 +11,7 @@ const seuraava: Word = {
   en: "next, following",
   selitys:
     "Järjestyksessä heti seuraavaksi tuleva: 'seuraava bussi'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko seuraavia. Verbin seurata partisiippi. Vastakohta edellinen. Vrt. seurata (to follow).",
-  kuva: { emoji: "⏭️", alt: "seuraava – heti seuraavaksi tuleva" },
+  kuva: { alt: "seuraava – heti seuraavaksi tuleva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

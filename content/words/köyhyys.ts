@@ -11,7 +11,7 @@ const koyhyys: Word = {
   en: "poverty",
   selitys:
     "Tila, jossa ihmisellä on hyvin vähän rahaa ja varoja: 'elää köyhyydessä', 'torjua köyhyyttä'. Tyyppi 40/kalleus, astevaihtelu t:d (köyhyys → köyhyyden). Ominaisuudennimi adjektiivista köyhä. Vastakohta varallisuus. Vrt. köyhä, varallisuus, eriarvoisuus.",
-  kuva: { emoji: "🪙", alt: "köyhyys – tila jossa ihmisellä on hyvin vähän rahaa ja varoja" },
+  kuva: { alt: "köyhyys – tila jossa ihmisellä on hyvin vähän rahaa ja varoja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (köyhyyte- ~ köyhyyde-)",

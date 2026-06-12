@@ -11,7 +11,7 @@ const riita: Word = {
   en: "quarrel, dispute, argument",
   selitys:
     "Äänekäs erimielisyys tai kiista: 'joutua riitaan'. Tyyppi 9/kala, astevaihtelu t:d (riita → riidan), partitiivin monikko riitoja. Vrt. riidellä, riitainen, sopu (vastakohta).",
-  kuva: { emoji: "⚔️", alt: "riita – äänekäs erimielisyys tai kiista" },
+  kuva: { alt: "riita – äänekäs erimielisyys tai kiista" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu t:d (vartalo riida-)",

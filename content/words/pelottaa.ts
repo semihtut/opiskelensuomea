@@ -11,7 +11,7 @@ const pelottaa: Word = {
   en: "to scare, frighten; (impersonal) to be afraid",
   selitys:
     "1) Saada joku tuntemaan pelkoa: 'koira pelottaa lapsia'. 2) Persoonaton: 'minua pelottaa' = olen peloissani. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (pelotan). Persoonattomassa objekti partitiivissa. Vrt. pelätä, pelko.",
-  kuva: { emoji: "😨", alt: "pelottaa – saada tuntemaan pelkoa" },
+  kuva: { alt: "pelottaa – saada tuntemaan pelkoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (pelota- ~ pelotta-)",

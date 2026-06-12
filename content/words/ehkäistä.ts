@@ -11,7 +11,7 @@ const ehkaista: Word = {
   en: "to prevent, avert",
   selitys:
     "Estää jonkin ei-toivotun syntyminen etukäteen: 'ehkäistä sairauksia'. Tyyppi 3 (-stä), Kotus 66/rohkaista, ei astevaihtelua; vartalo ehkäise-. NUT-partisiippi ehkäissyt, passiivi ehkäistään. Vrt. ehkäisy, estää.",
-  kuva: { emoji: "🛟", alt: "ehkäistä – estää ongelman syntyminen etukäteen" },
+  kuva: { alt: "ehkäistä – estää ongelman syntyminen etukäteen" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-stä), Kotus 66/rohkaista; ei astevaihtelua; vartalo ehkäise-",

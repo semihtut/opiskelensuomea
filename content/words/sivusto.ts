@@ -11,7 +11,7 @@ const sivusto: Word = {
   en: "website",
   selitys:
     "Verkkosivujen kokonaisuus: 'yrityksen sivusto'. Tyyppi 2, ei astevaihtelua. Partitiivin monikko sivustoja. Johdettu sanasta sivu. Vrt. verkkosivusto, nettisivu, sivu.",
-  kuva: { emoji: "🖥️", alt: "sivusto – verkkosivujen kokonaisuus" },
+  kuva: { alt: "sivusto – verkkosivujen kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

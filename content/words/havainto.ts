@@ -11,7 +11,7 @@ const havainto: Word = {
   en: "observation, perception, finding",
   selitys:
     "Se, mitä havaitaan tai pannaan merkille: 'tehdä havainto'. Tyyppi 1/valo, astevaihtelu nt:nn (havainto → havainnon). Johdettu verbistä havaita. Vrt. havaita, huomio, tutkimus.",
-  kuva: { emoji: "👁️", alt: "havainto – se mitä havaitaan tai pannaan merkille" },
+  kuva: { alt: "havainto – se mitä havaitaan tai pannaan merkille" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (vartalo havainno-)",

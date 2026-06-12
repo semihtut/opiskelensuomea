@@ -11,7 +11,7 @@ const jarkyttya: Word = {
   en: "to be shocked, be shaken",
   selitys:
     "Joutua voimakkaan kielteisen tunteen valtaan: 'järkyttyä uutisesta'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu tt:t (järkytyn). Hallitsee elatiivia ('järkyttyä jostakin'). Vrt. järkyttää, järkytys, järkyttävä.",
-  kuva: { emoji: "😰", alt: "järkyttyä – joutua voimakkaan kielteisen tunteen valtaan" },
+  kuva: { alt: "järkyttyä – joutua voimakkaan kielteisen tunteen valtaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu tt:t (järkyty- ~ järkytty-)",

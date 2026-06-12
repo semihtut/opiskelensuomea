@@ -11,7 +11,7 @@ const yleistya: Word = {
   en: "to become common, become widespread",
   selitys:
     "Tulla yleiseksi tai yleisemmäksi: 'etätyö on yleistynyt'. Tyyppi 1 (-yä), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen. Johdettu sanasta yleinen. Useimmiten 3. persoonassa. Vrt. yleinen, yleensä, harvinaistua.",
-  kuva: { emoji: "📊", alt: "yleistyä – tulla yleiseksi tai yleisemmäksi" },
+  kuva: { alt: "yleistyä – tulla yleiseksi tai yleisemmäksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; ei astevaihtelua; vartalo yleisty-",

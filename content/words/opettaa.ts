@@ -11,7 +11,7 @@ const opettaa: Word = {
   en: "to teach",
   selitys:
     "Antaa toiselle tietoa tai taitoa: 'opettaa lapsille lukemista'. Tyyppi 1 (-aa), astevaihtelu tt:t (opetan ~ opettaa). Vastakohta oppia. Vrt. opettaja (teacher), opetus (teaching).",
-  kuva: { emoji: "👩‍🏫", alt: "opettaa – antaa toiselle tietoa tai taitoa" },
+  kuva: { alt: "opettaa – antaa toiselle tietoa tai taitoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (opetan ↔ opettaa); vartalo opetta- ~ opeta-",

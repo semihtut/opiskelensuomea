@@ -11,7 +11,7 @@ const markkinat: Word = {
   en: "market(s) (economics); fair",
   selitys:
     "Talouden vaihdannan järjestelmä tai kauppatapahtuma: 'kysyntä ja tarjonta markkinoilla'. Monikkosana (pluralia tantum), taipuu monikossa tyyppi 12/kulkija, ei astevaihtelua. Yksikkö 'markkina' on harvinainen. Vrt. kauppa, talous, kysyntä.",
-  kuva: { emoji: "📈", alt: "markkinat – talouden vaihdannan järjestelmä" },
+  kuva: { alt: "markkinat – talouden vaihdannan järjestelmä" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (pluralia tantum); monikon taivutus tyyppi 12/kulkija",

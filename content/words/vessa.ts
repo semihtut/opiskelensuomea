@@ -11,7 +11,7 @@ const vessa: Word = {
   en: "toilet, bathroom (WC)",
   selitys:
     "Huone tai paikka, jossa on wc: 'käydä vessassa'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko vessoja. Lyhenne sanasta WC; nykyään yleiskielinen. Vrt. wc, käymälä (virallisempi).",
-  kuva: { emoji: "🚽", alt: "vessa – huone, jossa on wc" },
+  kuva: { alt: "vessa – huone, jossa on wc" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

@@ -11,7 +11,7 @@ const liikkua: Word = {
   en: "to move; to exercise, be active",
   selitys:
     "Vaihtaa paikkaa tai olla fyysisesti aktiivinen: 'liikkua säännöllisesti'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu kk:k (liikun). Intransitiivinen (transit. liikuttaa). Vrt. liike, liikunta, liikuttaa.",
-  kuva: { emoji: "🚶", alt: "liikkua – vaihtaa paikkaa tai olla fyysisesti aktiivinen" },
+  kuva: { alt: "liikkua – vaihtaa paikkaa tai olla fyysisesti aktiivinen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu kk:k (liikku- ~ liiku-)",

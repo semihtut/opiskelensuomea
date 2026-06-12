@@ -11,7 +11,7 @@ const housut: Word = {
   en: "trousers, pants",
   selitys:
     "Alavartalon vaate, jossa on kaksi lahjetta. Monikkosana (pluratiivi): esiintyy vain monikossa. Tyyppi 1, ei astevaihtelua.",
-  kuva: { emoji: "👖", alt: "housut – housut" },
+  kuva: { alt: "housut – housut" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (plurale tantum), tyyppi 1/valo; ei astevaihtelua",

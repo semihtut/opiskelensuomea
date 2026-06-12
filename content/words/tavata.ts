@@ -11,7 +11,7 @@ const tavata: Word = {
   en: "to meet",
   selitys:
     "Kohdata joku; nähdä henkilö. Tyyppi 4 (-ata), astevaihtelu p:v: tavata → tapaan, NUT tavannut. Vaatii partitiivin: 'tapaan ystävän'.",
-  kuva: { emoji: "🤝", alt: "tavata – kaksi henkilöä tapaa" },
+  kuva: { alt: "tavata – kaksi henkilöä tapaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); astevaihtelu p:v (tapaan ~ tavata)",

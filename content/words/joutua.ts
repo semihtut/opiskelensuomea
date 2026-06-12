@@ -11,7 +11,7 @@ const joutua: Word = {
   en: "to end up (in); to be forced to, have to",
   selitys:
     "Päätyä tahtomattaan johonkin tilanteeseen tai joutua tekemään jotain: 'joutua vaikeuksiin', 'jouduin odottamaan'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu t:d (joudun). Vrt. päästä, joutua + illatiivi.",
-  kuva: { emoji: "😟", alt: "joutua – päätyä tahtomattaan johonkin tilanteeseen" },
+  kuva: { alt: "joutua – päätyä tahtomattaan johonkin tilanteeseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu t:d (joutu- ~ joudu-)",

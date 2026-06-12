@@ -11,7 +11,7 @@ const keksiä: Word = {
   en: "to invent; to come up with, make up",
   selitys:
     "Saada uusi idea tai luoda jotakin uutta: 'keksiä ratkaisu'. Tyyppi 1 (-iä), ei astevaihtelua; vartalo keksi-. Vrt. keksintö (invention), keksijä (inventor).",
-  kuva: { emoji: "💡", alt: "keksiä – saada uusi idea tai luoda jotakin uutta" },
+  kuva: { alt: "keksiä – saada uusi idea tai luoda jotakin uutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-iä); ei astevaihtelua; vartalo keksi-",

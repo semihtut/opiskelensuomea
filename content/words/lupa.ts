@@ -11,7 +11,7 @@ const lupa: Word = {
   en: "permission, permit, licence",
   selitys:
     "Oikeus tehdä jotakin tai virallinen asiakirja, joka sallii sen: 'pyytää lupa', 'rakennuslupa'. Tyyppi 10/koira, astevaihtelu p:v (lupa → luvan). Vrt. luvata, sallia, ajolupa.",
-  kuva: { emoji: "🪪", alt: "lupa – oikeus tai virallinen asiakirja joka sallii jonkin" },
+  kuva: { alt: "lupa – oikeus tai virallinen asiakirja joka sallii jonkin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu p:v (lupa ~ luva-)",

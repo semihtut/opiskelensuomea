@@ -11,7 +11,7 @@ const vastustaa: Word = {
   en: "to oppose, resist",
   selitys:
     "Olla jotakin vastaan; vastustaa muutosta, ehdotusta tai kiusausta: 'vastustaa lakia'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa. Vastakohta kannattaa. Vrt. vastustaja, vastustus.",
-  kuva: { emoji: "🛑", alt: "vastustaa – olla jotakin vastaan" },
+  kuva: { alt: "vastustaa – olla jotakin vastaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo vastusta-",

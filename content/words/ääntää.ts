@@ -11,7 +11,7 @@ const aantaa: Word = {
   en: "to pronounce, articulate",
   selitys:
     "Tuottaa kielen äänteet oikein: 'ääntää sana oikein'. Tyyppi 1 (-tää), Kotus 54/huutaa, astevaihtelu nt:nn (äännän) ja imperfektissä t→s (äänsin). Sanasta ääni. Vrt. ääni, ääntäminen, lausua.",
-  kuva: { emoji: "👄", alt: "ääntää – tuottaa kielen äänteet oikein" },
+  kuva: { alt: "ääntää – tuottaa kielen äänteet oikein" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää), Kotus 54/huutaa; astevaihtelu nt:nn + imperfektissä t→s",

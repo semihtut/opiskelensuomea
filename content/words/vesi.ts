@@ -12,7 +12,7 @@ const vesi: Word = {
   en: "water",
   selitys:
     "Väritön neste, jota ihminen tarvitsee elääkseen. Konsonanttivartalo (partitiivi vettä), astevaihtelu t:d.",
-  kuva: { emoji: "💧", alt: "vesi – vesipisara" },
+  kuva: { alt: "vesi – vesipisara" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d, konsonanttivartalo",

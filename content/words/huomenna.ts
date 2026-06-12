@@ -11,7 +11,7 @@ const huomenna: Word = {
   en: "tomorrow",
   selitys:
     "Tätä päivää seuraavana päivänä. Taipumaton adverbi (alkujaan sanan 'huomen' essiivi).",
-  kuva: { emoji: "🌄", alt: "huomenna – seuraavan päivän aamu" },
+  kuva: { alt: "huomenna – seuraavan päivän aamu" },
 
   kielioppi: {
     tyyppi: "adverbi (taipumaton)",

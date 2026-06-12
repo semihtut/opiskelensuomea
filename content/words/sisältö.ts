@@ -11,7 +11,7 @@ const sisalto: Word = {
   en: "content, contents; substance",
   selitys:
     "Se, mitä jokin sisältää: tekstin, paketin tai median sisältö. Tyyppi 1/valo, astevaihtelu lt:ll (sisältö → sisällön). Johdettu verbistä sisältää. Vrt. sisältää, sisällys, muoto.",
-  kuva: { emoji: "📦", alt: "sisältö – se mitä jokin sisältää" },
+  kuva: { alt: "sisältö – se mitä jokin sisältää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu lt:ll (sisältö ~ sisällö-)",

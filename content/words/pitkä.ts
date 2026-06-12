@@ -11,7 +11,7 @@ const pitka: Word = {
   en: "long; tall",
   selitys:
     "Mitaltaan suuri (pituus tai kesto). Tyyppi 10, ei astevaihtelua. Vertailu on POIKKEAVA: pidempi, pisin. Vastakohta lyhyt.",
-  kuva: { emoji: "📏", alt: "pitkä – pitkä mitta" },
+  kuva: { alt: "pitkä – pitkä mitta" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; poikkeava vertailu (pidempi, pisin)",

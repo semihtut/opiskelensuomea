@@ -10,7 +10,7 @@ const vain: Word = {
   en: "only, just",
   selitys:
     "Rajaa: 'vain yksi' = only one. Fokuspartikkeli, ei taivuteta. Synonyymi ainoastaan. Puhekielessä joskus 'vaan' (ei sekoita konjunktioon vaan).",
-  kuva: { emoji: "1️⃣", alt: "vain – vain yksi, rajaus" },
+  kuva: { alt: "vain – vain yksi, rajaus" },
 
   kielioppi: {
     tyyppi: "fokuspartikkeli (rajaus); taipumaton",

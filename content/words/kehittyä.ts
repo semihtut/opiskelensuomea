@@ -11,7 +11,7 @@ const kehittya: Word = {
   en: "to develop, evolve, improve",
   selitys:
     "Muuttua vähitellen paremmaksi tai pidemmälle: 'taidot kehittyvät harjoitellessa'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu tt:t (kehityn). Intransitiivinen (transit. kehittää). Hallitsee usein elatiivia/illatiivia. Vrt. kehitys, kehittää.",
-  kuva: { emoji: "🌱", alt: "kehittyä – muuttua vähitellen paremmaksi" },
+  kuva: { alt: "kehittyä – muuttua vähitellen paremmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu tt:t (kehity- ~ kehitty-)",

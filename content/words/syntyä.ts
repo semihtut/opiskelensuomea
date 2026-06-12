@@ -11,7 +11,7 @@ const syntya: Word = {
   en: "to be born; to come into being",
   selitys:
     "Tulla maailmaan; saada alkunsa. Tyyppi 1, astevaihtelu nt:nn: syntyä → synnyn. Vastakohta kuolla. Substantiivi syntymäpäivä = birthday.",
-  kuva: { emoji: "👶", alt: "syntyä – vauva syntyy" },
+  kuva: { alt: "syntyä – vauva syntyy" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tyä); astevaihtelu nt:nn",

@@ -11,7 +11,7 @@ const tyottomyys: Word = {
   en: "unemployment",
   selitys:
     "Tila, jossa ihmisellä ei ole työtä, tai ilmiö yhteiskunnassa: 'pitkäaikaistyöttömyys', 'työttömyys laski'. Tyyppi 40/kalleus, astevaihtelu t:d (työttömyys → työttömyyden). Sanasta työtön. Vrt. työtön, työllisyys, työttömyyskorvaus.",
-  kuva: { emoji: "📉", alt: "työttömyys – tila jossa ihmisellä ei ole työtä" },
+  kuva: { alt: "työttömyys – tila jossa ihmisellä ei ole työtä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (työttömyyte- ~ työttömyyde-)",

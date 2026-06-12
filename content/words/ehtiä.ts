@@ -11,7 +11,7 @@ const ehtia: Word = {
   en: "to have time (to); to make it in time",
   selitys:
     "Olla riittävästi aikaa tehdä jokin tai saapua ajoissa: 'ehtiä bussiin', 'en ehdi'. Tyyppi 1 (-iä), Kotus 61/sallia, astevaihtelu ht:hd (ehdin). HUOM: i-vartalo – minä-muoto sama preesensissä ja imperfektissä (ehdin). Vrt. ehtiä + illatiivi, kiirehtiä.",
-  kuva: { emoji: "⏱️", alt: "ehtiä – olla riittävästi aikaa tehdä jokin tai saapua ajoissa" },
+  kuva: { alt: "ehtiä – olla riittävästi aikaa tehdä jokin tai saapua ajoissa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-iä), Kotus 61/sallia; astevaihtelu ht:hd (eht- ~ ehd-)",

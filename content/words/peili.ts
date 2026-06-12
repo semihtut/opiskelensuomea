@@ -11,7 +11,7 @@ const peili: Word = {
   en: "mirror",
   selitys:
     "Heijastava pinta, josta näkee oman kuvansa. Tyyppi 5, ei astevaihtelua.",
-  kuva: { emoji: "🪞", alt: "peili – seinäpeili" },
+  kuva: { alt: "peili – seinäpeili" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

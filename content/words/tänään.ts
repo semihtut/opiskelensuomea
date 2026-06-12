@@ -10,7 +10,7 @@ const tänään: Word = {
   level: "A1",
   en: "today",
   selitys: "Kuluvana päivänä, tänä päivänä. Taipumaton aikaa ilmaiseva adverbi.",
-  kuva: { emoji: "📆", alt: "tänään – tämä päivä kalenterissa" },
+  kuva: { alt: "tänään – tämä päivä kalenterissa" },
 
   kielioppi: {
     tyyppi: "adverbi (taipumaton)",

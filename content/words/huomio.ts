@@ -11,7 +11,7 @@ const huomio: Word = {
   en: "attention; observation, remark",
   selitys:
     "1) Tarkkaavaisuuden suuntaaminen: 'kiinnittää huomiota'. 2) Esitetty havainto tai kommentti: 'hyvä huomio'. Tyyppi 3/valtio, ei astevaihtelua; partitiivi huomiota, partitiivin monikko huomioita. Johdettu verbistä huomata. Vrt. huomata, huomauttaa, havainto.",
-  kuva: { emoji: "👀", alt: "huomio – tarkkaavaisuus tai esitetty havainto" },
+  kuva: { alt: "huomio – tarkkaavaisuus tai esitetty havainto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo huomio-)",

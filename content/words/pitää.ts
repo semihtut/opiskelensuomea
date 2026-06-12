@@ -11,7 +11,7 @@ const pitaa: Word = {
   en: "to hold/keep; to like; must",
   selitys:
     "Monimerkityksinen: 1) pitää kädessä (hold), 2) pitää jostakin = like (elatiivi), 3) pitää tehdä = must (pakko). Tyyppi 1, astevaihtelu t:d (pitä- → pidä-).",
-  kuva: { emoji: "🤲", alt: "pitää – pitää jotakin käsissä" },
+  kuva: { alt: "pitää – pitää jotakin käsissä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); astevaihtelu t:d (pitä- → pidä-)",

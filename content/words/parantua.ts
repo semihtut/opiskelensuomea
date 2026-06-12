@@ -11,7 +11,7 @@ const parantua: Word = {
   en: "to recover, to heal; to get better (intransitive)",
   selitys:
     "Tulla terveeksi tai paremmaksi itsestään: 'haava parantuu'. Tyyppi 1 (-ua), astevaihtelu nt:nn (parantua → parannun). Intransitiivinen pari verbille parantaa. Vrt. parantaa (to improve sth), parempi (better).",
-  kuva: { emoji: "🩹", alt: "parantua – tulla terveeksi tai paremmaksi" },
+  kuva: { alt: "parantua – tulla terveeksi tai paremmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); astevaihtelu nt:nn (parantu- ↔ parannu-)",

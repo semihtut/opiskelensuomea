@@ -11,7 +11,7 @@ const sopimus: Word = {
   en: "agreement, contract",
   selitys:
     "Osapuolten välinen sitova sopu: 'tehdä sopimus'. Tyyppi 39, ei astevaihtelua. Juuri verbistä sopia. Vrt. työsopimus (employment contract), sopia (to agree).",
-  kuva: { emoji: "📝", alt: "sopimus – osapuolten välinen sitova sopu" },
+  kuva: { alt: "sopimus – osapuolten välinen sitova sopu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo sopimukse-)",

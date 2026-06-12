@@ -11,7 +11,7 @@ const korkea: Word = {
   en: "high, tall",
   selitys:
     "Pystysuunnassa suuri (esim. vuori, rakennus). Tyyppi 15, ei astevaihtelua. Tämä on koko taivutustyypin mallisana. Vastakohta matala.",
-  kuva: { emoji: "🏔️", alt: "korkea – korkea vuori" },
+  kuva: { alt: "korkea – korkea vuori" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

@@ -10,7 +10,7 @@ const hinta: Word = {
   level: "A1",
   en: "price",
   selitys: "Rahamäärä, joka tavarasta tai palvelusta maksetaan. Astevaihtelu nt:nn (hinta → hinnan).",
-  kuva: { emoji: "🏷️", alt: "hinta – hintalappu" },
+  kuva: { alt: "hinta – hintalappu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (hinta → hinnan)",

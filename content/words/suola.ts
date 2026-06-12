@@ -11,7 +11,7 @@ const suola: Word = {
   en: "salt",
   selitys:
     "Valkoinen mausteaine, natriumkloridi: 'lisää suolaa'. Tyyppi 9, ei astevaihtelua. Käytetään useimmiten yksikössä (ainesana). Kemiassa myös 'suola' (yhdiste). Vrt. suolainen, merisuola.",
-  kuva: { emoji: "🧂", alt: "suola – valkoinen mausteaine" },
+  kuva: { alt: "suola – valkoinen mausteaine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

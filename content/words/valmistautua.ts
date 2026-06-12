@@ -11,7 +11,7 @@ const valmistautua: Word = {
   en: "to prepare (oneself), get ready",
   selitys:
     "Tehdä itsensä valmiiksi tulevaa varten: 'valmistautua kokeeseen'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu t:d (valmistaudun). Hallitsee illatiivia ('valmistautua johonkin') tai 3. infinitiivin illatiivia. Vrt. valmis, valmistella.",
-  kuva: { emoji: "🎒", alt: "valmistautua – tehdä itsensä valmiiksi tulevaa varten" },
+  kuva: { alt: "valmistautua – tehdä itsensä valmiiksi tulevaa varten" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu t:d (valmistautu- ~ valmistaudu-)",

@@ -11,7 +11,7 @@ const syksy: Word = {
   en: "autumn, fall",
   selitys:
     "Vuodenaika kesän ja talven välissä: 'sateinen syksy'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko syksyjä. 'Syksyllä' = in autumn (adessiivi). Vrt. syksyinen, syyskuu.",
-  kuva: { emoji: "🍂", alt: "syksy – vuodenaika kesän ja talven välissä" },
+  kuva: { alt: "syksy – vuodenaika kesän ja talven välissä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

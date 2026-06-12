@@ -11,7 +11,7 @@ const laskea: Word = {
   en: "to lower, put down; to count, calculate",
   selitys:
     "Siirtää alaspäin tai laskea numeroita: 'lasken laukun lattialle' / 'lasken kymmeneen'. Tyyppi 58 (laskea on tyypin malliverbi). Vastakohta nostaa.",
-  kuva: { emoji: "🧮", alt: "laskea – laskea alas tai laskea numeroita" },
+  kuva: { alt: "laskea – laskea alas tai laskea numeroita" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-kea); ei astevaihtelua; vartalo laske-",

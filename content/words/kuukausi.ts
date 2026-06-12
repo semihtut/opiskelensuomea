@@ -12,7 +12,7 @@ const kuukausi: Word = {
   en: "month",
   selitys:
     "Noin 30 päivän jakso; vuosi jakautuu 12 kuukauteen. Konsonanttivartalo (partitiivi kuukautta), astevaihtelu t:d.",
-  kuva: { emoji: "📅", alt: "kuukausi – kuukauden kalenteri" },
+  kuva: { alt: "kuukausi – kuukauden kalenteri" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d, konsonanttivartalo",

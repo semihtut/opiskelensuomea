@@ -11,7 +11,7 @@ const oppilas: Word = {
   en: "pupil, student (at school)",
   selitys:
     "Koulussa oppia saava henkilö, etenkin peruskoulussa. Tyyppi 41, ei astevaihtelua. Vrt. opiskelija (= korkeakouluopiskelija).",
-  kuva: { emoji: "🧑‍🎓", alt: "oppilas – koululainen pulpetin ääressä" },
+  kuva: { alt: "oppilas – koululainen pulpetin ääressä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 41/vieras; ei astevaihtelua, konsonanttivartalo",

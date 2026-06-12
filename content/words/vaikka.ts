@@ -10,7 +10,7 @@ const vaikka: Word = {
   en: "although, even though, even if",
   selitys:
     "Alistuskonjunktio, joka ilmaisee myönnytystä tai vastakohtaa odotukselle. Ei taivuteta. 'Lähdin ulos, vaikka satoi.' Puhekielessä myös 'esimerkiksi'.",
-  kuva: { emoji: "🤷", alt: "vaikka – myönnytys, vastoin odotusta" },
+  kuva: { alt: "vaikka – myönnytys, vastoin odotusta" },
 
   kielioppi: {
     tyyppi: "alistuskonjunktio (myönnytys); taipumaton",

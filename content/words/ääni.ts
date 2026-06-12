@@ -11,7 +11,7 @@ const aani: Word = {
   en: "sound; voice; vote",
   selitys:
     "Kuultava värähtely, puheen sointi tai vaalin ääni: 'kova ääni' / 'antaa äänensä'. Tyyppi 26, ei astevaihtelua, vartalo ääne-. Partitiivi ääntä. Vrt. äänestää (to vote), äänekäs (loud).",
-  kuva: { emoji: "🔊", alt: "ääni – kuultava värähtely tai puheen sointi" },
+  kuva: { alt: "ääni – kuultava värähtely tai puheen sointi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo ääne-)",

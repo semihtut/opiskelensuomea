@@ -11,7 +11,7 @@ const esitella: Word = {
   en: "to introduce, present, show",
   selitys:
     "Tuoda joku tai jokin toisten tietoon tai näytille: 'esitellä uusi työntekijä'. Tyyppi 3 (-llä), Kotus 67/tulla, astevaihtelu tt:t (esittelen vahva, esitellä heikko). Vrt. esitellä itsensä, esittely, esittää.",
-  kuva: { emoji: "🙋‍♀️", alt: "esitellä – tuoda joku tai jokin toisten tietoon" },
+  kuva: { alt: "esitellä – tuoda joku tai jokin toisten tietoon" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä), Kotus 67/tulla; astevaihtelu tt:t (esitel- ~ esittele-)",

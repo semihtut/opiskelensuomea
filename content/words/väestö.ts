@@ -11,7 +11,7 @@ const vaesto: Word = {
   en: "population",
   selitys:
     "Tietyllä alueella asuvat ihmiset kokonaisuutena: 'maan väestö', 'ikääntyvä väestö'. Tyyppi 1/valo, ei astevaihtelua (kollektiivijohdos -stö). Sanasta väki. Vrt. väki, kansa, asukas.",
-  kuva: { emoji: "👥", alt: "väestö – tietyllä alueella asuvat ihmiset kokonaisuutena" },
+  kuva: { alt: "väestö – tietyllä alueella asuvat ihmiset kokonaisuutena" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo väestö-)",

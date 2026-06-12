@@ -11,7 +11,7 @@ const katsoa: Word = {
   en: "to look (at), watch",
   selitys:
     "Suunnata katse johonkin tahallaan; seurata esim. elokuvaa. Tyyppi 1, vartalo katso-, ei astevaihtelua. Vrt. nähdä (= see, aisti).",
-  kuva: { emoji: "📺", alt: "katsoa – katsotaan jotakin" },
+  kuva: { alt: "katsoa – katsotaan jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); vartalo katso-, ei astevaihtelua",

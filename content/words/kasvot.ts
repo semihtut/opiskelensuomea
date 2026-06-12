@@ -11,7 +11,7 @@ const kasvot: Word = {
   en: "face",
   selitys:
     "Pään etupuoli, jossa ovat silmät, nenä ja suu. Monikkosana (plurale tantum): aina monikossa, 'kauniit kasvot', 'pestä kasvot'. Tyyppi 1/valo (monikkotaivutus), ei astevaihtelua. Vrt. naama (puhekieli), pää, ilme.",
-  kuva: { emoji: "🙂", alt: "kasvot – pään etupuoli jossa ovat silmät, nenä ja suu" },
+  kuva: { alt: "kasvot – pään etupuoli jossa ovat silmät, nenä ja suu" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (plurale tantum), tyyppi 1/valo; ei astevaihtelua",

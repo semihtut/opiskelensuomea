@@ -11,7 +11,7 @@ const puisto: Word = {
   en: "park",
   selitys:
     "Istutettu viheralue kaupungissa. Tyyppi 1, ei astevaihtelua. Sanasta puu + -sto (kokoelma).",
-  kuva: { emoji: "🏞️", alt: "puisto – penkkejä ja puita puistossa" },
+  kuva: { alt: "puisto – penkkejä ja puita puistossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

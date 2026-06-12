@@ -11,7 +11,7 @@ const sisustus: Word = {
   en: "interior decoration, furnishings",
   selitys:
     "Huoneen kalusteet ja somisteet kokonaisuutena: 'moderni sisustus'. Tyyppi 39, ei astevaihtelua; vartalo sisustukse-. Partitiivin monikko sisustuksia. Johdettu verbistä sisustaa. Vrt. sisustaa, sisustussuunnittelija.",
-  kuva: { emoji: "🛋️", alt: "sisustus – huoneen kalusteet ja somisteet" },
+  kuva: { alt: "sisustus – huoneen kalusteet ja somisteet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo sisustukse-",

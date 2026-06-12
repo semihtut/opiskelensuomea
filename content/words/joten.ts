@@ -11,7 +11,7 @@ const joten: Word = {
   en: "so, therefore",
   selitys:
     "Rinnastuskonjunktio, joka ilmaisee seurausta tai päätelmää. Ei taivuteta. Edellä pilkku: 'Satoi, joten otin sateenvarjon.' Vrt. siksi.",
-  kuva: { emoji: "➡️", alt: "joten – seuraus, siksi" },
+  kuva: { alt: "joten – seuraus, siksi" },
 
   kielioppi: {
     tyyppi: "rinnastuskonjunktio (seuraus); taipumaton",

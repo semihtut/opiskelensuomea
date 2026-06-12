@@ -11,7 +11,7 @@ const juhla: Word = {
   en: "celebration, party, festivity",
   selitys:
     "Juhlallinen tilaisuus tai juhliminen: 'syntymäpäiväjuhla'. Tyyppi 10, ei astevaihtelua. Usein monikossa: juhlat. Partitiivin monikko juhlia. Vrt. juhlia (to celebrate), juhlallinen (festive, solemn).",
-  kuva: { emoji: "🎉", alt: "juhla – juhlallinen tilaisuus" },
+  kuva: { alt: "juhla – juhlallinen tilaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

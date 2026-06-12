@@ -11,7 +11,7 @@ const voima: Word = {
   en: "strength, force, power",
   selitys:
     "Fyysinen tai henkinen kyky vaikuttaa: 'käyttää voimaa'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko voimia (a katoaa). Vrt. voimakas (strong), voimistua (to grow stronger), voida (to be able).",
-  kuva: { emoji: "💪", alt: "voima – kyky vaikuttaa" },
+  kuva: { alt: "voima – kyky vaikuttaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

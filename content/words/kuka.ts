@@ -11,7 +11,7 @@ const kuka: Word = {
   en: "who",
   selitys:
     "Kysyy henkilöä (who). Sijamuodoissa vartalo on ken-: genetiivi kenen (whose), partitiivi ketä. Asioista kysytään mikä.",
-  kuva: { emoji: "🤔", alt: "kuka – kysymys henkilöstä" },
+  kuva: { alt: "kuka – kysymys henkilöstä" },
 
   kielioppi: {
     tyyppi: "interrogatiivipronomini (henkilö); taivutusvartalo ken-",

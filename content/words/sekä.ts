@@ -11,7 +11,7 @@ const seka: Word = {
   en: "and; (sekä… että) both… and",
   selitys:
     "Rinnastuskonjunktio, joka yhdistää asioita; usein parina 'sekä… että' = both… and. Ei taivuteta. Hieman muodollisempi kuin ja.",
-  kuva: { emoji: "➕", alt: "sekä – yhdistää kaksi asiaa" },
+  kuva: { alt: "sekä – yhdistää kaksi asiaa" },
 
   kielioppi: {
     tyyppi: "rinnastuskonjunktio; taipumaton; usein pari sekä… että",

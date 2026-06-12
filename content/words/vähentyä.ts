@@ -11,7 +11,7 @@ const vahentya: Word = {
   en: "to decrease, diminish, lessen",
   selitys:
     "Käydä pienemmäksi määrältään tai lukumäärältään: 'kysyntä vähentyi'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu nt:nn (vähennyn). Intransitiivinen (transit. vähentää). Vastakohta lisääntyä. Synonyymi vähetä.",
-  kuva: { emoji: "📉", alt: "vähentyä – käydä pienemmäksi määrältään" },
+  kuva: { alt: "vähentyä – käydä pienemmäksi määrältään" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu nt:nn (vähenny- ~ vähenty-)",

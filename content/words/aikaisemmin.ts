@@ -10,7 +10,7 @@ const aikaisemmin: Word = {
   en: "earlier, before, previously",
   selitys:
     "Aiemmin, ennen jotakin hetkeä: 'olen käynyt täällä aikaisemmin'. Adverbin 'aikaisin' komparatiivimuoto, taipumaton. Vastakohta myöhemmin. Synonyymi aiemmin. Vrt. aikainen (early), aikaisin (earliest).",
-  kuva: { emoji: "⏪", alt: "aikaisemmin – aiemmin, ennen jotakin hetkeä" },
+  kuva: { alt: "aikaisemmin – aiemmin, ennen jotakin hetkeä" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi, komparatiivi); taipumaton",

@@ -11,7 +11,7 @@ const sairaus: Word = {
   en: "illness, disease, sickness",
   selitys:
     "Terveyden häiriö tai tauti: 'vakava sairaus'. Tyyppi 40, astevaihtelu t:d (sairaute- → sairaude-). Johdettu sanasta sairas. Vrt. sairastua (to fall ill), sairaala (hospital).",
-  kuva: { emoji: "🤒", alt: "sairaus – terveyden häiriö" },
+  kuva: { alt: "sairaus – terveyden häiriö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (sairaute- ↔ sairaude-)",

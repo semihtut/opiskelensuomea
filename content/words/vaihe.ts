@@ -11,7 +11,7 @@ const vaihe: Word = {
   en: "phase, stage, step",
   selitys:
     "Erotettavissa oleva osa pidemmästä prosessista tai kehityksestä: 'projektin ensimmäinen vaihe'. Tyyppi 48/hame, ei astevaihtelua; vartalo vaihee-. Vrt. jakso, kausi, vaiheittain.",
-  kuva: { emoji: "🪜", alt: "vaihe – erotettavissa oleva osa prosessista" },
+  kuva: { alt: "vaihe – erotettavissa oleva osa prosessista" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo vaihee-)",

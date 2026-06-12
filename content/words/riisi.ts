@@ -11,7 +11,7 @@ const riisi: Word = {
   en: "rice",
   selitys:
     "Vaalea jyväkasvi ja sen siemenet ruokana: 'keittää riisiä'. Tyyppi 5, ei astevaihtelua. Käytetään useimmiten yksikössä (ainesana). Vrt. riisipuuro, jasmiiniriisi.",
-  kuva: { emoji: "🍚", alt: "riisi – vaalea jyväkasvi ruokana" },
+  kuva: { alt: "riisi – vaalea jyväkasvi ruokana" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

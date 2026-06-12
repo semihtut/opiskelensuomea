@@ -11,7 +11,7 @@ const kirja: Word = {
   en: "book",
   selitys:
     "Sidottu kokoelma sivuja luettavaksi. Tyyppi 9, ei astevaihtelua. Juuri samassa perheessä kuin kirjoittaa, kirjain.",
-  kuva: { emoji: "📕", alt: "kirja – kirja" },
+  kuva: { alt: "kirja – kirja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

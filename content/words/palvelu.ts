@@ -11,7 +11,7 @@ const palvelu: Word = {
   en: "service",
   selitys:
     "Asiakkaalle tarjottu apu tai toiminta: 'hyvä palvelu'. Tyyppi 1, ei astevaihtelua. Juuri verbistä palvella. Vrt. asiakaspalvelu (customer service), tuote (product).",
-  kuva: { emoji: "🛎️", alt: "palvelu – asiakkaalle tarjottu apu" },
+  kuva: { alt: "palvelu – asiakkaalle tarjottu apu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

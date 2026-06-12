@@ -11,7 +11,7 @@ const tulla: Word = {
   en: "to come; to become",
   selitys:
     "Liikkua puhujaa kohti; myös 'tulla joksikin' (= become). Tyyppi 3, vartalo tule-, ei astevaihtelua. Vastakohta 'mennä'.",
-  kuva: { emoji: "🙋", alt: "tulla – ihminen tulossa kohti" },
+  kuva: { alt: "tulla – ihminen tulossa kohti" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); vartalo tule-, ei astevaihtelua",

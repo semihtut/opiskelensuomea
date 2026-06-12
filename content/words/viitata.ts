@@ -11,7 +11,7 @@ const viitata: Word = {
   en: "to refer, allude; to gesture, point",
   selitys:
     "Osoittaa tai viitata johonkin eleellä tai puheessa: 'viitata aiempaan tutkimukseen'. Tyyppi 4 (-ata), Kotus 73/salata, astevaihtelu tt:t (viittaan vahva tt, viitata/viitannut heikko t). Hallitsee illatiivia. Vrt. viittaus, viite.",
-  kuva: { emoji: "👉", alt: "viitata – osoittaa johonkin eleellä tai puheessa" },
+  kuva: { alt: "viitata – osoittaa johonkin eleellä tai puheessa" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; astevaihtelu tt:t (viittaa- ~ viita-)",

@@ -11,7 +11,7 @@ const maara: Word = {
   en: "amount, quantity, number",
   selitys:
     "Kuinka paljon jotakin on: 'suuri määrä ihmisiä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko määriä. Mitattavasta asiasta usein partitiivi: 'määrä rahaa'. Vrt. määrätä, lukumäärä, paljous.",
-  kuva: { emoji: "🔢", alt: "määrä – kuinka paljon jotakin on" },
+  kuva: { alt: "määrä – kuinka paljon jotakin on" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo määrä-)",

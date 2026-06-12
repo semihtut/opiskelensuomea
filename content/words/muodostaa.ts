@@ -11,7 +11,7 @@ const muodostaa: Word = {
   en: "to form, make up, constitute",
   selitys:
     "Saada aikaan tai koota jokin kokonaisuus: 'osat muodostavat kokonaisuuden'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa/akkusatiivissa. Johdettu sanasta muoto. Vrt. muoto, muodostua.",
-  kuva: { emoji: "🧱", alt: "muodostaa – koota jokin kokonaisuus" },
+  kuva: { alt: "muodostaa – koota jokin kokonaisuus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo muodosta-",

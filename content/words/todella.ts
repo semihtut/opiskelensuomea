@@ -10,7 +10,7 @@ const todella: Word = {
   en: "really, very, truly",
   selitys:
     "Vahvistaa sanaa: 'todella hyvä' = really good. Asteen adverbi, ei taivuteta. Pohjana tosi/tode-. Vrt. tosi (puhekielinen), oikein, erittäin.",
-  kuva: { emoji: "‼️", alt: "todella – vahvistus, todella paljon" },
+  kuva: { alt: "todella – vahvistus, todella paljon" },
 
   kielioppi: {
     tyyppi: "asteen adverbi; taipumaton (tosi-sanan adessiivi)",

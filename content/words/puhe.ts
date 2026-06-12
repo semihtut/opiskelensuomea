@@ -11,7 +11,7 @@ const puhe: Word = {
   en: "speech, talk; address",
   selitys:
     "1) Puhuminen tai puhetapa: 'selkeä puhe'. 2) Juhlapuhe, esitys: 'pitää puhe'. Tyyppi 48/hame, ei astevaihtelua. Johdettu verbistä puhua. Vrt. puhua, puhuja, juhlapuhe.",
-  kuva: { emoji: "🗣️", alt: "puhe – puhuminen tai juhlapuhe" },
+  kuva: { alt: "puhe – puhuminen tai juhlapuhe" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo puhee-)",

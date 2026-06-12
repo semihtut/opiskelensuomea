@@ -11,7 +11,7 @@ const hyvin: Word = {
   en: "well; very",
   selitys:
     "Tavan adverbi (well): 'nukuin hyvin'; asteen adverbi (very): 'hyvin kaunis'. Pohjana hyvä. Vertailu suppletiivinen: hyvin – paremmin – parhaiten.",
-  kuva: { emoji: "👍", alt: "hyvin – hyvä lopputulos" },
+  kuva: { alt: "hyvin – hyvä lopputulos" },
 
   kielioppi: {
     tyyppi: "tavan/asteen adverbi (hyvä); suppletiivinen vertailu",

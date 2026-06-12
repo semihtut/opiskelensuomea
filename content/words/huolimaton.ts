@@ -11,7 +11,7 @@ const huolimaton: Word = {
   en: "careless, negligent",
   selitys:
     "Sellainen, joka ei tee asioita huolella; huolimattomasti toimiva: 'huolimaton virhe'. Tyyppi 34/onneton, astevaihtelu tt:t (huolimaton → huolimattoman). Kieltojohdos (huoli + -maton). Vastakohta huolellinen. Vrt. huoli, huolimattomuus.",
-  kuva: { emoji: "🤷", alt: "huolimaton – asioita huolimattomasti tekevä" },
+  kuva: { alt: "huolimaton – asioita huolimattomasti tekevä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 34/onneton; astevaihtelu tt:t (vartalo huolimattoma-)",

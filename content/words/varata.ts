@@ -11,7 +11,7 @@ const varata: Word = {
   en: "to reserve, book; to set aside",
   selitys:
     "Pidättää jotakin itselleen etukäteen, esim. pöytä tai aika: 'varata lippu'. Tyyppi 4 (-ata), ei astevaihtelua; vartalo varaa-. Johdettu sanasta vara. Vrt. varaus (reservation), varata aika.",
-  kuva: { emoji: "📅", alt: "varata – pidättää jotakin itselleen etukäteen" },
+  kuva: { alt: "varata – pidättää jotakin itselleen etukäteen" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; ei astevaihtelua; vartalo varaa- ~ vara-",

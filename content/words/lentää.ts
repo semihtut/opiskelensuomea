@@ -11,7 +11,7 @@ const lentaa: Word = {
   en: "to fly",
   selitys:
     "Liikkua ilmassa: 'lentää Lappiin'. Tyyppi 1 (-ää), astevaihtelu nt:nn (lennän), ja imperfektissä nt → ns (lensin). Vrt. lento (flight), lentäjä (pilot), lentokone (airplane).",
-  kuva: { emoji: "✈️", alt: "lentää – liikkua ilmassa" },
+  kuva: { alt: "lentää – liikkua ilmassa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), huutaa-tyyppi; astevaihtelu nt:nn; imperfektissä nt → ns",

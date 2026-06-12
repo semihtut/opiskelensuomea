@@ -11,7 +11,7 @@ const kaula: Word = {
   en: "neck",
   selitys:
     "Pään ja vartalon yhdistävä kapea osa: 'pitkä kaula'. Myös esineen kapea kohta (pullon kaula). Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko kauloja. Vrt. niska, kurkku, pää.",
-  kuva: { emoji: "🦒", alt: "kaula – pään ja vartalon yhdistävä kapea osa" },
+  kuva: { alt: "kaula – pään ja vartalon yhdistävä kapea osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo kaula-)",

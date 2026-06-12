@@ -11,7 +11,7 @@ const epäillä: Word = {
   en: "to doubt; to suspect",
   selitys:
     "Olla epävarma jostakin tai pitää jotakin mahdollisena (usein kielteistä): 'epäillä totuutta'. Tyyppi 3 (-llä), ei astevaihtelua; vartalo epäile-. Johdettu sanasta epä-. Vrt. epäilys (doubt), epäilyttää.",
-  kuva: { emoji: "🤨", alt: "epäillä – olla epävarma tai pitää jotakin mahdollisena" },
+  kuva: { alt: "epäillä – olla epävarma tai pitää jotakin mahdollisena" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä); ei astevaihtelua; vartalo epäile- ~ epäil-",

@@ -11,7 +11,7 @@ const yhteys: Word = {
   en: "connection, contact, link",
   selitys:
     "Yhteys kahden asian tai ihmisen välillä; myös nettiyhteys: 'ottaa yhteyttä'. Tyyppi 40, astevaihtelu t:d (yhteys → yhteyden). Partitiivin monikko yhteyksiä. Johdettu sanasta yksi/yhte-.",
-  kuva: { emoji: "🔗", alt: "yhteys – yhteys kahden asian välillä" },
+  kuva: { alt: "yhteys – yhteys kahden asian välillä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo yhteyde-)",

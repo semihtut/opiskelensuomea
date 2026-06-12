@@ -11,7 +11,7 @@ const sulkea: Word = {
   en: "to close, shut",
   selitys:
     "Saada jokin kiinni; lopettaa toiminta. Tyyppi 1, erikoisastevaihtelu k:j (lk → lj): sulkea → suljen. Vastakohta avata.",
-  kuva: { emoji: "🔒", alt: "sulkea – ovi tai lukko suljetaan" },
+  kuva: { alt: "sulkea – ovi tai lukko suljetaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-kea); astevaihtelu k:j (lk → lj)",

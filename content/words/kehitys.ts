@@ -11,7 +11,7 @@ const kehitys: Word = {
   en: "development, progress",
   selitys:
     "Vähittäinen muuttuminen parempaan tai eteenpäin: 'nopea kehitys'. Tyyppi 39, ei astevaihtelua; vartalo kehitykse-. Partitiivin monikko kehityksiä (usein yksikössä). Johdettu verbistä kehittyä.",
-  kuva: { emoji: "📈", alt: "kehitys – vähittäinen muuttuminen eteenpäin" },
+  kuva: { alt: "kehitys – vähittäinen muuttuminen eteenpäin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo kehitykse-",

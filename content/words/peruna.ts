@@ -11,7 +11,7 @@ const peruna: Word = {
   en: "potato",
   selitys:
     "Maan alla kasvava tärkkelyspitoinen mukula, tärkeä ruoka-aine. Ei astevaihtelua; monikon partitiivi perunoita.",
-  kuva: { emoji: "🥔", alt: "peruna – peruna" },
+  kuva: { alt: "peruna – peruna" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

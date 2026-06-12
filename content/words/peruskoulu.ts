@@ -11,7 +11,7 @@ const peruskoulu: Word = {
   en: "comprehensive school (grades 1–9)",
   selitys:
     "Suomen yhdeksänvuotinen pakollinen peruskoulutus (luokat 1–9): 'käydä peruskoulu'. Tyyppi 1/valo, ei astevaihtelua. Yhdyssana perus + koulu. Peruskoulun jälkeen tulee lukio tai ammattikoulu. Vrt. koulu, lukio, oppilas.",
-  kuva: { emoji: "🏫", alt: "peruskoulu – Suomen yhdeksänvuotinen pakollinen peruskoulutus" },
+  kuva: { alt: "peruskoulu – Suomen yhdeksänvuotinen pakollinen peruskoulutus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo peruskoulu-)",

@@ -11,7 +11,7 @@ const siksi: Word = {
   en: "therefore, for that reason",
   selitys:
     "Ilmaisee seurausta tai syytä. 'Satoi, siksi jäin kotiin.' Pari: siksi… koska / siksi että = for the reason that. Pohjana pronomini se (translatiivi).",
-  kuva: { emoji: "🎯", alt: "siksi – syy ja seuraus" },
+  kuva: { alt: "siksi – syy ja seuraus" },
 
   kielioppi: {
     tyyppi: "syyn adverbi (se-pronominin translatiivi); konjunktioadverbi",

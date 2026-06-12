@@ -11,7 +11,7 @@ const kortti: Word = {
   en: "card",
   selitys:
     "Pieni jäykkä kortti: maksukortti, pelikortti tai postikortti: 'maksaa kortilla'. Tyyppi 5, astevaihtelu tt:t (kortti → kortin). Partitiivin monikko kortteja. Vrt. pankkikortti, postikortti.",
-  kuva: { emoji: "💳", alt: "kortti – maksukortti tai postikortti" },
+  kuva: { alt: "kortti – maksukortti tai postikortti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (kortti ↔ korti-)",

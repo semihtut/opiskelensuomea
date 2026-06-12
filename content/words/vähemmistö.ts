@@ -11,7 +11,7 @@ const vahemmisto: Word = {
   en: "minority",
   selitys:
     "Ryhmän pienempi osa, alle puolet: 'kielellinen vähemmistö'. Tyyppi 2/palvelu, ei astevaihtelua. Sanasta vähän/vähempi. Vastakohta enemmistö. Vrt. enemmistö, vähän, ryhmä.",
-  kuva: { emoji: "🙋", alt: "vähemmistö – ryhmän pienempi osa, alle puolet" },
+  kuva: { alt: "vähemmistö – ryhmän pienempi osa, alle puolet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo vähemmistö-)",

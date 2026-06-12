@@ -11,7 +11,7 @@ const kiltti: Word = {
   en: "kind, nice, good (well-behaved)",
   selitys:
     "Hyväntahtoinen ja tottelevainen: 'kiltti lapsi'. Tyyppi 5, astevaihtelu tt:t (kiltti → kiltin). Vrt. ystävällinen (friendly). Lapsista: hyvin käyttäytyvä.",
-  kuva: { emoji: "😇", alt: "kiltti – hyväntahtoinen ja tottelevainen" },
+  kuva: { alt: "kiltti – hyväntahtoinen ja tottelevainen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 5/risti; astevaihtelu tt:t",

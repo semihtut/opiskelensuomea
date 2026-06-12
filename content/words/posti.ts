@@ -11,7 +11,7 @@ const posti: Word = {
   en: "post, mail; post office",
   selitys:
     "Kirjeiden ja pakettien kuljetus; myös postitoimisto. Tyyppi 5, ei astevaihtelua (st ei vaihtele).",
-  kuva: { emoji: "📮", alt: "posti – postilaatikko ja kirjeet" },
+  kuva: { alt: "posti – postilaatikko ja kirjeet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

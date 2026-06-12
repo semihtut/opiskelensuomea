@@ -11,7 +11,7 @@ const kielioppi: Word = {
   en: "grammar",
   selitys:
     "Kielen rakennetta ja sääntöjä koskeva oppi: 'suomen kielioppi', 'opiskella kielioppia'. Tyyppi 5/risti, astevaihtelu pp:p (kielioppi → kieliopin). Yhdyssana kieli + oppi. Vrt. kieli, oppi, sääntö.",
-  kuva: { emoji: "📖", alt: "kielioppi – kielen rakennetta ja sääntöjä koskeva oppi" },
+  kuva: { alt: "kielioppi – kielen rakennetta ja sääntöjä koskeva oppi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu pp:p (kielioppi ~ kieliopi-)",

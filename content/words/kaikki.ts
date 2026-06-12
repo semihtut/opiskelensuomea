@@ -11,7 +11,7 @@ const kaikki: Word = {
   en: "all; everything; everyone",
   selitys:
     "Koko määrä; jokainen. Tyyppi 7, astevaihtelu kk:k. Yksikkö 'kaikki/kaiken/kaikkea' = everything; monikko 'kaikki/kaikkien/kaikkia' = everyone/all.",
-  kuva: { emoji: "🌐", alt: "kaikki – kokonaisuus, kaikki yhdessä" },
+  kuva: { alt: "kaikki – kokonaisuus, kaikki yhdessä" },
 
   kielioppi: {
     tyyppi: "kvanttoripronomini, tyyppi 7/ovi; astevaihtelu kk:k",

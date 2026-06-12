@@ -11,7 +11,7 @@ const tuntea: Word = {
   en: "to feel; to know (a person)",
   selitys:
     "Aistia tunne; tuntea joku entuudestaan. Tyyppi 1, astevaihtelu nt:nn: tuntea → tunnen. Imperfekti on poikkeava s-vartalo: tunsin.",
-  kuva: { emoji: "🫀", alt: "tuntea – aistia ja tunnistaa" },
+  kuva: { alt: "tuntea – aistia ja tunnistaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tea); astevaihtelu nt:nn; poikkeava imperfekti tunsin",

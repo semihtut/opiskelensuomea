@@ -11,7 +11,7 @@ const luento: Word = {
   en: "lecture",
   selitys:
     "Yliopiston tai muun oppilaitoksen opetustilaisuus, jossa luennoitsija puhuu aiheesta: 'käydä luennolla'. Tyyppi 1/valo, astevaihtelu nt:nn (luento → luennon). Sanasta lukea + -nto. Vrt. lukea, luennoida, luentosali.",
-  kuva: { emoji: "🧑‍🏫", alt: "luento – oppilaitoksen opetustilaisuus jossa luennoitsija puhuu" },
+  kuva: { alt: "luento – oppilaitoksen opetustilaisuus jossa luennoitsija puhuu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (luento ~ luenno-)",

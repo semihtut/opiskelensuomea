@@ -11,7 +11,7 @@ const lainata: Word = {
   en: "to borrow; to lend; to quote",
   selitys:
     "Ottaa tai antaa jotakin käyttöön väliaikaisesti: 'lainata kirja kirjastosta' / 'lainata rahaa ystävälle'. Tyyppi 4 (-ata), ei astevaihtelua. Johdettu sanasta laina. Suunnan ratkaisee sija (ablatiivi = borrow from, allatiivi = lend to).",
-  kuva: { emoji: "📚", alt: "lainata – ottaa tai antaa käyttöön väliaikaisesti" },
+  kuva: { alt: "lainata – ottaa tai antaa käyttöön väliaikaisesti" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo lainaa- ~ laina-",

@@ -11,7 +11,7 @@ const keskittya: Word = {
   en: "to concentrate, focus",
   selitys:
     "Suunnata huomio yhteen asiaan: 'keskittyä työhön'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu tt:t (keskityn). Hallitsee illatiivia ('keskittyä johonkin'). Vastakohta hajamielisyys. Vrt. keskittää, keskittyminen.",
-  kuva: { emoji: "🧠", alt: "keskittyä – suunnata huomio yhteen asiaan" },
+  kuva: { alt: "keskittyä – suunnata huomio yhteen asiaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu tt:t (keskity- ~ keskitty-)",

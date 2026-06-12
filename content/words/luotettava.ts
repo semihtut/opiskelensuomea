@@ -11,7 +11,7 @@ const luotettava: Word = {
   en: "reliable, trustworthy, dependable",
   selitys:
     "Sellainen, johon voi luottaa: 'luotettava lähde'. Tyyppi 10/koira, ei astevaihtelua. Verbin luottaa partisiippi. Vastakohta epäluotettava. Vrt. luottaa, luotettavuus.",
-  kuva: { emoji: "✅", alt: "luotettava – sellainen johon voi luottaa" },
+  kuva: { alt: "luotettava – sellainen johon voi luottaa" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo luotettava-)",

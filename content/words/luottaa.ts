@@ -11,7 +11,7 @@ const luottaa: Word = {
   en: "to trust, rely on, count on",
   selitys:
     "Uskoa, että joku tai jokin on luotettava: 'luotan sinuun'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (luotan). Hallitsee illatiivia ('luottaa johonkin/johonkuhun'). Vrt. luottamus, luotettava, luottavainen.",
-  kuva: { emoji: "🤞", alt: "luottaa – uskoa että joku on luotettava" },
+  kuva: { alt: "luottaa – uskoa että joku on luotettava" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (luota- ~ luotta-)",

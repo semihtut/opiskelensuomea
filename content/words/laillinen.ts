@@ -11,7 +11,7 @@ const laillinen: Word = {
   en: "legal, lawful, legitimate",
   selitys:
     "Lain mukainen, sallittu: 'laillinen toiminta', 'laillinen oikeus'. Tyyppi 38/nainen, ei astevaihtelua. Sanasta laki. Vastakohta laiton. Vrt. laki, laillisuus, lainmukainen.",
-  kuva: { emoji: "✅", alt: "laillinen – lain mukainen, sallittu" },
+  kuva: { alt: "laillinen – lain mukainen, sallittu" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo laillise-)",

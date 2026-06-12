@@ -12,7 +12,7 @@ const auttaa: Word = {
   en: "to help",
   selitys:
     "Tehdä jonkun olo tai tilanne paremmaksi. Tyyppi 1, astevaihtelu tt:t (autan, mutta hän auttaa).",
-  kuva: { emoji: "🤲", alt: "auttaa – auttavat kädet" },
+  kuva: { alt: "auttaa – auttavat kädet" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); astevaihtelu tt:t",

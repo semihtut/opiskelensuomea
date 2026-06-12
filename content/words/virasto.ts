@@ -11,7 +11,7 @@ const virasto: Word = {
   en: "(government) office, agency, bureau",
   selitys:
     "Julkinen toimisto, jossa hoidetaan viranomaisasioita: 'verovirasto', 'asioida virastossa'. Tyyppi 1/valo, ei astevaihtelua (kollektiivijohdos -sto). Sanasta virka. Vrt. virka, virkailija, viranomainen.",
-  kuva: { emoji: "🏛️", alt: "virasto – julkinen toimisto jossa hoidetaan viranomaisasioita" },
+  kuva: { alt: "virasto – julkinen toimisto jossa hoidetaan viranomaisasioita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo virasto-)",

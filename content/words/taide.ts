@@ -11,7 +11,7 @@ const taide: Word = {
   en: "art",
   selitys:
     "Luova ja esteettinen ilmaisu: 'moderni taide'. Tyyppi 48, astevaihtelu t:d (taide → taiteen). Nominatiivissa heikko d, vartalossa vahva t (taitee-). Johdettu sanasta taitaa. Vrt. taiteilija (artist), taidemuseo (art museum).",
-  kuva: { emoji: "🎨", alt: "taide – luova ja esteettinen ilmaisu" },
+  kuva: { alt: "taide – luova ja esteettinen ilmaisu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d (taide ↔ taitee-)",

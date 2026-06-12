@@ -11,7 +11,7 @@ const erottaa: Word = {
   en: "to distinguish, separate; to dismiss, fire",
   selitys:
     "1) Havaita ero kahden asian välillä: 'erottaa värit'. 2) Pitää erillään tai irrottaa: 'erottaa työstä'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (erotan). Vrt. ero, erota, erottua.",
-  kuva: { emoji: "🔬", alt: "erottaa – havaita ero tai pitää erillään" },
+  kuva: { alt: "erottaa – havaita ero tai pitää erillään" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (erota- ~ erotta-)",

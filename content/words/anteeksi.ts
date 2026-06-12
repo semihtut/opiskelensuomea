@@ -11,7 +11,7 @@ const anteeksi: Word = {
   en: "sorry; excuse me",
   selitys:
     "Anteeksipyyntö tai huomion pyytäminen ('Anteeksi, voitko auttaa?'). Taipumaton sana.",
-  kuva: { emoji: "🙇", alt: "anteeksi – anteeksipyyntö, kumarrus" },
+  kuva: { alt: "anteeksi – anteeksipyyntö, kumarrus" },
 
   kielioppi: {
     tyyppi: "interjektio / adverbi (taipumaton)",

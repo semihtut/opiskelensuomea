@@ -11,7 +11,7 @@ const vatsa: Word = {
   en: "stomach, belly",
   selitys:
     "Kehon osa, jossa ruoka sulaa: 'vatsa on kipeä'. Tyyppi 9, ei astevaihtelua (ts säilyy). Partitiivin monikko vatsoja. Vrt. vatsakipu (stomach ache), maha (tummy, colloquial).",
-  kuva: { emoji: "🤰", alt: "vatsa – kehon osa, jossa ruoka sulaa" },
+  kuva: { alt: "vatsa – kehon osa, jossa ruoka sulaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (ts säilyy)",

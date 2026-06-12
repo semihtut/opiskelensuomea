@@ -11,7 +11,7 @@ const ystavallinen: Word = {
   en: "friendly, kind, amicable",
   selitys:
     "Toiset huomioon ottava ja lämmin: 'ystävällinen palvelu'. Tyyppi 38, ei astevaihtelua. Juuri substantiivista ystävä. Vrt. kiltti (kind), kohtelias (polite).",
-  kuva: { emoji: "🤝", alt: "ystävällinen – lämmin ja huomioiva" },
+  kuva: { alt: "ystävällinen – lämmin ja huomioiva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

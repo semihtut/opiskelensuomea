@@ -11,7 +11,7 @@ const kylma: Word = {
   en: "cold",
   selitys:
     "Matalan lämpötilan; vastakohta lämmin/kuuma. Tyyppi 10, ei astevaihtelua. Myös substantiivina: 'kylmä' = pakkanen/kylmyys.",
-  kuva: { emoji: "🥶", alt: "kylmä – kylmä ja jäätävä sää" },
+  kuva: { alt: "kylmä – kylmä ja jäätävä sää" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const elain: Word = {
   en: "animal",
   selitys:
     "Elävä olento, joka ei ole kasvi eikä ihminen (arkikielessä): 'villi eläin'. Tyyppi 33, ei astevaihtelua, vartalo eläime-. Partitiivi eläintä. Johdettu sanasta elää. Vrt. eläinlääkäri (vet), lemmikkieläin (pet).",
-  kuva: { emoji: "🐾", alt: "eläin – elävä olento" },
+  kuva: { alt: "eläin – elävä olento" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 33/kytkin; ei astevaihtelua (vartalo eläime-)",

@@ -11,7 +11,7 @@ const seisoa: Word = {
   en: "to stand",
   selitys:
     "Olla pystyasennossa jaloillaan. Tyyppi 1, ei astevaihtelua: seisoa → seison. Vastakohta istua. Vrt. nousta seisomaan (to stand up).",
-  kuva: { emoji: "🧍", alt: "seisoa – henkilö seisoo pystyssä" },
+  kuva: { alt: "seisoa – henkilö seisoo pystyssä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); ei astevaihtelua",

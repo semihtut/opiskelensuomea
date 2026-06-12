@@ -12,7 +12,7 @@ const vaate: Word = {
   en: "garment; (pl.) clothes",
   selitys:
     "Päällä pidettävä kappale; monikko vaatteet = clothes. Tyyppi 48, astevaihtelu tt:t (vahva aste taivutusvartalossa: vaatteen). Käytetään usein monikossa.",
-  kuva: { emoji: "👕", alt: "vaate – vaatekappale" },
+  kuva: { alt: "vaate – vaatekappale" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu tt:t",

@@ -11,7 +11,7 @@ const kello: Word = {
   en: "clock, watch; o'clock; bell",
   selitys:
     "Aikaa näyttävä laite; myös 'kello' = o'clock ajan ilmaisussa, ja soiva kello (bell). Tyyppi 1, ei astevaihtelua.",
-  kuva: { emoji: "🕰️", alt: "kello – seinäkello" },
+  kuva: { alt: "kello – seinäkello" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

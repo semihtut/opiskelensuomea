@@ -12,7 +12,7 @@ const sairas: Word = {
   en: "sick, ill; (noun) a sick person",
   selitys:
     "Ei terve; sairauden kourissa. Tyyppi 41, ei astevaihtelua, konsonanttivartalo (sairasta). Voi olla myös substantiivi: 'sairas' = potilas.",
-  kuva: { emoji: "🤒", alt: "sairas – sairas ihminen vuoteessa" },
+  kuva: { alt: "sairas – sairas ihminen vuoteessa" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua, konsonanttivartalo",

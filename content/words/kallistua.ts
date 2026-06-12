@@ -11,7 +11,7 @@ const kallistua: Word = {
   en: "to become more expensive; to tilt, lean",
   selitys:
     "1) Tulla kalliimmaksi: 'ruoka kallistui'. 2) Kallistua eli kallistaa asentoaan. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen. Johdettu sanasta kallis. Vastakohta halventua. Vrt. kallis, kallistaa.",
-  kuva: { emoji: "📈", alt: "kallistua – tulla kalliimmaksi" },
+  kuva: { alt: "kallistua – tulla kalliimmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo kallistu-",

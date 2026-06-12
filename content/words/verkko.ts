@@ -11,7 +11,7 @@ const verkko: Word = {
   en: "net, network; the internet (verkossa)",
   selitys:
     "1) Verkkomainen rakenne tai kalaverkko. 2) Tietoverkko, internet: 'tieto löytyy verkosta'. Tyyppi 1/valo, astevaihtelu kk:k (verkko → verkon). Vrt. internet, netti, verkosto.",
-  kuva: { emoji: "🕸️", alt: "verkko – verkkomainen rakenne tai tietoverkko" },
+  kuva: { alt: "verkko – verkkomainen rakenne tai tietoverkko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu kk:k (vartalo verko-)",

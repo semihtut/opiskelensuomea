@@ -11,7 +11,7 @@ const lehma: Word = {
   en: "cow",
   selitys:
     "Naaraspuolinen nautaeläin, joka antaa maitoa: 'lypsää lehmä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko lehmiä. Vrt. maito, nauta, eläin.",
-  kuva: { emoji: "🐮", alt: "lehmä – naaraspuolinen nautaeläin joka antaa maitoa" },
+  kuva: { alt: "lehmä – naaraspuolinen nautaeläin joka antaa maitoa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo lehmä-)",

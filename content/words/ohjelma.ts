@@ -11,7 +11,7 @@ const ohjelma: Word = {
   en: "programme; (computing) program, software",
   selitys:
     "Tv- tai radio-ohjelma, suunnitelma tai tietokoneohjelma: 'katsoa ohjelmaa'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko ohjelmia. Vrt. tv-ohjelma, ohjelmoida, sovellus.",
-  kuva: { emoji: "📺", alt: "ohjelma – tv-ohjelma tai tietokoneohjelma" },
+  kuva: { alt: "ohjelma – tv-ohjelma tai tietokoneohjelma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const kaataa: Word = {
   en: "to pour; to knock over, fell",
   selitys:
     "Kallistaa niin että sisältö valuu, tai kaataa kumoon: 'kaadan kahvia kuppiin' / 'kaadettiin puu'. Astevaihtelu t:d (kaataa → kaadan), tyypin 56 imperfekti -oi-: kaadoin.",
-  kuva: { emoji: "🫗", alt: "kaataa – kallistaa niin että sisältö valuu" },
+  kuva: { alt: "kaataa – kallistaa niin että sisältö valuu" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-taa, malli kaivaa); astevaihtelu t:d; vartalo kaata-",

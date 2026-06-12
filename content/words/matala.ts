@@ -11,7 +11,7 @@ const matala: Word = {
   en: "low; shallow",
   selitys:
     "Pystysuunnassa pieni; myös matala vesi (shallow). Tyyppi 10, ei astevaihtelua. Vastakohta korkea (ja syvä).",
-  kuva: { emoji: "🟫", alt: "matala – matala taso" },
+  kuva: { alt: "matala – matala taso" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

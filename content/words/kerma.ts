@@ -11,7 +11,7 @@ const kerma: Word = {
   en: "cream",
   selitys:
     "Maidon rasvainen osa, jota käytetään ruoanlaitossa ja jälkiruoissa: 'vispata kerma'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko kermoja. Kuvaannollisesti: 'seuran kerma' = the elite. Vrt. maito, vispikerma.",
-  kuva: { emoji: "🥛", alt: "kerma – maidon rasvainen osa" },
+  kuva: { alt: "kerma – maidon rasvainen osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo kerma-)",

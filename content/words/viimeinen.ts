@@ -11,7 +11,7 @@ const viimeinen: Word = {
   en: "last, final",
   selitys:
     "Sarjan tai järjestyksen viimeinen, viimeksi tuleva: 'viimeinen kerta'. Tyyppi 38, ei astevaihtelua; vartalo viimeise-. Partitiivin monikko viimeisiä. Vastakohta ensimmäinen. Vrt. viime (last, previous).",
-  kuva: { emoji: "🏁", alt: "viimeinen – sarjan tai järjestyksen viimeinen" },
+  kuva: { alt: "viimeinen – sarjan tai järjestyksen viimeinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo viimeise-",

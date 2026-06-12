@@ -11,7 +11,7 @@ const tietokone: Word = {
   en: "computer",
   selitys:
     "Ohjelmoitava elektroninen laite tiedon käsittelyyn. Tyyppi 48, ei astevaihtelua. Sanoista tieto + kone.",
-  kuva: { emoji: "💻", alt: "tietokone – kannettava tietokone" },
+  kuva: { alt: "tietokone – kannettava tietokone" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua",

@@ -11,7 +11,7 @@ const video: Word = {
   en: "video",
   selitys:
     "Liikkuva kuva ja sen tallenne: 'katsoa video'. Tyyppi 3, ei astevaihtelua. Partitiivi videota, partitiivin monikko videoita. Vrt. videoida, videopuhelu, videokamera.",
-  kuva: { emoji: "🎬", alt: "video – liikkuva kuva ja sen tallenne" },
+  kuva: { alt: "video – liikkuva kuva ja sen tallenne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua",

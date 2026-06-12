@@ -11,7 +11,7 @@ const nahda: Word = {
   en: "to see",
   selitys:
     "Aistia silmillä; myös tavata tai ymmärtää. Epäsäännöllinen, astevaihtelu k:∅ (näke- → näe-). Vrt. katsoa (= look at, tahallinen).",
-  kuva: { emoji: "👀", alt: "nähdä – näkevät silmät" },
+  kuva: { alt: "nähdä – näkevät silmät" },
 
   kielioppi: {
     tyyppi: "tyyppi 71/nähdä (epäsäännöllinen); astevaihtelu k:∅",

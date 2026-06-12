@@ -11,7 +11,7 @@ const kayttaa: Word = {
   en: "to use",
   selitys:
     "Hyödyntää jotakin tarkoitukseensa. Tyyppi 1, astevaihtelu tt:t: käyttää → käytän. Objekti partitiivissa: 'käytän puhelinta'. Vrt. käydä (eri verbi).",
-  kuva: { emoji: "🛠️", alt: "käyttää – väline otetaan käyttöön" },
+  kuva: { alt: "käyttää – väline otetaan käyttöön" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t",

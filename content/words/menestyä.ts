@@ -11,7 +11,7 @@ const menestyä: Word = {
   en: "to succeed, do well, thrive",
   selitys:
     "Onnistua ja pärjätä hyvin jossakin: 'menestyä työssä'. Tyyppi 1 (-yä), ei astevaihtelua; vartalo menesty-. Vrt. menestys (success), menestyvä (successful).",
-  kuva: { emoji: "🏆", alt: "menestyä – pärjätä ja onnistua hyvin" },
+  kuva: { alt: "menestyä – pärjätä ja onnistua hyvin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä); ei astevaihtelua; vartalo menesty-",

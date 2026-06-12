@@ -11,7 +11,7 @@ const huolellinen: Word = {
   en: "careful, meticulous, thorough",
   selitys:
     "Sellainen, joka tekee asiat tarkasti ja huolella: 'huolellinen työ'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta huoli. Vastakohta huolimaton. Vrt. huoli, huolellisesti, huolellisuus.",
-  kuva: { emoji: "🧐", alt: "huolellinen – asiat tarkasti ja huolella tekevä" },
+  kuva: { alt: "huolellinen – asiat tarkasti ja huolella tekevä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo huolellise-)",

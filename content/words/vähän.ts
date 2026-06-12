@@ -11,7 +11,7 @@ const vahan: Word = {
   en: "(a) little, few",
   selitys:
     "Ilmaisee pientä määrää. Vaatii partitiivin: 'vähän aikaa'. Vertailu suppletiivinen: vähän – vähemmän – vähiten. Vastakohta paljon.",
-  kuva: { emoji: "🤏", alt: "vähän – pieni määrä sormien välissä" },
+  kuva: { alt: "vähän – pieni määrä sormien välissä" },
 
   kielioppi: {
     tyyppi: "määrän adverbi; suppletiivinen vertailu, vaatii partitiivin",

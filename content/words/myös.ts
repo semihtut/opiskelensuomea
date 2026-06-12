@@ -10,7 +10,7 @@ const myos: Word = {
   en: "also, too, as well",
   selitys:
     "Lisää: 'myös minä' = me too. Fokuspartikkeli, ei taivuteta. Kielteisessä lauseessa käytä 'ei myöskään' (not … either). Synonyymi -kin-liite.",
-  kuva: { emoji: "➕", alt: "myös – myös tämä, lisäksi" },
+  kuva: { alt: "myös – myös tämä, lisäksi" },
 
   kielioppi: {
     tyyppi: "fokuspartikkeli (lisäys); taipumaton",

@@ -11,7 +11,7 @@ const nopeus: Word = {
   en: "speed, velocity",
   selitys:
     "Liikkeen tai toiminnan vauhti: 'suuri nopeus'. Tyyppi 40, astevaihtelu t:d (nopeute- → nopeude-). Johdettu sanasta nopea. Vrt. nopeusrajoitus (speed limit), nopea (fast).",
-  kuva: { emoji: "🏎️", alt: "nopeus – liikkeen vauhti" },
+  kuva: { alt: "nopeus – liikkeen vauhti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (nopeute- ↔ nopeude-)",

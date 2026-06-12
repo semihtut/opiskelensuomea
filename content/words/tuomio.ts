@@ -11,7 +11,7 @@ const tuomio: Word = {
   en: "verdict, sentence, judgement",
   selitys:
     "Tuomioistuimen päätös rikos- tai riita-asiassa: 'langettava tuomio', 'saada tuomio'. Myös yleisemmin: ankara arvio. Tyyppi 3/valtio, ei astevaihtelua. Sanasta tuomita. Vrt. tuomita, tuomari, rangaistus.",
-  kuva: { emoji: "🧑‍⚖️", alt: "tuomio – tuomioistuimen päätös rikos- tai riita-asiassa" },
+  kuva: { alt: "tuomio – tuomioistuimen päätös rikos- tai riita-asiassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo tuomio-)",

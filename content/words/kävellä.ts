@@ -11,7 +11,7 @@ const kavella: Word = {
   en: "to walk",
   selitys:
     "Liikkua jalan rauhallisesti. Tyyppi 3 (-llä → -e-), vartalo kävele-, ei astevaihtelua. Substantiivi: kävely.",
-  kuva: { emoji: "🚶‍♀️", alt: "kävellä – ihminen kävelemässä" },
+  kuva: { alt: "kävellä – ihminen kävelemässä" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä); vartalo kävele-, ei astevaihtelua",

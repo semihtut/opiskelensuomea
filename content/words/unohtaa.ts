@@ -11,7 +11,7 @@ const unohtaa: Word = {
   en: "to forget",
   selitys:
     "Olla muistamatta; jättää vahingossa. Tyyppi 1, astevaihtelu ht:hd (unohta- → unohda-). Vastakohta muistaa.",
-  kuva: { emoji: "🤦", alt: "unohtaa – unohtamisen ele" },
+  kuva: { alt: "unohtaa – unohtamisen ele" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu ht:hd (unohta- → unohda-)",

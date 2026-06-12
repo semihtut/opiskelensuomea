@@ -11,7 +11,7 @@ const huomauttaa: Word = {
   en: "to point out, remark; to reprove",
   selitys:
     "Kiinnittää huomio johonkin sanomalla se ääneen, usein lievä huomautus tai muistutus: 'huomauttaa virheestä'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (huomautan). Asiasta elatiivi. Vrt. huomautus, huomata.",
-  kuva: { emoji: "☝️", alt: "huomauttaa – kiinnittää huomio sanomalla se ääneen" },
+  kuva: { alt: "huomauttaa – kiinnittää huomio sanomalla se ääneen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (huomauta- ~ huomautta-)",

@@ -11,7 +11,7 @@ const työpaikka: Word = {
   en: "workplace, job",
   selitys:
     "Paikka tai tehtävä, jossa ihminen käy töissä: 'uusi työpaikka'. Yhdyssana työ + paikka. Tyyppi 9, astevaihtelu kk:k (työpaikka → työpaikan). Partitiivin monikko työpaikkoja. Vrt. työpaikkahaastattelu (job interview).",
-  kuva: { emoji: "🏢", alt: "työpaikka – paikka, jossa käydään töissä" },
+  kuva: { alt: "työpaikka – paikka, jossa käydään töissä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu kk:k (työpaikka ↔ työpaika-)",

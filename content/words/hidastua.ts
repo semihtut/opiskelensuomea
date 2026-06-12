@@ -11,7 +11,7 @@ const hidastua: Word = {
   en: "to slow down, decelerate",
   selitys:
     "Muuttua hitaammaksi: 'talouskasvu hidastui'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen (transit. hidastaa). Johdettu sanasta hidas. Vastakohta nopeutua. Vrt. hidas, hidastaa.",
-  kuva: { emoji: "🐢", alt: "hidastua – muuttua hitaammaksi" },
+  kuva: { alt: "hidastua – muuttua hitaammaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo hidastu-",

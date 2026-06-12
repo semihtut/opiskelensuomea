@@ -12,7 +12,7 @@ const vasynyt: Word = {
   en: "tired, weary",
   selitys:
     "Tila, jossa on voimaton ja levon tarpeessa. Tyyppi 47, ei astevaihtelua. Alkujaan verbin väsyä partisiippi (väsynyt = has tired).",
-  kuva: { emoji: "😴", alt: "väsynyt – väsynyt, haukotteleva ihminen" },
+  kuva: { alt: "väsynyt – väsynyt, haukotteleva ihminen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 47/kuollut; ei astevaihtelua",

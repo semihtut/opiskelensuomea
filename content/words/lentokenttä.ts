@@ -11,7 +11,7 @@ const lentokenttä: Word = {
   en: "airport",
   selitys:
     "Alue, jolta lentokoneet lähtevät ja jonne ne laskeutuvat: 'mennä lentokentälle'. Yhdyssana lento + kenttä. Tyyppi 10, astevaihtelu tt:t (lentokenttä → lentokentän). Partitiivin monikko lentokenttiä.",
-  kuva: { emoji: "🛫", alt: "lentokenttä – alue, jolta lentokoneet lähtevät" },
+  kuva: { alt: "lentokenttä – alue, jolta lentokoneet lähtevät" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu tt:t (lentokenttä ↔ lentokentä-)",

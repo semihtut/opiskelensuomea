@@ -11,7 +11,7 @@ const perustella: Word = {
   en: "to justify, give reasons for",
   selitys:
     "Antaa perusteita tai syitä jollekin väitteelle tai päätökselle: 'perustella mielipiteensä'. Tyyppi 3 (-lla/-llä), Kotus 67/tulla, ei astevaihtelua; vartalo perustele-. Johdettu sanasta perustaa/peruste. Vrt. peruste, perustelu.",
-  kuva: { emoji: "🧩", alt: "perustella – antaa syitä ja perusteita väitteelle" },
+  kuva: { alt: "perustella – antaa syitä ja perusteita väitteelle" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; ei astevaihtelua; vartalo perustele-",

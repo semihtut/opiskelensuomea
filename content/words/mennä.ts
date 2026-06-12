@@ -11,7 +11,7 @@ const menna: Word = {
   en: "to go",
   selitys:
     "Liikkua jonnekin pois puhujasta katsottuna. Tyyppi 3 (-llä → -e-), vartalo mene-, ei astevaihtelua. Vastakohta 'tulla' (= come).",
-  kuva: { emoji: "🚶", alt: "mennä – ihminen menossa jonnekin" },
+  kuva: { alt: "mennä – ihminen menossa jonnekin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-nnä); vartalo mene-, ei astevaihtelua",

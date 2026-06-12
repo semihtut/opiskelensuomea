@@ -11,7 +11,7 @@ const johtopaatos: Word = {
   en: "conclusion, inference",
   selitys:
     "Lopputulos, johon päädytään päättelemällä: 'tehdä johtopäätös'. Tyyppi 39/vastaus, ei astevaihtelua (-ös → -ökse-). Yhdyssana johto + päätös. Vrt. päätellä, päätös, lopputulos.",
-  kuva: { emoji: "🎯", alt: "johtopäätös – lopputulos johon päädytään päättelemällä" },
+  kuva: { alt: "johtopäätös – lopputulos johon päädytään päättelemällä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo johtopäätökse-)",

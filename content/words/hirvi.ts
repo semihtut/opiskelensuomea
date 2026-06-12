@@ -11,7 +11,7 @@ const hirvi: Word = {
   en: "elk, moose",
   selitys:
     "Suuri sarvipäinen metsäeläin: 'hirvi ylitti tien'. Tyyppi 7/ovi, ei astevaihtelua. Vrt. metsä, sarvi, eläin.",
-  kuva: { emoji: "🫎", alt: "hirvi – suuri sarvipäinen metsäeläin" },
+  kuva: { alt: "hirvi – suuri sarvipäinen metsäeläin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo hirve-)",

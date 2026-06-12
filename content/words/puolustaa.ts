@@ -11,7 +11,7 @@ const puolustaa: Word = {
   en: "to defend, stand up for",
   selitys:
     "Suojella jotakuta tai jotakin hyökkäykseltä tai arvostelulta; pitää puolta: 'puolustaa mielipidettään'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa. Vastakohta hyökätä. Vrt. puolustus, puoli.",
-  kuva: { emoji: "🛡️", alt: "puolustaa – suojella ja pitää puolta" },
+  kuva: { alt: "puolustaa – suojella ja pitää puolta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo puolusta-",

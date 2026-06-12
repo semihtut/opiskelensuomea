@@ -10,7 +10,7 @@ const melko: Word = {
   en: "quite, fairly, rather",
   selitys:
     "Kohtalaisen aste: vähemmän kuin 'hyvin' mutta enemmän kuin 'vähän'. Asteen adverbi, ei taivuteta. 'Melko hyvä' = quite good. Synonyymi aika, kohtalaisen.",
-  kuva: { emoji: "🆗", alt: "melko – kohtalainen aste" },
+  kuva: { alt: "melko – kohtalainen aste" },
 
   kielioppi: {
     tyyppi: "asteen adverbi; taipumaton",

@@ -11,7 +11,7 @@ const risteys: Word = {
   en: "intersection, crossing, junction",
   selitys:
     "Kohta, jossa tiet kohtaavat: 'kääntyä risteyksessä'. Tyyppi 39, ei astevaihtelua; vartalo risteykse-. Partitiivin monikko risteyksiä. Johdettu verbistä ristetä. Vrt. tienristeys, risteyskolari.",
-  kuva: { emoji: "🚥", alt: "risteys – kohta, jossa tiet kohtaavat" },
+  kuva: { alt: "risteys – kohta, jossa tiet kohtaavat" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo risteykse-",

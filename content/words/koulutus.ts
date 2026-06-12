@@ -11,7 +11,7 @@ const koulutus: Word = {
   en: "education, training",
   selitys:
     "Opetus, jonka avulla hankitaan tietoja ja taitoja: 'saada koulutus', 'ammatillinen koulutus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä kouluttaa. Vrt. kouluttaa, koulu, opetus.",
-  kuva: { emoji: "🎓", alt: "koulutus – opetus jonka avulla hankitaan tietoja ja taitoja" },
+  kuva: { alt: "koulutus – opetus jonka avulla hankitaan tietoja ja taitoja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo koulutukse-)",

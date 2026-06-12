@@ -11,7 +11,7 @@ const mukava: Word = {
   en: "nice, pleasant, comfortable",
   selitys:
     "Miellyttävä; helppo olla. Tyyppi 10/koira, ei astevaihtelua. Vertailu mukava – mukavampi – mukavin. Käytetään ihmisistä ja asioista.",
-  kuva: { emoji: "😊", alt: "mukava – miellyttävä ja rento" },
+  kuva: { alt: "mukava – miellyttävä ja rento" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

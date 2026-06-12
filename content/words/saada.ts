@@ -11,7 +11,7 @@ const saada: Word = {
   en: "to get, receive; to be allowed to, may",
   selitys:
     "Tarkoittaa saamista ja vastaanottamista sekä lupaa ('Saanko tulla?' = 'May I come?'). Vartalo saa-, ei astevaihtelua.",
-  kuva: { emoji: "🎁", alt: "saada – lahja (saaminen)" },
+  kuva: { alt: "saada – lahja (saaminen)" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-da); vartalo saa-, ei astevaihtelua",

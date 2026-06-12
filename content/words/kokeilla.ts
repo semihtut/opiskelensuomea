@@ -11,7 +11,7 @@ const kokeilla: Word = {
   en: "to try, try out, test, experiment with",
   selitys:
     "Yrittää tai testata jotakin uutta: 'kokeilla uutta ruokaa'. Tyyppi 3 (-lla), ei astevaihtelua; vartalo kokeile-. Johdettu verbistä kokea. Vrt. koe (test), kokemus (experience).",
-  kuva: { emoji: "🧫", alt: "kokeilla – yrittää tai testata jotakin uutta" },
+  kuva: { alt: "kokeilla – yrittää tai testata jotakin uutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); ei astevaihtelua; vartalo kokeile- ~ kokeil-",

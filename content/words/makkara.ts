@@ -11,7 +11,7 @@ const makkara: Word = {
   en: "sausage",
   selitys:
     "Lihasta valmistettu ruoka pitkulaisessa kuoressa: 'grillata makkaraa'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko makkaroita. Vrt. liha, grillata, nakki.",
-  kuva: { emoji: "🌭", alt: "makkara – lihasta valmistettu ruoka pitkulaisessa kuoressa" },
+  kuva: { alt: "makkara – lihasta valmistettu ruoka pitkulaisessa kuoressa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo makkara-)",

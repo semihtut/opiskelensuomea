@@ -11,7 +11,7 @@ const myontaa: Word = {
   en: "to admit, concede; to grant",
   selitys:
     "1) Tunnustaa jokin todeksi: 'myöntää virheensä'. 2) Antaa lupa, etuus tai asiakirja: 'myöntää viisumi'. Tyyppi 1 (-ää), Kotus 54/huutaa, astevaihtelu nt:nn (myönnän) ja imperfektissä t→s (myönsin). Vastakohta kieltää.",
-  kuva: { emoji: "🤝", alt: "myöntää – tunnustaa todeksi tai antaa lupa" },
+  kuva: { alt: "myöntää – tunnustaa todeksi tai antaa lupa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 54/huutaa; astevaihtelu nt:nn + imperfektin t→s",

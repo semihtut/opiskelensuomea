@@ -11,7 +11,7 @@ const vapaus: Word = {
   en: "freedom, liberty",
   selitys:
     "Tila, jossa voi toimia ilman pakkoa tai rajoituksia: 'sananvapaus'. Tyyppi 40/kalleus, astevaihtelu t:d (vapaus → vapauden). Johdettu sanasta vapaa. Vrt. vapaa, vapauttaa, sananvapaus.",
-  kuva: { emoji: "🕊️", alt: "vapaus – tila ilman pakkoa tai rajoituksia" },
+  kuva: { alt: "vapaus – tila ilman pakkoa tai rajoituksia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo vapaude-)",

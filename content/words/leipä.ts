@@ -10,7 +10,7 @@ const leipä: Word = {
   level: "A1",
   en: "bread",
   selitys: "Jauhoista leivottu ruoka. Astevaihtelu p:v (leipä → leivän).",
-  kuva: { emoji: "🍞", alt: "leipä – leipä" },
+  kuva: { alt: "leipä – leipä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu p:v (leipä → leivän)",

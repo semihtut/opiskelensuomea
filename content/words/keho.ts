@@ -11,7 +11,7 @@ const keho: Word = {
   en: "body (human body)",
   selitys:
     "Ihmisen tai eläimen fyysinen kokonaisuus: 'terve keho'. Tyyppi 1, ei astevaihtelua. Vrt. kehollinen (bodily), vartalo (torso/body), ruumis (body, esp. dead).",
-  kuva: { emoji: "🧍", alt: "keho – ihmisen fyysinen kokonaisuus" },
+  kuva: { alt: "keho – ihmisen fyysinen kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

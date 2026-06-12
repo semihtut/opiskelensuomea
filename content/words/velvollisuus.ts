@@ -11,7 +11,7 @@ const velvollisuus: Word = {
   en: "duty, obligation",
   selitys:
     "Asia, joka on tehtävä tai johon on velvoitettu: 'kansalaisen velvollisuudet'. Tyyppi 40/kalleus, astevaihtelu t:d (velvollisuus → velvollisuuden). Johdettu sanasta velvollinen. Vastakohta oikeus. Vrt. velvoittaa, vastuu.",
-  kuva: { emoji: "📋", alt: "velvollisuus – asia joka on tehtävä" },
+  kuva: { alt: "velvollisuus – asia joka on tehtävä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo velvollisuude-)",

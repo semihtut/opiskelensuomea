@@ -11,7 +11,7 @@ const polvi: Word = {
   en: "knee",
   selitys:
     "Jalan keskellä oleva nivel: 'polvi on kipeä'. Tyyppi 7/ovi, ei astevaihtelua. Vrt. jalka, nivel, nilkka.",
-  kuva: { emoji: "🦵", alt: "polvi – jalan keskellä oleva nivel" },
+  kuva: { alt: "polvi – jalan keskellä oleva nivel" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo polve-)",

@@ -11,7 +11,7 @@ const avioliitto: Word = {
   en: "marriage, matrimony",
   selitys:
     "Kahden ihmisen virallinen liitto: 'solmia avioliitto'. Tyyppi 1/valo, astevaihtelu tt:t (avioliitto → avioliiton). Yhdyssana avio + liitto. Vastakohta avioero. Vrt. häät, avioero, avoliitto.",
-  kuva: { emoji: "💍", alt: "avioliitto – kahden ihmisen virallinen liitto" },
+  kuva: { alt: "avioliitto – kahden ihmisen virallinen liitto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (avioliitto ~ avioliito-)",

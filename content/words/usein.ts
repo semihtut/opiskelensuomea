@@ -10,7 +10,7 @@ const usein: Word = {
   en: "often",
   selitys:
     "Monta kertaa, tiheään. Toistuvuuden adverbi. Vertailu: usein – useammin – useimmin. Vastakohta harvoin.",
-  kuva: { emoji: "🔁", alt: "usein – monta kertaa, tiheään" },
+  kuva: { alt: "usein – monta kertaa, tiheään" },
 
   kielioppi: {
     tyyppi: "toistuvuuden adverbi; vertailu useammin / useimmin",

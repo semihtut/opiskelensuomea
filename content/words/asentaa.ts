@@ -11,7 +11,7 @@ const asentaa: Word = {
   en: "to install, set up",
   selitys:
     "Liittää tai valmistella jokin käyttöä varten: 'asentaa ohjelma'. Tyyppi 1 (-aa), Kotus 54/huutaa, astevaihtelu nt:nn (asennan) ja imperfektissä t→s (asensin). Vrt. asennus, asentaja, asettaa.",
-  kuva: { emoji: "🔧", alt: "asentaa – liittää tai valmistella jokin käyttöä varten" },
+  kuva: { alt: "asentaa – liittää tai valmistella jokin käyttöä varten" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 54/huutaa; astevaihtelu nt:nn + imperfektin t→s",

@@ -10,7 +10,7 @@ const jatkossa: Word = {
   en: "in the future, from now on, going forward",
   selitys:
     "Tästä eteenpäin, vastaisuudessa: 'jatkossa toimimme toisin'. Vakiintunut adverbi sanan jatko inessiivimuodosta. Vrt. jatkua (to continue), jatkaa (to continue sth), vastaisuudessa.",
-  kuva: { emoji: "⏭️", alt: "jatkossa – tästä eteenpäin, vastaisuudessa" },
+  kuva: { alt: "jatkossa – tästä eteenpäin, vastaisuudessa" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); vakiintunut sanan jatko inessiivistä",

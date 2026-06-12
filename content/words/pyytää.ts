@@ -11,7 +11,7 @@ const pyytaa: Word = {
   en: "to ask (for), to request",
   selitys:
     "Esittää toive saada jotain: 'pyydän apua' (I ask for help). Astevaihtelu t:d (pyytää → pyydän), imperfekti poikkeava: pyysin. Pyydettävä asia partitiivissa.",
-  kuva: { emoji: "🙋", alt: "pyytää – esittää toive saada jotain" },
+  kuva: { alt: "pyytää – esittää toive saada jotain" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu t:d; vartalo pyytä-",

@@ -11,7 +11,7 @@ const ravintola: Word = {
   en: "restaurant",
   selitys:
     "Paikka, jossa tarjoillaan ruokaa pöytiin. Tyyppi 12, ei astevaihtelua. Sanasta ravinto (= nutrition) + -la.",
-  kuva: { emoji: "🍽️", alt: "ravintola – kattaus ravintolassa" },
+  kuva: { alt: "ravintola – kattaus ravintolassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

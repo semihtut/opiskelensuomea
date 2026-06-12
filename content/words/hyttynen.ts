@@ -11,7 +11,7 @@ const hyttynen: Word = {
   en: "mosquito",
   selitys:
     "Pieni verta imevä hyönteinen, kesän riesa: 'hyttynen puri'. Tyyppi 38/nainen, ei astevaihtelua. Vrt. hyönteinen, kärpänen, kesä.",
-  kuva: { emoji: "🦟", alt: "hyttynen – pieni verta imevä hyönteinen" },
+  kuva: { alt: "hyttynen – pieni verta imevä hyönteinen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo hyttyse-)",

@@ -11,7 +11,7 @@ const elokuva: Word = {
   en: "film, movie",
   selitys:
     "Liikkuvista kuvista koostuva teos: 'katsoa elokuva'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko elokuvia. Yhdyssana elo (life) + kuva. Vrt. elokuvateatteri (cinema), leffa (movie, colloquial).",
-  kuva: { emoji: "🎬", alt: "elokuva – liikkuvista kuvista koostuva teos" },
+  kuva: { alt: "elokuva – liikkuvista kuvista koostuva teos" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

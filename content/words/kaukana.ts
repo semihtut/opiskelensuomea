@@ -11,7 +11,7 @@ const kaukana: Word = {
   en: "far (away)",
   selitys:
     "Pitkän matkan päässä. Paikallissarja: kaukana (missä) – kaukaa (mistä) – kauas (mihin). Vastakohta lähellä. Pohjana sana kauko-.",
-  kuva: { emoji: "🏔️", alt: "kaukana – pitkän matkan päässä" },
+  kuva: { alt: "kaukana – pitkän matkan päässä" },
 
   kielioppi: {
     tyyppi: "paikan adverbi; kolmiosainen paikallissarja (kauko-)",

@@ -11,7 +11,7 @@ const pudota: Word = {
   en: "to fall, drop (intransitive)",
   selitys:
     "Tippua korkeammalta alas itsestään: 'kynä putosi pöydältä'. Tyyppi 74, astevaihtelu t:d (pudota → putoan). Vrt. pudottaa = to drop (transitiivinen).",
-  kuva: { emoji: "🍂", alt: "pudota – tippua alas" },
+  kuva: { alt: "pudota – tippua alas" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ota); astevaihtelu t:d; vartalo putoa-",

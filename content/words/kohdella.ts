@@ -11,7 +11,7 @@ const kohdella: Word = {
   en: "to treat, behave towards",
   selitys:
     "Käyttäytyä jotakuta kohtaan tietyllä tavalla: 'kohdella oikeudenmukaisesti'. Tyyppi 3 (-lla), Kotus 67/tulla, astevaihtelu t:d (kohtelen vahva, kohdella heikko). Objekti partitiivissa. Vrt. kohtelu, kohdata, kohtelias.",
-  kuva: { emoji: "🫱", alt: "kohdella – käyttäytyä jotakuta kohtaan tietyllä tavalla" },
+  kuva: { alt: "kohdella – käyttäytyä jotakuta kohtaan tietyllä tavalla" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; astevaihtelu t:d (kohdel- ~ kohtele-)",

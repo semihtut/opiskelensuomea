@@ -11,7 +11,7 @@ const luonnonvara: Word = {
   en: "natural resource",
   selitys:
     "Luonnosta saatava hyödynnettävä aine tai voima, esim. metsä, vesi tai mineraalit: 'uusiutuvat luonnonvarat'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko luonnonvaroja. Usein monikossa. Yhdyssana luonto (gen luonnon) + vara.",
-  kuva: { emoji: "⛏️", alt: "luonnonvara – luonnosta saatava hyödynnettävä aine tai voima" },
+  kuva: { alt: "luonnonvara – luonnosta saatava hyödynnettävä aine tai voima" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo luonnonvara-)",

@@ -11,7 +11,7 @@ const rangaistus: Word = {
   en: "punishment, penalty, sentence",
   selitys:
     "Seuraamus, joka annetaan rikoksesta tai väärästä teosta: 'ankara rangaistus', 'saada rangaistus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä rangaista. Vrt. rangaista, rikos, tuomio.",
-  kuva: { emoji: "⚖️", alt: "rangaistus – seuraamus rikoksesta tai väärästä teosta" },
+  kuva: { alt: "rangaistus – seuraamus rikoksesta tai väärästä teosta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo rangaistukse-)",

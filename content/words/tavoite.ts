@@ -11,7 +11,7 @@ const tavoite: Word = {
   en: "goal, objective, target",
   selitys:
     "Päämäärä, johon pyritään, usein lyhyen aikavälin: 'asettaa tavoite'. Tyyppi 48/hame, astevaihtelu tt:t (tavoitteen vahva, tavoite/tavoitetta heikko). Johdettu verbistä tavoittaa. Vrt. päämäärä (pitkän aikavälin), pyrkiä.",
-  kuva: { emoji: "🎯", alt: "tavoite – päämäärä, johon pyritään" },
+  kuva: { alt: "tavoite – päämäärä, johon pyritään" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu tt:t (vartalo tavoittee-)",

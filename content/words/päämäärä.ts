@@ -11,7 +11,7 @@ const paamaara: Word = {
   en: "aim, goal, objective (long-term)",
   selitys:
     "Lopullinen tavoite, johon pitkällä aikavälillä pyritään: 'elämän päämäärä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko päämääriä. Yhdyssana pää + määrä. Vrt. tavoite (lyhyemmän aikavälin), pyrkiä.",
-  kuva: { emoji: "🏁", alt: "päämäärä – lopullinen tavoite, johon pyritään" },
+  kuva: { alt: "päämäärä – lopullinen tavoite, johon pyritään" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo päämäärä-)",

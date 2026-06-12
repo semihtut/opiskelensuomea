@@ -11,7 +11,7 @@ const ratkaista: Word = {
   en: "to solve, resolve; to decide",
   selitys:
     "Löytää ratkaisu ongelmaan tai tehdä päätös vaikeassa asiassa: 'ratkaista ongelma'. Tyyppi 3 (-sta), Kotus 66/rohkaista, ei astevaihtelua; vartalo ratkaise-. NUT-partisiippi ratkaissut, passiivi ratkaistaan. Vrt. ratkaisu.",
-  kuva: { emoji: "🧩", alt: "ratkaista – löytää ratkaisu ongelmaan" },
+  kuva: { alt: "ratkaista – löytää ratkaisu ongelmaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-sta), Kotus 66/rohkaista; ei astevaihtelua; vartalo ratkaise-",

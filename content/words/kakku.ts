@@ -11,7 +11,7 @@ const kakku: Word = {
   en: "cake",
   selitys:
     "Makea leivonnainen, usein juhliin: 'syntymäpäiväkakku'. Tyyppi 1/valo, astevaihtelu kk:k (kakku → kakun). Vrt. leipoa, jälkiruoka, juhla.",
-  kuva: { emoji: "🍰", alt: "kakku – makea leivonnainen, usein juhliin" },
+  kuva: { alt: "kakku – makea leivonnainen, usein juhliin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu kk:k (kakku ~ kaku-)",

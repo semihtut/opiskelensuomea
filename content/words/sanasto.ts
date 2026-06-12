@@ -11,7 +11,7 @@ const sanasto: Word = {
   en: "vocabulary; glossary, word list",
   selitys:
     "1) Kielen tai aihealueen sanavarasto: 'laajentaa sanastoa'. 2) Sanaluettelo selityksineen. Tyyppi 1/valo, ei astevaihtelua (kollektiivijohdos -sto). Sanasta sana. Vrt. sana, sanavarasto, sanakirja.",
-  kuva: { emoji: "🗂️", alt: "sanasto – kielen tai aihealueen sanavarasto" },
+  kuva: { alt: "sanasto – kielen tai aihealueen sanavarasto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo sanasto-)",

@@ -11,7 +11,7 @@ const johtaja: Word = {
   en: "leader, director, manager",
   selitys:
     "Henkilö, joka johtaa: 'hyvä johtaja'. Tyyppi 10, ei astevaihtelua. Tekijännimi verbistä johtaa. Vrt. toimitusjohtaja (CEO), pomo (boss, colloquial).",
-  kuva: { emoji: "🧑‍💼", alt: "johtaja – henkilö joka johtaa" },
+  kuva: { alt: "johtaja – henkilö joka johtaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

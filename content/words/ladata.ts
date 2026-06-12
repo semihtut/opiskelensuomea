@@ -11,7 +11,7 @@ const ladata: Word = {
   en: "to charge; to load; to download/upload",
   selitys:
     "Täyttää akku energialla tai siirtää tiedostoa verkossa: 'ladata puhelin' / 'ladata sovellus'. Tyyppi 4 (-ata), astevaihtelu t:d (lataan ~ ladata). Johdettu ruotsista (ladda). Vrt. lataus, laturi.",
-  kuva: { emoji: "🔋", alt: "ladata – täyttää akku energialla tai siirtää tiedostoa" },
+  kuva: { alt: "ladata – täyttää akku energialla tai siirtää tiedostoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; astevaihtelu t:d (lataa- ↔ lada-)",

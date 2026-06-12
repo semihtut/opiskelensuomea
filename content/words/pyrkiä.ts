@@ -11,7 +11,7 @@ const pyrkia: Word = {
   en: "to strive, aim, seek to",
   selitys:
     "Tehdä työtä päästäkseen johonkin tavoitteeseen tai asemaan: 'pyrkiä yliopistoon'. Tyyppi 2 (-iä), Kotus 61/sallia, astevaihtelu k:∅ (pyrin). Hallitsee illatiivia. i-vartalo: minä-muoto sama preesensissä ja imperfektissä (pyrin). Vrt. pyrkimys.",
-  kuva: { emoji: "🧭", alt: "pyrkiä – tehdä työtä päästäkseen tavoitteeseen" },
+  kuva: { alt: "pyrkiä – tehdä työtä päästäkseen tavoitteeseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-iä), Kotus 61/sallia; astevaihtelu k:∅ (pyrki- ~ pyri-)",

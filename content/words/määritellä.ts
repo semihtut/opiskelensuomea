@@ -11,7 +11,7 @@ const maaritella: Word = {
   en: "to define, specify",
   selitys:
     "Selittää tarkasti, mitä jokin tarkoittaa tai mitä se sisältää: 'määritellä käsite'. Tyyppi 3 (-llä), Kotus 67/tulla, astevaihtelu tt:t (määrittelen vahva, määritellä heikko). Vrt. määritelmä, määrätä, käsite.",
-  kuva: { emoji: "📖", alt: "määritellä – selittää tarkasti mitä jokin tarkoittaa" },
+  kuva: { alt: "määritellä – selittää tarkasti mitä jokin tarkoittaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä), Kotus 67/tulla; astevaihtelu tt:t (määritel- ~ määrittele-)",

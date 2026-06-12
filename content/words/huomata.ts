@@ -11,7 +11,7 @@ const huomata: Word = {
   en: "to notice, to realize",
   selitys:
     "Havaita tai tajuta jokin: 'Huomasin virheen' (I noticed the mistake). Tyyppi 4 (-ata): huomata → huomaan. Vrt. nähdä (see), tajuta (realize).",
-  kuva: { emoji: "👀", alt: "huomata – havaita, tajuta jokin" },
+  kuva: { alt: "huomata – havaita, tajuta jokin" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo huomaa-",

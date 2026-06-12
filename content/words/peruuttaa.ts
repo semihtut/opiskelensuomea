@@ -11,7 +11,7 @@ const peruuttaa: Word = {
   en: "to cancel; to reverse, back up",
   selitys:
     "1) Perua sovittu asia: 'peruuttaa aika', 'peruuttaa varaus'. 2) Ajaa taaksepäin: 'peruuttaa autolla'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (peruutan). Sanasta perua. Vrt. perua, peruutus, varata.",
-  kuva: { emoji: "↩️", alt: "peruuttaa – perua sovittu asia tai ajaa taaksepäin" },
+  kuva: { alt: "peruuttaa – perua sovittu asia tai ajaa taaksepäin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (peruuta- ~ peruutta-)",

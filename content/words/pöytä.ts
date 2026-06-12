@@ -12,7 +12,7 @@ const pöytä: Word = {
   en: "table",
   selitys:
     "Huonekalu, jonka ääressä syödään tai työskennellään. Astevaihtelu t:d (pöytä → pöydän).",
-  kuva: { emoji: "🍽️", alt: "pöytä – katettu ruokapöytä" },
+  kuva: { alt: "pöytä – katettu ruokapöytä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu t:d (pöytä → pöydän)",

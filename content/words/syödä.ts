@@ -11,7 +11,7 @@ const syödä: Word = {
   en: "to eat",
   selitys:
     "Nauttia ruokaa. Tyyppi 2 (-dä), vartalo syö-. Imperfektissä vokaalimuutos: syön → söin.",
-  kuva: { emoji: "🍽️", alt: "syödä – ruokailuvälineet ja lautanen" },
+  kuva: { alt: "syödä – ruokailuvälineet ja lautanen" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-dä); vartalo syö-, ei astevaihtelua",

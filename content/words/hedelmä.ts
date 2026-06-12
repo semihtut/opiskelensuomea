@@ -11,7 +11,7 @@ const hedelmä: Word = {
   en: "fruit",
   selitys:
     "Kasvin syötävä, usein makea osa, esim. omena tai banaani: 'tuore hedelmä'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko hedelmiä. Kuvaannollisesti myös 'tulos'. Vrt. hedelmäpuu, marja.",
-  kuva: { emoji: "🍎", alt: "hedelmä – kasvin syötävä, usein makea osa" },
+  kuva: { alt: "hedelmä – kasvin syötävä, usein makea osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

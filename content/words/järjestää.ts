@@ -11,7 +11,7 @@ const jarjestaa: Word = {
   en: "to organize, to arrange",
   selitys:
     "Panna järjestykseen tai toteuttaa tapahtuma: 'järjestää juhlat'. Tyyppi 1 (-ää), ei astevaihtelua (st säilyy), vartalo järjestä-. Vrt. järjestys (order), järjestö (organization), järjestelmä (system).",
-  kuva: { emoji: "📋", alt: "järjestää – panna järjestykseen tai toteuttaa tapahtuma" },
+  kuva: { alt: "järjestää – panna järjestykseen tai toteuttaa tapahtuma" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); ei astevaihtelua; vartalo järjestä-",

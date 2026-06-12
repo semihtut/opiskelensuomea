@@ -11,7 +11,7 @@ const lattia: Word = {
   en: "floor",
   selitys:
     "Huoneen alapinta, jolla kävellään. Tyyppi 12, ei astevaihtelua (tt säilyy). Vrt. katto (= ceiling).",
-  kuva: { emoji: "🔲", alt: "lattia – huoneen lattia" },
+  kuva: { alt: "lattia – huoneen lattia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

@@ -11,7 +11,7 @@ const havaita: Word = {
   en: "to observe, perceive, detect, notice",
   selitys:
     "Huomata tai panna merkille aistein tai havainnoiden: 'havaita muutos'. Tyyppi 4 (-aita), Kotus 69/valita, vartalo havaitse-. NUT-partisiippi havainnut (huom!). Vrt. havainto, huomata, huomio.",
-  kuva: { emoji: "🔭", alt: "havaita – huomata tai panna merkille" },
+  kuva: { alt: "havaita – huomata tai panna merkille" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-aita), Kotus 69/valita; vartalo havaitse- (-tse-)",

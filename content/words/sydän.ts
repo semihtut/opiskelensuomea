@@ -11,7 +11,7 @@ const sydan: Word = {
   en: "heart",
   selitys:
     "Verta pumppaava elin; myös tunteiden ja jonkin keskuksen vertauskuva. Tyyppi 33, ei astevaihtelua, mutta vartalo on poikkeava: sydän → sydäme-.",
-  kuva: { emoji: "❤️", alt: "sydän – sydän" },
+  kuva: { alt: "sydän – sydän" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 33/kytkin; ei astevaihtelua, poikkeava vartalo sydäme-",

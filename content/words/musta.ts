@@ -11,7 +11,7 @@ const musta: Word = {
   en: "black",
   selitys:
     "Yön ja hiilen väri, valon puute. Tyyppi 10, ei astevaihtelua. Vastakohta valkoinen.",
-  kuva: { emoji: "⚫", alt: "musta – musta väri" },
+  kuva: { alt: "musta – musta väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

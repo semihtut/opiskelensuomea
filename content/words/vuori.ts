@@ -11,7 +11,7 @@ const vuori: Word = {
   en: "mountain",
   selitys:
     "Korkea kallioinen maamuodostuma: 'korkea vuori'. Tyyppi 26, ei astevaihtelua, vartalo vuore-. Partitiivi vuorta. Vrt. vuoristo (mountain range), vuorikiipeily (mountaineering).",
-  kuva: { emoji: "⛰️", alt: "vuori – korkea kallioinen maamuodostuma" },
+  kuva: { alt: "vuori – korkea kallioinen maamuodostuma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo vuore-)",

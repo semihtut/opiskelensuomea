@@ -11,7 +11,7 @@ const lapsi: Word = {
   en: "child",
   selitys:
     "Nuori ihminen, joka ei ole vielä aikuinen; myös vanhempien jälkeläinen. Konsonanttivartalo näkyy partitiivissa lasta.",
-  kuva: { emoji: "🧒", alt: "lapsi – nuori ihminen" },
+  kuva: { alt: "lapsi – nuori ihminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 29/lapsi; ei astevaihtelua, konsonanttivartalo",

@@ -11,7 +11,7 @@ const pohtia: Word = {
   en: "to ponder, consider, reflect on",
   selitys:
     "Miettiä jotakin syvällisesti ja punnita eri puolia: 'pohtia ratkaisua'. Tyyppi 1 (-ia), astevaihtelu t:d (pohdin ~ pohtii). Vrt. pohdinta (reflection, deliberation), miettiä.",
-  kuva: { emoji: "🤔", alt: "pohtia – miettiä jotakin syvällisesti" },
+  kuva: { alt: "pohtia – miettiä jotakin syvällisesti" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia); astevaihtelu t:d (pohdin ↔ pohtii); vartalo pohti- ~ pohdi-",

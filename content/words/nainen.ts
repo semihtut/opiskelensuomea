@@ -11,7 +11,7 @@ const nainen: Word = {
   en: "woman",
   selitys:
     "Aikuinen naispuolinen ihminen. -nen-loppuiset sanat taipuvat vartalolla nais- (partitiivi naista).",
-  kuva: { emoji: "👩", alt: "nainen – aikuinen naispuolinen ihminen" },
+  kuva: { alt: "nainen – aikuinen naispuolinen ihminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo nais-)",

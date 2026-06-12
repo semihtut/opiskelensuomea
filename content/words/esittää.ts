@@ -11,7 +11,7 @@ const esittaa: Word = {
   en: "to present, show; to perform; to propose",
   selitys:
     "Tuoda esiin, näyttää tai esiintyä: 'esitän kysymyksen' (I pose a question), 'esittää roolia' (play a role). Astevaihtelu tt:t (esittää → esitän). Vrt. esitys (presentation).",
-  kuva: { emoji: "🎭", alt: "esittää – tuoda esiin, esiintyä" },
+  kuva: { alt: "esittää – tuoda esiin, esiintyä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo esittä-",

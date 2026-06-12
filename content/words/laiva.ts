@@ -11,7 +11,7 @@ const laiva: Word = {
   en: "ship, boat (large)",
   selitys:
     "Iso vesikulkuneuvo: 'matkustaa laivalla'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko laivoja. Vrt. laivasto (fleet/navy), vene (small boat), satama (harbour).",
-  kuva: { emoji: "🚢", alt: "laiva – iso vesikulkuneuvo" },
+  kuva: { alt: "laiva – iso vesikulkuneuvo" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

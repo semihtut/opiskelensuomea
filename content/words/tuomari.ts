@@ -11,7 +11,7 @@ const tuomari: Word = {
   en: "judge; referee, umpire",
   selitys:
     "1) Oikeudessa tuomioita antava henkilö. 2) Urheilussa ottelua valvova erotuomari. Tyyppi 6/paperi, ei astevaihtelua; partitiivin monikko tuomareita. Sanasta tuomita. Vrt. tuomita, tuomio, erotuomari.",
-  kuva: { emoji: "👨‍⚖️", alt: "tuomari – oikeudessa tuomioita antava tai urheilussa ottelua valvova henkilö" },
+  kuva: { alt: "tuomari – oikeudessa tuomioita antava tai urheilussa ottelua valvova henkilö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua (vartalo tuomari-)",

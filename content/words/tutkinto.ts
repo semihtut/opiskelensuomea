@@ -11,7 +11,7 @@ const tutkinto: Word = {
   en: "degree, qualification, examination",
   selitys:
     "Loppututkinto tai virallinen pätevyys, joka suoritetaan opiskelemalla: 'korkeakoulututkinto'. Tyyppi 1, astevaihtelu nt:nn (tutkinto → tutkinnon). Partitiivin monikko tutkintoja. Johdettu verbistä tutkia.",
-  kuva: { emoji: "📜", alt: "tutkinto – virallinen pätevyys tai loppututkinto" },
+  kuva: { alt: "tutkinto – virallinen pätevyys tai loppututkinto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (tutkinto ↔ tutkinno-)",

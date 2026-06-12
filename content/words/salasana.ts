@@ -11,7 +11,7 @@ const salasana: Word = {
   en: "password",
   selitys:
     "Salainen merkkijono, jolla kirjaudutaan palveluun: 'vahva salasana'. Yhdyssana sala + sana. Tyyppi 9, ei astevaihtelua. Partitiivin monikko salasanoja. Vrt. käyttäjätunnus, tunnussana.",
-  kuva: { emoji: "🔑", alt: "salasana – salainen merkkijono kirjautumiseen" },
+  kuva: { alt: "salasana – salainen merkkijono kirjautumiseen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

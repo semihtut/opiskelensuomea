@@ -11,7 +11,7 @@ const tai: Word = {
   en: "or",
   selitys:
     "Rinnastuskonjunktio, joka ilmaisee vaihtoehtoa väitelauseessa. Ei taivuteta. 'Otan teetä tai kahvia.' Kysymyksessä käytä vai (tee vai kahvi?).",
-  kuva: { emoji: "🔀", alt: "tai – vaihtoehto" },
+  kuva: { alt: "tai – vaihtoehto" },
 
   kielioppi: {
     tyyppi: "rinnastuskonjunktio (vaihtoehto); taipumaton",

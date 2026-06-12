@@ -11,7 +11,7 @@ const kestää: Word = {
   en: "to last, take (time); to withstand, endure, tolerate",
   selitys:
     "Jatkua tietyn ajan, tai sietää/kestää rasitusta: 'matka kestää tunnin' / 'kestää kylmää'. Tyyppi 1 (-ää), tyyppi 53/muistaa, ei astevaihtelua (st säilyy). Vrt. kesto (duration), kestävä (durable).",
-  kuva: { emoji: "⏳", alt: "kestää – jatkua tietyn ajan tai sietää rasitusta" },
+  kuva: { alt: "kestää – jatkua tietyn ajan tai sietää rasitusta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; ei astevaihtelua; vartalo kestä-",

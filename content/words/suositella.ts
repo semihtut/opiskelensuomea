@@ -11,7 +11,7 @@ const suositella: Word = {
   en: "to recommend",
   selitys:
     "Kehottaa valitsemaan tai kokeilemaan jotakin hyväksi katsomaansa: 'suositella kirjaa'. Tyyppi 3 (-lla), Kotus 67/tulla, astevaihtelu tt:t (suosittelen). Sanasta suosia. Vrt. suositus, ehdottaa, neuvoa.",
-  kuva: { emoji: "👌", alt: "suositella – kehottaa valitsemaan tai kokeilemaan jotakin hyvää" },
+  kuva: { alt: "suositella – kehottaa valitsemaan tai kokeilemaan jotakin hyvää" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; astevaihtelu tt:t (suosittele- ~ suositel-)",

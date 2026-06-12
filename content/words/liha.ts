@@ -11,7 +11,7 @@ const liha: Word = {
   en: "meat",
   selitys:
     "Eläimen syötävä lihaskudos. Ei astevaihtelua. Usein ainesanana yksikössä.",
-  kuva: { emoji: "🥩", alt: "liha – pala lihaa" },
+  kuva: { alt: "liha – pala lihaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

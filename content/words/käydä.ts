@@ -11,7 +11,7 @@ const kayda: Word = {
   en: "to visit, go (and return); to work/fit",
   selitys:
     "Käydä jossakin (mennä ja palata); myös 'käydä' = sopia/toimia. Tyyppi 2 (-dä), ei astevaihtelua. Imperfektissä vartalo on käv- (kävin). Vrt. mennä (ei palaamista).",
-  kuva: { emoji: "🚪", alt: "käydä – pistäytyminen jossakin" },
+  kuva: { alt: "käydä – pistäytyminen jossakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-dä); vartalo käy-, imperfektissä käv-",

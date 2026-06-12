@@ -11,7 +11,7 @@ const elaa: Word = {
   en: "to live, be alive",
   selitys:
     "Olla elossa; viettää elämää. Tyyppi 1, ei astevaihtelua: elää → elän. Vrt. asua (live somewhere) ja elämä (life). Vastakohta kuolla.",
-  kuva: { emoji: "🌱", alt: "elää – elävä, kasvava elämä" },
+  kuva: { alt: "elää – elävä, kasvava elämä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); ei astevaihtelua",

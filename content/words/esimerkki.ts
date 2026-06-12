@@ -11,7 +11,7 @@ const esimerkki: Word = {
   en: "example",
   selitys:
     "Yksittäistapaus, joka havainnollistaa asiaa: 'hyvä esimerkki'. Tyyppi 5, astevaihtelu kk:k (esimerkki → esimerkin). 'Esimerkiksi' = for example. Juuri: esi- + merkki.",
-  kuva: { emoji: "🔎", alt: "esimerkki – havainnollistava tapaus" },
+  kuva: { alt: "esimerkki – havainnollistava tapaus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k",

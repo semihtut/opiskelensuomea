@@ -11,7 +11,7 @@ const tuomita: Word = {
   en: "to sentence, condemn, convict; to judge",
   selitys:
     "1) Antaa tuomio oikeudessa: 'tuomita vankeuteen'. 2) Arvostella ankarasti, paheksua. 3) Urheilussa: toimia tuomarina. Tyyppi 5 (-ita), Kotus 69/valita, vartalo tuomitse-. NUT-partisiippi tuominnut. Vrt. tuomio, tuomari, tuomitseva.",
-  kuva: { emoji: "🔨", alt: "tuomita – antaa tuomio oikeudessa tai arvostella ankarasti" },
+  kuva: { alt: "tuomita – antaa tuomio oikeudessa tai arvostella ankarasti" },
 
   kielioppi: {
     tyyppi: "tyyppi 5 (-ita), Kotus 69/valita; vartalo tuomitse- (ei astevaihtelua)",

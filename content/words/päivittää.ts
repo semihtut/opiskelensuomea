@@ -11,7 +11,7 @@ const paivittaa: Word = {
   en: "to update",
   selitys:
     "Saattaa ajan tasalle: 'päivittää ohjelma'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (päivitän). Johdettu sanasta päivä. Vrt. päivitys, päivä, ajantasainen.",
-  kuva: { emoji: "🔄", alt: "päivittää – saattaa ajan tasalle" },
+  kuva: { alt: "päivittää – saattaa ajan tasalle" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (päivitä- ~ päivittä-)",

@@ -11,7 +11,7 @@ const ennen: Word = {
   en: "before; in the past, formerly",
   selitys:
     "Aiemmin kuin; menneisyydessä. Prepositiona partitiivin kanssa: 'ennen joulua'. Adverbina 'ennen' = formerly. Vastakohta jälkeen.",
-  kuva: { emoji: "⏪", alt: "ennen – aiemmin, menneisyydessä" },
+  kuva: { alt: "ennen – aiemmin, menneisyydessä" },
 
   kielioppi: {
     tyyppi: "ajan adverbi / prepositio (+ partitiivi); komparatiivi ennemmin",

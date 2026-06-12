@@ -11,7 +11,7 @@ const julkaista: Word = {
   en: "to publish, release",
   selitys:
     "Saattaa julki, julkiseksi: 'julkaista kirja', 'julkaista tulokset'. Tyyppi 3 (-sta), Kotus 66/rohkaista, ei astevaihtelua; vartalo julkaise-. NUT-partisiippi julkaissut, passiivi julkaistaan. Johdettu sanasta julki. Vrt. julkinen, julkaisu.",
-  kuva: { emoji: "📰", alt: "julkaista – saattaa julki tai julkiseksi" },
+  kuva: { alt: "julkaista – saattaa julki tai julkiseksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-sta), Kotus 66/rohkaista; ei astevaihtelua; vartalo julkaise-",

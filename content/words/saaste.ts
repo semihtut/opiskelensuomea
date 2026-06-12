@@ -11,7 +11,7 @@ const saaste: Word = {
   en: "pollution, pollutant",
   selitys:
     "Ympäristöä likaava tai vahingoittava aine: 'ilman saasteet'. Tyyppi 48/hame, ei astevaihtelua; vartalo saastee-. Usein monikossa saasteet. Johdettu sanasta saastua. Vrt. saastua, saastuttaa, päästö.",
-  kuva: { emoji: "🏭", alt: "saaste – ympäristöä likaava tai vahingoittava aine" },
+  kuva: { alt: "saaste – ympäristöä likaava tai vahingoittava aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo saastee-)",

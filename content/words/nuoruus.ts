@@ -11,7 +11,7 @@ const nuoruus: Word = {
   en: "youth",
   selitys:
     "Elämänvaihe, jolloin ihminen on nuori: 'nuoruuden muistot'. Tyyppi 40/kalleus, astevaihtelu t:d (nuoruus → nuoruuden). Adjektiivista nuori. Vrt. nuori, lapsuus, vanhuus.",
-  kuva: { emoji: "🛹", alt: "nuoruus – elämänvaihe jolloin ihminen on nuori" },
+  kuva: { alt: "nuoruus – elämänvaihe jolloin ihminen on nuori" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (nuoruute- ~ nuoruude-)",

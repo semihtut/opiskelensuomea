@@ -11,7 +11,7 @@ const hakija: Word = {
   en: "applicant",
   selitys:
     "Henkilö, joka hakee paikkaa, etuutta tai lupaa: 'työpaikan hakija', 'ainoa hakija'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko hakijoita. Sanasta hakea + -ja. Vrt. hakea, hakemus, työnhakija.",
-  kuva: { emoji: "🙋‍♂️", alt: "hakija – henkilö joka hakee paikkaa, etuutta tai lupaa" },
+  kuva: { alt: "hakija – henkilö joka hakee paikkaa, etuutta tai lupaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo hakija-)",

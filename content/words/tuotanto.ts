@@ -11,7 +11,7 @@ const tuotanto: Word = {
   en: "production, output",
   selitys:
     "Tavaroiden tai palvelujen valmistaminen ja sen määrä: 'teollinen tuotanto'. Tyyppi 1/valo, astevaihtelu nt:nn (tuotanto → tuotannon). Johdettu verbistä tuottaa. Vrt. tuottaa, tuote, valmistus.",
-  kuva: { emoji: "🏭", alt: "tuotanto – tavaroiden tai palvelujen valmistaminen" },
+  kuva: { alt: "tuotanto – tavaroiden tai palvelujen valmistaminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (vartalo tuotanno-)",

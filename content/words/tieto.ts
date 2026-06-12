@@ -11,7 +11,7 @@ const tieto: Word = {
   en: "knowledge, information; a piece of data",
   selitys:
     "Se, mitä ihminen tietää; informaatio: 'hyödyllistä tietoa'. Tyyppi 1, astevaihtelu t:d (tieto → tiedon). Partitiivin monikko tietoja. Vrt. tietää (to know), tietokone (computer), tieteellinen tieto.",
-  kuva: { emoji: "🧠", alt: "tieto – se, mitä ihminen tietää; informaatio" },
+  kuva: { alt: "tieto – se, mitä ihminen tietää; informaatio" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (tieto ↔ tiedo-)",

@@ -11,7 +11,7 @@ const muisti: Word = {
   en: "memory (faculty); (computing) memory",
   selitys:
     "Kyky muistaa asioita, tai laitteen muisti: 'hyvä muisti'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko muisteja. Johdettu verbistä muistaa. Vrt. muisto (a memory, recollection), muistutus.",
-  kuva: { emoji: "🧠", alt: "muisti – kyky muistaa asioita" },
+  kuva: { alt: "muisti – kyky muistaa asioita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

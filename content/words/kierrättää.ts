@@ -11,7 +11,7 @@ const kierrattaa: Word = {
   en: "to recycle",
   selitys:
     "Käyttää uudelleen tai ohjata jäte uusiokäyttöön: 'kierrättää pullot'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (kierrätän). Johdettu sanasta kierto/kiertää. Vrt. kierrätys, kierto, jäte.",
-  kuva: { emoji: "♻️", alt: "kierrättää – käyttää uudelleen, ohjata uusiokäyttöön" },
+  kuva: { alt: "kierrättää – käyttää uudelleen, ohjata uusiokäyttöön" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (kierrätä- ~ kierrättä-)",

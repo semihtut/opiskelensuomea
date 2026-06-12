@@ -11,7 +11,7 @@ const julkinen: Word = {
   en: "public",
   selitys:
     "Kaikille avoin tai kaikkia koskeva, ei yksityinen: 'julkinen liikenne', 'julkinen tila'. Tyyppi 38/nainen, ei astevaihtelua. Vastakohta yksityinen. Vrt. julkisuus, julkaista, julki.",
-  kuva: { emoji: "🏛️", alt: "julkinen – kaikille avoin, ei yksityinen" },
+  kuva: { alt: "julkinen – kaikille avoin, ei yksityinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo julkise-)",

@@ -10,7 +10,7 @@ const sänky: Word = {
   level: "A1",
   en: "bed",
   selitys: "Huonekalu, jossa nukutaan. Astevaihtelu nk:ng (sänky → sängyn).",
-  kuva: { emoji: "🛏️", alt: "sänky – vuode, jossa nukutaan" },
+  kuva: { alt: "sänky – vuode, jossa nukutaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nk:ng (sänky → sängyn)",

@@ -11,7 +11,7 @@ const asia: Word = {
   en: "matter, thing, issue, affair",
   selitys:
     "Abstrakti asia, aihe tai juttu — ei konkreettinen esine: 'tärkeä asia'. Tyyppi 12, ei astevaihtelua. Monikon partitiivi asioita. Vrt. juttu (colloquial), aihe (topic).",
-  kuva: { emoji: "📋", alt: "asia – abstrakti aihe tai juttu" },
+  kuva: { alt: "asia – abstrakti aihe tai juttu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

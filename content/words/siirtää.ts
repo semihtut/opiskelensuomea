@@ -11,7 +11,7 @@ const siirtaa: Word = {
   en: "to move, transfer; to postpone",
   selitys:
     "Vaihtaa jonkin paikkaa tai ajankohtaa: 'siirrän auton' / 'siirrämme kokouksen huomiseen'. Astevaihtelu rt:rr (siirtää → siirrän), imperfekti poikkeava: siirsin.",
-  kuva: { emoji: "↔️", alt: "siirtää – vaihtaa paikkaa tai aikaa" },
+  kuva: { alt: "siirtää – vaihtaa paikkaa tai aikaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu rt:rr; vartalo siirtä-",

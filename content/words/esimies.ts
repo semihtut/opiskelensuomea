@@ -11,7 +11,7 @@ const esimies: Word = {
   en: "supervisor, manager, boss, superior",
   selitys:
     "Henkilö, joka johtaa ja ohjaa toisten työtä: 'oma esimies', 'puhua esimiehelle'. Tyyppi 42/mies (kuten mies → miehen). Yhdyssana esi- + mies. Sukupuolineutraali vaihtoehto: esihenkilö. Vrt. pomo, johtaja, alainen.",
-  kuva: { emoji: "👔", alt: "esimies – henkilö joka johtaa toisten työtä" },
+  kuva: { alt: "esimies – henkilö joka johtaa toisten työtä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 42/mies; ei astevaihtelua (vartalo esimiehe-, konsonanttivartalo esimies-)",

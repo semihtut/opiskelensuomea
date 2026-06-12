@@ -11,7 +11,7 @@ const ehto: Word = {
   en: "condition, term, requirement",
   selitys:
     "Vaatimus, jonka on täytyttävä, jotta jokin tapahtuu: 'sillä ehdolla, että…'. Tyyppi 1/valo, astevaihtelu t:d (ehto → ehdon). Monikossa usein 'ehdot' = terms (käyttöehdot). Vrt. edellyttää, ehdollinen.",
-  kuva: { emoji: "📑", alt: "ehto – vaatimus, jonka on täytyttävä" },
+  kuva: { alt: "ehto – vaatimus, jonka on täytyttävä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (vartalo ehdo-)",

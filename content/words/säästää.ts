@@ -11,7 +11,7 @@ const saastaa: Word = {
   en: "to save (money, time); to spare",
   selitys:
     "Olla kuluttamatta tai panna talteen: 'säästää rahaa' / 'säästää aikaa'. Tyyppi 53, ei astevaihtelua (st säilyy). Vrt. säästö (saving), tuhlata (to waste).",
-  kuva: { emoji: "🐷", alt: "säästää – panna talteen, olla kuluttamatta" },
+  kuva: { alt: "säästää – panna talteen, olla kuluttamatta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-stää); ei astevaihtelua; vartalo säästä-",

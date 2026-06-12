@@ -11,7 +11,7 @@ const kollega: Word = {
   en: "colleague",
   selitys:
     "Työtoveri, saman alan tai työpaikan ihminen: 'luotettava kollega'. Tyyppi 13, ei astevaihtelua. Partitiivin monikko kollegoita tai kollegoja. Vrt. työkaveri (arkisempi synonyymi).",
-  kuva: { emoji: "🤝", alt: "kollega – työtoveri" },
+  kuva: { alt: "kollega – työtoveri" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 13/katiska; ei astevaihtelua",

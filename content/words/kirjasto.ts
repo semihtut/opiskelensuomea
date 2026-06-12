@@ -11,7 +11,7 @@ const kirjasto: Word = {
   en: "library",
   selitys:
     "Paikka, josta voi lainata kirjoja. Tyyppi 1, ei astevaihtelua. Sanasta kirja + -sto (kokoelma).",
-  kuva: { emoji: "📚", alt: "kirjasto – kirjahyllyjä kirjastossa" },
+  kuva: { alt: "kirjasto – kirjahyllyjä kirjastossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -10,7 +10,7 @@ const vihdoin: Word = {
   en: "at last, finally",
   selitys:
     "Pitkän odotuksen jälkeen, viimein – usein helpotusta ilmaisten: 'vihdoin pääsin lomalle!'. Taipumaton ajan adverbi. Vrt. lopulta (in the end), viimein (finally), vihdoinkin (at long last).",
-  kuva: { emoji: "🙌", alt: "vihdoin – pitkän odotuksen jälkeen, viimein" },
+  kuva: { alt: "vihdoin – pitkän odotuksen jälkeen, viimein" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); taipumaton",

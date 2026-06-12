@@ -11,7 +11,7 @@ const keskeyttaa: Word = {
   en: "to interrupt, suspend, discontinue",
   selitys:
     "Lopettaa jokin kesken tai katkaista toisen toiminta: 'keskeyttää puhuja'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (keskeytän). Objekti partitiivissa. Johdettu sanasta kesken/keskeinen. Vrt. keskeytys, keskeytyä.",
-  kuva: { emoji: "⏸️", alt: "keskeyttää – lopettaa jokin kesken tai katkaista toiminta" },
+  kuva: { alt: "keskeyttää – lopettaa jokin kesken tai katkaista toiminta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (keskeytä- ~ keskeyttä-)",

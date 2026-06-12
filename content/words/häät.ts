@@ -10,7 +10,7 @@ const haat: Word = {
   en: "wedding",
   selitys:
     "Avioliiton solmimisen juhla. Monikkosana (plurale tantum): aina monikossa, 'mennä häihin', 'pitää häät'. Yksikkövartalo hää- esiintyy vain yhdyssanoissa (häämatka). Vrt. avioliitto, juhla, häämatka.",
-  kuva: { emoji: "👰", alt: "häät – avioliiton solmimisen juhla" },
+  kuva: { alt: "häät – avioliiton solmimisen juhla" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (plurale tantum); ei yksikkömuotoa",

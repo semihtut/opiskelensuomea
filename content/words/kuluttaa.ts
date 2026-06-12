@@ -11,7 +11,7 @@ const kuluttaa: Word = {
   en: "to consume, spend; to wear out",
   selitys:
     "Käyttää loppuun aikaa, rahaa tai energiaa; myös kuluttaa esine loppuun: 'kuluttaa rahaa'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (kulutan). Johdettu sanasta kulua. Vrt. kuluttaja, kulutus, kulua.",
-  kuva: { emoji: "💸", alt: "kuluttaa – käyttää loppuun aikaa, rahaa tai energiaa" },
+  kuva: { alt: "kuluttaa – käyttää loppuun aikaa, rahaa tai energiaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (kuluta- ~ kulutta-)",

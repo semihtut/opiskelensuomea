@@ -12,7 +12,7 @@ const terve: Word = {
   en: "healthy; (greeting) hi",
   selitys:
     "Sairaudeton, hyvävointinen. Tyyppi 48, ei astevaihtelua. Käytetään myös tuttavallisena tervehdyksenä: 'Terve!'",
-  kuva: { emoji: "💪", alt: "terve – terve ja hyvinvoiva ihminen" },
+  kuva: { alt: "terve – terve ja hyvinvoiva ihminen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 48/hame; ei astevaihtelua",

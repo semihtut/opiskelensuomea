@@ -11,7 +11,7 @@ const vakuuttaa: Word = {
   en: "to convince, assure; to insure",
   selitys:
     "Saada toinen uskomaan tai vakuuttuneeksi; myös: ottaa vakuutus: 'vakuuttaa auto'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (vakuutan). Vrt. vakuutus, vakuuttava, vakuuttua.",
-  kuva: { emoji: "🤝", alt: "vakuuttaa – saada toinen uskomaan tai vakuuttuneeksi" },
+  kuva: { alt: "vakuuttaa – saada toinen uskomaan tai vakuuttuneeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (vakuuta- ~ vakuutta-)",

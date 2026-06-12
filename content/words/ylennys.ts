@@ -11,7 +11,7 @@ const ylennys: Word = {
   en: "promotion (in rank or position)",
   selitys:
     "Eteneminen korkeampaan asemaan tai arvoon työssä: 'saada ylennys'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä ylentää. Vrt. ylentää, ura, esimies.",
-  kuva: { emoji: "⬆️", alt: "ylennys – eteneminen korkeampaan asemaan työssä" },
+  kuva: { alt: "ylennys – eteneminen korkeampaan asemaan työssä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo ylennykse-)",

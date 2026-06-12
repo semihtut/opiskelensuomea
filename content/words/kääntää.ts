@@ -11,7 +11,7 @@ const kaantaa: Word = {
   en: "to turn; to translate",
   selitys:
     "Muuttaa suuntaa tai kieltä: 'käännä vasemmalle' / 'käännän tekstin suomeksi'. Astevaihtelu nt:nn (kääntää → käännän), imperfekti poikkeava: käänsin.",
-  kuva: { emoji: "🔄", alt: "kääntää – muuttaa suuntaa tai kieltä" },
+  kuva: { alt: "kääntää – muuttaa suuntaa tai kieltä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu nt:nn; vartalo kääntä-",

@@ -11,7 +11,7 @@ const vieressa: Word = {
   en: "next to, beside",
   selitys:
     "Aivan vierellä. Paikallissarja: vieressä (missä) – vierestä (mistä) – viereen (mihin). Postpositiona genetiivin kanssa: 'talon vieressä'.",
-  kuva: { emoji: "↔️", alt: "vieressä – aivan vierellä" },
+  kuva: { alt: "vieressä – aivan vierellä" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

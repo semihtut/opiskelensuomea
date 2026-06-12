@@ -11,7 +11,7 @@ const lahella: Word = {
   en: "near, close (by)",
   selitys:
     "Pienen matkan päässä. Paikallissarja: lähellä (missä) – läheltä (mistä) – lähelle (mihin). Postpositiona genetiivin kanssa: 'aseman lähellä'. Vastakohta kaukana.",
-  kuva: { emoji: "📍", alt: "lähellä – pienen matkan päässä" },
+  kuva: { alt: "lähellä – pienen matkan päässä" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

@@ -11,7 +11,7 @@ const avoin: Word = {
   en: "open; open-minded; vacant",
   selitys:
     "1) Auki oleva: 'avoin ovi'. 2) Avomielinen tai läpinäkyvä: 'avoin keskustelu'. 3) Vapaana oleva: 'avoin työpaikka'. Tyyppi 33/kytkin, ei astevaihtelua; vartalo avoime-. Vastakohta suljettu. Vrt. avata, avoimesti.",
-  kuva: { emoji: "🔓", alt: "avoin – auki oleva tai avomielinen" },
+  kuva: { alt: "avoin – auki oleva tai avomielinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 33/kytkin; ei astevaihtelua (vartalo avoime-)",

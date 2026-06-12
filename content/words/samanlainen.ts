@@ -11,7 +11,7 @@ const samanlainen: Word = {
   en: "similar, the same kind of, alike",
   selitys:
     "Sellainen, joka muistuttaa toista tai on samanlaatuinen: 'meillä on samanlaiset takit'. Tyyppi 38/nainen, ei astevaihtelua. Yhdyssana sama + -lainen. Vastakohta erilainen. Vrt. samanlaisuus, sama.",
-  kuva: { emoji: "👯", alt: "samanlainen – toista muistuttava, samanlaatuinen" },
+  kuva: { alt: "samanlainen – toista muistuttava, samanlaatuinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo samanlaise-)",

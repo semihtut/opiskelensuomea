@@ -11,7 +11,7 @@ const ilo: Word = {
   en: "joy, gladness, delight",
   selitys:
     "Lyhyt, kirkas hyvän mielen tunne: 'tuoda iloa'. Tyyppi 1, vartalo ilo-, ei astevaihtelua. Vrt. iloinen (happy), onni (deeper happiness).",
-  kuva: { emoji: "😄", alt: "ilo – kirkas hyvän mielen tunne" },
+  kuva: { alt: "ilo – kirkas hyvän mielen tunne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo ilo-)",

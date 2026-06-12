@@ -11,7 +11,7 @@ const lukio: Word = {
   en: "upper secondary school, high school",
   selitys:
     "Peruskoulun jälkeinen, yleensä kolmivuotinen yleissivistävä koulu (n. 16–18-vuotiaille): 'mennä lukioon'. Tyyppi 3/valtio, ei astevaihtelua. Sanasta lukea. Vaihtoehto lukiolle on ammattikoulu. Vrt. lukea, peruskoulu, yliopisto.",
-  kuva: { emoji: "🎒", alt: "lukio – peruskoulun jälkeinen yleissivistävä koulu" },
+  kuva: { alt: "lukio – peruskoulun jälkeinen yleissivistävä koulu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo lukio-)",

@@ -11,7 +11,7 @@ const pilvi: Word = {
   en: "cloud",
   selitys:
     "Taivaalla leijuva vesihöyrymassa: 'tumma pilvi'. Tyyppi 7, ei astevaihtelua, vartalo pilve-. Partitiivin monikko pilviä. Vrt. pilvinen (cloudy), pilvenpiirtäjä (skyscraper).",
-  kuva: { emoji: "☁️", alt: "pilvi – taivaalla leijuva vesihöyrymassa" },
+  kuva: { alt: "pilvi – taivaalla leijuva vesihöyrymassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo pilve-)",

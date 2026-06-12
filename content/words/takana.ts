@@ -11,7 +11,7 @@ const takana: Word = {
   en: "behind",
   selitys:
     "Takapuolella. Paikallissarja: takana (missä) – takaa (mistä) – taakse (mihin). Postpositiona genetiivin kanssa: 'talon takana'. Vastakohta edessä.",
-  kuva: { emoji: "➡️", alt: "takana – jonkin takapuolella" },
+  kuva: { alt: "takana – jonkin takapuolella" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

@@ -11,7 +11,7 @@ const itsevarma: Word = {
   en: "self-confident, self-assured",
   selitys:
     "Sellainen, joka luottaa itseensä: 'itsevarma esiintyjä'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko itsevarmoja. Yhdyssana itse + varma. Vrt. varma, itsevarmuus, itseluottamus.",
-  kuva: { emoji: "😎", alt: "itsevarma – itseensä luottava" },
+  kuva: { alt: "itsevarma – itseensä luottava" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 9/kala; ei astevaihtelua (vartalo itsevarma-)",

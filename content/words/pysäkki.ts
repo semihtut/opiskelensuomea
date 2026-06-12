@@ -11,7 +11,7 @@ const pysäkki: Word = {
   en: "(bus/tram) stop",
   selitys:
     "Paikka, jossa bussi tai ratikka pysähtyy: 'nousta bussiin pysäkillä'. Tyyppi 5, astevaihtelu kk:k (pysäkki → pysäkin). Partitiivin monikko pysäkkejä. Johdettu verbistä pysähtyä. Vrt. bussipysäkki.",
-  kuva: { emoji: "🚏", alt: "pysäkki – paikka, jossa bussi pysähtyy" },
+  kuva: { alt: "pysäkki – paikka, jossa bussi pysähtyy" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu kk:k (pysäkki ↔ pysäki-)",

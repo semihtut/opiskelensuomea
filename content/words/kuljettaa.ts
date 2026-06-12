@@ -11,7 +11,7 @@ const kuljettaa: Word = {
   en: "to transport, to carry, to drive (a vehicle)",
   selitys:
     "Siirtää jotakin paikasta toiseen tai ajaa ajoneuvoa: 'kuljettaa tavaraa'. Tyyppi 1 (-aa), astevaihtelu tt:t (kuljetan). Kausatiivi verbistä kulkea. Vrt. kuljettaja (driver), kuljetus (transport).",
-  kuva: { emoji: "🚚", alt: "kuljettaa – siirtää jotakin paikasta toiseen" },
+  kuva: { alt: "kuljettaa – siirtää jotakin paikasta toiseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (kuljetta- ↔ kuljeta-)",

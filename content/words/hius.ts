@@ -11,7 +11,7 @@ const hius: Word = {
   en: "hair (of the head); (pl.) hair",
   selitys:
     "Päässä kasvava karva; monikko hiukset = tukka: 'pitkät hiukset'. Tyyppi 39, ei astevaihtelua, vartalo hiukse-. Käytetään yleensä monikossa. Vrt. hiusten leikkaus (haircut), karva (body/animal hair).",
-  kuva: { emoji: "💇", alt: "hius – päässä kasvava karva" },
+  kuva: { alt: "hius – päässä kasvava karva" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo hiukse-)",

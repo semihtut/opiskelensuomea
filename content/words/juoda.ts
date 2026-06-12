@@ -11,7 +11,7 @@ const juoda: Word = {
   en: "to drink",
   selitys:
     "Nauttia nestettä. Tyyppi 2 (-da), vartalo juo-. Imperfektissä vokaalimuutos: juon → join. Voi tarkoittaa myös alkoholin juomista.",
-  kuva: { emoji: "🥤", alt: "juoda – juomamuki pillillä" },
+  kuva: { alt: "juoda – juomamuki pillillä" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-da); vartalo juo-, ei astevaihtelua",

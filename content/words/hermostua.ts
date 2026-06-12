@@ -11,7 +11,7 @@ const hermostua: Word = {
   en: "to get nervous, get agitated, lose one's nerve",
   selitys:
     "Alkaa tuntea hermostuneisuutta tai ärtymystä: 'hermostua kokeesta'. Tyyppi 1 (-ua), tyyppi 52/sanoa, ei astevaihtelua. Johdettu sanasta hermo. Vrt. hermostunut (nervous), hermo (nerve).",
-  kuva: { emoji: "😰", alt: "hermostua – alkaa tuntea hermostuneisuutta" },
+  kuva: { alt: "hermostua – alkaa tuntea hermostuneisuutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo hermostu-",

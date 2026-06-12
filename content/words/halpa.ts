@@ -11,7 +11,7 @@ const halpa: Word = {
   en: "cheap, inexpensive",
   selitys:
     "Vähän maksava tai huonolaatuinen: 'halpa lippu'. Tyyppi 9, astevaihtelu lp:lv (halpa → halvan). Partitiivin monikko halpoja. Vertailu halvempi – halvin. Vastakohta kallis.",
-  kuva: { emoji: "🏷️", alt: "halpa – vähän maksava" },
+  kuva: { alt: "halpa – vähän maksava" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 9/kala; astevaihtelu lp:lv (halpa ↔ halva-)",

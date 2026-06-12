@@ -11,7 +11,7 @@ const janis: Word = {
   en: "hare, rabbit",
   selitys:
     "Pitkäkorvainen, nopea metsäeläin: 'jänis juoksee'. Tyyppi 39/vastaus, ei astevaihtelua (-is → -ikse-). Vrt. pupu, metsä, eläin.",
-  kuva: { emoji: "🐇", alt: "jänis – pitkäkorvainen, nopea metsäeläin" },
+  kuva: { alt: "jänis – pitkäkorvainen, nopea metsäeläin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo jänikse-)",

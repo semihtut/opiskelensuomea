@@ -11,7 +11,7 @@ const kestava: Word = {
   en: "durable, lasting; sustainable",
   selitys:
     "Pitkään kestävä tai ympäristön kannalta kestävä: 'kestävä kehitys'. Tyyppi 10/koira, ei astevaihtelua. Verbin kestää partisiippi. Vrt. kestää, kestävyys, kestävä kehitys.",
-  kuva: { emoji: "🌍", alt: "kestävä – pitkään kestävä, ympäristön kannalta kestävä" },
+  kuva: { alt: "kestävä – pitkään kestävä, ympäristön kannalta kestävä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo kestävä-)",

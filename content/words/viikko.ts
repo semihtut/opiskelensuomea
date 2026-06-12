@@ -10,7 +10,7 @@ const viikko: Word = {
   level: "A1",
   en: "week",
   selitys: "Seitsemän päivän jakso. Astevaihtelu kk:k (viikko → viikon).",
-  kuva: { emoji: "🗓️", alt: "viikko – kalenteriviikko" },
+  kuva: { alt: "viikko – kalenteriviikko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu kk:k (viikko → viikon)",

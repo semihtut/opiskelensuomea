@@ -11,7 +11,7 @@ const lampotila: Word = {
   en: "temperature",
   selitys:
     "Lämmön määrä, mitataan asteina: 'ilman lämpötila'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko lämpötiloja. Yhdyssana lämpö + tila. Vrt. lämpö, aste, sää.",
-  kuva: { emoji: "🌡️", alt: "lämpötila – lämmön määrä, mitataan asteina" },
+  kuva: { alt: "lämpötila – lämmön määrä, mitataan asteina" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo lämpötila-)",

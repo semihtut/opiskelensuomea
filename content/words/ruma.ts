@@ -11,7 +11,7 @@ const ruma: Word = {
   en: "ugly",
   selitys:
     "Silmää miellyttämätön; vastakohta kaunis. Tyyppi 10, ei astevaihtelua. Voi kuvata myös tekoa: 'ruma teko'.",
-  kuva: { emoji: "👹", alt: "ruma – ruma, epämiellyttävä ulkonäkö" },
+  kuva: { alt: "ruma – ruma, epämiellyttävä ulkonäkö" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

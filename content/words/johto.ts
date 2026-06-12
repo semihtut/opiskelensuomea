@@ -11,7 +11,7 @@ const johto: Word = {
   en: "management, leadership; lead; cord, cable",
   selitys:
     "1) Johtaminen tai johtava ryhmä: 'yrityksen johto', 'olla johdossa'. 2) Sähköjohto tai kaapeli. 3) Johtoasema kilpailussa. Tyyppi 1/valo, astevaihtelu t:d (johto → johdon). Sanasta johtaa. Vrt. johtaa, johtaja, johtua.",
-  kuva: { emoji: "🧭", alt: "johto – johtaminen, johtava ryhmä tai sähköjohto" },
+  kuva: { alt: "johto – johtaminen, johtava ryhmä tai sähköjohto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (johto ~ johdo-)",

@@ -10,7 +10,7 @@ const valilla: Word = {
   en: "sometimes, occasionally; in between",
   selitys:
     "Joskus, aika ajoin: 'käyn välillä uimassa'. Vakiintunut adverbi sanan väli adessiivimuodosta. Toimii myös postpositiona: 'A:n ja B:n välillä' = between A and B. Vrt. joskus, väli, välissä.",
-  kuva: { emoji: "🔄", alt: "välillä – joskus, aika ajoin" },
+  kuva: { alt: "välillä – joskus, aika ajoin" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); käytetään myös postpositiona (genetiivin kanssa)",

@@ -11,7 +11,7 @@ const keittää: Word = {
   en: "to cook, boil; to brew",
   selitys:
     "Valmistaa ruokaa vedessä tai kuumentaa kiehuvaksi: 'keittää perunoita' / 'keittää kahvia'. Tyyppi 1 (-ää), astevaihtelu tt:t (keitän ~ keittää). Vrt. keitto (soup), keittiö (kitchen).",
-  kuva: { emoji: "🍳", alt: "keittää – valmistaa ruokaa vedessä" },
+  kuva: { alt: "keittää – valmistaa ruokaa vedessä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (keitän ↔ keittää)",

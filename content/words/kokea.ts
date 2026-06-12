@@ -11,7 +11,7 @@ const kokea: Word = {
   en: "to experience, undergo; to feel (that)",
   selitys:
     "Elää läpi tai tuntea jokin: 'kokea jotakin uutta'. Tyyppi 3 (-kea), Kotus 58/laskea, astevaihtelu k:∅ (koen). Objekti partitiivissa. Vrt. kokemus, kokenut, tuntea.",
-  kuva: { emoji: "🌟", alt: "kokea – elää läpi tai tuntea jokin" },
+  kuva: { alt: "kokea – elää läpi tai tuntea jokin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-kea), Kotus 58/laskea; astevaihtelu k:∅ (koke- ~ koe-)",

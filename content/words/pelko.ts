@@ -11,7 +11,7 @@ const pelko: Word = {
   en: "fear, dread",
   selitys:
     "Epämiellyttävä tunne uhkan edessä: 'pelko vallassa'. Tyyppi 1, astevaihtelu k:∅ (pelko → pelon). Vrt. pelätä (to fear, verb), pelottava (scary).",
-  kuva: { emoji: "😨", alt: "pelko – tunne uhkan edessä" },
+  kuva: { alt: "pelko – tunne uhkan edessä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu k:∅ (lk:l)",

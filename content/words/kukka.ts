@@ -11,7 +11,7 @@ const kukka: Word = {
   en: "flower",
   selitys:
     "Kasvin värikäs lisääntymiselin tai koristekasvi: 'antaa kukkia'. Tyyppi 10, astevaihtelu kk:k (kukka → kukan). Partitiivin monikko kukkia. Vrt. kukkakauppa (flower shop), kukkia (to bloom).",
-  kuva: { emoji: "🌸", alt: "kukka – kasvin värikäs osa" },
+  kuva: { alt: "kukka – kasvin värikäs osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu kk:k (kukka ↔ kuka-)",

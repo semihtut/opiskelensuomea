@@ -11,7 +11,7 @@ const liikenne: Word = {
   en: "traffic",
   selitys:
     "Teillä tai ilmassa liikkuvat ajoneuvot ja ihmiset: 'vilkas liikenne'. Tyyppi 48, astevaihtelu nt:nn (liikenne → liikenteen). Yleensä yksikössä. Johdettu sanasta liike. Vrt. joukkoliikenne, liikennevalo.",
-  kuva: { emoji: "🚦", alt: "liikenne – teillä liikkuvat ajoneuvot ja ihmiset" },
+  kuva: { alt: "liikenne – teillä liikkuvat ajoneuvot ja ihmiset" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu nt:nn (liikenne ↔ liikentee-)",

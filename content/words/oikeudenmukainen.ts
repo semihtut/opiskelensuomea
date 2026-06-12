@@ -11,7 +11,7 @@ const oikeudenmukainen: Word = {
   en: "fair, just, equitable",
   selitys:
     "Oikeuden mukainen, tasapuolinen ja reilu: 'oikeudenmukainen päätös', 'oikeudenmukainen kohtelu'. Tyyppi 38/nainen, ei astevaihtelua. Yhdyssana oikeuden (gen.) + mukainen. Vastakohta epäoikeudenmukainen. Vrt. oikeus, reilu, tasa-arvo.",
-  kuva: { emoji: "⚖️", alt: "oikeudenmukainen – tasapuolinen ja reilu" },
+  kuva: { alt: "oikeudenmukainen – tasapuolinen ja reilu" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo oikeudenmukaise-)",

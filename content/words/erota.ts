@@ -11,7 +11,7 @@ const erota: Word = {
   en: "to differ; to separate, resign, divorce",
   selitys:
     "Olla erilainen kuin jokin muu, tai lähteä/irtautua jostakin: 'mielipiteet eroavat', 'erota työstä'. Tyyppi 4 (-ota), Kotus 74/katketa, ei astevaihtelua. Hallitsee elatiivia ('erota jostakin'). Vrt. ero, erilainen, erottaa.",
-  kuva: { emoji: "🔀", alt: "erota – olla erilainen tai irtautua jostakin" },
+  kuva: { alt: "erota – olla erilainen tai irtautua jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ota), Kotus 74/katketa; ei astevaihtelua; vartalot eroa- ~ eros-",

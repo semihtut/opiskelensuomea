@@ -11,7 +11,7 @@ const loma: Word = {
   en: "holiday, vacation; leave",
   selitys:
     "Vapaa-aika työstä tai koulusta: 'kesäloma'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko lomia. 'Lomalla' = on holiday. Alkuperäinen merkitys 'gap, opening'. Vrt. kesäloma, lomamatka, lomailla.",
-  kuva: { emoji: "🏖️", alt: "loma – vapaa-aika työstä tai koulusta" },
+  kuva: { alt: "loma – vapaa-aika työstä tai koulusta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

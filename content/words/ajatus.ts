@@ -11,7 +11,7 @@ const ajatus: Word = {
   en: "thought, idea",
   selitys:
     "Mielessä syntyvä idea tai ajattelun tulos: 'hyvä ajatus'. Tyyppi 39, ei astevaihtelua; vartalo ajatukse-. Partitiivin monikko ajatuksia. Johdettu verbistä ajatella.",
-  kuva: { emoji: "💡", alt: "ajatus – mielessä syntyvä idea" },
+  kuva: { alt: "ajatus – mielessä syntyvä idea" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo ajatukse-",

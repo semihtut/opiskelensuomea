@@ -11,7 +11,7 @@ const suru: Word = {
   en: "sorrow, grief, sadness",
   selitys:
     "Raskas, surullinen tunne — usein menetyksestä: 'syvä suru'. Tyyppi 1, vartalo suru-, ei astevaihtelua. Vrt. surullinen (sad), surra (to grieve).",
-  kuva: { emoji: "😢", alt: "suru – raskas surullinen tunne" },
+  kuva: { alt: "suru – raskas surullinen tunne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo suru-)",

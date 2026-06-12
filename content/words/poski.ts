@@ -11,7 +11,7 @@ const poski: Word = {
   en: "cheek",
   selitys:
     "Kasvojen pehmeä sivuosa nenän ja korvan välissä: 'punaiset posket'. Tyyppi 7/ovi, ei astevaihtelua. Vrt. kasvot, poskipää, suudella.",
-  kuva: { emoji: "😊", alt: "poski – kasvojen pehmeä sivuosa nenän ja korvan välissä" },
+  kuva: { alt: "poski – kasvojen pehmeä sivuosa nenän ja korvan välissä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo poske-)",

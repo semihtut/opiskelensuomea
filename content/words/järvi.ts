@@ -11,7 +11,7 @@ const jarvi: Word = {
   en: "lake",
   selitys:
     "Maan ympäröimä makean veden allas. Tyyppi 7, ei astevaihtelua. Suomi on tuhansien järvien maa.",
-  kuva: { emoji: "🏞️", alt: "järvi – tyyni järvi" },
+  kuva: { alt: "järvi – tyyni järvi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua",

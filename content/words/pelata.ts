@@ -11,7 +11,7 @@ const pelata: Word = {
   en: "to play (a game/sport)",
   selitys:
     "Osallistua peliin tai urheiluun: 'pelata jalkapalloa'. Tyyppi 4 (-ata), ei astevaihtelua, vartalo pelaa-. Kohde partitiivissa. Vrt. peli (game), pelaaja (player), leikkiä (to play, children).",
-  kuva: { emoji: "⚽", alt: "pelata – osallistua peliin tai urheiluun" },
+  kuva: { alt: "pelata – osallistua peliin tai urheiluun" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo pelaa-",

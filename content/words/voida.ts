@@ -12,7 +12,7 @@ const voida: Word = {
   en: "to be able to, can; to feel (well/unwell)",
   selitys:
     "Ilmaisee kykyä tai mahdollisuutta ('voin auttaa') sekä vointia ('Miten voit?'). Kohtelias pyyntö muodostetaan konditionaalilla: 'Voisitko…?'.",
-  kuva: { emoji: "💪", alt: "voida – käsivarsi (kyky)" },
+  kuva: { alt: "voida – käsivarsi (kyky)" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-da), -ida-ryhmä; vartalo voi-",

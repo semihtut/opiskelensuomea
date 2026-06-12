@@ -11,7 +11,7 @@ const pyora: Word = {
   en: "wheel; bicycle (short for polkupyörä)",
   selitys:
     "Pyörivä osa tai polkupyörä: 'ajaa pyörällä'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko pyöriä. Vrt. polkupyörä (bicycle), pyöriä (to spin), pyöreä (round).",
-  kuva: { emoji: "🚲", alt: "pyörä – pyörivä osa tai polkupyörä" },
+  kuva: { alt: "pyörä – pyörivä osa tai polkupyörä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const antaa: Word = {
   en: "to give; to let, allow",
   selitys:
     "Ojentaa tai luovuttaa jollekulle; myös 'antaa tehdä' = let, allow. Tyyppi 1, astevaihtelu nt:nn (anta- → anna-). Vastaanottaja allatiivissa.",
-  kuva: { emoji: "🎁", alt: "antaa – lahjan ojentaminen" },
+  kuva: { alt: "antaa – lahjan ojentaminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu nt:nn (anta- → anna-)",

@@ -11,7 +11,7 @@ const soittaa: Word = {
   en: "to call (phone); to play (an instrument)",
   selitys:
     "1) soittaa puhelimella, 2) soittaa soitinta (play music). Tyyppi 1, astevaihtelu tt:t (soitta- → soita-). Kohde partitiivissa.",
-  kuva: { emoji: "📞", alt: "soittaa – puhelimeen soittaminen" },
+  kuva: { alt: "soittaa – puhelimeen soittaminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (soitta- → soita-)",

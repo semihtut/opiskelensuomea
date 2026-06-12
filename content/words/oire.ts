@@ -11,7 +11,7 @@ const oire: Word = {
   en: "symptom",
   selitys:
     "Sairauden tai ongelman merkki: 'flunssan oireet'. Tyyppi 48/hame, ei astevaihtelua; vartalo oiree-. Voi olla myös laajemman ongelman merkki. Vrt. oireilla, merkki, sairaus.",
-  kuva: { emoji: "🤧", alt: "oire – sairauden tai ongelman merkki" },
+  kuva: { alt: "oire – sairauden tai ongelman merkki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo oiree-)",

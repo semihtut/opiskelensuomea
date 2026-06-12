@@ -11,7 +11,7 @@ const selitys: Word = {
   en: "explanation",
   selitys:
     "Se, mikä tekee asian ymmärrettäväksi: 'antaa selitys', 'looginen selitys'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä selittää. Vrt. selittää, selvitys, syy.",
-  kuva: { emoji: "💡", alt: "selitys – se mikä tekee asian ymmärrettäväksi" },
+  kuva: { alt: "selitys – se mikä tekee asian ymmärrettäväksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo selitykse-)",

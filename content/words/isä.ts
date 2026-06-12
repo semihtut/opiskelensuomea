@@ -10,7 +10,7 @@ const isä: Word = {
   level: "A1",
   en: "father, dad",
   selitys: "Miespuolinen vanhempi. Vartalo isä-, ei astevaihtelua.",
-  kuva: { emoji: "👨‍👧", alt: "isä – miespuolinen vanhempi" },
+  kuva: { alt: "isä – miespuolinen vanhempi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

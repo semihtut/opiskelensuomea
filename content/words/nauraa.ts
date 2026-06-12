@@ -11,7 +11,7 @@ const nauraa: Word = {
   en: "to laugh",
   selitys:
     "Ilmaista iloa nauramalla: 'nauraa ääneen'. Tyyppi 1 (-aa), tyyppi 56, ei astevaihtelua; imperfektissä a → o (nauroin). Vrt. nauru (laughter), naurattaa (to make laugh).",
-  kuva: { emoji: "😄", alt: "nauraa – ilmaista iloa nauramalla" },
+  kuva: { alt: "nauraa – ilmaista iloa nauramalla" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 56; ei astevaihtelua; imperfektissä a → o",

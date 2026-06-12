@@ -11,7 +11,7 @@ const nimi: Word = {
   en: "name",
   selitys:
     "Sana, jolla ihmistä, paikkaa tai asiaa kutsutaan. Vartalossa i → e: nimen, nimeä. Ei astevaihtelua.",
-  kuva: { emoji: "🏷️", alt: "nimi – nimilappu" },
+  kuva: { alt: "nimi – nimilappu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo nime-)",

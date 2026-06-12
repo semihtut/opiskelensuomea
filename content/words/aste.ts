@@ -11,7 +11,7 @@ const aste: Word = {
   en: "degree (temperature, angle); stage, level",
   selitys:
     "Lämpötilan, kulman tai vaiheen yksikkö: 'kaksikymmentä astetta'. Tyyppi 48, ei astevaihtelua; vartalo astee-. Partitiivin monikko asteita. Vrt. lämpötila, asteittain (gradually).",
-  kuva: { emoji: "🌡️", alt: "aste – lämpötilan tai kulman yksikkö" },
+  kuva: { alt: "aste – lämpötilan tai kulman yksikkö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua; vartalo astee-",

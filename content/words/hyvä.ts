@@ -11,7 +11,7 @@ const hyvä: Word = {
   en: "good",
   selitys:
     "Myönteistä laatua ilmaiseva adjektiivi. Vertailu on epäsäännöllinen (suppletiivinen): hyvä – parempi – paras.",
-  kuva: { emoji: "👍", alt: "hyvä – peukku ylös" },
+  kuva: { alt: "hyvä – peukku ylös" },
 
   kielioppi: {
     tyyppi: "adjektiivi; suppletiivinen vertailu hyvä – parempi – paras",

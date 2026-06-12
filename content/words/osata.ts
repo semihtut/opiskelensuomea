@@ -11,7 +11,7 @@ const osata: Word = {
   en: "to know how, be able to",
   selitys:
     "Hallita taito; pystyä tekemään opittu asia. Tyyppi 4 (-ata): osata → osaan. Seuraava verbi infinitiivissä: 'osaan uida'. Vrt. voida (mahdollisuus), tietää (tieto).",
-  kuva: { emoji: "🎓", alt: "osata – hallita taito" },
+  kuva: { alt: "osata – hallita taito" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo osaa-",

@@ -11,7 +11,7 @@ const oikeus: Word = {
   en: "right, entitlement; justice; court",
   selitys:
     "Lupa tai oikeutus johonkin, oikeudenmukaisuus tai tuomioistuin: 'oikeus äänestää' / 'oikeus ja kohtuus'. Tyyppi 40, astevaihtelu t:d (oikeute- → oikeude-). Johdettu sanasta oikea. Vrt. oikeudenmukainen (just).",
-  kuva: { emoji: "⚖️", alt: "oikeus – oikeutus, oikeudenmukaisuus tai tuomioistuin" },
+  kuva: { alt: "oikeus – oikeutus, oikeudenmukaisuus tai tuomioistuin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (oikeute- ↔ oikeude-)",

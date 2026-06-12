@@ -11,7 +11,7 @@ const kohtelias: Word = {
   en: "polite, courteous",
   selitys:
     "Hyvätapainen ja toiset huomioon ottava: 'kohtelias asiakaspalvelija'. Tyyppi 41/vieras, ei astevaihtelua; vartalo kohteliaa-. Vastakohta epäkohtelias, töykeä. Vrt. kohteliaisuus, kohdella.",
-  kuva: { emoji: "🎩", alt: "kohtelias – hyvätapainen ja huomaavainen" },
+  kuva: { alt: "kohtelias – hyvätapainen ja huomaavainen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua (vartalo kohteliaa-)",

@@ -11,7 +11,7 @@ const kutsua: Word = {
   en: "to invite; to call (summon, name)",
   selitys:
     "Pyytää tulemaan tai nimittää jollakin nimellä: 'kutsua vieraita' / 'kutsua jotakuta nimellä'. Tyyppi 1 (-ua), ei astevaihtelua, vartalo kutsu-. Vrt. kutsu (invitation), kutsua paikalle (to summon).",
-  kuva: { emoji: "✉️", alt: "kutsua – pyytää tulemaan tai nimittää" },
+  kuva: { alt: "kutsua – pyytää tulemaan tai nimittää" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); ei astevaihtelua; vartalo kutsu-",

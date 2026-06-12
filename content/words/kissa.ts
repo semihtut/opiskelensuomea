@@ -11,7 +11,7 @@ const kissa: Word = {
   en: "cat",
   selitys:
     "Yleinen kotieläin ja lemmikki: 'kissa kehrää'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko kissoja. Lainattu ruotsista (kisse). Vrt. koira, lemmikki, eläin.",
-  kuva: { emoji: "🐱", alt: "kissa – yleinen kotieläin ja lemmikki" },
+  kuva: { alt: "kissa – yleinen kotieläin ja lemmikki" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo kissa-)",

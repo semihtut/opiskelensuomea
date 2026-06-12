@@ -10,7 +10,7 @@ const ehka: Word = {
   en: "maybe, perhaps",
   selitys:
     "Ilmaisee epävarmuutta tai mahdollisuutta. Modaaliadverbi, ei taivuteta. 'Ehkä tulen.' Synonyymi kenties, mahdollisesti.",
-  kuva: { emoji: "🤔", alt: "ehkä – mahdollisesti, epävarmuus" },
+  kuva: { alt: "ehkä – mahdollisesti, epävarmuus" },
 
   kielioppi: {
     tyyppi: "modaaliadverbi (mahdollisuus); taipumaton",

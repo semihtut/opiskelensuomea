@@ -11,7 +11,7 @@ const hyvinvointi: Word = {
   en: "well-being, welfare, wellness",
   selitys:
     "Hyvä olo ja elämänlaatu – terveys, turvallisuus ja onnellisuus: 'edistää hyvinvointia'. Tyyppi 5/risti, astevaihtelu nt:nn (hyvinvointi → hyvinvoinnin). Yhdyssana hyvin + vointi. Vrt. voida, vointi, terveys.",
-  kuva: { emoji: "🧘", alt: "hyvinvointi – hyvä olo ja elämänlaatu" },
+  kuva: { alt: "hyvinvointi – hyvä olo ja elämänlaatu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu nt:nn (vartalo hyvinvoinni-)",

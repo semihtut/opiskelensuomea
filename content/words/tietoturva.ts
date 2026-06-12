@@ -11,7 +11,7 @@ const tietoturva: Word = {
   en: "information security, cybersecurity",
   selitys:
     "Tietojen suojaaminen luvattomalta käytöltä: 'huolehtia tietoturvasta'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko tietoturvia (harvinainen, yleensä yksikössä). Yhdyssana tieto + turva. Vrt. turva, tieto, salasana.",
-  kuva: { emoji: "🔐", alt: "tietoturva – tietojen suojaaminen luvattomalta käytöltä" },
+  kuva: { alt: "tietoturva – tietojen suojaaminen luvattomalta käytöltä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo tietoturva-)",

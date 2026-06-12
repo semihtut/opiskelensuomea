@@ -11,7 +11,7 @@ const tyoton: Word = {
   en: "unemployed; an unemployed person",
   selitys:
     "Sellainen, jolla ei ole työtä: 'olla työtön', 'työtön nuori'. Toimii myös substantiivina (työtön = työtön henkilö). Tyyppi 34/onneton, astevaihtelu tt:t (työtön → työttömän). Kieltojohdos työ + -tön. Vrt. työ, työttömyys, työllinen.",
-  kuva: { emoji: "🚷", alt: "työtön – henkilö jolla ei ole työtä" },
+  kuva: { alt: "työtön – henkilö jolla ei ole työtä" },
 
   kielioppi: {
     tyyppi: "adjektiivi/substantiivi, tyyppi 34/onneton; astevaihtelu tt:t (vartalo työttömä-)",

@@ -12,7 +12,7 @@ const ruoka: Word = {
   en: "food; meal",
   selitys:
     "Se, mitä syödään; ateria tai ruoka-aine. Astevaihtelu k:∅ (ruoka → ruoan). Kirjakielessä ruoan, puhekielessä usein ruuan.",
-  kuva: { emoji: "🍲", alt: "ruoka – höyryävä ruoka-annos" },
+  kuva: { alt: "ruoka – höyryävä ruoka-annos" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu k:∅ (ruoka → ruoan)",

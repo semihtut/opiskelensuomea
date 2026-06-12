@@ -11,7 +11,7 @@ const rauhallinen: Word = {
   en: "calm, peaceful, quiet",
   selitys:
     "Levollinen, kiireetön ja seesteinen: 'rauhallinen ilta'. Tyyppi 38, ei astevaihtelua; vartalo rauhallise-. Partitiivin monikko rauhallisia. Johdettu sanasta rauha. Vastakohta levoton / hermostunut.",
-  kuva: { emoji: "🧘", alt: "rauhallinen – levollinen ja kiireetön" },
+  kuva: { alt: "rauhallinen – levollinen ja kiireetön" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo rauhallise-",

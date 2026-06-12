@@ -11,7 +11,7 @@ const vahentaa: Word = {
   en: "to reduce, decrease; to subtract",
   selitys:
     "Tehdä vähemmäksi: 'vähentää kuluja'. Astevaihtelu nt:nn (vähentää → vähennän), imperfekti poikkeava: vähensin. Vastakohta lisätä. Juuri vähä (little).",
-  kuva: { emoji: "➖", alt: "vähentää – tehdä vähemmäksi" },
+  kuva: { alt: "vähentää – tehdä vähemmäksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu nt:nn; vartalo vähentä-",

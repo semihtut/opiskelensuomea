@@ -11,7 +11,7 @@ const aanestys: Word = {
   en: "vote, voting, ballot",
   selitys:
     "Tapahtuma, jossa ratkaistaan asia äänillä: 'järjestää äänestys'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä äänestää. Vrt. äänestää, ääni, vaalit.",
-  kuva: { emoji: "🗳️", alt: "äänestys – tapahtuma jossa asia ratkaistaan äänillä" },
+  kuva: { alt: "äänestys – tapahtuma jossa asia ratkaistaan äänillä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo äänestykse-)",

@@ -11,7 +11,7 @@ const lapsuus: Word = {
   en: "childhood",
   selitys:
     "Elämänvaihe, jolloin ihminen on lapsi: 'onnellinen lapsuus'. Tyyppi 40/kalleus, astevaihtelu t:d (lapsuus → lapsuuden). Sanasta lapsi. Vrt. lapsi, nuoruus, aikuisuus.",
-  kuva: { emoji: "🧸", alt: "lapsuus – elämänvaihe jolloin ihminen on lapsi" },
+  kuva: { alt: "lapsuus – elämänvaihe jolloin ihminen on lapsi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (lapsuute- ~ lapsuude-)",

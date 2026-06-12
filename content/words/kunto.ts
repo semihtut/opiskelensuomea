@@ -11,7 +11,7 @@ const kunto: Word = {
   en: "condition, fitness, shape",
   selitys:
     "Fyysinen tai yleinen tila: 'hyvä kunto', 'auton kunto'. Tyyppi 1/valo, astevaihtelu nt:nn (kunto → kunnon). Vrt. kuntoilla, kunnossa, kuntoutua.",
-  kuva: { emoji: "🏃", alt: "kunto – fyysinen tai yleinen tila" },
+  kuva: { alt: "kunto – fyysinen tai yleinen tila" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (vartalo kunno-)",

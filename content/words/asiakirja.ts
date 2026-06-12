@@ -11,7 +11,7 @@ const asiakirja: Word = {
   en: "document",
   selitys:
     "Virallinen kirjallinen dokumentti: 'allekirjoittaa asiakirja', 'tärkeät asiakirjat'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko asiakirjoja. Yhdyssana asia + kirja. Vrt. asia, kirja, todistus, dokumentti.",
-  kuva: { emoji: "📄", alt: "asiakirja – virallinen kirjallinen dokumentti" },
+  kuva: { alt: "asiakirja – virallinen kirjallinen dokumentti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo asiakirja-)",

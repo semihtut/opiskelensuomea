@@ -11,7 +11,7 @@ const uudistua: Word = {
   en: "to be renewed, get modernized, reform",
   selitys:
     "Muuttua uudeksi tai uudenaikaiseksi: 'ala uudistuu jatkuvasti'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen (transit. uudistaa). Johdettu sanasta uusi. Vrt. uudistus, uudistaa, uusi.",
-  kuva: { emoji: "🔄", alt: "uudistua – muuttua uudeksi tai uudenaikaiseksi" },
+  kuva: { alt: "uudistua – muuttua uudeksi tai uudenaikaiseksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo uudistu-",

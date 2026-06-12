@@ -11,7 +11,7 @@ const lauantai: Word = {
   en: "Saturday",
   selitys:
     "Viikon kuudes päivä, viikonlopun ensimmäinen päivä. Ei astevaihtelua. 'Lauantaina' = on Saturday.",
-  kuva: { emoji: "🎈", alt: "lauantai – vapaapäivä viikonloppuna" },
+  kuva: { alt: "lauantai – vapaapäivä viikonloppuna" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

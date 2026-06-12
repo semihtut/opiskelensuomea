@@ -11,7 +11,7 @@ const irtisanoa: Word = {
   en: "to lay off, dismiss; to give notice, terminate",
   selitys:
     "Päättää työsuhde tai sopimus: työnantaja irtisanoo työntekijän, tai työntekijä irtisanoo itsensä (irtisanoutua). Myös: irtisanoa vuokrasopimus. Tyyppi 1 (-oa), Kotus 52/sanoa, ei astevaihtelua. Yhdysverbi irti + sanoa. Vrt. sanoa, irtisanoutua, irtisanominen.",
-  kuva: { emoji: "📄", alt: "irtisanoa – päättää työsuhde tai sopimus" },
+  kuva: { alt: "irtisanoa – päättää työsuhde tai sopimus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa), Kotus 52/sanoa; ei astevaihtelua (vartalo irtisano-)",

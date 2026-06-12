@@ -11,7 +11,7 @@ const tieteellinen: Word = {
   en: "scientific, scholarly",
   selitys:
     "Tieteeseen liittyvä tai tieteen menetelmiä noudattava: 'tieteellinen tutkimus'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta tiede. Vrt. tiede, tieteellisesti, epätieteellinen.",
-  kuva: { emoji: "🧪", alt: "tieteellinen – tieteeseen liittyvä, tieteen menetelmiä noudattava" },
+  kuva: { alt: "tieteellinen – tieteeseen liittyvä, tieteen menetelmiä noudattava" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo tieteellise-)",

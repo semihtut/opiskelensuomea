@@ -11,7 +11,7 @@ const harmittaa: Word = {
   en: "to annoy, vex; (impersonal) to feel annoyed/sorry",
   selitys:
     "Aiheuttaa harmia tai mielipahaa; persoonaton: 'minua harmittaa' = harmittaa minua. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (harmitan). Yleisin käyttö persoonaton + partitiivi. Vrt. harmi, harmillinen.",
-  kuva: { emoji: "😤", alt: "harmittaa – aiheuttaa harmia tai mielipahaa" },
+  kuva: { alt: "harmittaa – aiheuttaa harmia tai mielipahaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (harmita- ~ harmitta-)",

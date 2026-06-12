@@ -11,7 +11,7 @@ const kieli: Word = {
   en: "language; tongue",
   selitys:
     "Viestintäjärjestelmä tai suun elin: 'suomen kieli' / 'kipeä kieli'. Tyyppi 26, ei astevaihtelua, vartalo kiele-. Partitiivi kieltä. Vrt. kielioppi (grammar), kielitaito (language skill).",
-  kuva: { emoji: "🗣️", alt: "kieli – kieli viestintäjärjestelmänä tai suun elimenä" },
+  kuva: { alt: "kieli – kieli viestintäjärjestelmänä tai suun elimenä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo kiele-)",

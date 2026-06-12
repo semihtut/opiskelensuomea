@@ -11,7 +11,7 @@ const myrsky: Word = {
   en: "storm",
   selitys:
     "Voimakas tuuli ja huono sää: 'kova myrsky'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko myrskyjä. Vrt. myrskytä (to storm), ukkosmyrsky, lumimyrsky.",
-  kuva: { emoji: "🌪️", alt: "myrsky – voimakas tuuli ja huono sää" },
+  kuva: { alt: "myrsky – voimakas tuuli ja huono sää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -11,7 +11,7 @@ const maahanmuutto: Word = {
   en: "immigration",
   selitys:
     "Muuttaminen toiseen maahan asumaan: 'maahanmuutto kasvaa', 'maahanmuuton hallinta'. Tyyppi 1/valo, astevaihtelu tt:t (maahanmuutto → maahanmuuton). Yhdyssana maahan (illatiivi) + muutto. Vastakohta maastamuutto. Vrt. muuttaa, maahanmuuttaja, maastamuutto.",
-  kuva: { emoji: "🛬", alt: "maahanmuutto – muuttaminen toiseen maahan asumaan" },
+  kuva: { alt: "maahanmuutto – muuttaminen toiseen maahan asumaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (maahanmuutto ~ maahanmuuto-)",

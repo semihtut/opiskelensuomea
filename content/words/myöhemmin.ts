@@ -10,7 +10,7 @@ const myohemmin: Word = {
   en: "later, afterwards",
   selitys:
     "Tuonnempana, jonkin hetken jälkeen: 'puhutaan myöhemmin'. Adverbin 'myöhään' komparatiivimuoto, taipumaton. Vastakohta aikaisemmin. Vrt. myöhäinen (late), myöhästyä (to be late).",
-  kuva: { emoji: "⏩", alt: "myöhemmin – tuonnempana, jonkin hetken jälkeen" },
+  kuva: { alt: "myöhemmin – tuonnempana, jonkin hetken jälkeen" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi, komparatiivi); taipumaton",

@@ -11,7 +11,7 @@ const ostos: Word = {
   en: "purchase; (pl.) shopping",
   selitys:
     "Ostettu tavara tai ostamisen tapahtuma: 'tehdä ostoksia'. Tyyppi 39, ei astevaihtelua; vartalo ostokse-. Partitiivin monikko ostoksia. Johdettu verbistä ostaa. Monikossa ostokset = the shopping.",
-  kuva: { emoji: "🛍️", alt: "ostos – ostettu tavara" },
+  kuva: { alt: "ostos – ostettu tavara" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo ostokse-",

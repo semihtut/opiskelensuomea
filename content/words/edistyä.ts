@@ -11,7 +11,7 @@ const edistya: Word = {
   en: "to progress, advance, improve",
   selitys:
     "Mennä eteenpäin, kehittyä paremmaksi: 'edistyä suomen kielessä'. Tyyppi 1 (-yä), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen pari verbille edistää. Vrt. edistää, edistys, kehittyä, edetä.",
-  kuva: { emoji: "📶", alt: "edistyä – mennä eteenpäin, kehittyä paremmaksi" },
+  kuva: { alt: "edistyä – mennä eteenpäin, kehittyä paremmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; ei astevaihtelua (vartalo edisty-)",

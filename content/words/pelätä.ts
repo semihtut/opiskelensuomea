@@ -11,7 +11,7 @@ const pelätä: Word = {
   en: "to fear, be afraid of",
   selitys:
     "Tuntea pelkoa jotakin kohtaan: 'pelätä pimeää'. Tyyppi 4 (-ätä), astevaihtelu k:∅ (pelkään ~ pelätä). NUT-partisiippi pelännyt. Kohde partitiivissa. Vrt. pelko (fear), pelottava (scary).",
-  kuva: { emoji: "😨", alt: "pelätä – tuntea pelkoa jotakin kohtaan" },
+  kuva: { alt: "pelätä – tuntea pelkoa jotakin kohtaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ätä); astevaihtelu k:∅ (pelkää- ↔ pelät-/pelän-)",

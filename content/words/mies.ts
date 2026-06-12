@@ -12,7 +12,7 @@ const mies: Word = {
   en: "man",
   selitys:
     "Aikuinen miespuolinen ihminen. Erikoistyyppi: nominatiivi mies, mutta muut muodot vartalolla miehe- (miehen, miehet).",
-  kuva: { emoji: "👨", alt: "mies – aikuinen miespuolinen ihminen" },
+  kuva: { alt: "mies – aikuinen miespuolinen ihminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 42/mies; ei astevaihtelua (vartalo miehe-)",

@@ -11,7 +11,7 @@ const matkustaja: Word = {
   en: "passenger, traveller",
   selitys:
     "Henkilö, joka matkustaa kulkuneuvossa: 'junan matkustajat'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko matkustajia. Tekijännimi verbistä matkustaa. Vrt. matka, matkustaa.",
-  kuva: { emoji: "🧳", alt: "matkustaja – henkilö, joka matkustaa kulkuneuvossa" },
+  kuva: { alt: "matkustaja – henkilö, joka matkustaa kulkuneuvossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua; tekijännimi (-ja)",

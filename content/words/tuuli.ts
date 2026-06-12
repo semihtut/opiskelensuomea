@@ -11,7 +11,7 @@ const tuuli: Word = {
   en: "wind",
   selitys:
     "Liikkuva ilma. Tyyppi 26, ei astevaihtelua, mutta konsonanttivartalo näkyy partitiivissa tuulta. Myös 'olla hyvällä tuulella' = be in a good mood.",
-  kuva: { emoji: "🌬️", alt: "tuuli – puhaltava tuuli" },
+  kuva: { alt: "tuuli – puhaltava tuuli" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua, konsonanttivartalo",

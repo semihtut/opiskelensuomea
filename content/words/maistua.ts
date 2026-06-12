@@ -11,7 +11,7 @@ const maistua: Word = {
   en: "to taste (like), taste good",
   selitys:
     "Olla joltakin maultaan tai tuntua hyvältä: 'maistua hyvältä'. Tyyppi 1 (-ua), tyyppi 52/sanoa, ei astevaihtelua. Intransitiivinen (jokin maistuu). Johdettu verbistä maistaa. Vrt. maku (taste).",
-  kuva: { emoji: "😋", alt: "maistua – olla joltakin maultaan" },
+  kuva: { alt: "maistua – olla joltakin maultaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; intransitiivinen",

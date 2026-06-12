@@ -11,7 +11,7 @@ const haaste: Word = {
   en: "challenge",
   selitys:
     "Vaativa tehtävä tai tilanne, joka vaatii ponnistelua: 'ottaa haaste vastaan'. Tyyppi 48/hame, ei astevaihtelua; vartalo haastee-. Johdettu verbistä haastaa. Vrt. haastava, haastaa.",
-  kuva: { emoji: "🧗", alt: "haaste – vaativa tehtävä tai tilanne" },
+  kuva: { alt: "haaste – vaativa tehtävä tai tilanne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo haastee-)",

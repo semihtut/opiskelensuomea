@@ -11,7 +11,7 @@ const saa: Word = {
   en: "weather",
   selitys:
     "Ilmakehän tila tiettynä aikana (esim. aurinkoinen, sateinen). Tyyppi 18, ei astevaihtelua.",
-  kuva: { emoji: "🌤️", alt: "sää – sääilmiöitä" },
+  kuva: { alt: "sää – sääilmiöitä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

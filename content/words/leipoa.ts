@@ -11,7 +11,7 @@ const leipoa: Word = {
   en: "to bake",
   selitys:
     "Valmistaa leivonnaisia, kuten leipää tai kakkua: 'leipoa pullaa'. Tyyppi 1 (-oa), astevaihtelu p:v (leivon ~ leipoo). Johdettu sanasta leipä. Vrt. leivos (pastry), leipuri (baker).",
-  kuva: { emoji: "🧁", alt: "leipoa – valmistaa leivonnaisia" },
+  kuva: { alt: "leipoa – valmistaa leivonnaisia" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa), Kotus 52/sanoa; astevaihtelu p:v (leivon ↔ leipoo)",

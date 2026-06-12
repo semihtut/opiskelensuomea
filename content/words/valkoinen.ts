@@ -11,7 +11,7 @@ const valkoinen: Word = {
   en: "white",
   selitys:
     "Lumen ja maidon väri. Tyyppi 38, ei astevaihtelua. Taivutusvartalo valkois-: valkoisen, valkoista.",
-  kuva: { emoji: "⚪", alt: "valkoinen – valkoinen väri" },
+  kuva: { alt: "valkoinen – valkoinen väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

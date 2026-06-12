@@ -11,7 +11,7 @@ const tasaArvo: Word = {
   en: "equality",
   selitys:
     "Ihmisten yhdenvertainen ja samanarvoinen kohtelu: 'sukupuolten tasa-arvo', 'edistää tasa-arvoa'. Tyyppi 1/valo, ei astevaihtelua. Yhdyssana tasa + arvo. Vastakohta eriarvoisuus. Vrt. arvo, tasa-arvoinen, yhdenvertaisuus.",
-  kuva: { emoji: "⚖️", alt: "tasa-arvo – ihmisten yhdenvertainen ja samanarvoinen kohtelu" },
+  kuva: { alt: "tasa-arvo – ihmisten yhdenvertainen ja samanarvoinen kohtelu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo tasa-arvo-)",

@@ -11,7 +11,7 @@ const läksy: Word = {
   en: "homework, lesson (to study)",
   selitys:
     "Kotitehtävä, jonka opettaja antaa: 'tehdä läksyt'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko läksyjä. Usein monikossa läksyt. Synonyymi kotitehtävä; arkikielessä myös 'läksyt'.",
-  kuva: { emoji: "📒", alt: "läksy – opettajan antama kotitehtävä" },
+  kuva: { alt: "läksy – opettajan antama kotitehtävä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

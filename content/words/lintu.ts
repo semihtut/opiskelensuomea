@@ -11,7 +11,7 @@ const lintu: Word = {
   en: "bird",
   selitys:
     "Höyhenpeitteinen eläin, joka yleensä lentää: 'lintu laulaa'. Tyyppi 1/valo, astevaihtelu nt:nn (lintu → linnun). Vrt. lentää, muuttolintu, eläin.",
-  kuva: { emoji: "🐦", alt: "lintu – höyhenpeitteinen eläin joka yleensä lentää" },
+  kuva: { alt: "lintu – höyhenpeitteinen eläin joka yleensä lentää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (lintu ~ linnu-)",

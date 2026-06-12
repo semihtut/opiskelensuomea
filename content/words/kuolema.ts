@@ -11,7 +11,7 @@ const kuolema: Word = {
   en: "death",
   selitys:
     "Elämän päättyminen: 'läheisen kuolema'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko kuolemia. Johdettu verbistä kuolla. Vastakohta syntymä. Vrt. kuolla, syntymä, hautajaiset.",
-  kuva: { emoji: "🕯️", alt: "kuolema – elämän päättyminen" },
+  kuva: { alt: "kuolema – elämän päättyminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo kuolema-)",

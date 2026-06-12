@@ -10,7 +10,7 @@ const viela: Word = {
   en: "still; yet; (even) more",
   selitys:
     "Edelleen; tähän asti; lisäksi. Ajan adverbi, ei taivuteta. 'Olen vielä töissä.' Kielteisenä 'ei vielä' = not yet. Vrt. enää (kielteinen: not anymore).",
-  kuva: { emoji: "⏳", alt: "vielä – edelleen, yhä" },
+  kuva: { alt: "vielä – edelleen, yhä" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

@@ -11,7 +11,7 @@ const korostaa: Word = {
   en: "to emphasize, stress, highlight",
   selitys:
     "Tuoda jokin asia erityisesti esiin tai painottaa sitä: 'korostaa rehellisyyden tärkeyttä'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa. Johdettu sanasta korkea/koro. Vrt. korostus, painottaa.",
-  kuva: { emoji: "🖍️", alt: "korostaa – tuoda jokin asia erityisesti esiin" },
+  kuva: { alt: "korostaa – tuoda jokin asia erityisesti esiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo korosta-",

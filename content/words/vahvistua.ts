@@ -11,7 +11,7 @@ const vahvistua: Word = {
   en: "to strengthen, grow stronger",
   selitys:
     "Tulla vahvemmaksi tai voimakkaammaksi: 'tuuli vahvistui illalla'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen (transit. vahvistaa). Johdettu sanasta vahva. Vastakohta heikentyä. Vrt. vahva, vahvistaa, voima.",
-  kuva: { emoji: "💪", alt: "vahvistua – tulla vahvemmaksi tai voimakkaammaksi" },
+  kuva: { alt: "vahvistua – tulla vahvemmaksi tai voimakkaammaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo vahvistu-",

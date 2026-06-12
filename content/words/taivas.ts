@@ -11,7 +11,7 @@ const taivas: Word = {
   en: "sky; heaven",
   selitys:
     "Maan yllä näkyvä avaruus; myös uskonnollinen 'taivas' (heaven). Tyyppi 41, ei astevaihtelua, konsonanttivartalo (taivasta).",
-  kuva: { emoji: "🌌", alt: "taivas – avara taivas" },
+  kuva: { alt: "taivas – avara taivas" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 41/vieras; ei astevaihtelua, konsonanttivartalo",

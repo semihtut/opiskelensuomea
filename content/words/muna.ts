@@ -11,7 +11,7 @@ const muna: Word = {
   en: "egg",
   selitys:
     "Kanan tai muun linnun muna, yleinen ruoka-aine: 'keittää muna'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko munia. Vrt. kana, keittää, kananmuna.",
-  kuva: { emoji: "🥚", alt: "muna – kanan tai muun linnun muna, ruoka-aine" },
+  kuva: { alt: "muna – kanan tai muun linnun muna, ruoka-aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo muna-)",

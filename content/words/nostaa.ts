@@ -11,7 +11,7 @@ const nostaa: Word = {
   en: "to lift, raise; to withdraw (money)",
   selitys:
     "Siirtää ylöspäin tai ottaa esiin: 'nostan laukun pöydälle' / 'nostan rahaa pankista'. Ei astevaihtelua (st säilyy). Vastakohta laskea.",
-  kuva: { emoji: "🏋️", alt: "nostaa – siirtää ylöspäin" },
+  kuva: { alt: "nostaa – siirtää ylöspäin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-staa); ei astevaihtelua; vartalo nosta-",

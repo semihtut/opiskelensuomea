@@ -11,7 +11,7 @@ const tulos: Word = {
   en: "result, outcome, score",
   selitys:
     "Se, mihin jokin johtaa tai mitä saadaan aikaan: 'kokeen tulos'. Tyyppi 39/vastaus, ei astevaihtelua (-os → -okse-). Johdettu verbistä tulla. Vrt. tulla, lopputulos, seuraus.",
-  kuva: { emoji: "🏁", alt: "tulos – se mihin jokin johtaa tai mitä saadaan aikaan" },
+  kuva: { alt: "tulos – se mihin jokin johtaa tai mitä saadaan aikaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo tulokse-)",

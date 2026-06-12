@@ -11,7 +11,7 @@ const kenka: Word = {
   en: "shoe",
   selitys:
     "Jalkaan puettava jalkine. Tyyppi 10, astevaihtelu nk:ng (kenkä → kengän). Pari yleensä monikossa: kengät.",
-  kuva: { emoji: "👟", alt: "kenkä – kenkä" },
+  kuva: { alt: "kenkä – kenkä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu nk:ng",

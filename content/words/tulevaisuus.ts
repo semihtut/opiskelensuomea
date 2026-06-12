@@ -11,7 +11,7 @@ const tulevaisuus: Word = {
   en: "the future",
   selitys:
     "Aika, joka on vielä tulossa: 'suunnitella tulevaisuutta'. Tyyppi 40, astevaihtelu t:d (tulevaisuus → tulevaisuuden). Yleensä yksikössä. Johdettu verbistä tulla. Vastakohta menneisyys.",
-  kuva: { emoji: "🔮", alt: "tulevaisuus – aika, joka on vielä tulossa" },
+  kuva: { alt: "tulevaisuus – aika, joka on vielä tulossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo tulevaisuude-)",

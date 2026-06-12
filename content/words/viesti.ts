@@ -11,7 +11,7 @@ const viesti: Word = {
   en: "message",
   selitys:
     "Lähetetty tieto tai sanoma: 'lähetin viestin'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko viestejä. Vrt. viestiä (to communicate), tekstiviesti (text message).",
-  kuva: { emoji: "💬", alt: "viesti – lähetetty sanoma" },
+  kuva: { alt: "viesti – lähetetty sanoma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

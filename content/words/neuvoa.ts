@@ -11,7 +11,7 @@ const neuvoa: Word = {
   en: "to advise, to give directions",
   selitys:
     "Antaa ohje tai neuvo: 'neuvoa tietä'. Tyyppi 1 (-oa), ei astevaihtelua, vartalo neuvo-. Neuvottava partitiivissa. Vrt. neuvo (advice), neuvotella (to negotiate), neuvosto (council).",
-  kuva: { emoji: "🧭", alt: "neuvoa – antaa ohje tai neuvo" },
+  kuva: { alt: "neuvoa – antaa ohje tai neuvo" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); ei astevaihtelua; vartalo neuvo-",

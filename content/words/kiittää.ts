@@ -11,7 +11,7 @@ const kiittaa: Word = {
   en: "to thank; to praise",
   selitys:
     "Ilmaista kiitollisuutta: 'kiitän sinua' + asiasta elatiivissa: 'kiitin häntä illasta'. Astevaihtelu tt:t (kiittää → kiitän). Vrt. kiitos (thanks).",
-  kuva: { emoji: "🙇", alt: "kiittää – ilmaista kiitollisuutta" },
+  kuva: { alt: "kiittää – ilmaista kiitollisuutta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo kiittä-",

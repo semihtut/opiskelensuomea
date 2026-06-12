@@ -11,7 +11,7 @@ const saanto: Word = {
   en: "rule, regulation",
   selitys:
     "Ohje tai määräys, jota on noudatettava: 'noudattaa sääntöjä'. Tyyppi 1/valo, astevaihtelu nt:nn (sääntö → säännön). Monikossa 'säännöt' = rules, bylaws. Vrt. säädellä, määräys, laki.",
-  kuva: { emoji: "📏", alt: "sääntö – ohje tai määräys jota noudatetaan" },
+  kuva: { alt: "sääntö – ohje tai määräys jota noudatetaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (vartalo säännö-)",

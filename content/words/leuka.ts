@@ -11,7 +11,7 @@ const leuka: Word = {
   en: "chin, jaw",
   selitys:
     "Kasvojen alaosa suun alapuolella; myös leukaluu: 'terävä leuka'. Tyyppi 9/kala, astevaihtelu k:∅ (leuka → leuan). Vrt. kasvot, suu, leukaluu.",
-  kuva: { emoji: "🧔", alt: "leuka – kasvojen alaosa suun alapuolella" },
+  kuva: { alt: "leuka – kasvojen alaosa suun alapuolella" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu k:∅ (leuka ~ leua-)",

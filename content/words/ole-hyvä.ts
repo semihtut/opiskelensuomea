@@ -11,7 +11,7 @@ const oleHyva: Word = {
   en: "here you go; you're welcome; please",
   selitys:
     "Kohtelias fraasi, jolla ojennetaan jotakin ('Ole hyvä.') tai vastataan kiitokseen. Teitellen tai monikolle: olkaa hyvä.",
-  kuva: { emoji: "🤲", alt: "ole hyvä – ojentava kohtelias ele" },
+  kuva: { alt: "ole hyvä – ojentava kohtelias ele" },
 
   kielioppi: {
     tyyppi: "fraasi: olla-verbin imperatiivi + hyvä",

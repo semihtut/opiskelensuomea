@@ -11,7 +11,7 @@ const keitto: Word = {
   en: "soup",
   selitys:
     "Vedessä keitetty nestemäinen ruoka: 'lämmin keitto'. Tyyppi 1, astevaihtelu tt:t (keitto → keiton). Partitiivin monikko keittoja. Johdettu verbistä keittää. Vrt. kalakeitto, keittiö.",
-  kuva: { emoji: "🍲", alt: "keitto – vedessä keitetty nestemäinen ruoka" },
+  kuva: { alt: "keitto – vedessä keitetty nestemäinen ruoka" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (keitto ↔ keito-)",

@@ -11,7 +11,7 @@ const lukumaara: Word = {
   en: "number, count, quantity",
   selitys:
     "Kuinka monta jotakin on, kappalemäärä: 'osallistujien lukumäärä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko lukumääriä. Yhdyssana luku + määrä. Vrt. luku, määrä, määrä.",
-  kuva: { emoji: "🔢", alt: "lukumäärä – kuinka monta jotakin on" },
+  kuva: { alt: "lukumäärä – kuinka monta jotakin on" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo lukumäärä-)",

@@ -11,7 +11,7 @@ const laulu: Word = {
   en: "song; singing",
   selitys:
     "Sävelletty ja laulettu kappale tai laulaminen: 'kaunis laulu'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko lauluja. Vrt. laulaa (to sing), laulaja (singer), kansanlaulu (folk song).",
-  kuva: { emoji: "🎤", alt: "laulu – laulettu kappale" },
+  kuva: { alt: "laulu – laulettu kappale" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -11,7 +11,7 @@ const heiMitäKuuluu: Word = {
   en: "hi, how are you? (lit. 'what is heard?')",
   selitys:
     "Tavallinen tervehdys ja kuulumisten kysyminen. Vastauksena esim. 'Kiitos, hyvää.' tai 'Ihan hyvää.' (partitiivissa).",
-  kuva: { emoji: "👋", alt: "tervehdys – vilkuttava käsi" },
+  kuva: { alt: "tervehdys – vilkuttava käsi" },
 
   kielioppi: {
     tyyppi: "fraasi; ei taivuteta kokonaisuutena",

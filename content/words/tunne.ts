@@ -11,7 +11,7 @@ const tunne: Word = {
   en: "feeling, emotion",
   selitys:
     "Mielen sisäinen kokemus, kuten ilo tai pelko: 'vahva tunne'. Tyyppi 48, astevaihtelu nt:nn (tunne → tunteen). Vrt. tuntea (to feel), tunnistaa (recognize).",
-  kuva: { emoji: "❤️", alt: "tunne – mielen sisäinen kokemus" },
+  kuva: { alt: "tunne – mielen sisäinen kokemus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu nt:nn",

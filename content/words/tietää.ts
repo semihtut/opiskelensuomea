@@ -11,7 +11,7 @@ const tietaa: Word = {
   en: "to know (a fact)",
   selitys:
     "Olla tietoinen jostakin asiasta tai tosiseikasta. Tyyppi 1, astevaihtelu t:d (tiedän). Imperfekti on poikkeava: tiesin. Vrt. tuntea (= know a person).",
-  kuva: { emoji: "🧠", alt: "tietää – tietämisen oivallus" },
+  kuva: { alt: "tietää – tietämisen oivallus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); t:d-astevaihtelu; poikkeava imperfekti tiesin",

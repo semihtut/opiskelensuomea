@@ -11,7 +11,7 @@ const ikkuna: Word = {
   en: "window",
   selitys:
     "Seinän lasiaukko, joka päästää valoa sisään. Ei astevaihtelua; monikossa ikkunoita, ikkunoiden.",
-  kuva: { emoji: "🪟", alt: "ikkuna – seinän lasiaukko" },
+  kuva: { alt: "ikkuna – seinän lasiaukko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

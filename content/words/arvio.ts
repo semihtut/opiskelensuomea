@@ -11,7 +11,7 @@ const arvio: Word = {
   en: "estimate, assessment, evaluation",
   selitys:
     "Likimääräinen käsitys jonkin arvosta tai määrästä: 'karkea arvio'. Tyyppi 3/valtio, ei astevaihtelua; partitiivi arviota, partitiivin monikko arvioita. Johdettu verbistä arvioida. Vrt. arvioida, arviointi, arvaus.",
-  kuva: { emoji: "📊", alt: "arvio – likimääräinen käsitys arvosta tai määrästä" },
+  kuva: { alt: "arvio – likimääräinen käsitys arvosta tai määrästä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua (vartalo arvio-)",

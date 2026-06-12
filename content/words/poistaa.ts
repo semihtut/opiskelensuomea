@@ -11,7 +11,7 @@ const poistaa: Word = {
   en: "to remove, delete, take away",
   selitys:
     "Ottaa pois tai hävittää: 'poistaa tiedosto'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa/akkusatiivissa. Johdettu sanasta pois. Vrt. pois, poisto, poistua.",
-  kuva: { emoji: "🗑️", alt: "poistaa – ottaa pois tai hävittää" },
+  kuva: { alt: "poistaa – ottaa pois tai hävittää" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo poista-",

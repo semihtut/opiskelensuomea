@@ -10,7 +10,7 @@ const tietysti: Word = {
   en: "of course, naturally",
   selitys:
     "Itsestään selvää. Modaaliadverbi, ei taivuteta. 'Tietysti autan sinua.' Synonyymi tietenkin, totta kai. Pohjana sana tietty.",
-  kuva: { emoji: "😌", alt: "tietysti – itsestään selvää" },
+  kuva: { alt: "tietysti – itsestään selvää" },
 
   kielioppi: {
     tyyppi: "modaaliadverbi (itsestäänselvyys); taipumaton",

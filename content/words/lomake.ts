@@ -11,7 +11,7 @@ const lomake: Word = {
   en: "form (to fill in)",
   selitys:
     "Valmis asiakirjapohja, johon täytetään tietoja: 'täyttää lomake', 'hakemuslomake'. Tyyppi 48/hame, astevaihtelu kk:k (lomake → lomakkeen). Sanasta loma ('aukko') + -ke. Vrt. täyttää, hakemus, kyselylomake.",
-  kuva: { emoji: "🧾", alt: "lomake – valmis asiakirjapohja johon täytetään tietoja" },
+  kuva: { alt: "lomake – valmis asiakirjapohja johon täytetään tietoja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu kk:k (lomake ~ lomakkee-)",

@@ -11,7 +11,7 @@ const paistaa: Word = {
   en: "to fry, bake, roast; (of the sun) to shine",
   selitys:
     "Kypsentää ruokaa rasvassa tai uunissa, tai auringosta: paistaa. 'Paistaa kala' / 'aurinko paistaa'. Tyyppi 1 (-aa), tyyppi 56, ei astevaihtelua; imperfektissä a → o (paistoi). Vrt. paisti (roast), paistinpannu.",
-  kuva: { emoji: "🍳", alt: "paistaa – kypsentää ruokaa rasvassa tai uunissa" },
+  kuva: { alt: "paistaa – kypsentää ruokaa rasvassa tai uunissa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 56; ei astevaihtelua; imperfektissä a → o",

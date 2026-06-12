@@ -11,7 +11,7 @@ const onni: Word = {
   en: "happiness; luck, fortune",
   selitys:
     "Syvä hyvän olon tunne tai hyvä sattuma: 'elämän onni' / 'hyvää onnea!'. Tyyppi 7, vartalo onne-, ei astevaihtelua. Vrt. onnellinen (happy), onnistua (to succeed).",
-  kuva: { emoji: "🍀", alt: "onni – hyvän olon tunne tai hyvä sattuma" },
+  kuva: { alt: "onni – hyvän olon tunne tai hyvä sattuma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo onne-)",

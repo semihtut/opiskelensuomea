@@ -11,7 +11,7 @@ const merkita: Word = {
   en: "to mean, signify; to mark, note down",
   selitys:
     "1) Tarkoittaa, olla merkitykseltään: 'mitä tämä merkitsee?'. 2) Tehdä merkki tai kirjata: 'merkitä muistiin'. Tyyppi 4 (-itä), Kotus 69/valita, vartalo merkitse-. NUT-partisiippi merkinnyt (huom!). Vrt. merkitys, merkki.",
-  kuva: { emoji: "✍️", alt: "merkitä – tarkoittaa tai tehdä merkki" },
+  kuva: { alt: "merkitä – tarkoittaa tai tehdä merkki" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-itä), Kotus 69/valita; vartalo merkitse- (-tse-)",

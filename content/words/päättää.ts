@@ -11,7 +11,7 @@ const paattaa: Word = {
   en: "to decide; to end, conclude",
   selitys:
     "Tehdä päätös tai saattaa loppuun: 'päätin lähteä' (I decided to leave) / 'päätämme kokouksen' (we end the meeting). Astevaihtelu tt:t (päättää → päätän). Vrt. loppua (end, intransitive).",
-  kuva: { emoji: "✅", alt: "päättää – tehdä päätös tai lopettaa" },
+  kuva: { alt: "päättää – tehdä päätös tai lopettaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo päättä-",

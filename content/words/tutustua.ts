@@ -11,7 +11,7 @@ const tutustua: Word = {
   en: "to get to know, get acquainted with, explore",
   selitys:
     "Oppia tuntemaan ihminen, paikka tai asia: 'tutustua uuteen kaupunkiin'. Tyyppi 1 (-ua), tyyppi 52/sanoa, ei astevaihtelua. Kohde illatiivissa: 'tutustua johonkin'. Vrt. tuttu (familiar), tuttava.",
-  kuva: { emoji: "🤝", alt: "tutustua – oppia tuntemaan ihminen, paikka tai asia" },
+  kuva: { alt: "tutustua – oppia tuntemaan ihminen, paikka tai asia" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo tutustu-",

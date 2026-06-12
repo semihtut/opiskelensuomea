@@ -11,7 +11,7 @@ const tapahtua: Word = {
   en: "to happen, take place, occur",
   selitys:
     "Sattua tai käydä toteen: 'mitä tapahtui?'. Tyyppi 1 (-ua), tyyppi 52/sanoa, astevaihtelu t:d (tapahtuu ~ tapahdun). Käytetään lähes aina 3. persoonassa. Vrt. tapahtuma (event), tapaus (case).",
-  kuva: { emoji: "❗", alt: "tapahtua – sattua tai käydä toteen" },
+  kuva: { alt: "tapahtua – sattua tai käydä toteen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu t:d; useimmiten 3. persoonassa",

@@ -11,7 +11,7 @@ const mainita: Word = {
   en: "to mention",
   selitys:
     "Sanoa jokin lyhyesti, tuoda esiin ohimennen: 'mainita nimi'. Tyyppi 69/valita: vartalo -tse- (mainitsen), partisiippi maininnut. Vrt. maininta (mention), mainio (excellent — eri sana!).",
-  kuva: { emoji: "💡", alt: "mainita – tuoda jokin lyhyesti esiin" },
+  kuva: { alt: "mainita – tuoda jokin lyhyesti esiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 69/valita (-ita); ei astevaihtelua; vartalo mainitse-",

@@ -11,7 +11,7 @@ const muistaa: Word = {
   en: "to remember",
   selitys:
     "Pitää mielessä; palauttaa mieleen. Tyyppi 1, vartalo muista-, ei astevaihtelua. Tämä on koko taivutustyypin mallisana. Vastakohta unohtaa.",
-  kuva: { emoji: "🧠", alt: "muistaa – muistamisen ele" },
+  kuva: { alt: "muistaa – muistamisen ele" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); vartalo muista-, ei astevaihtelua",

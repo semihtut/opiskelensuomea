@@ -11,7 +11,7 @@ const paita: Word = {
   en: "shirt",
   selitys:
     "Ylävartalon vaate. Tyyppi 9, astevaihtelu t:d (paita → paidan). Yhdyssanat: t-paita, yöpaita, kauluspaita.",
-  kuva: { emoji: "👔", alt: "paita – paita" },
+  kuva: { alt: "paita – paita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu t:d",

@@ -11,7 +11,7 @@ const ratkaisu: Word = {
   en: "solution; decision",
   selitys:
     "Tapa, jolla ongelma saadaan ratkaistua, tai tehty päätös: 'löytää ratkaisu'. Tyyppi 2/palvelu, ei astevaihtelua. Johdettu verbistä ratkaista. Vrt. ongelma, ratkaista.",
-  kuva: { emoji: "💡", alt: "ratkaisu – tapa ratkaista ongelma" },
+  kuva: { alt: "ratkaisu – tapa ratkaista ongelma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo ratkaisu-)",

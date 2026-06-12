@@ -11,7 +11,7 @@ const tarkea: Word = {
   en: "important, significant",
   selitys:
     "Suuri merkitys tai arvo. Tyyppi 15, ei astevaihtelua. Monikon partitiivi tärkeitä.",
-  kuva: { emoji: "⭐", alt: "tärkeä – tärkeä, merkityksellinen" },
+  kuva: { alt: "tärkeä – tärkeä, merkityksellinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

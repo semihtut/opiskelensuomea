@@ -11,7 +11,7 @@ const asukas: Word = {
   en: "resident, inhabitant",
   selitys:
     "Henkilö, joka asuu jossakin paikassa: 'kaupungin asukas'. Tyyppi 41, astevaihtelu k:kk (asukas → asukkaan). Partitiivin monikko asukkaita. Johdettu verbistä asua. Vrt. asukasluku, asunto.",
-  kuva: { emoji: "🏘️", alt: "asukas – henkilö, joka asuu jossakin paikassa" },
+  kuva: { alt: "asukas – henkilö, joka asuu jossakin paikassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 41/vieras; astevaihtelu k:kk (asukas ↔ asukkaa-)",

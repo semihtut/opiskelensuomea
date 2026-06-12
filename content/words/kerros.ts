@@ -11,7 +11,7 @@ const kerros: Word = {
   en: "floor, storey; layer",
   selitys:
     "Talon kerros tai päällekkäinen taso: 'kolmas kerros'. Tyyppi 39, ei astevaihtelua; vartalo kerrokse-. Partitiivin monikko kerroksia. Vrt. kerrostalo (block of flats), kerroksittain.",
-  kuva: { emoji: "🏢", alt: "kerros – talon kerros tai päällekkäinen taso" },
+  kuva: { alt: "kerros – talon kerros tai päällekkäinen taso" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo kerrokse-",

@@ -11,7 +11,7 @@ const olla: Word = {
   en: "to be; to have (in the 'minulla on' construction)",
   selitys:
     "Suomen yleisin verbi: ilmaisee olemassaoloa, tilaa ja sijaintia. Toimii myös apuverbinä perfektissä ja pluskvamperfektissä.",
-  kuva: { emoji: "🧍", alt: "olla – ihminen seisomassa (oleminen)" },
+  kuva: { alt: "olla – ihminen seisomassa (oleminen)" },
 
   kielioppi: {
     tyyppi: "tyyppi 3, epäsäännöllinen; vartalo ole-",

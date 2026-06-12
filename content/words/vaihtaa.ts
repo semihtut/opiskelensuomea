@@ -11,7 +11,7 @@ const vaihtaa: Word = {
   en: "to change, exchange, swap",
   selitys:
     "Korvata jokin toisella tai vaihtaa keskenään: 'vaihtaa työpaikkaa'. Tyyppi 1 (-aa), Kotus 56/kaivaa, astevaihtelu t:d (vaihdan) ja imperfektissä a→o (vaihdoin). Vrt. vaihto, vaihtoehto, vaihtua.",
-  kuva: { emoji: "🔄", alt: "vaihtaa – korvata jokin toisella" },
+  kuva: { alt: "vaihtaa – korvata jokin toisella" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 56/kaivaa; astevaihtelu t:d + imperfektin a→o",

@@ -11,7 +11,7 @@ const ranta: Word = {
   en: "shore, beach, bank",
   selitys:
     "Veden ja maan raja: 'mennä rannalle'. Tyyppi 9, astevaihtelu nt:nn (ranta → rannan). Partitiivin monikko rantoja. Vrt. uimaranta (swimming beach), rannikko (coast).",
-  kuva: { emoji: "🏖️", alt: "ranta – veden ja maan raja" },
+  kuva: { alt: "ranta – veden ja maan raja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (ranta ↔ ranna-)",

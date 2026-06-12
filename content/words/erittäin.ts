@@ -10,7 +10,7 @@ const erittain: Word = {
   en: "extremely, very",
   selitys:
     "Voimakas vahvistus: 'erittäin hyvä' = extremely good. Asteen adverbi, ei taivuteta. Hieman muodollisempi ja vahvempi kuin hyvin tai todella.",
-  kuva: { emoji: "🔝", alt: "erittäin – erittäin korkea aste" },
+  kuva: { alt: "erittäin – erittäin korkea aste" },
 
   kielioppi: {
     tyyppi: "asteen adverbi; taipumaton; vahva intensiteetti",

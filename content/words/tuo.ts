@@ -11,7 +11,7 @@ const tuo: Word = {
   en: "that (over there)",
   selitys:
     "Osoittava pronomini kauempana näkyvästä (that over there). Genetiivi tuon, partitiivi tuota. Monikko nuo. Sarja: tämä – tuo – se.",
-  kuva: { emoji: "👈", alt: "tuo – osoitetaan kauempana näkyvää" },
+  kuva: { alt: "tuo – osoitetaan kauempana näkyvää" },
 
   kielioppi: {
     tyyppi: "demonstratiivipronomini (etäinen); epäsäännöllinen monikko nuo",

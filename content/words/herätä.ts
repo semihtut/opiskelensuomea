@@ -12,7 +12,7 @@ const herätä: Word = {
   en: "to wake up, awaken (intransitive)",
   selitys:
     "Lopettaa nukkuminen, tulla hereille. Tyyppi 4 (-tä), ei astevaihtelua. Erota 'herätä' (itr.) ja 'herättää' (tr., wake someone).",
-  kuva: { emoji: "⏰", alt: "herätä – herätyskello soi" },
+  kuva: { alt: "herätä – herätyskello soi" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-tä); ei astevaihtelua",

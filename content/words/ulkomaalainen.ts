@@ -11,7 +11,7 @@ const ulkomaalainen: Word = {
   en: "foreigner; foreign",
   selitys:
     "Toisesta maasta tuleva henkilö, tai ulkomaihin liittyvä: 'ulkomaalainen opiskelija'. Tyyppi 38, ei astevaihtelua; vartalo ulkomaalaise-. Partitiivin monikko ulkomaalaisia. Sanasta ulkomaa. Vrt. ulkomaalainen vs. ulkomainen.",
-  kuva: { emoji: "🌏", alt: "ulkomaalainen – toisesta maasta tuleva henkilö" },
+  kuva: { alt: "ulkomaalainen – toisesta maasta tuleva henkilö" },
 
   kielioppi: {
     tyyppi: "substantiivi/adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo ulkomaalaise-",

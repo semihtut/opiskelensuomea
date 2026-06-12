@@ -11,7 +11,7 @@ const laake: Word = {
   en: "medicine, medication, drug",
   selitys:
     "Aine, joka hoitaa sairautta: 'ottaa lääke'. Tyyppi 48, astevaihtelu kk:k (lääke → lääkkeen). Nominatiivissa heikko aste (lääke), vartalossa vahva (lääkkee-). Vrt. lääkäri (doctor), lääkitä (to medicate).",
-  kuva: { emoji: "💊", alt: "lääke – sairautta hoitava aine" },
+  kuva: { alt: "lääke – sairautta hoitava aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu kk:k (lääke ↔ lääkkee-)",

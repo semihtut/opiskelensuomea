@@ -11,7 +11,7 @@ const sivu: Word = {
   en: "page; side",
   selitys:
     "Kirjan tai netin sivu, tai jonkin kylki: 'kirjan sivu' / 'tien sivu'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko sivuja. Vrt. sivusto (website), sivuuttaa (to bypass), verkkosivu.",
-  kuva: { emoji: "📄", alt: "sivu – kirjan tai netin sivu" },
+  kuva: { alt: "sivu – kirjan tai netin sivu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -11,7 +11,7 @@ const hunaja: Word = {
   en: "honey",
   selitys:
     "Mehiläisten tuottama makea aine: 'teetä ja hunajaa'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko hunajia (harvinainen, yleensä yksikössä). Vrt. mehiläinen, sokeri, makea.",
-  kuva: { emoji: "🍯", alt: "hunaja – mehiläisten tuottama makea aine" },
+  kuva: { alt: "hunaja – mehiläisten tuottama makea aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo hunaja-)",

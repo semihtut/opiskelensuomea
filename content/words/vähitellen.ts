@@ -10,7 +10,7 @@ const vahitellen: Word = {
   en: "gradually, little by little",
   selitys:
     "Vähän kerrallaan, asteittain: 'kieli kehittyy vähitellen'. Taipumaton tavan adverbi. Vrt. vähän, asteittain, pikkuhiljaa, yhtäkkiä (vastakohta).",
-  kuva: { emoji: "🐌", alt: "vähitellen – vähän kerrallaan, asteittain" },
+  kuva: { alt: "vähitellen – vähän kerrallaan, asteittain" },
 
   kielioppi: {
     tyyppi: "adverbi (tavan adverbi); taipumaton",

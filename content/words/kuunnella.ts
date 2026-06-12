@@ -11,7 +11,7 @@ const kuunnella: Word = {
   en: "to listen (to)",
   selitys:
     "Kuunnella tarkoituksella, keskittyä ääneen. Tyyppi 3, astevaihtelu nt:nn (kuuntele- → kuunnel-). Vrt. kuulla (= hear, pelkkä aisti).",
-  kuva: { emoji: "🎧", alt: "kuunnella – kuulokkeilla kuunteleva ihminen" },
+  kuva: { alt: "kuunnella – kuulokkeilla kuunteleva ihminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); astevaihtelu nt:nn (kuuntele- ↔ kuunnel-)",

@@ -11,7 +11,7 @@ const nälkä: Word = {
   en: "hunger",
   selitys:
     "Tunne, kun keho tarvitsee ruokaa: 'minulla on nälkä'. Tyyppi 10, astevaihtelu k:∅ (nälkä → nälän). Yleensä yksikössä. Vrt. nälkäinen (hungry), nälkiintyä, nälkälakko.",
-  kuva: { emoji: "🍽️", alt: "nälkä – tunne, kun keho tarvitsee ruokaa" },
+  kuva: { alt: "nälkä – tunne, kun keho tarvitsee ruokaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu k:∅ (nälkä ↔ nälä-)",

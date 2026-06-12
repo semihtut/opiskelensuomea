@@ -11,7 +11,7 @@ const arvosana: Word = {
   en: "grade, mark",
   selitys:
     "Numeerinen tai sanallinen arvio suorituksesta koulussa: 'saada hyvä arvosana', 'arvosana 9'. Tyyppi 9/kala, ei astevaihtelua; partitiivin monikko arvosanoja. Yhdyssana arvo + sana. Vrt. arvioida, arvostella, todistus.",
-  kuva: { emoji: "🔢", alt: "arvosana – numeerinen tai sanallinen arvio koulusuorituksesta" },
+  kuva: { alt: "arvosana – numeerinen tai sanallinen arvio koulusuorituksesta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (vartalo arvosana-)",

@@ -11,7 +11,7 @@ const lasku: Word = {
   en: "bill, invoice; descent, decline",
   selitys:
     "Maksuvaatimus tai aleneminen: 'maksaa lasku' / 'hintojen lasku'. Tyyppi 1, ei astevaihtelua (sk säilyy). Juuri verbistä laskea. Vastakohta (nousu).",
-  kuva: { emoji: "🧾", alt: "lasku – maksuvaatimus" },
+  kuva: { alt: "lasku – maksuvaatimus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (sk säilyy)",

@@ -11,7 +11,7 @@ const yhdistaa: Word = {
   en: "to combine, connect, unite",
   selitys:
     "Liittää kaksi asiaa yhteen: 'yhdistää johdot' / 'yhdistää voimat'. Astevaihtelu tt:t (yhdistää → yhdistän). Juuri yksi/yhde-. Vrt. yhdistys (association), erottaa (to separate).",
-  kuva: { emoji: "🔗", alt: "yhdistää – liittää kaksi asiaa yhteen" },
+  kuva: { alt: "yhdistää – liittää kaksi asiaa yhteen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo yhdistä-",

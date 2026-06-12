@@ -11,7 +11,7 @@ const jauho: Word = {
   en: "flour",
   selitys:
     "Viljasta jauhettu hieno aine, jota käytetään leivonnassa: 'vehnäjauho'. Tyyppi 1/valo, ei astevaihtelua. Käytetään usein monikossa (jauhot). Vrt. leipoa, taikina, vilja.",
-  kuva: { emoji: "🌾", alt: "jauho – viljasta jauhettu hieno aine" },
+  kuva: { alt: "jauho – viljasta jauhettu hieno aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo jauho-)",

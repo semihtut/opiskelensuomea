@@ -11,7 +11,7 @@ const mutta: Word = {
   en: "but",
   selitys:
     "Rinnastuskonjunktio, joka ilmaisee vastakohtaa. Ei taivuteta. Edellä tulee pilkku: 'Olen väsynyt, mutta onnellinen.' Vrt. vaan (kielteisen jälkeen).",
-  kuva: { emoji: "↔️", alt: "mutta – vastakohta kahden asian välillä" },
+  kuva: { alt: "mutta – vastakohta kahden asian välillä" },
 
   kielioppi: {
     tyyppi: "rinnastuskonjunktio; taipumaton; yhdistää kaksi lausetta",

@@ -11,7 +11,7 @@ const silta: Word = {
   en: "bridge",
   selitys:
     "Rakennelma, joka johtaa esimerkiksi joen tai tien yli: 'ylittää silta'. Tyyppi 9, astevaihtelu lt:ll (silta → sillan). Partitiivin monikko siltoja. Vrt. rautatiesilta, siltayhteys.",
-  kuva: { emoji: "🌉", alt: "silta – rakennelma joen tai tien yli" },
+  kuva: { alt: "silta – rakennelma joen tai tien yli" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu lt:ll (silta ↔ silla-)",

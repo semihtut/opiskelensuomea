@@ -11,7 +11,7 @@ const pysahtya: Word = {
   en: "to stop, to come to a halt (intransitive)",
   selitys:
     "Lakata liikkumasta: 'bussi pysähtyi'. Tyyppi 1 (-yä), astevaihtelu t:d (pysähdyn). Intransitiivinen. Vrt. pysäyttää (to stop sth), pysäkki (bus stop), pysyä (to stay).",
-  kuva: { emoji: "🛑", alt: "pysähtyä – lakata liikkumasta" },
+  kuva: { alt: "pysähtyä – lakata liikkumasta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä); astevaihtelu t:d (pysähty- ↔ pysähdy-)",

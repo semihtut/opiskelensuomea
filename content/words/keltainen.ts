@@ -11,7 +11,7 @@ const keltainen: Word = {
   en: "yellow",
   selitys:
     "Auringon ja sitruunan väri. Tyyppi 38, ei astevaihtelua. Taivutusvartalo keltais-.",
-  kuva: { emoji: "🟡", alt: "keltainen – keltainen väri" },
+  kuva: { alt: "keltainen – keltainen väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

@@ -10,7 +10,7 @@ const ostaa: Word = {
   level: "A1",
   en: "to buy",
   selitys: "Hankkia jotakin rahalla. Tyyppi 1, vartalo osta-, ei astevaihtelua.",
-  kuva: { emoji: "🛍️", alt: "ostaa – ostoskassi" },
+  kuva: { alt: "ostaa – ostoskassi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); vartalo osta-, ei astevaihtelua",

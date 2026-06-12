@@ -11,7 +11,7 @@ const ystävä: Word = {
   en: "friend",
   selitys:
     "Henkilö, johon on läheinen ja luottavainen suhde. Lämpimämpi ja muodollisempi kuin 'kaveri'. Vartalo ystävä-, ei astevaihtelua.",
-  kuva: { emoji: "🤝", alt: "ystävä – läheinen henkilö, kättely" },
+  kuva: { alt: "ystävä – läheinen henkilö, kättely" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const parantaa: Word = {
   en: "to improve; to heal, cure",
   selitys:
     "Tehdä paremmaksi tai terveeksi: 'parantaa tulosta' / 'parantaa potilas'. Astevaihtelu nt:nn (parantaa → parannan), imperfekti poikkeava: paransin. Juuri parempi/parane-. Vastakohta huonontaa.",
-  kuva: { emoji: "🩹", alt: "parantaa – tehdä paremmaksi tai terveeksi" },
+  kuva: { alt: "parantaa – tehdä paremmaksi tai terveeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-taa); astevaihtelu nt:nn; vartalo paranta-",

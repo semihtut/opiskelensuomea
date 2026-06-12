@@ -11,7 +11,7 @@ const moni: Word = {
   en: "many (a)",
   selitys:
     "Useita; monta. Tyyppi 23, ei astevaihtelua. Yksikössä laskettavien kanssa: 'moni ihminen', partitiivi 'monta'. Monikko 'monet' = many.",
-  kuva: { emoji: "👪", alt: "moni – monta yksilöä" },
+  kuva: { alt: "moni – monta yksilöä" },
 
   kielioppi: {
     tyyppi: "kvanttoripronomini, tyyppi 23/tiili; ei astevaihtelua",

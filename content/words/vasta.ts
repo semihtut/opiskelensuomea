@@ -10,7 +10,7 @@ const vasta: Word = {
   en: "only, not until; just (now)",
   selitys:
     "Myöhemmin kuin odotettiin: 'vasta huomenna' = not until tomorrow. Myös äskeisyys: 'tulin vasta' = I came only just now. Vastakohta jo.",
-  kuva: { emoji: "⏳", alt: "vasta – vasta myöhemmin, ei vielä" },
+  kuva: { alt: "vasta – vasta myöhemmin, ei vielä" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

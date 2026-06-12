@@ -10,7 +10,7 @@ const pian: Word = {
   en: "soon",
   selitys:
     "Lähitulevaisuudessa; pian. Ajan adverbi. 'Tulen pian.' Vrt. heti (immediately). Komparatiivi pikemmin tarkoittaa 'mieluummin / pikemminkin'.",
-  kuva: { emoji: "🔜", alt: "pian – lähitulevaisuudessa" },
+  kuva: { alt: "pian – lähitulevaisuudessa" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; komparatiivi pikemmin (eri merkitys)",

@@ -11,7 +11,7 @@ const kuvitella: Word = {
   en: "to imagine, picture",
   selitys:
     "Luoda mielessä kuva jostakin tai luulla virheellisesti: 'kuvitella tulevaisuutta'. Tyyppi 3 (-lla), astevaihtelu tt:t (kuvittelen ~ kuvitella). Johdettu verbistä kuvittaa. Vrt. kuvitelma (fantasy), kuva.",
-  kuva: { emoji: "🌈", alt: "kuvitella – luoda mielessä kuva jostakin" },
+  kuva: { alt: "kuvitella – luoda mielessä kuva jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); astevaihtelu tt:t (kuvittele- ↔ kuvitel-)",

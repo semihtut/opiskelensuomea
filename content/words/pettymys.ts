@@ -11,7 +11,7 @@ const pettymys: Word = {
   en: "disappointment",
   selitys:
     "Paha mieli, kun odotukset eivät täyty: 'suuri pettymys'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä pettyä. Vrt. pettyä, pettää, helpotus (vastakkainen tunne).",
-  kuva: { emoji: "😞", alt: "pettymys – paha mieli kun odotukset eivät täyty" },
+  kuva: { alt: "pettymys – paha mieli kun odotukset eivät täyty" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo pettymykse-)",

@@ -11,7 +11,7 @@ const numero: Word = {
   en: "number, numeral; (magazine) issue",
   selitys:
     "Numeromerkki tai tunnistenumero, esim. puhelinnumero: 'soita tähän numeroon'. Tyyppi 2, ei astevaihtelua. Partitiivin monikko numeroja (tai numeroita). HUOM: numero = digit/ID-luku, kun taas luku = määrä.",
-  kuva: { emoji: "🔢", alt: "numero – numeromerkki tai tunnistenumero" },
+  kuva: { alt: "numero – numeromerkki tai tunnistenumero" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

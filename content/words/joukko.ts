@@ -11,7 +11,7 @@ const joukko: Word = {
   en: "group, crowd, set; troop",
   selitys:
     "Joukko ihmisiä tai asioita yhdessä: 'suuri joukko'. Matematiikassa joukko = set. Monikossa joukot = (sotilas)joukot. Tyyppi 1/valo, astevaihtelu kk:k (joukko → joukon). Vrt. ryhmä, lauma, väki.",
-  kuva: { emoji: "👨‍👩‍👧‍👦", alt: "joukko – ihmisiä tai asioita yhdessä" },
+  kuva: { alt: "joukko – ihmisiä tai asioita yhdessä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu kk:k (joukko ~ jouko-)",

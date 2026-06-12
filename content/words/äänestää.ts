@@ -11,7 +11,7 @@ const aanestaa: Word = {
   en: "to vote",
   selitys:
     "Ilmaista kanta vaaleissa tai päätöksessä: 'äänestää vaaleissa'. Tyyppi 1 (-ää), ei astevaihtelua (st säilyy), vartalo äänestä-. Johdettu sanasta ääni. Vrt. äänestys (vote), äänestäjä (voter).",
-  kuva: { emoji: "🗳️", alt: "äänestää – ilmaista kanta vaaleissa" },
+  kuva: { alt: "äänestää – ilmaista kanta vaaleissa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); ei astevaihtelua; vartalo äänestä-",

@@ -11,7 +11,7 @@ const edeta: Word = {
   en: "to advance, proceed, make progress",
   selitys:
     "Liikkua eteenpäin tai kehittyä kohti tavoitetta: 'projekti etenee hyvin'. Tyyppi 5 (-etä), Kotus 72/vanheta, astevaihtelu t:d (etenen vahva t, edetä/edennyt heikko d). Intransitiivinen. Vrt. eteenpäin, edistyä.",
-  kuva: { emoji: "📈", alt: "edetä – liikkua eteenpäin, kehittyä" },
+  kuva: { alt: "edetä – liikkua eteenpäin, kehittyä" },
 
   kielioppi: {
     tyyppi: "tyyppi 5 (-etä), Kotus 72/vanheta; astevaihtelu t:d (etene- ~ eden-)",

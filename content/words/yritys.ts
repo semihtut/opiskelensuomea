@@ -11,7 +11,7 @@ const yritys: Word = {
   en: "company, business; attempt",
   selitys:
     "Liiketoimintaa harjoittava organisaatio — tai yritys tehdä jotain: 'iso yritys' / 'hyvä yritys!'. Tyyppi 39, ei astevaihtelua. Juuri verbistä yrittää. Vrt. firma, yrittäjä (entrepreneur).",
-  kuva: { emoji: "🏢", alt: "yritys – liiketoimintaa harjoittava organisaatio" },
+  kuva: { alt: "yritys – liiketoimintaa harjoittava organisaatio" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo yritykse-)",

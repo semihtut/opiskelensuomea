@@ -11,7 +11,7 @@ const helpotus: Word = {
   en: "relief; easing",
   selitys:
     "Hyvä tunne, kun huoli tai vaikeus väistyy: 'huokaista helpotuksesta'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu sanasta helppo/helpottaa. Vrt. helpottaa, helppo, pettymys.",
-  kuva: { emoji: "😌", alt: "helpotus – hyvä tunne kun huoli väistyy" },
+  kuva: { alt: "helpotus – hyvä tunne kun huoli väistyy" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo helpotukse-)",

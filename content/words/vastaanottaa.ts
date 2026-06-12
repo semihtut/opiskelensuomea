@@ -11,7 +11,7 @@ const vastaanottaa: Word = {
   en: "to receive, accept",
   selitys:
     "Ottaa vastaan jotakin tai jotakuta: 'vastaanottaa vieraita', 'vastaanottaa viesti'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (vastaanotan). Yhdysverbi vastaan + ottaa. Vrt. vastaanotto, vastaanottaja, ottaa.",
-  kuva: { emoji: "📥", alt: "vastaanottaa – ottaa vastaan jotakin tai jotakuta" },
+  kuva: { alt: "vastaanottaa – ottaa vastaan jotakin tai jotakuta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (vastaanota- ~ vastaanotta-)",

@@ -11,7 +11,7 @@ const innostua: Word = {
   en: "to get excited, become enthusiastic",
   selitys:
     "Innostua jostakin = alkaa tuntea iloista intoa: 'innostua uudesta harrastuksesta'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Hallitsee elatiivia ('innostua jostakin'). Vrt. innostus, innostaa, into.",
-  kuva: { emoji: "🤩", alt: "innostua – alkaa tuntea iloista intoa" },
+  kuva: { alt: "innostua – alkaa tuntea iloista intoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo innostu-",

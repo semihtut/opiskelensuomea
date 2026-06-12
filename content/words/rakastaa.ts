@@ -12,7 +12,7 @@ const rakastaa: Word = {
   en: "to love",
   selitys:
     "Tuntea voimakasta rakkautta. Tyyppi 1, ei astevaihtelua: rakastaa → rakastan. Vaatii partitiivin: 'rakastan sinua'. Substantiivi rakkaus = love.",
-  kuva: { emoji: "❤️", alt: "rakastaa – rakkaus" },
+  kuva: { alt: "rakastaa – rakkaus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-staa); ei astevaihtelua; vaatii partitiivin",

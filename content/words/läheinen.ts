@@ -11,7 +11,7 @@ const laheinen: Word = {
   en: "close, near, intimate; (noun) loved one",
   selitys:
     "Tilaltaan tai tunteeltaan lähellä oleva: 'läheinen ystävä'. Tyyppi 38/nainen, ei astevaihtelua. Substantiivina 'läheinen' = a close person, loved one. Vastakohta etäinen. Vrt. lähellä, lähestyä, läheisyys.",
-  kuva: { emoji: "🫂", alt: "läheinen – tunteeltaan lähellä oleva" },
+  kuva: { alt: "läheinen – tunteeltaan lähellä oleva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo läheise-)",

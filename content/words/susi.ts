@@ -11,7 +11,7 @@ const susi: Word = {
   en: "wolf",
   selitys:
     "Villi koiraeläin, joka elää laumassa: 'susi ulvoo'. Tyyppi 27/käsi, astevaihtelu t:d (susi → suden, partitiivi sutta). Vrt. koira, karhu, lauma.",
-  kuva: { emoji: "🐺", alt: "susi – villi koiraeläin joka elää laumassa" },
+  kuva: { alt: "susi – villi koiraeläin joka elää laumassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d (sude- ~ konsonanttivartalo sut-)",

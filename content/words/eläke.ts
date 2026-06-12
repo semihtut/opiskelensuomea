@@ -11,7 +11,7 @@ const elake: Word = {
   en: "pension",
   selitys:
     "Säännöllinen raha, jota maksetaan eläkkeelle jääneelle: 'jäädä eläkkeelle', 'saada eläkettä'. Tyyppi 48/hame, astevaihtelu kk:k (eläke → eläkkeen). Johdettu verbistä elää + -ke. Vrt. elää, eläkeläinen, eläkkeelle.",
-  kuva: { emoji: "👵", alt: "eläke – raha jota maksetaan eläkkeelle jääneelle" },
+  kuva: { alt: "eläke – raha jota maksetaan eläkkeelle jääneelle" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu kk:k (eläke ~ eläkkee-)",

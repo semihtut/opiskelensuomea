@@ -11,7 +11,7 @@ const haluta: Word = {
   en: "to want",
   selitys:
     "Tahtoa tai toivoa jotakin. Tyyppi 4 (-ta), preesensvartalo halua-, partisiippi halunnut (nn). Kohteliaasti haluaisin = I would like.",
-  kuva: { emoji: "🙏", alt: "haluta – toive tai halu" },
+  kuva: { alt: "haluta – toive tai halu" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ta); preesensvartalo halua-, partisiippi halunnut",

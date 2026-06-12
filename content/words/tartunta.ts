@@ -11,7 +11,7 @@ const tartunta: Word = {
   en: "infection, contagion",
   selitys:
     "Taudin tarttuminen elimistöön: 'saada tartunta'. Tyyppi 9/kala, astevaihtelu nt:nn (tartunta → tartunnan), partitiivin monikko tartuntoja. Johdettu verbistä tarttua. Vrt. tarttua, tauti, tartuttaa.",
-  kuva: { emoji: "🦠", alt: "tartunta – taudin tarttuminen elimistöön" },
+  kuva: { alt: "tartunta – taudin tarttuminen elimistöön" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (vartalo tartunna-)",

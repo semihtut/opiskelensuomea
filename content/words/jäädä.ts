@@ -11,7 +11,7 @@ const jaada: Word = {
   en: "to stay, remain; to be left",
   selitys:
     "Pysyä paikallaan tai jäljelle. Tyyppi 2 (-dä), vartalo jää-, ei astevaihtelua. Vrt. jättää (= leave something).",
-  kuva: { emoji: "🪑", alt: "jäädä – joku jää paikalleen" },
+  kuva: { alt: "jäädä – joku jää paikalleen" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-dä); vartalo jää-, ei astevaihtelua",

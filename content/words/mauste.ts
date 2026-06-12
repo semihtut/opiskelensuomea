@@ -11,7 +11,7 @@ const mauste: Word = {
   en: "spice, seasoning",
   selitys:
     "Aine, joka antaa ruoalle makua: 'lisätä mausteita'. Tyyppi 48/hame, ei astevaihtelua. Johdettu verbistä maustaa. Vrt. maku, maustaa, suola.",
-  kuva: { emoji: "🧂", alt: "mauste – aine joka antaa ruoalle makua" },
+  kuva: { alt: "mauste – aine joka antaa ruoalle makua" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo maustee-)",

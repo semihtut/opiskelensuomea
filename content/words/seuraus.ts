@@ -11,7 +11,7 @@ const seuraus: Word = {
   en: "consequence, result",
   selitys:
     "Se, mitä jostakin toiminnasta tai tapahtumasta seuraa: 'tekojen seuraukset'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä seurata. 'Olla seurausta jostakin' = to be a result of sth.",
-  kuva: { emoji: "➡️", alt: "seuraus – se, mitä jostakin seuraa" },
+  kuva: { alt: "seuraus – se, mitä jostakin seuraa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo seuraukse-)",

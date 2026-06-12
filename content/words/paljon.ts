@@ -11,7 +11,7 @@ const paljon: Word = {
   en: "much, a lot",
   selitys:
     "Ilmaisee suurta määrää. Vaatii partitiivin: 'paljon rahaa'. Vertailu on suppletiivinen: paljon – enemmän – eniten. Vastakohta vähän.",
-  kuva: { emoji: "💰", alt: "paljon – suuri kasa" },
+  kuva: { alt: "paljon – suuri kasa" },
 
   kielioppi: {
     tyyppi: "määrän adverbi; suppletiivinen vertailu, vaatii partitiivin",

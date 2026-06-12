@@ -11,7 +11,7 @@ const saavuttaa: Word = {
   en: "to reach, achieve, attain",
   selitys:
     "Päästä tavoitteeseen tai määränpäähän; myös: saada jokin kiinni: 'saavuttaa tavoite'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (saavutan). Objekti partitiivissa tai akkusatiivissa. Vrt. saavutus, tavoite.",
-  kuva: { emoji: "🏆", alt: "saavuttaa – päästä tavoitteeseen" },
+  kuva: { alt: "saavuttaa – päästä tavoitteeseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (saavuta- ~ saavutta-)",

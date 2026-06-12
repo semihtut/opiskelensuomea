@@ -11,7 +11,7 @@ const sormi: Word = {
   en: "finger",
   selitys:
     "Käden viidestä päästä yksi: 'osoittaa sormella'. Tyyppi 7, ei astevaihtelua, vartalo sorme-. Partitiivin monikko sormia. Vrt. sormus (ring), sormenjälki (fingerprint), varvas (toe).",
-  kuva: { emoji: "👆", alt: "sormi – käden pää" },
+  kuva: { alt: "sormi – käden pää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo sorme-)",

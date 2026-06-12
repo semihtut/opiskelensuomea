@@ -11,7 +11,7 @@ const etta: Word = {
   en: "that (conjunction)",
   selitys:
     "Alistuskonjunktio, joka aloittaa sivulauseen verbien sanoa, ajatella, tietää jne. jälkeen. Ei taivuteta. Edellä tulee pilkku: 'Luulen, että sataa.'",
-  kuva: { emoji: "💬", alt: "että – että-lause" },
+  kuva: { alt: "että – että-lause" },
 
   kielioppi: {
     tyyppi: "alistuskonjunktio; taipumaton; aloittaa objekti- tai seurauslauseen",

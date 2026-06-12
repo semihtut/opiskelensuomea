@@ -11,7 +11,7 @@ const kahvila: Word = {
   en: "café, coffee shop",
   selitys:
     "Paikka, jossa juodaan kahvia ja syödään pientä purtavaa. Tyyppi 12, ei astevaihtelua. Sanasta kahvi + -la.",
-  kuva: { emoji: "☕", alt: "kahvila – kahvikuppi kahvilan pöydällä" },
+  kuva: { alt: "kahvila – kahvikuppi kahvilan pöydällä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

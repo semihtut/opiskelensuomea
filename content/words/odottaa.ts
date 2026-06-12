@@ -11,7 +11,7 @@ const odottaa: Word = {
   en: "to wait, expect",
   selitys:
     "Pysyä paikallaan kunnes jotain tapahtuu; uskoa jonkin tulevan. Tyyppi 1, astevaihtelu tt:t: odottaa → odotan. Vaatii usein partitiivin: 'odotan bussia'.",
-  kuva: { emoji: "⏳", alt: "odottaa – odotetaan ja katsotaan kelloa" },
+  kuva: { alt: "odottaa – odotetaan ja katsotaan kelloa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t",

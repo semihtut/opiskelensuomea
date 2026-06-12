@@ -11,7 +11,7 @@ const verrata: Word = {
   en: "to compare, contrast",
   selitys:
     "Asettaa kaksi asiaa rinnakkain ja katsoa erot ja yhtäläisyydet: 'verrata hintoja'. Tyyppi 4 (-ata), Kotus 73/salata, astevaihtelu rt:rr (vertaan vahva rt, verrata/verrannut heikko rr). Hallitsee illatiivia ('verrata johonkin'). Vrt. vertailu, vertaus.",
-  kuva: { emoji: "⚖️", alt: "verrata – asettaa kaksi asiaa rinnakkain" },
+  kuva: { alt: "verrata – asettaa kaksi asiaa rinnakkain" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; astevaihtelu rt:rr (vertaa- ~ verra-)",

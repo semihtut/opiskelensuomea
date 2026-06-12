@@ -11,7 +11,7 @@ const voi: Word = {
   en: "butter",
   selitys:
     "Maidosta valmistettu rasva, jota käytetään leivän päällä ja ruoanlaitossa: 'voita leivän päälle'. Tyyppi 18/maa, ei astevaihtelua; partitiivi voita. (Eri sana kuin huudahdus 'voi!' ja verbi voida.) Vrt. maito, margariini, voileipä.",
-  kuva: { emoji: "🧈", alt: "voi – maidosta valmistettu rasva" },
+  kuva: { alt: "voi – maidosta valmistettu rasva" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua (vartalo voi-)",

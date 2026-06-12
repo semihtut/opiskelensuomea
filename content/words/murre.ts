@@ -11,7 +11,7 @@ const murre: Word = {
   en: "dialect",
   selitys:
     "Kielen alueellinen muoto, joka eroaa yleiskielestä: 'savon murre', 'puhua murretta'. Tyyppi 48/hame, astevaihtelu rt:rr (vartalo murte-, nominatiivi murre). Vrt. kieli, yleiskieli, puhekieli.",
-  kuva: { emoji: "🗺️", alt: "murre – kielen alueellinen muoto" },
+  kuva: { alt: "murre – kielen alueellinen muoto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu rt:rr (murte- ~ murre)",

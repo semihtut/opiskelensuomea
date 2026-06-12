@@ -11,7 +11,7 @@ const jääkaappi: Word = {
   en: "fridge, refrigerator",
   selitys:
     "Kylmä kaappi ruoan säilyttämiseen: 'maito on jääkaapissa'. Yhdyssana jää + kaappi. Tyyppi 5, astevaihtelu pp:p (jääkaappi → jääkaapin). Partitiivin monikko jääkaappeja.",
-  kuva: { emoji: "🧊", alt: "jääkaappi – kylmä kaappi ruoan säilyttämiseen" },
+  kuva: { alt: "jääkaappi – kylmä kaappi ruoan säilyttämiseen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu pp:p (jääkaappi ↔ jääkaapi-)",

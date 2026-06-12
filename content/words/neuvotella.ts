@@ -11,7 +11,7 @@ const neuvotella: Word = {
   en: "to negotiate, confer",
   selitys:
     "Keskustella yhdessä päästäkseen sopimukseen tai ratkaisuun: 'neuvotella hinnasta'. Tyyppi 3 (-lla), Kotus 67/tulla, astevaihtelu tt:t (neuvottelen vahva, neuvotella heikko). Asiasta elatiivi. Vrt. neuvottelu, neuvo, neuvotella.",
-  kuva: { emoji: "💼", alt: "neuvotella – keskustella sopimukseen pääsemiseksi" },
+  kuva: { alt: "neuvotella – keskustella sopimukseen pääsemiseksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; astevaihtelu tt:t (neuvotel- ~ neuvottele-)",

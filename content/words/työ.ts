@@ -12,7 +12,7 @@ const tyo: Word = {
   en: "work, job",
   selitys:
     "Toiminta, josta yleensä saa palkkaa; myös tehtävä tai teos. Tyyppi 19, ei astevaihtelua. Paikallissijat usein monikossa: töissä, töihin.",
-  kuva: { emoji: "💼", alt: "työ – salkku ja työnteko" },
+  kuva: { alt: "työ – salkku ja työnteko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 19/suo; ei astevaihtelua",

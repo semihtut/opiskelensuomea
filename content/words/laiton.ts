@@ -11,7 +11,7 @@ const laiton: Word = {
   en: "illegal, unlawful",
   selitys:
     "Lain vastainen, kielletty: 'laiton toiminta', 'laiton maahantulo'. Tyyppi 34/onneton, astevaihtelu tt:t (laiton → laittoman). Kieltojohdos laki + -ton. Vastakohta laillinen. Vrt. laki, laillinen, laittomuus.",
-  kuva: { emoji: "🚫", alt: "laiton – lain vastainen, kielletty" },
+  kuva: { alt: "laiton – lain vastainen, kielletty" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 34/onneton; astevaihtelu tt:t (vartalo laittoma-)",

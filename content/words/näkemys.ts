@@ -11,7 +11,7 @@ const nakemys: Word = {
   en: "view, vision, opinion",
   selitys:
     "Tapa nähdä tai ymmärtää jokin asia; perusteltu mielipide tai visio: 'selkeä näkemys tulevaisuudesta'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä nähdä. Vrt. mielipide, kanta.",
-  kuva: { emoji: "🔭", alt: "näkemys – tapa nähdä tai ymmärtää asia" },
+  kuva: { alt: "näkemys – tapa nähdä tai ymmärtää asia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo näkemykse-)",

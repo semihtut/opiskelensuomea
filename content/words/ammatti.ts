@@ -11,7 +11,7 @@ const ammatti: Word = {
   en: "profession, occupation, trade",
   selitys:
     "Työ, jota ihminen tekee elääkseen ja johon on usein koulutus: 'opettajan ammatti'. Tyyppi 5, astevaihtelu tt:t (ammatti → ammatin). Partitiivin monikko ammatteja. Vrt. ammattilainen (professional), ammattitaito (expertise).",
-  kuva: { emoji: "👷", alt: "ammatti – työ, jota ihminen tekee elääkseen" },
+  kuva: { alt: "ammatti – työ, jota ihminen tekee elääkseen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (ammatti ↔ ammati-)",

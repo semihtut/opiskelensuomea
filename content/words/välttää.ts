@@ -11,7 +11,7 @@ const valttaa: Word = {
   en: "to avoid",
   selitys:
     "Pyrkiä siihen, ettei jokin ei-toivottu tapahdu tai ettei joudu johonkin: 'välttää virheitä'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (vältän). Objekti partitiivissa. Vrt. välttämätön, vältellä.",
-  kuva: { emoji: "🙅", alt: "välttää – pyrkiä ettei jokin tapahdu" },
+  kuva: { alt: "välttää – pyrkiä ettei jokin tapahdu" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (vältä- ~ välttä-)",

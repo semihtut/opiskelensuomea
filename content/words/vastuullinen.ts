@@ -11,7 +11,7 @@ const vastuullinen: Word = {
   en: "responsible, accountable",
   selitys:
     "Sellainen, joka kantaa vastuun teoistaan; vastuuta sisältävä: 'vastuullinen tehtävä'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta vastuu. Vastakohta vastuuton. Vrt. vastuu, vastata, vastuullisesti.",
-  kuva: { emoji: "🧑‍⚖️", alt: "vastuullinen – vastuun kantava" },
+  kuva: { alt: "vastuullinen – vastuun kantava" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo vastuullise-)",

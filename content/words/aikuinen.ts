@@ -11,7 +11,7 @@ const aikuinen: Word = {
   en: "adult; grown-up",
   selitys:
     "Täysikasvuinen ihminen tai sellaista kuvaava: 'aikuinen ihminen', 'kaksi aikuista'. Tyyppi 38/nainen, ei astevaihtelua. Vastakohta lapsi. Vrt. lapsi, aikuisuus, täysi-ikäinen.",
-  kuva: { emoji: "🧑", alt: "aikuinen – täysikasvuinen ihminen" },
+  kuva: { alt: "aikuinen – täysikasvuinen ihminen" },
 
   kielioppi: {
     tyyppi: "substantiivi/adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo aikuise-)",

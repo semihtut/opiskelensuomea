@@ -11,7 +11,7 @@ const suojella: Word = {
   en: "to protect, shelter",
   selitys:
     "Varjella jotakuta tai jotakin vaaralta tai vahingolta: 'suojella luontoa'. Tyyppi 3 (-lla), Kotus 67/tulla, ei astevaihtelua; vartalo suojele-. Objekti partitiivissa. Vrt. suoja, suojelu, suojata.",
-  kuva: { emoji: "🛡️", alt: "suojella – varjella vaaralta tai vahingolta" },
+  kuva: { alt: "suojella – varjella vaaralta tai vahingolta" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; ei astevaihtelua; vartalo suojele-",

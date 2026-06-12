@@ -11,7 +11,7 @@ const tarkoittaa: Word = {
   en: "to mean, to intend",
   selitys:
     "Olla merkitykseltään jotain, tai aikoa: 'Mitä tämä sana tarkoittaa?' / 'En tarkoittanut sitä' (I didn't mean it). Astevaihtelu tt:t (tarkoittaa → tarkoitan).",
-  kuva: { emoji: "💬", alt: "tarkoittaa – merkitä jotain, aikoa" },
+  kuva: { alt: "tarkoittaa – merkitä jotain, aikoa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t; vartalo tarkoitta-",

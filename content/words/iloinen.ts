@@ -11,7 +11,7 @@ const iloinen: Word = {
   en: "happy, glad, cheerful",
   selitys:
     "Tunne, jossa on hyvä ja kevyt olo. Tyyppi 38, ei astevaihtelua. Taivutusvartalo iloas- → ilois-. Juuri substantiivista ilo.",
-  kuva: { emoji: "😊", alt: "iloinen – hymyilevä iloinen ihminen" },
+  kuva: { alt: "iloinen – hymyilevä iloinen ihminen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

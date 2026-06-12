@@ -11,7 +11,7 @@ const huono: Word = {
   en: "bad, poor",
   selitys:
     "Kielteistä laatua ilmaiseva adjektiivi, hyvän vastakohta. Vertailu on säännöllinen: huono – huonompi – huonoin.",
-  kuva: { emoji: "👎", alt: "huono – peukku alas" },
+  kuva: { alt: "huono – peukku alas" },
 
   kielioppi: {
     tyyppi: "adjektiivi; säännöllinen vertailu huono – huonompi – huonoin",

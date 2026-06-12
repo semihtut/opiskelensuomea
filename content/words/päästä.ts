@@ -11,7 +11,7 @@ const paasta: Word = {
   en: "to get to, reach; to be allowed to go",
   selitys:
     "Päästä jonnekin tai johonkin tilaan; saada lupa mennä. Tyyppi 3 (-stä → -se-), vartalo pääse-, ei astevaihtelua. Vrt. päästää (= let go, transitiivinen).",
-  kuva: { emoji: "🏁", alt: "päästä – päästä perille" },
+  kuva: { alt: "päästä – päästä perille" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-stä); vartalo pääse-, ei astevaihtelua",

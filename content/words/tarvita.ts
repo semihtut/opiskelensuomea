@@ -11,7 +11,7 @@ const tarvita: Word = {
   en: "to need",
   selitys:
     "Olla jonkin tarpeessa. Tyyppi 6 (-ita): preesensvartalo tarvitse-. Partisiippi on poikkeava: tarvinnut.",
-  kuva: { emoji: "🙋", alt: "tarvita – avunpyyntö, tarve" },
+  kuva: { alt: "tarvita – avunpyyntö, tarve" },
 
   kielioppi: {
     tyyppi: "tyyppi 6 (-ita); vartalo tarvitse-, ei astevaihtelua",

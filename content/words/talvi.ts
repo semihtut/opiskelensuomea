@@ -11,7 +11,7 @@ const talvi: Word = {
   en: "winter",
   selitys:
     "Vuodenaika, kylmin aika syksyn ja kevään välissä: 'kylmä talvi'. Tyyppi 7, ei astevaihtelua. Partitiivin monikko talvia. 'Talvella' = in winter (adessiivi). Vastakohta kesä. Vrt. talvinen, talviurheilu.",
-  kuva: { emoji: "❄️", alt: "talvi – kylmin vuodenaika" },
+  kuva: { alt: "talvi – kylmin vuodenaika" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua",

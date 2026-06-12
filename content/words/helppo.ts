@@ -11,7 +11,7 @@ const helppo: Word = {
   en: "easy, simple",
   selitys:
     "Ei vaivaa vaativa; vastakohta vaikea. Tyyppi 1, astevaihtelu pp:p (helppo → helpon).",
-  kuva: { emoji: "👌", alt: "helppo – helppo, vaivaton" },
+  kuva: { alt: "helppo – helppo, vaivaton" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 1/valo; astevaihtelu pp:p",

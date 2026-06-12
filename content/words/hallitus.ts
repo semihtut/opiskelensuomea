@@ -11,7 +11,7 @@ const hallitus: Word = {
   en: "government; board (of a company/organization)",
   selitys:
     "Maata johtava elin tai yhteisön johtokunta: 'Suomen hallitus' / 'yhdistyksen hallitus'. Tyyppi 39, verbijohdos sanasta hallita (-us → -ukse-), ei astevaihtelua. Vrt. hallita (to rule), hallinto (administration).",
-  kuva: { emoji: "🏛️", alt: "hallitus – maata johtava elin" },
+  kuva: { alt: "hallitus – maata johtava elin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; verbijohdos (-us → -ukse-); ei astevaihtelua",

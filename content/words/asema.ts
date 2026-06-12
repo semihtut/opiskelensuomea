@@ -11,7 +11,7 @@ const asema: Word = {
   en: "station; position, status",
   selitys:
     "Paikka, jossa juna tai bussi pysähtyy; myös 'asema' = sijainti tai yhteiskunnallinen status. Tyyppi 11, ei astevaihtelua.",
-  kuva: { emoji: "🚉", alt: "asema – juna-asema laitureineen" },
+  kuva: { alt: "asema – juna-asema laitureineen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 11/omena; ei astevaihtelua",

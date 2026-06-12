@@ -11,7 +11,7 @@ const heittaa: Word = {
   en: "to throw, toss, cast",
   selitys:
     "Saattaa esine lentämään kädellä: 'heitän pallon'. Astevaihtelu tt:t (heittää → heitän). Puhekielessä myös 'heittää kyydin' = give a ride.",
-  kuva: { emoji: "🤾", alt: "heittää – saattaa esine lentämään" },
+  kuva: { alt: "heittää – saattaa esine lentämään" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo heittä-",

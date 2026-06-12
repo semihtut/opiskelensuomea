@@ -11,7 +11,7 @@ const hidas: Word = {
   en: "slow",
   selitys:
     "Pienellä vauhdilla etenevä. Tyyppi 41, astevaihtelu t:d (hidas → hitaan), konsonanttivartalo (hidasta). Vastakohta nopea.",
-  kuva: { emoji: "🐌", alt: "hidas – etana hitaana" },
+  kuva: { alt: "hidas – etana hitaana" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; astevaihtelu t:d, konsonanttivartalo",

@@ -11,7 +11,7 @@ const jalka: Word = {
   en: "leg; foot",
   selitys:
     "Alaraaja, jolla seisotaan ja kävellään. Tyyppi 9, astevaihtelu k:∅ (lk → l): jalka → jalan. 'Jalan' tarkoittaa myös 'on foot'.",
-  kuva: { emoji: "🦵", alt: "jalka – ihmisen jalka" },
+  kuva: { alt: "jalka – ihmisen jalka" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu k:∅ (lk → l)",

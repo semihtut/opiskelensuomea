@@ -11,7 +11,7 @@ const parjata: Word = {
   en: "to manage, cope, do well, get along",
   selitys:
     "Selvitä tilanteesta tai menestyä: 'pärjätä yksin', 'pärjätä kokeessa'. Tyyppi 4 (-tä), Kotus 73/salata, ei astevaihtelua. Rektio: inessiivi (pärjätä jossakin). Vrt. selvitä, menestyä, tulla toimeen.",
-  kuva: { emoji: "👍", alt: "pärjätä – selvitä tilanteesta tai menestyä" },
+  kuva: { alt: "pärjätä – selvitä tilanteesta tai menestyä" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-tä), Kotus 73/salata; ei astevaihtelua (vartalo pärjä-)",

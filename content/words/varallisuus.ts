@@ -11,7 +11,7 @@ const varallisuus: Word = {
   en: "wealth, assets",
   selitys:
     "Ihmisen tai kotitalouden omaisuuden ja varojen kokonaisuus: 'kasvattaa varallisuutta'. Tyyppi 40/kalleus, astevaihtelu t:d (varallisuus → varallisuuden). Sanasta varallinen / vara. Vastakohta köyhyys. Vrt. vara, omaisuus, köyhyys.",
-  kuva: { emoji: "💎", alt: "varallisuus – ihmisen tai kotitalouden omaisuuden ja varojen kokonaisuus" },
+  kuva: { alt: "varallisuus – ihmisen tai kotitalouden omaisuuden ja varojen kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (varallisuute- ~ varallisuude-)",

@@ -11,7 +11,7 @@ const johtaa: Word = {
   en: "to lead, manage; to lead to",
   selitys:
     "Olla johdossa, ohjata, tai aiheuttaa seuraus: 'johtaa yritystä' / 'tie johtaa rantaan'. Tyyppi 1 (-aa), astevaihtelu t:d (johdan ~ johtaa). Vrt. johtaja (leader), johto (leadership, cable).",
-  kuva: { emoji: "🧭", alt: "johtaa – olla johdossa tai aiheuttaa seuraus" },
+  kuva: { alt: "johtaa – olla johdossa tai aiheuttaa seuraus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu t:d (johdan ↔ johtaa); vartalo johta- ~ johda-",

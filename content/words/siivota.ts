@@ -11,7 +11,7 @@ const siivota: Word = {
   en: "to clean, tidy up",
   selitys:
     "Puhdistaa ja järjestää tila siistiksi. Tyyppi 4 (-ota), ei astevaihtelua.",
-  kuva: { emoji: "🧹", alt: "siivota – luuta siivoamiseen" },
+  kuva: { alt: "siivota – luuta siivoamiseen" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ota); ei astevaihtelua",

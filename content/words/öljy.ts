@@ -11,7 +11,7 @@ const oljy: Word = {
   en: "oil",
   selitys:
     "Rasvainen neste, jota käytetään ruoanlaitossa, koneissa ja polttoaineena: 'oliiviöljy', 'paista öljyssä'. Tyyppi 1/valo, ei astevaihtelua. Vrt. rasva, paistaa, polttoaine.",
-  kuva: { emoji: "🫒", alt: "öljy – rasvainen neste ruoanlaittoon ja koneisiin" },
+  kuva: { alt: "öljy – rasvainen neste ruoanlaittoon ja koneisiin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo öljy-)",

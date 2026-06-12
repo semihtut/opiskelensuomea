@@ -11,7 +11,7 @@ const kasvi: Word = {
   en: "plant",
   selitys:
     "Yhteyttävä elävä olento, esim. kukka tai puu: 'huonekasvi'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko kasveja. Johdettu juuresta kasv- (kasvaa). Vrt. kasvihuone (greenhouse), kasvisto (flora).",
-  kuva: { emoji: "🪴", alt: "kasvi – yhteyttävä elävä olento" },
+  kuva: { alt: "kasvi – yhteyttävä elävä olento" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

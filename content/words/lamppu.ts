@@ -11,7 +11,7 @@ const lamppu: Word = {
   en: "lamp; light bulb",
   selitys:
     "Valaisin tai sen polttimo. Tyyppi 1, astevaihtelu pp:p (lamppu → lampun). Ruotsista (lampa).",
-  kuva: { emoji: "💡", alt: "lamppu – pöytälamppu" },
+  kuva: { alt: "lamppu – pöytälamppu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu pp:p",

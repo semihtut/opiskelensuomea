@@ -11,7 +11,7 @@ const käteinen: Word = {
   en: "cash",
   selitys:
     "Setelit ja kolikot, fyysinen raha: 'maksaa käteisellä'. Tyyppi 38, ei astevaihtelua; vartalo käteise-. Käytetään useimmiten yksikössä. Vrt. kortti, raha. Alun perin adjektiivi 'käteinen raha' = ready money.",
-  kuva: { emoji: "💵", alt: "käteinen – setelit ja kolikot" },
+  kuva: { alt: "käteinen – setelit ja kolikot" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo käteise-",

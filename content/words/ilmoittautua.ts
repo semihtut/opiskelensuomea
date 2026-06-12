@@ -11,7 +11,7 @@ const ilmoittautua: Word = {
   en: "to register, enroll, sign up; to report (in)",
   selitys:
     "Ilmoittaa itsensä mukaan johonkin: 'ilmoittautua kurssille', 'ilmoittautua kokoukseen'. Tyyppi 1 (-tua), Kotus 52/sanoa, astevaihtelu t:d (ilmoittaudun). Refleksiivijohdos verbistä ilmoittaa. Vrt. ilmoittaa, ilmoittautuminen, ilmoitus.",
-  kuva: { emoji: "🙋", alt: "ilmoittautua – ilmoittaa itsensä mukaan johonkin" },
+  kuva: { alt: "ilmoittautua – ilmoittaa itsensä mukaan johonkin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tua), Kotus 52/sanoa; astevaihtelu t:d (ilmoittautu- ~ ilmoittaudu-)",

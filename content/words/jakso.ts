@@ -11,7 +11,7 @@ const jakso: Word = {
   en: "period; episode",
   selitys:
     "Ajanjakso tai sarjan osa: 'lämmin jakso', 'sarjan kolmas jakso'. Tyyppi 1/valo, ei astevaihtelua (ks-yhtymä säilyy). Johdettu verbistä jakaa. Vrt. vaihe, kausi.",
-  kuva: { emoji: "📺", alt: "jakso – ajanjakso tai sarjan osa" },
+  kuva: { alt: "jakso – ajanjakso tai sarjan osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo jakso-)",

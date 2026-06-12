@@ -11,7 +11,7 @@ const vihannes: Word = {
   en: "vegetable",
   selitys:
     "Syötävä kasvi tai sen osa, esim. porkkana tai salaatti: 'tuoreita vihanneksia'. Tyyppi 39, ei astevaihtelua; vartalo vihannekse-. Partitiivin monikko vihanneksia. Johdettu sanasta vihanta.",
-  kuva: { emoji: "🥦", alt: "vihannes – syötävä kasvi tai sen osa" },
+  kuva: { alt: "vihannes – syötävä kasvi tai sen osa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo vihannekse-",

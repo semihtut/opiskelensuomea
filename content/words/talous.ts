@@ -11,7 +11,7 @@ const talous: Word = {
   en: "economy; finances; household",
   selitys:
     "Rahankäytön kokonaisuus tai kotitalous: 'maan talous' / 'oma talous'. Tyyppi 40, astevaihtelu t:d (talous → talouden). Juuri talo + -us. Vrt. raha (money), kotitalous (household).",
-  kuva: { emoji: "📊", alt: "talous – rahankäytön kokonaisuus" },
+  kuva: { alt: "talous – rahankäytön kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d",

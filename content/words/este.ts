@@ -11,7 +11,7 @@ const este: Word = {
   en: "obstacle, barrier, impediment",
   selitys:
     "Asia, joka estää tai vaikeuttaa etenemistä tai tekemistä: 'voittaa esteet'. Tyyppi 48/hame, ei astevaihtelua; vartalo estee-. Johdettu verbistä estää. Vrt. estää, este-este (urheilussa hurdle).",
-  kuva: { emoji: "🚧", alt: "este – asia, joka estää etenemistä" },
+  kuva: { alt: "este – asia, joka estää etenemistä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo estee-)",

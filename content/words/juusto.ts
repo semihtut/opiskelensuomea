@@ -10,7 +10,7 @@ const juusto: Word = {
   level: "A1",
   en: "cheese",
   selitys: "Maidosta valmistettu ruoka. Ei astevaihtelua.",
-  kuva: { emoji: "🧀", alt: "juusto – pala juustoa" },
+  kuva: { alt: "juusto – pala juustoa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -11,7 +11,7 @@ const yhteiskunta: Word = {
   en: "society",
   selitys:
     "Yhdessä elävien ihmisten kokonaisuus ja sen rakenteet: 'suomalainen yhteiskunta'. Tyyppi 10, astevaihtelu nt:nn (yhteiskunta → yhteiskunnan). Yhdyssana yhteis- + kunta. Vrt. yhteiskunnallinen (social, societal).",
-  kuva: { emoji: "🏙️", alt: "yhteiskunta – yhdessä elävien ihmisten kokonaisuus" },
+  kuva: { alt: "yhteiskunta – yhdessä elävien ihmisten kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; astevaihtelu nt:nn (yhteiskunta ↔ yhteiskunna-)",

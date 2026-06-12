@@ -11,7 +11,7 @@ const laiska: Word = {
   en: "lazy, idle",
   selitys:
     "Sellainen, joka ei halua tehdä työtä: 'laiska kissa'. Tyyppi 9, ei astevaihtelua (sk säilyy). Vrt. laiskuus (laziness). Vastakohta ahkera.",
-  kuva: { emoji: "🦥", alt: "laiska – ei halua tehdä työtä" },
+  kuva: { alt: "laiska – ei halua tehdä työtä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 9/kala; ei astevaihtelua (sk säilyy)",

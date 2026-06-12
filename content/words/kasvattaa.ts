@@ -11,7 +11,7 @@ const kasvattaa: Word = {
   en: "to grow, raise; to increase",
   selitys:
     "Saada kasvamaan tai suuremmaksi: 'kasvattaa lapsia' / 'kasvattaa myyntiä'. Astevaihtelu tt:t (kasvattaa → kasvatan). Vrt. kasvaa = to grow (intransitiivinen).",
-  kuva: { emoji: "🌱", alt: "kasvattaa – saada kasvamaan tai suuremmaksi" },
+  kuva: { alt: "kasvattaa – saada kasvamaan tai suuremmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t; vartalo kasvatta-",

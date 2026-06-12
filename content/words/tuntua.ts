@@ -11,7 +11,7 @@ const tuntua: Word = {
   en: "to feel, seem",
   selitys:
     "Antaa tietynlainen tunne tai vaikutelma: 'se tuntuu hyvältä'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu nt:nn (tunnun). Useimmiten 3. persoonassa, hallitsee ablatiivia ('tuntua joltakin'). Vrt. tuntea, tunne, vaikuttaa.",
-  kuva: { emoji: "🫧", alt: "tuntua – antaa tietynlainen tunne tai vaikutelma" },
+  kuva: { alt: "tuntua – antaa tietynlainen tunne tai vaikutelma" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu nt:nn (tuntu- ~ tunnu-)",

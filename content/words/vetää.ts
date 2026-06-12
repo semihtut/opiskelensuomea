@@ -11,7 +11,7 @@ const vetaa: Word = {
   en: "to pull, drag, draw",
   selitys:
     "Liikuttaa jotain itseä kohti voimalla: 'vedä ovea' (pull the door). Astevaihtelu t:d (vetää → vedän). Vastakohta työntää (push).",
-  kuva: { emoji: "🪢", alt: "vetää – liikuttaa itseä kohti" },
+  kuva: { alt: "vetää – liikuttaa itseä kohti" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu t:d; vartalo vetä-",

@@ -11,7 +11,7 @@ const arvostaa: Word = {
   en: "to appreciate, value, respect",
   selitys:
     "Pitää jotakuta tai jotakin arvokkaana tai tärkeänä: 'arvostan apuasi'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa. Johdettu sanasta arvo. Vrt. arvostus, arvokas.",
-  kuva: { emoji: "🙏", alt: "arvostaa – pitää jotakin arvokkaana" },
+  kuva: { alt: "arvostaa – pitää jotakin arvokkaana" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo arvosta-",

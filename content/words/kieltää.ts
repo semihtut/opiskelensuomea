@@ -11,7 +11,7 @@ const kieltaa: Word = {
   en: "to forbid, prohibit; to deny",
   selitys:
     "1) Estää tekemästä jotakin, antaa kielto: 'kieltää tupakointi'. 2) Sanoa, ettei jokin ole totta: 'kieltää syyllisyytensä'. Tyyppi 1 (-ää), Kotus 54/huutaa, astevaihtelu lt:ll (kiellän) ja imperfektissä t→s (kielsin). Vastakohta sallia, myöntää.",
-  kuva: { emoji: "🚫", alt: "kieltää – estää tekemästä tai sanoa ettei ole totta" },
+  kuva: { alt: "kieltää – estää tekemästä tai sanoa ettei ole totta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 54/huutaa; astevaihtelu lt:ll + imperfektin t→s",

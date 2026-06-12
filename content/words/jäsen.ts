@@ -11,7 +11,7 @@ const jasen: Word = {
   en: "member",
   selitys:
     "Ryhmään tai järjestöön kuuluva henkilö: 'kerhon jäsen'. Tyyppi 32/sisar, ei astevaihtelua. Tarkoittaa myös ruumiinjäsentä (raaja) ja matematiikan termiä. Vrt. jäsenyys, jäsenmaksu, järjestö.",
-  kuva: { emoji: "🧑‍🤝‍🧑", alt: "jäsen – ryhmään tai järjestöön kuuluva henkilö" },
+  kuva: { alt: "jäsen – ryhmään tai järjestöön kuuluva henkilö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 32/sisar; ei astevaihtelua (vartalo jäsene-)",

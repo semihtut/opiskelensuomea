@@ -11,7 +11,7 @@ const verotus: Word = {
   en: "taxation",
   selitys:
     "Verojen kerääminen ja verojärjestelmä kokonaisuutena: 'kireä verotus', 'verotuksen taso'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä verottaa. Vrt. vero, verottaa, veronmaksaja.",
-  kuva: { emoji: "🧮", alt: "verotus – verojen kerääminen ja verojärjestelmä" },
+  kuva: { alt: "verotus – verojen kerääminen ja verojärjestelmä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo verotukse-)",

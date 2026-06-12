@@ -11,7 +11,7 @@ const suunnitella: Word = {
   en: "to plan, design",
   selitys:
     "Miettiä etukäteen, miten jokin tehdään, tai suunnitella muoto ja rakenne: 'suunnitella matka'. Tyyppi 3 (-lla), Kotus 67/tulla, astevaihtelu tt:t (suunnittelen vahva, suunnitella heikko). Vrt. suunnitelma, suunnittelija.",
-  kuva: { emoji: "✏️", alt: "suunnitella – miettiä etukäteen miten jokin tehdään" },
+  kuva: { alt: "suunnitella – miettiä etukäteen miten jokin tehdään" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; astevaihtelu tt:t (suunnitel- ~ suunnittele-)",

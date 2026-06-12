@@ -11,7 +11,7 @@ const valtio: Word = {
   en: "state, country (as a political entity)",
   selitys:
     "Itsenäinen poliittinen yhteisö ja sen hallinto: 'Suomen valtio'. Tyyppi 3, ei astevaihtelua. Johdettu sanasta valta (+ -io). Vrt. valtiollinen (state-, political), hyvinvointivaltio (welfare state).",
-  kuva: { emoji: "🏛️", alt: "valtio – itsenäinen poliittinen yhteisö" },
+  kuva: { alt: "valtio – itsenäinen poliittinen yhteisö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua",

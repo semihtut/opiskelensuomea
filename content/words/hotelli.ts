@@ -11,7 +11,7 @@ const hotelli: Word = {
   en: "hotel",
   selitys:
     "Majoitusliike, jossa voi yöpyä maksua vastaan. Tyyppi 5, ei astevaihtelua.",
-  kuva: { emoji: "🏨", alt: "hotelli – hotellirakennus" },
+  kuva: { alt: "hotelli – hotellirakennus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

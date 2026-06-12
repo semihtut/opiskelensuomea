@@ -11,7 +11,7 @@ const katu: Word = {
   en: "street",
   selitys:
     "Kaupungin tie talojen välissä. Tyyppi 1, astevaihtelu t:d (katu → kadun). Vrt. tie (maantie).",
-  kuva: { emoji: "🛣️", alt: "katu – kaupungin katu talojen välissä" },
+  kuva: { alt: "katu – kaupungin katu talojen välissä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d",

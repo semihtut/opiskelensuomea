@@ -11,7 +11,7 @@ const kirjoittaa: Word = {
   en: "to write",
   selitys:
     "Tuottaa tekstiä kirjaimin. Tyyppi 1, astevaihtelu tt:t (kirjoitta- → kirjoita-). Juuri sanasta kirja.",
-  kuva: { emoji: "✍️", alt: "kirjoittaa – kynällä kirjoittaminen" },
+  kuva: { alt: "kirjoittaa – kynällä kirjoittaminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (kirjoitta- → kirjoita-)",

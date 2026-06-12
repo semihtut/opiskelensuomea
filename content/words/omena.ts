@@ -11,7 +11,7 @@ const omena: Word = {
   en: "apple",
   selitys:
     "Pyöreä, makea hedelmä. Ei astevaihtelua; monikon partitiivi omenia (myös omenoita).",
-  kuva: { emoji: "🍎", alt: "omena – punainen omena" },
+  kuva: { alt: "omena – punainen omena" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 11/omena; ei astevaihtelua",

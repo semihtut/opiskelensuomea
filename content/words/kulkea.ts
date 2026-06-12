@@ -11,7 +11,7 @@ const kulkea: Word = {
   en: "to go, to travel, to run (extend)",
   selitys:
     "Liikkua eteenpäin tai johtaa jotakin reittiä: 'kulkea junalla' / 'tie kulkee metsän läpi'. Tyyppi 1 (-ea, laskea-tyyppi), astevaihtelu lk:lj (kuljen). Vrt. kulku (passage), kulkija (wanderer), kuljettaa (to transport).",
-  kuva: { emoji: "🚶", alt: "kulkea – liikkua eteenpäin" },
+  kuva: { alt: "kulkea – liikkua eteenpäin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ea), laskea-tyyppi; astevaihtelu lk:lj (kulke- ↔ kulje-)",

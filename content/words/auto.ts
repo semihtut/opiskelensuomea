@@ -11,7 +11,7 @@ const auto: Word = {
   en: "car, automobile",
   selitys:
     "Nelipyöräinen moottoriajoneuvo. Tyyppi 1, ei astevaihtelua. Lyhenne sanasta automobiili.",
-  kuva: { emoji: "🚙", alt: "auto – henkilöauto" },
+  kuva: { alt: "auto – henkilöauto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

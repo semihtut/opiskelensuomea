@@ -11,7 +11,7 @@ const enemmisto: Word = {
   en: "majority",
   selitys:
     "Suurempi osa ryhmästä, yli puolet: 'enemmistö äänesti puolesta'. Tyyppi 2/palvelu, ei astevaihtelua; partitiivin monikko enemmistöjä. Johdettu sanasta enempi/enemmän. Vastakohta vähemmistö.",
-  kuva: { emoji: "👥", alt: "enemmistö – suurempi osa ryhmästä, yli puolet" },
+  kuva: { alt: "enemmistö – suurempi osa ryhmästä, yli puolet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo enemmistö-)",

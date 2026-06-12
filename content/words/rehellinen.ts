@@ -11,7 +11,7 @@ const rehellinen: Word = {
   en: "honest, truthful",
   selitys:
     "Totta puhuva ja luotettava: 'rehellinen vastaus'. Tyyppi 38, ei astevaihtelua. Vrt. rehellisyys (honesty). Vastakohta epärehellinen, valehteleva.",
-  kuva: { emoji: "🫱", alt: "rehellinen – totta puhuva ja luotettava" },
+  kuva: { alt: "rehellinen – totta puhuva ja luotettava" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

@@ -11,7 +11,7 @@ const vieda: Word = {
   en: "to take (away), carry; to export",
   selitys:
     "Kuljettaa jokin pois tai johonkin muualle: 'viedä roskat'. Vastakohta tuoda (kuljettaa tänne). Myös: viedä aikaa. Tyyppi 2 (-dä), Kotus 64/juoda, ei astevaihtelua; imperfektissä vie → ve (vien → vein). Vrt. tuoda, kuljettaa, vienti.",
-  kuva: { emoji: "📤", alt: "viedä – kuljettaa jokin pois tai muualle" },
+  kuva: { alt: "viedä – kuljettaa jokin pois tai muualle" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-dä), Kotus 64/juoda; ei astevaihtelua (vartalo vie- ~ ve-)",

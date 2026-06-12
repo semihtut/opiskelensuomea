@@ -11,7 +11,7 @@ const jattaa: Word = {
   en: "to leave (behind), to drop off",
   selitys:
     "Olla ottamatta mukaan tai luopua: 'jättää avaimet pöydälle'. Tyyppi 1 (-ää), astevaihtelu tt:t (jätän, mutta jättää). Vrt. jäädä (to stay), jättö (drop-off), jäte (waste).",
-  kuva: { emoji: "🫳", alt: "jättää – olla ottamatta mukaan" },
+  kuva: { alt: "jättää – olla ottamatta mukaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); astevaihtelu tt:t (jättä- ↔ jätä-)",

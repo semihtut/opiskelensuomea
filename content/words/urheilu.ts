@@ -11,7 +11,7 @@ const urheilu: Word = {
   en: "sport, sports, athletics",
   selitys:
     "Fyysinen, usein kilpailullinen toiminta: 'harrastaa urheilua'. Tyyppi 2, ei astevaihtelua. Johdettu sanasta urheilla. Yleensä yksiköllinen. Vrt. urheilija (athlete), urheilulaji (sport, discipline).",
-  kuva: { emoji: "🏅", alt: "urheilu – fyysinen, kilpailullinen toiminta" },
+  kuva: { alt: "urheilu – fyysinen, kilpailullinen toiminta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

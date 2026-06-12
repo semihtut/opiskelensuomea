@@ -11,7 +11,7 @@ const terveys: Word = {
   en: "health",
   selitys:
     "Tila, jossa keho ja mieli voivat hyvin. Tyyppi 40, astevaihtelu t:d (terveyden). Juuri adjektiivista terve.",
-  kuva: { emoji: "🩺", alt: "terveys – hyvinvointi ja terveys" },
+  kuva: { alt: "terveys – hyvinvointi ja terveys" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d",

@@ -11,7 +11,7 @@ const ilmaisu: Word = {
   en: "expression; phrase",
   selitys:
     "Tapa ilmaista ajatus tai tunne, tai kielen sanonta: 'taiteellinen ilmaisu', 'kohtelias ilmaisu'. Tyyppi 2/palvelu, ei astevaihtelua. Johdettu verbistä ilmaista. Vrt. ilmaista, sanonta, ilme.",
-  kuva: { emoji: "💬", alt: "ilmaisu – tapa ilmaista ajatus tai tunne" },
+  kuva: { alt: "ilmaisu – tapa ilmaista ajatus tai tunne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo ilmaisu-)",

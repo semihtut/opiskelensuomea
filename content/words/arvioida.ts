@@ -11,7 +11,7 @@ const arvioida: Word = {
   en: "to estimate, evaluate, assess",
   selitys:
     "Muodostaa käsitys jonkin arvosta, määrästä tai laadusta: 'arvioida hinta'. Tyyppi 6 (-oida), Kotus 62/voida, ei astevaihtelua. minä-muoto sama preesensissä ja imperfektissä (arvioin). Vrt. arvio, arviointi, arvostaa.",
-  kuva: { emoji: "📐", alt: "arvioida – muodostaa käsitys arvosta tai määrästä" },
+  kuva: { alt: "arvioida – muodostaa käsitys arvosta tai määrästä" },
 
   kielioppi: {
     tyyppi: "tyyppi 6 (-oida), Kotus 62/voida; ei astevaihtelua; vartalo arvioi-",

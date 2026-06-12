@@ -11,7 +11,7 @@ const nukkua: Word = {
   en: "to sleep",
   selitys:
     "Olla unessa, levätä yöllä. Tyyppi 1, astevaihtelu kk:k (minä nukun, mutta hän nukkuu).",
-  kuva: { emoji: "😴", alt: "nukkua – nukkuva kasvot" },
+  kuva: { alt: "nukkua – nukkuva kasvot" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); astevaihtelu kk:k",

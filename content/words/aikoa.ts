@@ -11,7 +11,7 @@ const aikoa: Word = {
   en: "to intend, plan, be going to",
   selitys:
     "Suunnitella tekevänsä jotakin, olla aikeissa: 'aion lähteä huomenna'. Tyyppi 1 (-oa), Kotus 52/sanoa, astevaihtelu k:∅ (aion). Käytetään 1. infinitiivin kanssa: 'aion tehdä'. Vrt. aikomus, aie.",
-  kuva: { emoji: "🗓️", alt: "aikoa – suunnitella tekevänsä jotakin" },
+  kuva: { alt: "aikoa – suunnitella tekevänsä jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa), Kotus 52/sanoa; astevaihtelu k:∅ (aiko- ~ aio-)",

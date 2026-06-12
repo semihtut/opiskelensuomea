@@ -11,7 +11,7 @@ const sokeri: Word = {
   en: "sugar",
   selitys:
     "Makea valkoinen ainesosa, jota lisätään ruokaan ja juomaan: 'kahvi ilman sokeria'. Tyyppi 6, ei astevaihtelua. Käytetään useimmiten yksikössä (ainesana). Vrt. verensokeri, sokeriton.",
-  kuva: { emoji: "🧂", alt: "sokeri – makea valkoinen ainesosa" },
+  kuva: { alt: "sokeri – makea valkoinen ainesosa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua",

@@ -11,7 +11,7 @@ const opettaja: Word = {
   en: "teacher",
   selitys:
     "Henkilö, joka opettaa. Tyyppi 12, ei astevaihtelua. Tekijännimi verbistä opettaa (= teach).",
-  kuva: { emoji: "👩‍🏫", alt: "opettaja – opettaja luokan edessä" },
+  kuva: { alt: "opettaja – opettaja luokan edessä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua",

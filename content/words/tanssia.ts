@@ -11,7 +11,7 @@ const tanssia: Word = {
   en: "to dance",
   selitys:
     "Liikkua rytmikkäästi musiikin tahtiin: 'tanssia valssia'. Tyyppi 1 (-ia, sallia-tyyppi), ei astevaihtelua, vartalo tanssi-. Johdettu sanasta tanssi. Vrt. tanssija (dancer), tanssi (a dance).",
-  kuva: { emoji: "💃", alt: "tanssia – liikkua rytmikkäästi musiikin tahtiin" },
+  kuva: { alt: "tanssia – liikkua rytmikkäästi musiikin tahtiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia), sallia-tyyppi; ei astevaihtelua; vartalo tanssi-",

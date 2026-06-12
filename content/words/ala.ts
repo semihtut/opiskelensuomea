@@ -11,7 +11,7 @@ const ala: Word = {
   en: "field, sector, branch; area",
   selitys:
     "Toiminnan tai osaamisen alue: 'IT-ala' / 'oma ala'. Tyyppi 9, ei astevaihtelua. 'Alalla' = in the field/sector. Vrt. ammatti (profession), pinta-ala (surface area).",
-  kuva: { emoji: "🗂️", alt: "ala – toiminnan tai osaamisen alue" },
+  kuva: { alt: "ala – toiminnan tai osaamisen alue" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

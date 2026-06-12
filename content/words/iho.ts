@@ -11,7 +11,7 @@ const iho: Word = {
   en: "skin",
   selitys:
     "Kehoa peittävä elin: 'kuiva iho', 'herkkä iho'. Tyyppi 1/valo, ei astevaihtelua. Vrt. keho, ihottuma, ihonväri.",
-  kuva: { emoji: "🧴", alt: "iho – kehoa peittävä elin" },
+  kuva: { alt: "iho – kehoa peittävä elin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo iho-)",

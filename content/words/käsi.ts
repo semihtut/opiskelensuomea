@@ -11,7 +11,7 @@ const kasi: Word = {
   en: "hand; arm",
   selitys:
     "Kehon osa ranteesta sormiin (myös koko yläraaja). Tyyppi 27, astevaihtelu t:d, konsonanttivartalo (kättä). Tämä on koko taivutustyypin mallisana.",
-  kuva: { emoji: "✋", alt: "käsi – avoin käsi" },
+  kuva: { alt: "käsi – avoin käsi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 27/käsi; astevaihtelu t:d, konsonanttivartalo",

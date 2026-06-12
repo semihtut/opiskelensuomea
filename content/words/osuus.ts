@@ -11,7 +11,7 @@ const osuus: Word = {
   en: "share, proportion, part",
   selitys:
     "Se osa kokonaisuudesta, joka kuuluu jollekin tai jostakin: 'naisten osuus oli 40 %'. Tyyppi 40/kalleus, astevaihtelu t:d (osuus → osuuden). Johdettu sanasta osa. Vrt. osa, prosenttiosuus, osuuskunta.",
-  kuva: { emoji: "🥧", alt: "osuus – osa kokonaisuudesta" },
+  kuva: { alt: "osuus – osa kokonaisuudesta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo osuude-)",

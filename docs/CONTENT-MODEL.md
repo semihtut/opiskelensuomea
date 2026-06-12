@@ -29,8 +29,7 @@ export interface Word {
   selitys: string;            // short FINNISH definition
 
   kuva?: {                    // visual for dual-coding on the flashcard (icon-first)
-    icon?: string;            // icon key (e.g. "house") → mapped to an inline SVG in lib/icons
-    emoji?: string;           // quick fallback glyph until a vector exists (e.g. "🏠")
+    icon?: string;            // icon key (e.g. "house") → mapped to an inline SVG in lib/icons; omit when none exists
     alt: string;              // accessible description of the illustration
   };
 
@@ -132,8 +131,7 @@ export interface Badge {
   kind: BadgeKind;
   title: string;           // FINNISH name, e.g. "Viikon lukija"
   description: string;     // unlock criteria, FINNISH
-  icon: string;            // icon key
-  threshold?: number;      // e.g. streak 7 / words 100 / week n
+  threshold?: number;      // e.g. streak 7 / words 100 / week n (the medallion glyph derives from `kind`)
 }
 ```
 

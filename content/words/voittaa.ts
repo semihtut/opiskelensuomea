@@ -11,7 +11,7 @@ const voittaa: Word = {
   en: "to win, to beat; to overcome",
   selitys:
     "Päästä voittajaksi tai päihittää: 'voittaa peli'. Tyyppi 1 (-aa), astevaihtelu tt:t (voitan, mutta voittaa). Vastustaja partitiivissa. Vrt. voitto (victory), voittaja (winner), hävitä (to lose).",
-  kuva: { emoji: "🏆", alt: "voittaa – päästä voittajaksi" },
+  kuva: { alt: "voittaa – päästä voittajaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (voitta- ↔ voita-)",

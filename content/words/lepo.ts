@@ -11,7 +11,7 @@ const lepo: Word = {
   en: "rest, repose",
   selitys:
     "Lepäämisen tila, jolloin voimat palautuvat: 'tarvita lepoa'. Tyyppi 1/valo, astevaihtelu p:v (lepo → levon). Yleensä yksikössä. Johdettu verbistä levätä. Vrt. levätä, rauha, uni.",
-  kuva: { emoji: "😴", alt: "lepo – lepäämisen tila jolloin voimat palautuvat" },
+  kuva: { alt: "lepo – lepäämisen tila jolloin voimat palautuvat" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu p:v (vartalo levo-)",

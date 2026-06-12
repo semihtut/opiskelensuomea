@@ -11,7 +11,7 @@ const unelma: Word = {
   en: "dream (aspiration)",
   selitys:
     "Toive tai haave, jota ihminen tavoittelee: 'toteuttaa unelma'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko unelmia. Johdettu sanasta uni. HUOM: unelma = aspiration, uni = dream while asleep.",
-  kuva: { emoji: "🌟", alt: "unelma – toive tai haave, jota tavoitellaan" },
+  kuva: { alt: "unelma – toive tai haave, jota tavoitellaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

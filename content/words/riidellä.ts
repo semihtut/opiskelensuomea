@@ -11,7 +11,7 @@ const riidella: Word = {
   en: "to quarrel, argue, fight (verbally)",
   selitys:
     "Olla eri mieltä äänekkäästi, kiistellä: 'riidellä rahasta'. Tyyppi 3 (-llä), Kotus 67/tulla, astevaihtelu t:d (riitelen vahva, riidellä heikko). Hallitsee elatiivia ('riidellä jostakin'). Johdettu sanasta riita. Vrt. riita, kiistellä.",
-  kuva: { emoji: "💢", alt: "riidellä – olla eri mieltä äänekkäästi, kiistellä" },
+  kuva: { alt: "riidellä – olla eri mieltä äänekkäästi, kiistellä" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä), Kotus 67/tulla; astevaihtelu t:d (riidel- ~ riitele-)",

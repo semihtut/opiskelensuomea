@@ -11,7 +11,7 @@ const kaveri: Word = {
   en: "buddy, pal, mate",
   selitys:
     "Arkikielinen sana kaverille tai tutulle; 'ystävää' epämuodollisempi. Vartalo kaveri-, ei astevaihtelua.",
-  kuva: { emoji: "🧑‍🤝‍🧑", alt: "kaveri – kaksi ystävää käsi kädessä" },
+  kuva: { alt: "kaveri – kaksi ystävää käsi kädessä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua",

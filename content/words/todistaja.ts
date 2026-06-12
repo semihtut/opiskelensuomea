@@ -11,7 +11,7 @@ const todistaja: Word = {
   en: "witness",
   selitys:
     "Henkilö, joka on nähnyt tapahtuman ja kertoo siitä, esim. oikeudessa: 'kuulla todistajaa', 'silminnäkijä'. Tyyppi 10/koira, ei astevaihtelua. Sanasta todistaa + -ja. Vrt. todistaa, todiste, silminnäkijä.",
-  kuva: { emoji: "🙋", alt: "todistaja – henkilö joka kertoo näkemästään, esim. oikeudessa" },
+  kuva: { alt: "todistaja – henkilö joka kertoo näkemästään, esim. oikeudessa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo todistaja-)",

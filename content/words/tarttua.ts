@@ -11,7 +11,7 @@ const tarttua: Word = {
   en: "to grab, grasp; to stick, catch (on)",
   selitys:
     "Ottaa kiinni tai takertua: 'tartun puhelimeen' (illatiivi). Astevaihtelu tt:t (tarttua → tartun). Myös tarttuva tauti = contagious disease.",
-  kuva: { emoji: "✊", alt: "tarttua – ottaa kiinni" },
+  kuva: { alt: "tarttua – ottaa kiinni" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); astevaihtelu tt:t; vartalo tarttu-",

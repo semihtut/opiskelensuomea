@@ -11,7 +11,7 @@ const tahti: Word = {
   en: "star",
   selitys:
     "Taivaalla loistava taivaankappale tai kuuluisa henkilö: 'kirkas tähti' / 'elokuvatähti'. Tyyppi 7, astevaihtelu t:d (tähte- → tähde-). Vrt. tähtitiede (astronomy), tähdistö (constellation).",
-  kuva: { emoji: "⭐", alt: "tähti – taivaalla loistava taivaankappale" },
+  kuva: { alt: "tähti – taivaalla loistava taivaankappale" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; astevaihtelu t:d (tähte- ↔ tähde-)",

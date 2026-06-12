@@ -11,7 +11,7 @@ const vari: Word = {
   en: "color",
   selitys:
     "Valon aistittava ominaisuus (esim. punainen); myös maali tai pigmentti. Tyyppi 5, EI astevaihtelua (väri → värin).",
-  kuva: { emoji: "🎨", alt: "väri – värit ja paletti" },
+  kuva: { alt: "väri – värit ja paletti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

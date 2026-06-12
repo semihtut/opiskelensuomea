@@ -11,7 +11,7 @@ const edessa: Word = {
   en: "in front (of)",
   selitys:
     "Etupuolella. Paikallissarja: edessä (missä) – edestä (mistä) – eteen (mihin). Postpositiona genetiivin kanssa: 'talon edessä'. Vastakohta takana.",
-  kuva: { emoji: "⬅️", alt: "edessä – jonkin etupuolella" },
+  kuva: { alt: "edessä – jonkin etupuolella" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

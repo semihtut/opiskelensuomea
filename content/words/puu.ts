@@ -11,7 +11,7 @@ const puu: Word = {
   en: "tree; wood",
   selitys:
     "Suuri monivuotinen kasvi; myös 'puu' = materiaali (wood). Tyyppi 18, ei astevaihtelua.",
-  kuva: { emoji: "🌳", alt: "puu – lehtipuu" },
+  kuva: { alt: "puu – lehtipuu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

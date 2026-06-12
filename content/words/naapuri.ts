@@ -11,7 +11,7 @@ const naapuri: Word = {
   en: "neighbour",
   selitys:
     "Vieressä asuva henkilö tai talo. Tyyppi 6/paperi, ei astevaihtelua. Monikon partitiivi naapureita. Myös: naapurimaa = neighbouring country.",
-  kuva: { emoji: "🏘️", alt: "naapuri – viereinen talo ja asukas" },
+  kuva: { alt: "naapuri – viereinen talo ja asukas" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua",

@@ -11,7 +11,7 @@ const tukea: Word = {
   en: "to support, back",
   selitys:
     "Antaa fyysistä, henkistä tai taloudellista tukea: 'tukea ystävää'. Tyyppi 3 (-kea), Kotus 58/laskea, astevaihtelu k:∅ (tuen). Objekti partitiivissa. Vrt. tuki, tukija, kannattaa.",
-  kuva: { emoji: "🤲", alt: "tukea – antaa tukea jollekin" },
+  kuva: { alt: "tukea – antaa tukea jollekin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-kea), Kotus 58/laskea; astevaihtelu k:∅ (tuke- ~ tue-)",

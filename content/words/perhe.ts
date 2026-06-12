@@ -11,7 +11,7 @@ const perhe: Word = {
   en: "family",
   selitys:
     "Yhdessä elävät vanhemmat ja lapset tai muut läheiset sukulaiset. Vartalo perhee-, ei astevaihtelua.",
-  kuva: { emoji: "👨‍👩‍👧‍👦", alt: "perhe – vanhemmat ja lapset" },
+  kuva: { alt: "perhe – vanhemmat ja lapset" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo perhee-)",

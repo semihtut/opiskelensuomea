@@ -11,7 +11,7 @@ const näyttö: Word = {
   en: "screen, display, monitor",
   selitys:
     "Laitteen ruutu, jolta katsotaan kuvaa: 'kosketusnäyttö'. Tyyppi 1, astevaihtelu tt:t (näyttö → näytön). Partitiivin monikko näyttöjä. Johdettu verbistä näyttää. Vrt. ruutu, kosketusnäyttö.",
-  kuva: { emoji: "🖥️", alt: "näyttö – laitteen ruutu, jolta katsotaan kuvaa" },
+  kuva: { alt: "näyttö – laitteen ruutu, jolta katsotaan kuvaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (näyttö ↔ näytö-)",

@@ -11,7 +11,7 @@ const lause: Word = {
   en: "sentence, clause",
   selitys:
     "Sanoista koostuva kieliopillinen kokonaisuus, jossa on yleensä subjekti ja predikaatti: 'kirjoita lause'. Tyyppi 48/hame, ei astevaihtelua. Johdettu verbistä lausua. HUOM: kieliopissa virke = kokonainen lause, lause = clause. Vrt. lausua, virke, sana.",
-  kuva: { emoji: "🔡", alt: "lause – sanoista koostuva kieliopillinen kokonaisuus" },
+  kuva: { alt: "lause – sanoista koostuva kieliopillinen kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo lausee-)",

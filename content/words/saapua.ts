@@ -11,7 +11,7 @@ const saapua: Word = {
   en: "to arrive",
   selitys:
     "Tulla perille määränpäähän: 'saapua asemalle'. Tyyppi 1 (-ua), astevaihtelu p:v (saavun). Määränpää illatiivissa. Vrt. saapuminen (arrival), tulla (more general).",
-  kuva: { emoji: "🛬", alt: "saapua – tulla perille" },
+  kuva: { alt: "saapua – tulla perille" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); astevaihtelu p:v (saapu- ↔ saavu-)",

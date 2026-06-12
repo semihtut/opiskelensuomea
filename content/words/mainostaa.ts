@@ -11,7 +11,7 @@ const mainostaa: Word = {
   en: "to advertise, promote",
   selitys:
     "Tehdä tuotetta tai asiaa tunnetuksi ja houkutella ostamaan: 'mainostaa uutta tuotetta'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Objekti partitiivissa. Johdettu sanasta mainos. Vrt. mainos, mainonta.",
-  kuva: { emoji: "📣", alt: "mainostaa – tehdä tuotetta tunnetuksi ja houkutella ostamaan" },
+  kuva: { alt: "mainostaa – tehdä tuotetta tunnetuksi ja houkutella ostamaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua; vartalo mainosta-",

@@ -11,7 +11,7 @@ const nilkka: Word = {
   en: "ankle",
   selitys:
     "Jalan ja jalkaterän välinen nivel: 'nyrjäyttää nilkka'. Tyyppi 9/kala, astevaihtelu kk:k (nilkka → nilkan). Vrt. jalka, polvi, nivel.",
-  kuva: { emoji: "🦶", alt: "nilkka – jalan ja jalkaterän välinen nivel" },
+  kuva: { alt: "nilkka – jalan ja jalkaterän välinen nivel" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu kk:k (nilkka ~ nilka-)",

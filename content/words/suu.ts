@@ -11,7 +11,7 @@ const suu: Word = {
   en: "mouth",
   selitys:
     "Kasvojen aukko, jolla syödään ja puhutaan; myös 'suu' = aukko (joen suu). Tyyppi 18, ei astevaihtelua.",
-  kuva: { emoji: "👄", alt: "suu – ihmisen suu" },
+  kuva: { alt: "suu – ihmisen suu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

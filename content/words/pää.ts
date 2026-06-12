@@ -11,7 +11,7 @@ const paa: Word = {
   en: "head; end, tip",
   selitys:
     "Kehon ylin osa, jossa ovat aivot ja kasvot; myös 'pää' = jonkin ääripää. Tyyppi 18, ei astevaihtelua.",
-  kuva: { emoji: "🗣️", alt: "pää – ihmisen pää" },
+  kuva: { alt: "pää – ihmisen pää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

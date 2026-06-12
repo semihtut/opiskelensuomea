@@ -11,7 +11,7 @@ const kustannus: Word = {
   en: "cost, expense",
   selitys:
     "Rahamäärä, joka jonkin tekeminen vaatii: 'matkan kustannukset'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Usein monikossa 'kustannukset' = costs. Johdettu verbistä kustantaa. Vrt. kulu, meno, hinta.",
-  kuva: { emoji: "🧾", alt: "kustannus – rahamäärä jonka jokin vaatii" },
+  kuva: { alt: "kustannus – rahamäärä jonka jokin vaatii" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo kustannukse-)",

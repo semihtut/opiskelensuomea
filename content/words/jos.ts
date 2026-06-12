@@ -11,7 +11,7 @@ const jos: Word = {
   en: "if",
   selitys:
     "Alistuskonjunktio, joka ilmaisee ehtoa. Ei taivuteta. Aloittaa ehtolauseen: 'Jos on aikaa, mennään ulos.' Usein konditionaalin kanssa.",
-  kuva: { emoji: "🔀", alt: "jos – ehto ja vaihtoehto" },
+  kuva: { alt: "jos – ehto ja vaihtoehto" },
 
   kielioppi: {
     tyyppi: "alistuskonjunktio (ehto); taipumaton; aloittaa ehtolauseen",

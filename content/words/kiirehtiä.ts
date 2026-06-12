@@ -11,7 +11,7 @@ const kiirehtia: Word = {
   en: "to hurry, hasten",
   selitys:
     "Tehdä jotakin nopeasti tai pitää kiirettä: 'kiirehtiä töihin'. Tyyppi 1 (-iä), Kotus 61/sallia, astevaihtelu ht:hd (kiirehdin). i-vartalo: minä-muoto sama preesensissä ja imperfektissä. Sanasta kiire. Vrt. ehtiä, kiire, pitää kiirettä.",
-  kuva: { emoji: "🏃", alt: "kiirehtiä – tehdä jotakin nopeasti, pitää kiirettä" },
+  kuva: { alt: "kiirehtiä – tehdä jotakin nopeasti, pitää kiirettä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-iä), Kotus 61/sallia; astevaihtelu ht:hd (kiireht- ~ kiirehd-)",

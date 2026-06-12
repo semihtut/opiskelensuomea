@@ -11,7 +11,7 @@ const ymmarrys: Word = {
   en: "understanding, comprehension",
   selitys:
     "Kyky käsittää asioita tai myötätuntoinen suhtautuminen: 'syvä ymmärrys', 'osoittaa ymmärrystä'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä ymmärtää. Vrt. ymmärtää, käsitys, yhteisymmärrys.",
-  kuva: { emoji: "🧠", alt: "ymmärrys – kyky käsittää asioita" },
+  kuva: { alt: "ymmärrys – kyky käsittää asioita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo ymmärrykse-)",

@@ -11,7 +11,7 @@ const myydä: Word = {
   en: "to sell",
   selitys:
     "Antaa tavaraa rahaa vastaan: 'myydä auto'. Tyyppi 2 (-dä), ei astevaihtelua; vartalo myy-. Imperfektissä myy- + i → myi(n). Vastakohta ostaa. Vrt. myyjä (seller), myynti (sale).",
-  kuva: { emoji: "🏷️", alt: "myydä – antaa tavaraa rahaa vastaan" },
+  kuva: { alt: "myydä – antaa tavaraa rahaa vastaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-dä); ei astevaihtelua; vartalo myy- (Kotus 63/saada)",

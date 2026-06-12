@@ -11,7 +11,7 @@ const loyto: Word = {
   en: "discovery, find; bargain",
   selitys:
     "Se, mikä löydetään; myös edullinen osto: 'tehdä löytö'. Tyyppi 1/valo, astevaihtelu t:d (löytö → löydön). Johdettu verbistä löytää. Vrt. löytää, keksintö, aarre.",
-  kuva: { emoji: "💎", alt: "löytö – se mikä löydetään, tai edullinen osto" },
+  kuva: { alt: "löytö – se mikä löydetään, tai edullinen osto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (vartalo löydö-)",

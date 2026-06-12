@@ -11,7 +11,7 @@ const kansainvälinen: Word = {
   en: "international",
   selitys:
     "Useita maita tai kansoja koskeva: 'kansainvälinen yhteistyö'. Tyyppi 38, ei astevaihtelua; vartalo kansainvälise-. Partitiivin monikko kansainvälisiä. Sanoista kansa + väli. Vrt. kansallinen (national).",
-  kuva: { emoji: "🌐", alt: "kansainvälinen – useita maita koskeva" },
+  kuva: { alt: "kansainvälinen – useita maita koskeva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo kansainvälise-",

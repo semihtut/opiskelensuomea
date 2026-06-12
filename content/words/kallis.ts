@@ -12,7 +12,7 @@ const kallis: Word = {
   en: "expensive; dear, precious",
   selitys:
     "Paljon maksava; halvan vastakohta. Myös 'rakas, arvokas'. Vartalo kallii-; vertailu kalliimpi – kallein.",
-  kuva: { emoji: "💎", alt: "kallis – timantti, arvokas esine" },
+  kuva: { alt: "kallis – timantti, arvokas esine" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua (vartalo kallii-)",

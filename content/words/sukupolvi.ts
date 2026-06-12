@@ -11,7 +11,7 @@ const sukupolvi: Word = {
   en: "generation",
   selitys:
     "Suvun tai yhteiskunnan samanikäinen polvi: 'nuorempi sukupolvi'. Tyyppi 7/ovi, ei astevaihtelua. Yhdyssana suku + polvi. Vrt. suku, polvi, ikäpolvi.",
-  kuva: { emoji: "👨‍👩‍👧", alt: "sukupolvi – suvun tai yhteiskunnan samanikäinen polvi" },
+  kuva: { alt: "sukupolvi – suvun tai yhteiskunnan samanikäinen polvi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo sukupolve-)",

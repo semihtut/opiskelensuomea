@@ -11,7 +11,7 @@ const pieni: Word = {
   en: "small, little",
   selitys:
     "Kooltaan vähäinen; vastakohta iso/suuri. Tyyppi 26, ei astevaihtelua, konsonanttivartalo (pientä). Tämä on koko taivutustyypin mallisana.",
-  kuva: { emoji: "🐜", alt: "pieni – pieni, vähäinen koko" },
+  kuva: { alt: "pieni – pieni, vähäinen koko" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 26/pieni; ei astevaihtelua, konsonanttivartalo",

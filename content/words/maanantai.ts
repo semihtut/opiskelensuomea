@@ -11,7 +11,7 @@ const maanantai: Word = {
   en: "Monday",
   selitys:
     "Viikon ensimmäinen päivä. Ei astevaihtelua. 'Maanantaina' = on Monday, 'maanantaisin' = on Mondays.",
-  kuva: { emoji: "📅", alt: "maanantai – viikon ensimmäinen päivä" },
+  kuva: { alt: "maanantai – viikon ensimmäinen päivä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua",

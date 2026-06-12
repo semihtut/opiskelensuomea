@@ -11,7 +11,7 @@ const oikealla: Word = {
   en: "on the right",
   selitys:
     "Oikealla puolella. Paikallissarja: oikealla (missä) – oikealta (mistä) – oikealle (mihin). Pohjana adjektiivi oikea. Vastakohta vasemmalla.",
-  kuva: { emoji: "👉", alt: "oikealla – oikealla puolella" },
+  kuva: { alt: "oikealla – oikealla puolella" },
 
   kielioppi: {
     tyyppi: "paikan adverbi (oikea); kolmiosainen paikallissarja",

@@ -11,7 +11,7 @@ const laite: Word = {
   en: "device, appliance; (pl.) equipment",
   selitys:
     "Tekninen väline, joka tekee jotakin: 'älykäs laite'. Tyyppi 48, astevaihtelu t:tt (laite → laitteen). Partitiivin monikko laitteita. Johdettu verbistä laittaa. Vrt. kone, väline, laitteisto.",
-  kuva: { emoji: "📱", alt: "laite – tekninen väline" },
+  kuva: { alt: "laite – tekninen väline" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:tt (laite ↔ laittee-)",

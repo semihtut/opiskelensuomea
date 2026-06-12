@@ -11,7 +11,7 @@ const itsenainen: Word = {
   en: "independent, self-reliant",
   selitys:
     "Sellainen, joka pärjää itse eikä ole muista riippuvainen: 'itsenäinen valtio', 'itsenäinen lapsi'. Tyyppi 38/nainen, ei astevaihtelua. Yhdyssana itse + -näinen. Vastakohta riippuvainen. Vrt. itsenäisyys, itse.",
-  kuva: { emoji: "🦅", alt: "itsenäinen – itse pärjäävä, muista riippumaton" },
+  kuva: { alt: "itsenäinen – itse pärjäävä, muista riippumaton" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo itsenäise-)",

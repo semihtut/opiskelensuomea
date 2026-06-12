@@ -11,7 +11,7 @@ const paasto: Word = {
   en: "emission",
   selitys:
     "Ympäristöön vapautuva haitallinen aine, esim. pakokaasu: 'hiilidioksidipäästöt'. Tyyppi 1/valo, ei astevaihtelua (st säilyy); partitiivin monikko päästöjä. Johdettu verbistä päästää. Vrt. saaste, päästää, hiilijalanjälki.",
-  kuva: { emoji: "💨", alt: "päästö – ympäristöön vapautuva haitallinen aine" },
+  kuva: { alt: "päästö – ympäristöön vapautuva haitallinen aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo päästö-)",

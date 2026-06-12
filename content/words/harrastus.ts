@@ -11,7 +11,7 @@ const harrastus: Word = {
   en: "hobby, pastime",
   selitys:
     "Vapaa-ajan toiminta huviksi: 'mukava harrastus'. Tyyppi 39, verbijohdos sanasta harrastaa (-us → -ukse-), ei astevaihtelua. Vrt. harrastaa (to do as a hobby), harrastaja (hobbyist).",
-  kuva: { emoji: "🎨", alt: "harrastus – vapaa-ajan toiminta huviksi" },
+  kuva: { alt: "harrastus – vapaa-ajan toiminta huviksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; verbijohdos (-us → -ukse-); ei astevaihtelua",

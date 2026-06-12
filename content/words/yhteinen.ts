@@ -11,7 +11,7 @@ const yhteinen: Word = {
   en: "common, shared, joint",
   selitys:
     "Useammalle kuuluva tai useamman jakama: 'yhteinen tavoite'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta yksi/yhdessä. Vastakohta yksityinen, erillinen. Vrt. yhteisö, yhdessä, yhteistyö.",
-  kuva: { emoji: "🤝", alt: "yhteinen – useammalle kuuluva tai jaettu" },
+  kuva: { alt: "yhteinen – useammalle kuuluva tai jaettu" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo yhteise-)",

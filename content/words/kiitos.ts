@@ -11,7 +11,7 @@ const kiitos: Word = {
   en: "thanks, thank you",
   selitys:
     "Kohtelias sana, jolla osoitetaan kiitollisuutta. Myös substantiivi (kiitos, vartalo kiitokse-). Voi tarkoittaa myös 'kyllä, kiitos' tai 'ei, kiitos'.",
-  kuva: { emoji: "🙏", alt: "kiitos – kiitollisuuden ele" },
+  kuva: { alt: "kiitos – kiitollisuuden ele" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo kiitokse-)",

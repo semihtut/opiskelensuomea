@@ -11,7 +11,7 @@ const te: Word = {
   en: "you (plural / polite)",
   selitys:
     "Monikon 2. persoonan pronomini; myös kohtelias yksikkö (teitittely). Genetiivi teidän = your/yours. Tuttavallinen yksikkö on sinä.",
-  kuva: { emoji: "🫵", alt: "te – osoitetaan useaa puhuteltavaa" },
+  kuva: { alt: "te – osoitetaan useaa puhuteltavaa" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, monikon 2. persoona (myös teitittely)",

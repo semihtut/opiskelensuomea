@@ -11,7 +11,7 @@ const tuote: Word = {
   en: "product",
   selitys:
     "Valmistettu tai tuotettu tavara: 'uusi tuote'. Tyyppi 48, astevaihtelu t:tt (tuote → tuotteen). Juuri verbistä tuottaa. Vrt. palvelu (service), maitotuote (dairy product).",
-  kuva: { emoji: "📦", alt: "tuote – valmistettu tavara" },
+  kuva: { alt: "tuote – valmistettu tavara" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:tt",

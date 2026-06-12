@@ -11,7 +11,7 @@ const kantaa: Word = {
   en: "to carry, to bear; to support",
   selitys:
     "Kuljettaa jotain mukana tai kannatella painoa: 'kannan laukkua' / 'jää kantaa auton'. Astevaihtelu nt:nn (kantaa → kannan), tyypin 56 imperfekti -oi-: kannoin.",
-  kuva: { emoji: "🎒", alt: "kantaa – kuljettaa mukana, kannatella" },
+  kuva: { alt: "kantaa – kuljettaa mukana, kannatella" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-taa, malli kaivaa); astevaihtelu nt:nn; vartalo kanta-",

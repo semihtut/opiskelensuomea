@@ -11,7 +11,7 @@ const pomo: Word = {
   en: "boss",
   selitys:
     "Henkilö, joka johtaa työntekijöitä, esimies (arkinen sana): 'kysy pomolta'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko pomoja. Arkikielinen; virallisempi sana on esimies tai esihenkilö.",
-  kuva: { emoji: "🧑‍💼", alt: "pomo – henkilö, joka johtaa työntekijöitä" },
+  kuva: { alt: "pomo – henkilö, joka johtaa työntekijöitä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

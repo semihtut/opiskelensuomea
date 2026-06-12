@@ -11,7 +11,7 @@ const vasya: Word = {
   en: "to get tired, become fatigued",
   selitys:
     "Tulla väsyneeksi: 'väsyä pitkän päivän jälkeen'. Tyyppi 1 (-yä), Kotus 52/sanoa, ei astevaihtelua. Voi myös tarkoittaa kyllästymistä (väsyä johonkin, illatiivi). Vrt. väsynyt, levätä, jaksaa.",
-  kuva: { emoji: "🥱", alt: "väsyä – tulla väsyneeksi" },
+  kuva: { alt: "väsyä – tulla väsyneeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; ei astevaihtelua (vartalo väsy-)",

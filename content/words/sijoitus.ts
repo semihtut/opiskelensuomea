@@ -11,7 +11,7 @@ const sijoitus: Word = {
   en: "investment; placement, ranking",
   selitys:
     "1) Rahan sijoittaminen tuoton toivossa: 'hyvä sijoitus'. 2) Sijoittuminen tai sijainti, esim. kilpailussa. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä sijoittaa. Vrt. sijoittaa, sijoittaja, tuotto.",
-  kuva: { emoji: "💰", alt: "sijoitus – rahan sijoittaminen tuoton toivossa" },
+  kuva: { alt: "sijoitus – rahan sijoittaminen tuoton toivossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo sijoitukse-)",

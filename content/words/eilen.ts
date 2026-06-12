@@ -10,7 +10,7 @@ const eilen: Word = {
   en: "yesterday",
   selitys:
     "Edellisenä päivänä, tätä päivää ennen: 'eilen satoi'. Taipumaton ajan adverbi. Vrt. tänään (today), huomenna (tomorrow), eilinen (yesterday's). Erityismuoto: eilisiltana = yesterday evening.",
-  kuva: { emoji: "📆", alt: "eilen – edellisenä päivänä" },
+  kuva: { alt: "eilen – edellisenä päivänä" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); taipumaton",

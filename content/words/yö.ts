@@ -10,7 +10,7 @@ const yö: Word = {
   level: "A1",
   en: "night",
   selitys: "Pimeä aika illan ja aamun välissä, nukkumisen aika. Ei astevaihtelua.",
-  kuva: { emoji: "🌙", alt: "yö – kuu ja tähdet" },
+  kuva: { alt: "yö – kuu ja tähdet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 19/suo; ei astevaihtelua",

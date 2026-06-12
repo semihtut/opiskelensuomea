@@ -11,7 +11,7 @@ const ilmasto: Word = {
   en: "climate",
   selitys:
     "Alueen pitkän ajan säätila: 'lämmin ilmasto'. Tyyppi 2, ei astevaihtelua. Johdettu sanasta ilma (+ -sto). Vrt. ilmastonmuutos (climate change), sää (weather — lyhyt aika).",
-  kuva: { emoji: "🌡️", alt: "ilmasto – alueen pitkän ajan säätila" },
+  kuva: { alt: "ilmasto – alueen pitkän ajan säätila" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

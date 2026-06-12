@@ -11,7 +11,7 @@ const aiheuttaa: Word = {
   en: "to cause, bring about",
   selitys:
     "Saada jokin tapahtumaan tai syntymään, usein jotakin kielteistä: 'aiheuttaa vahinkoa'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (aiheutan). Objekti partitiivissa. Johdettu sanasta aihe. Vrt. syy, seuraus.",
-  kuva: { emoji: "⚡", alt: "aiheuttaa – saada jokin tapahtumaan" },
+  kuva: { alt: "aiheuttaa – saada jokin tapahtumaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (aiheuta- ~ aiheutta-)",

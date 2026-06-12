@@ -11,7 +11,7 @@ const tehdä: Word = {
   en: "to do, to make",
   selitys:
     "Yleisverbi toiminnalle ja valmistamiselle. Epäsäännöllinen: taivutusvartalo on teke-, mutta NUT-partisiippi ja imperatiivi käyttävät teh-vartaloa.",
-  kuva: { emoji: "🔨", alt: "tehdä – vasara (tekeminen)" },
+  kuva: { alt: "tehdä – vasara (tekeminen)" },
 
   kielioppi: {
     tyyppi: "epäsäännöllinen (tehdä–nähdä-tyyppi); vartalot teke- / teh-",

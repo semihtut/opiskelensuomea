@@ -11,7 +11,7 @@ const metsa: Word = {
   en: "forest, woods",
   selitys:
     "Laaja puiden peittämä alue. Tyyppi 10, ei astevaihtelua. Keskeinen osa suomalaista luontoa.",
-  kuva: { emoji: "🌲", alt: "metsä – havumetsä" },
+  kuva: { alt: "metsä – havumetsä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

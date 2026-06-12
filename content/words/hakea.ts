@@ -11,7 +11,7 @@ const hakea: Word = {
   en: "to apply (for); to fetch, get; to search for",
   selitys:
     "1) Pyrkiä saamaan paikka tai etuus: 'hakea työtä', 'hakea yliopistoon'. 2) Noutaa: 'hakea lapsi koulusta'. 3) Etsiä. Tyyppi 1 (-ea), Kotus 58/laskea, astevaihtelu k:∅ (haen). Vrt. hakemus, hakija, etsiä.",
-  kuva: { emoji: "🔎", alt: "hakea – pyrkiä saamaan tai noutaa jokin" },
+  kuva: { alt: "hakea – pyrkiä saamaan tai noutaa jokin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ea), Kotus 58/laskea; astevaihtelu k:∅ (hae- ~ hake-)",

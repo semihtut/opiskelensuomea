@@ -11,7 +11,7 @@ const tallentaa: Word = {
   en: "to save, store, record",
   selitys:
     "Säilöä tieto tai tallenne muistiin: 'tallentaa tiedosto'. Tyyppi 1 (-aa), Kotus 54/huutaa, astevaihtelu nt:nn (tallennan) ja imperfektissä t→s (tallensin). Vrt. tallenne, tallennus, säilyttää.",
-  kuva: { emoji: "💾", alt: "tallentaa – säilöä tieto tai tallenne muistiin" },
+  kuva: { alt: "tallentaa – säilöä tieto tai tallenne muistiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 54/huutaa; astevaihtelu nt:nn + imperfektin t→s",

@@ -11,7 +11,7 @@ const muutos: Word = {
   en: "change, alteration",
   selitys:
     "Se, kun jokin muuttuu toisenlaiseksi: 'suuri muutos'. Tyyppi 39, ei astevaihtelua; vartalo muutokse-. Partitiivin monikko muutoksia. Johdettu verbistä muuttua. Vrt. ilmastonmuutos.",
-  kuva: { emoji: "🔄", alt: "muutos – se, kun jokin muuttuu toisenlaiseksi" },
+  kuva: { alt: "muutos – se, kun jokin muuttuu toisenlaiseksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo muutokse-",

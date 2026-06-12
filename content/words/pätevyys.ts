@@ -11,7 +11,7 @@ const patevyys: Word = {
   en: "competence, qualification",
   selitys:
     "Kyky tai virallinen kelpoisuus hoitaa tehtävä: 'opettajan pätevyys', 'muodollinen pätevyys'. Tyyppi 40/kalleus, astevaihtelu t:d (pätevyys → pätevyyden). Johdettu adjektiivista pätevä (+ -yys). Vrt. pätevä, kelpoisuus, osaaminen.",
-  kuva: { emoji: "🎓", alt: "pätevyys – kyky tai kelpoisuus hoitaa tehtävä" },
+  kuva: { alt: "pätevyys – kyky tai kelpoisuus hoitaa tehtävä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (pätevyyte- ~ pätevyyde-)",

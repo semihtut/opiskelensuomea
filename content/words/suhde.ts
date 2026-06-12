@@ -11,7 +11,7 @@ const suhde: Word = {
   en: "relationship, relation; ratio",
   selitys:
     "Kahden asian tai ihmisen välinen yhteys: 'läheinen suhde', 'kahden luvun suhde'. Tyyppi 48/hame, astevaihtelu t:d (nominatiivi suhde heikko, vartalo suhtee-). Vrt. suhtautua, ihmissuhde, suhteellinen.",
-  kuva: { emoji: "🔗", alt: "suhde – kahden asian tai ihmisen välinen yhteys" },
+  kuva: { alt: "suhde – kahden asian tai ihmisen välinen yhteys" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d (vartalo suhtee-)",

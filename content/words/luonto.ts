@@ -11,7 +11,7 @@ const luonto: Word = {
   en: "nature",
   selitys:
     "Ihmisen tekemätön maailma: kasvit, eläimet ja maisema: 'suojella luontoa'. Tyyppi 1, astevaihtelu nt:nn (luonto → luonnon). Johdettu sanasta luoda. Vrt. luonnollinen (natural), luonne (character).",
-  kuva: { emoji: "🌿", alt: "luonto – ihmisen tekemätön maailma" },
+  kuva: { alt: "luonto – ihmisen tekemätön maailma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (luonto ↔ luonno-)",

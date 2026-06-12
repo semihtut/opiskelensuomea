@@ -11,7 +11,7 @@ const varmistaa: Word = {
   en: "to ensure, make sure; to confirm; to secure",
   selitys:
     "Tehdä jokin varmaksi tai tarkistaa, että asia on kunnossa: 'varmistaa, että ovi on lukossa'. Tyyppi 1 (-aa), Kotus 53/muistaa, ei astevaihtelua (st säilyy). Johdettu adjektiivista varma. Vrt. varma, varmistus, tarkistaa.",
-  kuva: { emoji: "✔️", alt: "varmistaa – tehdä jokin varmaksi tai tarkistaa että asia on kunnossa" },
+  kuva: { alt: "varmistaa – tehdä jokin varmaksi tai tarkistaa että asia on kunnossa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; ei astevaihtelua (st-yhtymä säilyy)",

@@ -11,7 +11,7 @@ const itkeä: Word = {
   en: "to cry, weep",
   selitys:
     "Vuodattaa kyyneliä surusta tai liikutuksesta: 'itkeä onnesta'. Tyyppi 1 (-eä), tyyppi 58/laskea, ei astevaihtelua (tk säilyy). Vrt. itku (crying), itkettää (to bring to tears).",
-  kuva: { emoji: "😢", alt: "itkeä – vuodattaa kyyneliä" },
+  kuva: { alt: "itkeä – vuodattaa kyyneliä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-eä), Kotus 58/laskea; ei astevaihtelua; vartalo itke-",

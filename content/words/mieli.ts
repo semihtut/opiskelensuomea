@@ -11,7 +11,7 @@ const mieli: Word = {
   en: "mind; mood; mind to do something",
   selitys:
     "Ihmisen ajatusten ja tunteiden kokonaisuus, tai halu tehdä jotakin: 'tulla mieleen' / 'hyvällä mielellä'. Tyyppi 26, ei astevaihtelua; partitiivi mieltä. Vrt. mielipide (opinion), mieliala (mood).",
-  kuva: { emoji: "💭", alt: "mieli – ajatusten ja tunteiden kokonaisuus" },
+  kuva: { alt: "mieli – ajatusten ja tunteiden kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua",

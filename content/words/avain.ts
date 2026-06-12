@@ -11,7 +11,7 @@ const avain: Word = {
   en: "key",
   selitys:
     "Esine, jolla lukko avataan tai suljetaan; myös kuvaannollisesti ratkaisun avain. Vartalo avaime-, ei astevaihtelua.",
-  kuva: { emoji: "🔑", alt: "avain – lukon avain" },
+  kuva: { alt: "avain – lukon avain" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 33/kytkin; ei astevaihtelua (vartalo avaime-)",

@@ -11,7 +11,7 @@ const huone: Word = {
   en: "room",
   selitys:
     "Talon tai asunnon erillinen tila, esim. makuuhuone tai olohuone. Vartalo huonee-, ei astevaihtelua.",
-  kuva: { emoji: "🛋️", alt: "huone – sisustettu huone" },
+  kuva: { alt: "huone – sisustettu huone" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo huonee-)",

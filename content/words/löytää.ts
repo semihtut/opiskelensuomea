@@ -11,7 +11,7 @@ const loytaa: Word = {
   en: "to find",
   selitys:
     "Saada käsiinsä jotakin etsittyä tai sattumalta. Tyyppi 1, astevaihtelu t:d (löytä- → löydä-). Imperfekti on poikkeava: löysin (t → s). Vrt. etsiä (= search).",
-  kuva: { emoji: "🔎", alt: "löytää – löytämisen oivallus" },
+  kuva: { alt: "löytää – löytämisen oivallus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); t:d-astevaihtelu; poikkeava imperfekti löysin",

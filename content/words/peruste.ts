@@ -11,7 +11,7 @@ const peruste: Word = {
   en: "grounds, reason, basis",
   selitys:
     "Syy tai perustelu, jonka nojalla jotakin tehdään: 'millä perusteella?'. Tyyppi 48/hame, ei astevaihtelua; vartalo perustee-. Johdettu verbistä perustaa/perustella. Vrt. perustella, perustelu, perusteltu.",
-  kuva: { emoji: "🧱", alt: "peruste – syy tai perustelu jonka nojalla toimitaan" },
+  kuva: { alt: "peruste – syy tai perustelu jonka nojalla toimitaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo perustee-)",

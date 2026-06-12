@@ -11,7 +11,7 @@ const puhelin: Word = {
   en: "telephone, phone",
   selitys:
     "Laite puheluihin ja viesteihin. Tyyppi 33, ei astevaihtelua, mutta konsonanttivartalo: puhelin → puhelime-. Sanasta puhella + -in.",
-  kuva: { emoji: "📱", alt: "puhelin – matkapuhelin" },
+  kuva: { alt: "puhelin – matkapuhelin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 33/kytkin; ei astevaihtelua, konsonanttivartalo (n → m)",

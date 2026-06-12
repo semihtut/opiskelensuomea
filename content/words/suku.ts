@@ -11,7 +11,7 @@ const suku: Word = {
   en: "family (extended), kin, relatives",
   selitys:
     "Saman suvun jäsenet; sukulaiset laajemmin. Tyyppi 1/valo, astevaihtelu k:v: suku → suvun. Vrt. perhe (lähiperhe) ja sukulainen (relative).",
-  kuva: { emoji: "🌳", alt: "suku – sukupuu ja sukulaiset" },
+  kuva: { alt: "suku – sukupuu ja sukulaiset" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu k:v",

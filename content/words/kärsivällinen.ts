@@ -11,7 +11,7 @@ const kärsivällinen: Word = {
   en: "patient",
   selitys:
     "Sellainen, joka jaksaa odottaa rauhallisesti ilman ärtymystä: 'kärsivällinen opettaja'. Tyyppi 38, ei astevaihtelua; vartalo kärsivällise-. Johdettu verbistä kärsiä. Vastakohta kärsimätön.",
-  kuva: { emoji: "⏳", alt: "kärsivällinen – jaksaa odottaa rauhallisesti" },
+  kuva: { alt: "kärsivällinen – jaksaa odottaa rauhallisesti" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo kärsivällise-",

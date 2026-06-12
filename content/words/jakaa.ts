@@ -11,7 +11,7 @@ const jakaa: Word = {
   en: "to divide, share, distribute",
   selitys:
     "Antaa osiin tai useammalle: 'jaan kakun' / 'jaan tiedon'. Tyyppi 56, astevaihtelu k:∅ (jakaa → jaan), imperfekti -oi-: jaoin. Vrt. osa (part), jako (division).",
-  kuva: { emoji: "🍰", alt: "jakaa – antaa osiin tai useammalle" },
+  kuva: { alt: "jakaa – antaa osiin tai useammalle" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa, malli kaivaa); astevaihtelu k:∅; vartalo jaka-",

@@ -11,7 +11,7 @@ const kokous: Word = {
   en: "meeting, assembly, conference",
   selitys:
     "Virallinen tapaaminen, jossa keskustellaan asioista: 'pitää kokous'. Tyyppi 39, ei astevaihtelua. Juuri koota/koko-. Arkisempi synonyymi palaveri.",
-  kuva: { emoji: "👥", alt: "kokous – virallinen tapaaminen" },
+  kuva: { alt: "kokous – virallinen tapaaminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo kokoukse-)",

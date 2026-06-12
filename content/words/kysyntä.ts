@@ -11,7 +11,7 @@ const kysynta: Word = {
   en: "demand (economics)",
   selitys:
     "Halukkuus ostaa tuotetta tai palvelua: 'kysyntä ja tarjonta'. Tyyppi 9/kala, astevaihtelu nt:nn (kysyntä → kysynnän). Yleensä yksikössä. Johdettu verbistä kysyä. Vastakohta tarjonta. Vrt. kysyä, tarjonta.",
-  kuva: { emoji: "🛒", alt: "kysyntä – halukkuus ostaa tuotetta tai palvelua" },
+  kuva: { alt: "kysyntä – halukkuus ostaa tuotetta tai palvelua" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (vartalo kysynnä-)",

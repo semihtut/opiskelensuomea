@@ -11,7 +11,7 @@ const se: Word = {
   en: "it; that",
   selitys:
     "Neutraali osoittava pronomini (it / that). Genetiivi sen, partitiivi sitä. Monikko ne. Puhekielessä myös ihmisestä (= hän) ja eläimistä/esineistä.",
-  kuva: { emoji: "📦", alt: "se – viitataan esineeseen tai asiaan" },
+  kuva: { alt: "se – viitataan esineeseen tai asiaan" },
 
   kielioppi: {
     tyyppi: "demonstratiivipronomini (neutraali); epäsäännöllinen vartalo si-/se-",

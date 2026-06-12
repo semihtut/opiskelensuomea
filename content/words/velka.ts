@@ -11,7 +11,7 @@ const velka: Word = {
   en: "debt",
   selitys:
     "Raha, joka on lainattu ja pitää maksaa takaisin: 'olla velkaa'. Tyyppi 9, astevaihtelu k:∅ (velka → velan). Partitiivin monikko velkoja. Vrt. velallinen (debtor), velaton (debt-free).",
-  kuva: { emoji: "📉", alt: "velka – takaisin maksettava raha" },
+  kuva: { alt: "velka – takaisin maksettava raha" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu k:∅ (velka ↔ vela-)",

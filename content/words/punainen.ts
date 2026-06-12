@@ -11,7 +11,7 @@ const punainen: Word = {
   en: "red",
   selitys:
     "Veren ja kypsän tomaatin väri. Tyyppi 38, ei astevaihtelua. Taivutusvartalo punais-.",
-  kuva: { emoji: "🔴", alt: "punainen – punainen väri" },
+  kuva: { alt: "punainen – punainen väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

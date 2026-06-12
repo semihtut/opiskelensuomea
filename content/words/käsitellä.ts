@@ -11,7 +11,7 @@ const kasitella: Word = {
   en: "to handle, deal with, process; to discuss",
   selitys:
     "1) Hoitaa tai käydä läpi asia: 'käsitellä hakemus', 'käsitellä asia kokouksessa'. 2) Käsitellä jotakin fyysisesti tai aineella. 3) Käsitellä aihetta puheessa. Tyyppi 3 (-llä), Kotus 67/tulla, astevaihtelu tt:t (käsittelen). Frekventatiivi verbistä käsittää. Vrt. käsittää, käsi, käsittely.",
-  kuva: { emoji: "🗃️", alt: "käsitellä – hoitaa, käydä läpi tai käsitellä asia" },
+  kuva: { alt: "käsitellä – hoitaa, käydä läpi tai käsitellä asia" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä), Kotus 67/tulla; astevaihtelu tt:t (käsittele- ~ käsitellä)",

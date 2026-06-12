@@ -11,7 +11,7 @@ const valinta: Word = {
   en: "choice, selection",
   selitys:
     "Valitseminen tai valittu vaihtoehto: 'tehdä valinta'. Tyyppi 9/kala, astevaihtelu nt:nn (valinta → valinnan), partitiivin monikko valintoja. Johdettu verbistä valita. Vrt. valita, vaihtoehto, valikoima.",
-  kuva: { emoji: "🗳️", alt: "valinta – valitseminen tai valittu vaihtoehto" },
+  kuva: { alt: "valinta – valitseminen tai valittu vaihtoehto" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (vartalo valinna-)",

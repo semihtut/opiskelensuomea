@@ -11,7 +11,7 @@ const heikentya: Word = {
   en: "to weaken, deteriorate, decline",
   selitys:
     "Tulla heikommaksi tai huonommaksi: 'näkö heikentyi iän myötä'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu nt:nn (heikennyn). Intransitiivinen (transit. heikentää). Johdettu sanasta heikko. Vastakohta vahvistua. Vrt. heikko, heikentää.",
-  kuva: { emoji: "📉", alt: "heikentyä – tulla heikommaksi tai huonommaksi" },
+  kuva: { alt: "heikentyä – tulla heikommaksi tai huonommaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu nt:nn (heikenty- ~ heikenny-)",

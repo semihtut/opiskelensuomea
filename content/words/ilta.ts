@@ -10,7 +10,7 @@ const ilta: Word = {
   level: "A1",
   en: "evening",
   selitys: "Päivän loppuosa, iltapäivän ja yön välinen aika. Astevaihtelu lt:ll (ilta → illan).",
-  kuva: { emoji: "🌆", alt: "ilta – iltahämärä kaupungissa" },
+  kuva: { alt: "ilta – iltahämärä kaupungissa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu lt:ll (ilta → illan)",

@@ -11,7 +11,7 @@ const aurinko: Word = {
   en: "sun",
   selitys:
     "Tähti, joka antaa valon ja lämmön. Tyyppi 1, astevaihtelu nk:ng (aurinko → auringon). Yleensä yksikössä.",
-  kuva: { emoji: "☀️", alt: "aurinko – paistava aurinko" },
+  kuva: { alt: "aurinko – paistava aurinko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nk:ng",

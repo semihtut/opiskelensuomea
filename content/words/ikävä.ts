@@ -11,7 +11,7 @@ const ikava: Word = {
   en: "boring, unpleasant; (noun) longing, missing",
   selitys:
     "1) Adjektiivina: ikävä = tylsä tai epämiellyttävä ('ikävä sää'). 2) Substantiivina: ikävä = kaipaus ('minulla on ikävä sinua'). Tyyppi 10/koira, ei astevaihtelua. Vrt. ikävöidä, kaivata, tylsä.",
-  kuva: { emoji: "😔", alt: "ikävä – tylsä tai epämiellyttävä; myös kaipaus" },
+  kuva: { alt: "ikävä – tylsä tai epämiellyttävä; myös kaipaus" },
 
   kielioppi: {
     tyyppi: "adjektiivi/substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo ikävä-)",

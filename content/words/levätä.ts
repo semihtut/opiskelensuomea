@@ -11,7 +11,7 @@ const levata: Word = {
   en: "to rest, take a break",
   selitys:
     "Olla rauhassa ja palauttaa voimia: 'levätä hetki'. Tyyppi 4 (-ätä), Kotus 73/salata, astevaihtelu p:v (lepään vahva, levätä/levännyt heikko). Vrt. lepo, levollinen, väsyä.",
-  kuva: { emoji: "🛌", alt: "levätä – olla rauhassa ja palauttaa voimia" },
+  kuva: { alt: "levätä – olla rauhassa ja palauttaa voimia" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ätä), Kotus 73/salata; astevaihtelu p:v (lepää- ~ levä-)",

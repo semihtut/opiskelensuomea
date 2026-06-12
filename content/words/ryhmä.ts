@@ -11,7 +11,7 @@ const ryhma: Word = {
   en: "group",
   selitys:
     "Yhteen kuuluvien ihmisten tai asioiden joukko: 'opiskeluryhmä', 'pieni ryhmä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko ryhmiä. Vrt. joukko, ryhmittää, tiimi.",
-  kuva: { emoji: "👥", alt: "ryhmä – yhteen kuuluvien ihmisten tai asioiden joukko" },
+  kuva: { alt: "ryhmä – yhteen kuuluvien ihmisten tai asioiden joukko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo ryhmä-)",

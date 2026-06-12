@@ -11,7 +11,7 @@ const aineisto: Word = {
   en: "material, data, body of sources",
   selitys:
     "Kerätty tieto tai materiaali, jota käytetään esim. tutkimuksessa: 'tutkimusaineisto'. Tyyppi 1/valo, ei astevaihtelua (st säilyy). Johdettu sanasta aine. Vrt. aine, materiaali, data.",
-  kuva: { emoji: "🗂️", alt: "aineisto – kerätty tieto tai materiaali tutkimusta varten" },
+  kuva: { alt: "aineisto – kerätty tieto tai materiaali tutkimusta varten" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo aineisto-)",

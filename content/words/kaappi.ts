@@ -11,7 +11,7 @@ const kaappi: Word = {
   en: "cupboard, cabinet, closet",
   selitys:
     "Säilytyskaluste, jossa on ovet ja hyllyt. Tyyppi 5, astevaihtelu pp:p (kaappi → kaapin).",
-  kuva: { emoji: "🗄️", alt: "kaappi – säilytyskaappi" },
+  kuva: { alt: "kaappi – säilytyskaappi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu pp:p",

@@ -11,7 +11,7 @@ const joustava: Word = {
   en: "flexible, adaptable",
   selitys:
     "Taipuisa tai sopeutuva, sekä konkreettisesti että käytökseltään: 'joustava työaika'. Tyyppi 10/koira, ei astevaihtelua. Verbin joustaa partisiippi. Vastakohta jäykkä. Vrt. joustaa, joustavuus.",
-  kuva: { emoji: "🤸", alt: "joustava – taipuisa ja sopeutuva" },
+  kuva: { alt: "joustava – taipuisa ja sopeutuva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo joustava-)",

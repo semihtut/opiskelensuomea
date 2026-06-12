@@ -11,7 +11,7 @@ const paatos: Word = {
   en: "decision; conclusion, ending",
   selitys:
     "Lopullinen valinta tai jonkin loppu: 'tehdä päätös'. Tyyppi 39, verbijohdos sanasta päättää (-ös → -ökse-), ei astevaihtelua. Vrt. päättää (to decide / to end), päätie (decision).",
-  kuva: { emoji: "✅", alt: "päätös – lopullinen valinta" },
+  kuva: { alt: "päätös – lopullinen valinta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; verbijohdos (-ös → -ökse-); ei astevaihtelua",

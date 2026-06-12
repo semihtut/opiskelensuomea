@@ -11,7 +11,7 @@ const vaatimaton: Word = {
   en: "modest, humble, unassuming",
   selitys:
     "Sellainen, joka ei kersku eikä vaadi paljon; myös: pieni tai yksinkertainen: 'vaatimaton koti'. Tyyppi 34/onneton, astevaihtelu tt:t (vaatimaton → vaatimattoman). Kieltojohdos (vaatia + -maton). Vastakohta vaativa, ylpeä. Vrt. vaatia, vaatimattomuus.",
-  kuva: { emoji: "🙇", alt: "vaatimaton – vähään tyytyvä, kerskumaton" },
+  kuva: { alt: "vaatimaton – vähään tyytyvä, kerskumaton" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 34/onneton; astevaihtelu tt:t (vartalo vaatimattoma-)",

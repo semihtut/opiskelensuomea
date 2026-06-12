@@ -11,7 +11,7 @@ const uudistus: Word = {
   en: "reform, renewal",
   selitys:
     "Muutos, jolla jokin uudistetaan tai nykyaikaistetaan: 'koulutuksen uudistus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä uudistaa. Vrt. uudistaa, uudistua, muutos.",
-  kuva: { emoji: "🆕", alt: "uudistus – muutos jolla jokin uudistetaan" },
+  kuva: { alt: "uudistus – muutos jolla jokin uudistetaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo uudistukse-)",

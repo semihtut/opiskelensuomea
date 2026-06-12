@@ -11,7 +11,7 @@ const passi: Word = {
   en: "passport",
   selitys:
     "Virallinen matkustusasiakirja, joka todistaa henkilöllisyyden ulkomailla: 'voimassa oleva passi'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko passeja. Vrt. passintarkastus, henkilökortti.",
-  kuva: { emoji: "🛂", alt: "passi – virallinen matkustusasiakirja" },
+  kuva: { alt: "passi – virallinen matkustusasiakirja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

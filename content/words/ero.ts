@@ -11,7 +11,7 @@ const ero: Word = {
   en: "difference; separation, divorce",
   selitys:
     "Se, missä kaksi asiaa poikkeavat — tai eroaminen: 'iso ero' / 'avioero'. Tyyppi 1, ei astevaihtelua. Vrt. erota (to differ / to resign), erilainen (different).",
-  kuva: { emoji: "↔️", alt: "ero – kahden asian poikkeavuus" },
+  kuva: { alt: "ero – kahden asian poikkeavuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

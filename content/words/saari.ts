@@ -11,7 +11,7 @@ const saari: Word = {
   en: "island",
   selitys:
     "Veden ympäröimä maa-alue: 'pieni saari'. Tyyppi 26, ei astevaihtelua, vartalo saare-. Partitiivi saarta. Vrt. saaristo (archipelago), saarelainen (islander).",
-  kuva: { emoji: "🏝️", alt: "saari – veden ympäröimä maa-alue" },
+  kuva: { alt: "saari – veden ympäröimä maa-alue" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo saare-)",

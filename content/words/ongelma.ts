@@ -11,7 +11,7 @@ const ongelma: Word = {
   en: "problem, issue",
   selitys:
     "Vaikea tilanne, joka pitää ratkaista: 'iso ongelma'. Tyyppi 10, ei astevaihtelua. Vrt. ratkaista (to solve), ratkaisu (solution). 'Ei ongelmaa!' = No problem!",
-  kuva: { emoji: "⚠️", alt: "ongelma – vaikea ratkaistava tilanne" },
+  kuva: { alt: "ongelma – vaikea ratkaistava tilanne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

@@ -11,7 +11,7 @@ const lisata: Word = {
   en: "to add; to increase",
   selitys:
     "Panna jotain lisää: 'lisää suolaa'. Tyyppi 4 (-ätä): lisätä → lisään. Kohde illatiivissa: 'lisään vettä kattilaan'. Vrt. vähentää (to reduce), lisä (addition).",
-  kuva: { emoji: "➕", alt: "lisätä – panna jotain lisää" },
+  kuva: { alt: "lisätä – panna jotain lisää" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ätä); ei astevaihtelua; vartalo lisää-",

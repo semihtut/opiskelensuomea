@@ -11,7 +11,7 @@ const paalla: Word = {
   en: "on top (of), on",
   selitys:
     "Yläpuolella, pinnalla. Paikallissarja: päällä (missä) – päältä (mistä) – päälle (mihin). Postpositiona genetiivin kanssa: 'pöydän päällä'. Vastakohta alla.",
-  kuva: { emoji: "⬆️", alt: "päällä – jonkin pinnalla" },
+  kuva: { alt: "päällä – jonkin pinnalla" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

@@ -11,7 +11,7 @@ const liian: Word = {
   en: "too (excessively)",
   selitys:
     "Enemmän kuin sopiva: 'liian iso' = too big. Asteen adverbi adjektiivin/adverbin edellä. Pohjana liika (excess). Määrästä: 'liikaa' = too much.",
-  kuva: { emoji: "🚫", alt: "liian – liikaa, yli sopivan" },
+  kuva: { alt: "liian – liikaa, yli sopivan" },
 
   kielioppi: {
     tyyppi: "asteen adverbi (liika-sanan genetiivi); taipumaton",

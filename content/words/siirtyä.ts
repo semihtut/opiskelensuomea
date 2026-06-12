@@ -11,7 +11,7 @@ const siirtya: Word = {
   en: "to move, shift, transfer, transition",
   selitys:
     "Vaihtaa paikkaa tai siirtyä vaiheesta toiseen: 'siirtyä työelämään'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu rt:rr (siirryn). Intransitiivinen (transit. siirtää). Hallitsee usein illatiivia. Vrt. siirtää, siirto.",
-  kuva: { emoji: "➡️", alt: "siirtyä – vaihtaa paikkaa tai vaihetta" },
+  kuva: { alt: "siirtyä – vaihtaa paikkaa tai vaihetta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu rt:rr (siirty- ~ siirry-)",

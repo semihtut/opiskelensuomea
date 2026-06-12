@@ -11,7 +11,7 @@ const virkailija: Word = {
   en: "clerk, official, attendant",
   selitys:
     "Henkilö, joka palvelee asiakkaita virastossa tai toimistossa: 'pankkivirkailija', 'asioida virkailijan kanssa'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko virkailijoita. Sanasta virka. Vrt. virka, virasto, viranomainen.",
-  kuva: { emoji: "💁", alt: "virkailija – henkilö joka palvelee asiakkaita virastossa tai toimistossa" },
+  kuva: { alt: "virkailija – henkilö joka palvelee asiakkaita virastossa tai toimistossa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo virkailija-)",

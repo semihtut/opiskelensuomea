@@ -11,7 +11,7 @@ const ymmartaa: Word = {
   en: "to understand",
   selitys:
     "Käsittää merkitys tai syy. Tyyppi 1, astevaihtelu rt:rr (ymmärtä- → ymmärrä-). Imperfekti on poikkeava: ymmärsin (rt → rs).",
-  kuva: { emoji: "💡", alt: "ymmärtää – ymmärryksen oivallus" },
+  kuva: { alt: "ymmärtää – ymmärryksen oivallus" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää); rt:rr-astevaihtelu; poikkeava imperfekti ymmärsin",

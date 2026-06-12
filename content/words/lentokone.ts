@@ -11,7 +11,7 @@ const lentokone: Word = {
   en: "airplane, aircraft",
   selitys:
     "Ilmassa lentävä kulkuneuvo: 'nousta lentokoneeseen'. Yhdyssana lento + kone. Tyyppi 48, ei astevaihtelua; vartalo lentokonee-. Partitiivin monikko lentokoneita. Arkikielessä myös lentsikka.",
-  kuva: { emoji: "✈️", alt: "lentokone – ilmassa lentävä kulkuneuvo" },
+  kuva: { alt: "lentokone – ilmassa lentävä kulkuneuvo" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua; vartalo lentokonee-",

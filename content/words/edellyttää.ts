@@ -11,7 +11,7 @@ const edellyttaa: Word = {
   en: "to require, presuppose, call for",
   selitys:
     "Vaatia jotakin ehtona tai oletuksena: 'menestys edellyttää työtä'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (edellytän). Objekti partitiivissa. Hieman muodollisempi kuin vaatia. Vrt. edellytys, ehto.",
-  kuva: { emoji: "🔑", alt: "edellyttää – vaatia jotakin ehtona tai oletuksena" },
+  kuva: { alt: "edellyttää – vaatia jotakin ehtona tai oletuksena" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (edellytä- ~ edellyttä-)",

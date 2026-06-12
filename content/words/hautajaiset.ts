@@ -11,7 +11,7 @@ const hautajaiset: Word = {
   en: "funeral",
   selitys:
     "Vainajan muistamiseen ja hautaamiseen liittyvä tilaisuus. Monikkosana (plurale tantum): aina monikossa, 'mennä hautajaisiin', 'olla hautajaisissa'. Sanasta hauta. Vrt. hauta, kuolema, muistotilaisuus.",
-  kuva: { emoji: "⚰️", alt: "hautajaiset – vainajan hautaamiseen liittyvä tilaisuus" },
+  kuva: { alt: "hautajaiset – vainajan hautaamiseen liittyvä tilaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, monikkosana (plurale tantum); ei yksikkömuotoa",

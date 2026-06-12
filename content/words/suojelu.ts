@@ -11,7 +11,7 @@ const suojelu: Word = {
   en: "protection, conservation",
   selitys:
     "Suojeleminen, varjeleminen vahingolta: 'luonnonsuojelu'. Tyyppi 2/palvelu, ei astevaihtelua. Johdettu verbistä suojella. Vrt. suojella, suoja, ympäristönsuojelu.",
-  kuva: { emoji: "🌿", alt: "suojelu – suojeleminen ja varjeleminen vahingolta" },
+  kuva: { alt: "suojelu – suojeleminen ja varjeleminen vahingolta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua (vartalo suojelu-)",

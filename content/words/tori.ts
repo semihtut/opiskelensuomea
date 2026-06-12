@@ -11,7 +11,7 @@ const tori: Word = {
   en: "market square; square",
   selitys:
     "Avoin paikka kaupungissa, jossa myydään tavaraa. Tyyppi 5, ei astevaihtelua.",
-  kuva: { emoji: "🧺", alt: "tori – torikojuja kauppatorilla" },
+  kuva: { alt: "tori – torikojuja kauppatorilla" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

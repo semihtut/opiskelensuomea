@@ -11,7 +11,7 @@ const kasvaa: Word = {
   en: "to grow",
   selitys:
     "Tulla suuremmaksi tai vanhemmaksi; lisääntyä. Tyyppi 1, ei astevaihtelua: kasvaa → kasvan (imperfekti kasvoin). Vrt. kasvattaa (kasvattaa jotakin).",
-  kuva: { emoji: "📈", alt: "kasvaa – kasvi tai määrä kasvaa" },
+  kuva: { alt: "kasvaa – kasvi tai määrä kasvaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); ei astevaihtelua; imperfekti a → o (kasvoin)",

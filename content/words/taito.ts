@@ -11,7 +11,7 @@ const taito: Word = {
   en: "skill, ability",
   selitys:
     "Kyky tehdä jotakin hyvin, opittu osaaminen: 'kielitaito'. Tyyppi 1, astevaihtelu t:d (taito → taidon). Partitiivin monikko taitoja. Vrt. taitava (skilful), taitaa (to know how / be able).",
-  kuva: { emoji: "🎯", alt: "taito – kyky tehdä jotakin hyvin" },
+  kuva: { alt: "taito – kyky tehdä jotakin hyvin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (taito ↔ taido-)",

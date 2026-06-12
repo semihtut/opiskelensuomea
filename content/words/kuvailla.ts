@@ -11,7 +11,7 @@ const kuvailla: Word = {
   en: "to describe, depict",
   selitys:
     "Kertoa sanoin, millainen jokin tai joku on: 'kuvailla maisemaa'. Tyyppi 3 (-lla), Kotus 67/tulla, ei astevaihtelua; vartalo kuvaile-. Verbin kuvata frekventatiivi. Objekti partitiivissa. Vrt. kuvaus, kuvata.",
-  kuva: { emoji: "🖼️", alt: "kuvailla – kertoa sanoin, millainen jokin on" },
+  kuva: { alt: "kuvailla – kertoa sanoin, millainen jokin on" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; ei astevaihtelua; vartalo kuvaile-",

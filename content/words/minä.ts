@@ -11,7 +11,7 @@ const mina: Word = {
   en: "I, me",
   selitys:
     "Yksikön 1. persoonan pronomini (puhuja). Genetiivi minun = my/mine. Monikko on me. Puhekielessä usein 'mä'.",
-  kuva: { emoji: "🙋", alt: "minä – puhuja osoittaa itseään" },
+  kuva: { alt: "minä – puhuja osoittaa itseään" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, yksikön 1. persoona",

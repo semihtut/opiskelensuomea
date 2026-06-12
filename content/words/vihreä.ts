@@ -11,7 +11,7 @@ const vihrea: Word = {
   en: "green",
   selitys:
     "Ruohon ja lehtien väri. Tyyppi 15, ei astevaihtelua. Monikon partitiivi vihreitä. Myös poliittinen merkitys (vihreät).",
-  kuva: { emoji: "🟢", alt: "vihreä – vihreä väri" },
+  kuva: { alt: "vihreä – vihreä väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

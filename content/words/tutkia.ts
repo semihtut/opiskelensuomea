@@ -11,7 +11,7 @@ const tutkia: Word = {
   en: "to research, investigate, examine, explore",
   selitys:
     "Selvittää jotakin huolellisesti, tehdä tutkimusta: 'tutkia ilmiötä'. Tyyppi 1 (-ia), ei astevaihtelua (tk säilyy); vartalo tutki-. Vrt. tutkimus (research), tutkija (researcher), tutkinto (degree).",
-  kuva: { emoji: "🔬", alt: "tutkia – selvittää jotakin huolellisesti" },
+  kuva: { alt: "tutkia – selvittää jotakin huolellisesti" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia); ei astevaihtelua; vartalo tutki-",

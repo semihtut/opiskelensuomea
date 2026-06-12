@@ -11,7 +11,7 @@ const he: Word = {
   en: "they (of people)",
   selitys:
     "Monikon 3. persoonan pronomini ihmisistä. Genetiivi heidän = their/theirs. Yksikkö on hän. Esineistä ja eläimistä käytetään 'ne'.",
-  kuva: { emoji: "👫", alt: "he – ryhmä muita ihmisiä" },
+  kuva: { alt: "he – ryhmä muita ihmisiä" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, monikon 3. persoona",

@@ -11,7 +11,7 @@ const me: Word = {
   en: "we, us",
   selitys:
     "Monikon 1. persoonan pronomini (puhuja + muut). Genetiivi meidän = our/ours. Yksikkö on minä.",
-  kuva: { emoji: "👥", alt: "me – ryhmä, johon puhuja kuuluu" },
+  kuva: { alt: "me – ryhmä, johon puhuja kuuluu" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, monikon 1. persoona",

@@ -11,7 +11,7 @@ const ura: Word = {
   en: "career; track, groove",
   selitys:
     "Ihmisen ammatillinen kehityspolku: 'tehdä uraa', 'pitkä ura'. Myös konkreettinen ura tai vako (esim. suksen ura). Tyyppi 10/koira, ei astevaihtelua. Vrt. urakehitys, uraputki, ammatti.",
-  kuva: { emoji: "📈", alt: "ura – ihmisen ammatillinen kehityspolku" },
+  kuva: { alt: "ura – ihmisen ammatillinen kehityspolku" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo ura-)",

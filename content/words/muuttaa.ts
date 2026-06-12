@@ -11,7 +11,7 @@ const muuttaa: Word = {
   en: "to change; to move (relocate)",
   selitys:
     "Tehdä erilaiseksi; vaihtaa asuinpaikkaa. Tyyppi 1, astevaihtelu tt:t: muuttaa → muutan. 'Muuttaa jonnekin' = to move (to a place).",
-  kuva: { emoji: "📦", alt: "muuttaa – muutto laatikoiden kanssa" },
+  kuva: { alt: "muuttaa – muutto laatikoiden kanssa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t",

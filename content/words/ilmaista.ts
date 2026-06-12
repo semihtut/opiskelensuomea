@@ -11,7 +11,7 @@ const ilmaista: Word = {
   en: "to express, indicate; to disclose",
   selitys:
     "Tuoda tunne, ajatus tai tieto esiin sanoin tai elein: 'ilmaista mielipiteensä'. Tyyppi 3 (-sta), Kotus 66/rohkaista, ei astevaihtelua; vartalo ilmaise-. NUT-partisiippi ilmaissut. Henkilölle allatiivi. Vrt. ilmaisu, ilmoittaa.",
-  kuva: { emoji: "🗣️", alt: "ilmaista – tuoda ajatus tai tunne esiin" },
+  kuva: { alt: "ilmaista – tuoda ajatus tai tunne esiin" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-sta), Kotus 66/rohkaista; ei astevaihtelua; vartalo ilmaise-",

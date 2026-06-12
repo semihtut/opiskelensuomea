@@ -11,7 +11,7 @@ const vai: Word = {
   en: "or (in questions)",
   selitys:
     "Rinnastuskonjunktio, jota käytetään vaihtoehtokysymyksissä. Ei taivuteta. 'Tuletko sinä vai hän?' Väitelauseessa käytetään tai.",
-  kuva: { emoji: "❔", alt: "vai – vaihtoehtokysymys" },
+  kuva: { alt: "vai – vaihtoehtokysymys" },
 
   kielioppi: {
     tyyppi: "rinnastuskonjunktio (kysymyksen vaihtoehto); taipumaton",

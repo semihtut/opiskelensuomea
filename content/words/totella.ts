@@ -11,7 +11,7 @@ const totella: Word = {
   en: "to obey",
   selitys:
     "Tehdä niin kuin käsketään: 'totella sääntöjä', 'koira tottelee'. Tyyppi 3 (-lla), Kotus 67/tulla, astevaihtelu tt:t (tottelen). Rektio: partitiivi (totella jotakuta/jotakin). Vrt. noudattaa, käsky, tottelematon.",
-  kuva: { emoji: "🫡", alt: "totella – tehdä niin kuin käsketään" },
+  kuva: { alt: "totella – tehdä niin kuin käsketään" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla), Kotus 67/tulla; astevaihtelu tt:t (tottele- ~ totel-)",

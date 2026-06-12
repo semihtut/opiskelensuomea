@@ -11,7 +11,7 @@ const hakemus: Word = {
   en: "application",
   selitys:
     "Kirjallinen pyyntö, jolla haetaan esimerkiksi työpaikkaa tai opiskelupaikkaa: 'lähettää hakemus'. Tyyppi 39, ei astevaihtelua; vartalo hakemukse-. Partitiivin monikko hakemuksia. Johdettu verbistä hakea.",
-  kuva: { emoji: "📝", alt: "hakemus – kirjallinen pyyntö esimerkiksi työpaikasta" },
+  kuva: { alt: "hakemus – kirjallinen pyyntö esimerkiksi työpaikasta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua; vartalo hakemukse-",

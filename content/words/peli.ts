@@ -11,7 +11,7 @@ const peli: Word = {
   en: "game, match",
   selitys:
     "Sääntöjen mukaan pelattava toiminta tai ottelu: 'lautapeli' / 'jalkapallopeli'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko pelejä. Vrt. pelata (to play), pelaaja (player), videopeli (video game).",
-  kuva: { emoji: "🎮", alt: "peli – sääntöjen mukaan pelattava toiminta" },
+  kuva: { alt: "peli – sääntöjen mukaan pelattava toiminta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

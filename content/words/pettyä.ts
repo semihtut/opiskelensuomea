@@ -11,7 +11,7 @@ const pettyä: Word = {
   en: "to be disappointed",
   selitys:
     "Tuntea pettymystä, kun odotukset eivät täyty: 'pettyä lopputulokseen'. Tyyppi 1 (-yä), tyyppi 52/sanoa, astevaihtelu tt:t (petyn ~ pettyy). Johdettu verbistä pettää. Vrt. pettymys (disappointment).",
-  kuva: { emoji: "😞", alt: "pettyä – tuntea pettymystä" },
+  kuva: { alt: "pettyä – tuntea pettymystä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu tt:t (petyn ↔ pettyy)",

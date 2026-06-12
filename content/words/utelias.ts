@@ -11,7 +11,7 @@ const utelias: Word = {
   en: "curious, inquisitive",
   selitys:
     "Sellainen, joka haluaa tietää ja kysellä: 'utelias lapsi'. Tyyppi 41/vieras, ei astevaihtelua; vartalo uteliaa-. Vrt. uteliaisuus, udella. Voi olla myös hieman kielteinen (tunkeileva).",
-  kuva: { emoji: "🐱", alt: "utelias – tiedonhaluinen ja kyselevä" },
+  kuva: { alt: "utelias – tiedonhaluinen ja kyselevä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua (vartalo uteliaa-)",

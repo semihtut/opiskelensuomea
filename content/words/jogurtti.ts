@@ -11,7 +11,7 @@ const jogurtti: Word = {
   en: "yogurt",
   selitys:
     "Hapatettu maitotuote, usein aamiaiseksi: 'marjajogurtti'. Tyyppi 5/risti, astevaihtelu tt:t (jogurtti → jogurtin). Vrt. maito, viili, aamiainen.",
-  kuva: { emoji: "🥣", alt: "jogurtti – hapatettu maitotuote" },
+  kuva: { alt: "jogurtti – hapatettu maitotuote" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (jogurtti ~ jogurti-)",

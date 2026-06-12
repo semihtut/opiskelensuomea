@@ -11,7 +11,7 @@ const jaksaa: Word = {
   en: "to have the energy/strength; to manage; to be bothered",
   selitys:
     "Olla voimia tai jaksamista tehdä jotakin: 'en jaksa enää'. Tyyppi 1 (-aa), Kotus 56/kaivaa, ei astevaihtelua; imperfektissä vartalovokaali a→o (jaksoin). Vrt. jaksaminen, voima, väsyä.",
-  kuva: { emoji: "🔋", alt: "jaksaa – olla voimia tehdä jotakin" },
+  kuva: { alt: "jaksaa – olla voimia tehdä jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 56/kaivaa; ei astevaihtelua; imperfektin a→o (jaksoin)",

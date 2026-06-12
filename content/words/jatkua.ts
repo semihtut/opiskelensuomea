@@ -11,7 +11,7 @@ const jatkua: Word = {
   en: "to continue, go on, last (intransitive)",
   selitys:
     "Olla edelleen käynnissä tai kestää: 'sade jatkuu'. Tyyppi 1 (-ua), tyyppi 52/sanoa, ei astevaihtelua. Intransitiivinen (jokin jatkuu). Johdettu verbistä jatkaa. Vrt. jatko (continuation), jatkuva.",
-  kuva: { emoji: "➡️", alt: "jatkua – olla edelleen käynnissä" },
+  kuva: { alt: "jatkua – olla edelleen käynnissä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; intransitiivinen",

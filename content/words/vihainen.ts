@@ -11,7 +11,7 @@ const vihainen: Word = {
   en: "angry",
   selitys:
     "Tunne, jossa on kiukkuinen ja ärtynyt olo. Tyyppi 38, ei astevaihtelua. Juuri substantiivista viha.",
-  kuva: { emoji: "😠", alt: "vihainen – vihainen, kulmiaan kurtistava ihminen" },
+  kuva: { alt: "vihainen – vihainen, kulmiaan kurtistava ihminen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

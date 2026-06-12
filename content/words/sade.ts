@@ -12,7 +12,7 @@ const sade: Word = {
   en: "rain; precipitation",
   selitys:
     "Taivaalta tuleva vesi (myös lumisade). Tyyppi 48, astevaihtelu t:d. Nominatiivi sade, mutta taivutusvartalo sate- (sateen).",
-  kuva: { emoji: "🌧️", alt: "sade – sadepisaroita" },
+  kuva: { alt: "sade – sadepisaroita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d",

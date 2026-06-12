@@ -11,7 +11,7 @@ const todiste: Word = {
   en: "evidence, proof",
   selitys:
     "Asia, joka osoittaa jonkin todeksi: 'todiste syyllisyydestä'. Tyyppi 48/hame, ei astevaihtelua; vartalo todistee-. Johdettu verbistä todistaa. Vrt. todistaa, todistus, tosi.",
-  kuva: { emoji: "🔍", alt: "todiste – asia joka osoittaa jonkin todeksi" },
+  kuva: { alt: "todiste – asia joka osoittaa jonkin todeksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua (vartalo todistee-)",

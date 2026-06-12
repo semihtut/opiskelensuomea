@@ -11,7 +11,7 @@ const itsekas: Word = {
   en: "selfish, self-centred",
   selitys:
     "Sellainen, joka ajattelee vain itseään: 'itsekäs käytös'. Tyyppi 41/vieras, astevaihtelu kk:k (itsekäs → itsekkään). Yhdyssana itse + -käs. Vastakohta epäitsekäs, altruistinen. Vrt. itsekkyys, itse.",
-  kuva: { emoji: "🙅", alt: "itsekäs – vain itseään ajatteleva" },
+  kuva: { alt: "itsekäs – vain itseään ajatteleva" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; astevaihtelu kk:k (vartalo itsekkää-)",

@@ -11,7 +11,7 @@ const iso: Word = {
   en: "big, large",
   selitys:
     "Kooltaan suuri. Tyyppi 1, ei astevaihtelua. Arkinen vastine sanalle suuri; vastakohta pieni.",
-  kuva: { emoji: "🐘", alt: "iso – iso, suurikokoinen" },
+  kuva: { alt: "iso – iso, suurikokoinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 1/valo; ei astevaihtelua",

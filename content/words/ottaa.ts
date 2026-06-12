@@ -11,7 +11,7 @@ const ottaa: Word = {
   en: "to take",
   selitys:
     "Tarttua johonkin ja saada se haltuun. Tyyppi 1, astevaihtelu tt:t (otta- → ota-). Vastakohta antaa.",
-  kuva: { emoji: "🤚", alt: "ottaa – käsi ottaa jotakin" },
+  kuva: { alt: "ottaa – käsi ottaa jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (otta- → ota-)",

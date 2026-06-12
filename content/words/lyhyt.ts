@@ -11,7 +11,7 @@ const lyhyt: Word = {
   en: "short",
   selitys:
     "Mitaltaan pieni (pituus tai kesto). Tyyppi 43, ei astevaihtelua. Vartalo lyhye-: lyhyen, lyhyttä. Vastakohta pitkä.",
-  kuva: { emoji: "📐", alt: "lyhyt – lyhyt mitta" },
+  kuva: { alt: "lyhyt – lyhyt mitta" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 43/ohut; ei astevaihtelua",

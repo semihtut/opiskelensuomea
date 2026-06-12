@@ -10,7 +10,7 @@ const lopulta: Word = {
   en: "in the end, eventually, finally",
   selitys:
     "Kaiken jälkeen, viimein: 'lopulta hän suostui'. Taipumaton ajan adverbi (vakiintunut sanan loppu ablatiivimuodosta). Vrt. lopuksi (lastly), vihdoin (at last), lopultakin.",
-  kuva: { emoji: "🔚", alt: "lopulta – kaiken jälkeen, viimein" },
+  kuva: { alt: "lopulta – kaiken jälkeen, viimein" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); taipumaton",

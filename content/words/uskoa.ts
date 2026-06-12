@@ -11,7 +11,7 @@ const uskoa: Word = {
   en: "to believe, to have faith; to trust",
   selitys:
     "Pitää totena tai luottaa: 'uskon sinua' (I believe you). Suuntaan: 'uskoa johonkin' (illatiivi) = uskoa jonkin olemassaoloon. Vrt. luulla (oletus), luottaa (trust).",
-  kuva: { emoji: "🙏", alt: "uskoa – pitää totena, luottaa" },
+  kuva: { alt: "uskoa – pitää totena, luottaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); ei astevaihtelua; vartalo usko-",

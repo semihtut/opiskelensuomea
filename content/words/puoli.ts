@@ -11,7 +11,7 @@ const puoli: Word = {
   en: "half; side",
   selitys:
     "1) Toinen kahdesta yhtä suuresta osasta: 'puoli omenaa'. 2) Sivu tai puoli asiasta: 'toinen puoli'. Tyyppi 26/pieni, ei astevaihtelua; partitiivi puolta. Kellossa 'puoli seitsemän' = 6.30. Vrt. osa, puolet, kumpikin.",
-  kuva: { emoji: "◐", alt: "puoli – toinen kahdesta yhtä suuresta osasta tai asian sivu" },
+  kuva: { alt: "puoli – toinen kahdesta yhtä suuresta osasta tai asian sivu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo puole-, konsonanttivartalo puol-)",

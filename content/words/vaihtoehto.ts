@@ -11,7 +11,7 @@ const vaihtoehto: Word = {
   en: "alternative, option",
   selitys:
     "Toinen mahdollinen valinta tai ratkaisu: 'meillä on kaksi vaihtoehtoa'. Tyyppi 1/valo, astevaihtelu t:d (vaihtoehto → vaihtoehdon). Yhdyssana vaihto + ehto. Vrt. vaihtaa, ehto, vaihtoehtoinen.",
-  kuva: { emoji: "🔀", alt: "vaihtoehto – toinen mahdollinen valinta" },
+  kuva: { alt: "vaihtoehto – toinen mahdollinen valinta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (vartalo vaihtoehdo-)",

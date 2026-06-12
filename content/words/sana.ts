@@ -11,7 +11,7 @@ const sana: Word = {
   en: "word",
   selitys:
     "Kielen pienin itsenäinen merkitysyksikkö: 'vaikea sana'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko a → o: sanoja. Vrt. sanoa (to say), sanasto (vocabulary).",
-  kuva: { emoji: "🔤", alt: "sana – kielen merkitysyksikkö" },
+  kuva: { alt: "sana – kielen merkitysyksikkö" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

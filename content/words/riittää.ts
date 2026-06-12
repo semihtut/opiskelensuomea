@@ -11,7 +11,7 @@ const riittaa: Word = {
   en: "to be enough, to suffice",
   selitys:
     "Olla tarpeeksi: 'raha riittää'. Astevaihtelu tt:t (riittää → riitän). Usein yksikön 3. persoonassa: 'Riittää jo!' = That's enough! Vrt. tarpeeksi (enough).",
-  kuva: { emoji: "👌", alt: "riittää – olla tarpeeksi" },
+  kuva: { alt: "riittää – olla tarpeeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttää); astevaihtelu tt:t; vartalo riittä-",

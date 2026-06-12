@@ -11,7 +11,7 @@ const juna: Word = {
   en: "train",
   selitys:
     "Raiteilla kulkeva ajoneuvojono. Tyyppi 9, ei astevaihtelua. Monikon partitiivi junia.",
-  kuva: { emoji: "🚆", alt: "juna – raiteilla kulkeva juna" },
+  kuva: { alt: "juna – raiteilla kulkeva juna" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

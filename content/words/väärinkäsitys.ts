@@ -11,7 +11,7 @@ const vaarinkasitys: Word = {
   en: "misunderstanding",
   selitys:
     "Tilanne, jossa asia ymmärretään väärin: 'syntyi väärinkäsitys', 'selvittää väärinkäsitys'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Yhdyssana väärin + käsitys. Vrt. käsitys, ymmärtää, selvittää.",
-  kuva: { emoji: "🤷", alt: "väärinkäsitys – tilanne jossa asia ymmärretään väärin" },
+  kuva: { alt: "väärinkäsitys – tilanne jossa asia ymmärretään väärin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo väärinkäsitykse-)",

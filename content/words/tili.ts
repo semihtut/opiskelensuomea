@@ -11,7 +11,7 @@ const tili: Word = {
   en: "account",
   selitys:
     "Pankkitili tai käyttäjätili, jolle rahaa tai tietoa kertyy: 'pankkitili'. Tyyppi 5, ei astevaihtelua. Partitiivin monikko tilejä. Vrt. tilata (to order), tilitys (settlement, account report).",
-  kuva: { emoji: "🏦", alt: "tili – pankkitili tai käyttäjätili" },
+  kuva: { alt: "tili – pankkitili tai käyttäjätili" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

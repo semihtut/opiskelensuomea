@@ -11,7 +11,7 @@ const turvallisuus: Word = {
   en: "safety, security",
   selitys:
     "Tila tai tunne siitä, että ei ole vaaraa tai uhkaa: 'lasten turvallisuus', 'kansallinen turvallisuus'. Tyyppi 40/kalleus, astevaihtelu t:d (turvallisuus → turvallisuuden). Adjektiivista turvallinen. Vrt. turva, turvallinen, tietoturva.",
-  kuva: { emoji: "🛡️", alt: "turvallisuus – tila tai tunne siitä että ei ole vaaraa tai uhkaa" },
+  kuva: { alt: "turvallisuus – tila tai tunne siitä että ei ole vaaraa tai uhkaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (turvallisuute- ~ turvallisuude-)",

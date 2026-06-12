@@ -11,7 +11,7 @@ const han: Word = {
   en: "he, she (gender-neutral)",
   selitys:
     "Yksikön 3. persoonan pronomini ihmisestä; ei sukupuolta (he ja she yhdessä). Genetiivi hänen. Monikko on he. Puhekielessä ihmisestä usein 'se'.",
-  kuva: { emoji: "🧑", alt: "hän – yksittäinen henkilö" },
+  kuva: { alt: "hän – yksittäinen henkilö" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, yksikön 3. persoona",

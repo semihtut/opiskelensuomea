@@ -11,7 +11,7 @@ const kertoa: Word = {
   en: "to tell, narrate",
   selitys:
     "Kertoa tarina tai tieto jollekulle. Tyyppi 1, astevaihtelu rt:rr (kerto- → kerro-). Vrt. sanoa (= say) ja puhua (= speak).",
-  kuva: { emoji: "📖", alt: "kertoa – tarinan kertominen" },
+  kuva: { alt: "kertoa – tarinan kertominen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); astevaihtelu rt:rr (kerto- → kerro-)",

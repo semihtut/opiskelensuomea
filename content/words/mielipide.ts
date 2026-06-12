@@ -11,7 +11,7 @@ const mielipide: Word = {
   en: "opinion, view",
   selitys:
     "Henkilön käsitys tai kanta johonkin asiaan: 'minun mielipiteeni mukaan'. Tyyppi 48/hame, astevaihtelu t:d (nominatiivi mielipide on heikko aste, vartalo mielipitee-). Asiasta käytetään elatiivia: 'mielipide jostakin'. Yhdyssana mieli + pitää.",
-  kuva: { emoji: "💬", alt: "mielipide – henkilön käsitys jostakin asiasta" },
+  kuva: { alt: "mielipide – henkilön käsitys jostakin asiasta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu t:d (vartalo mielipitee-)",

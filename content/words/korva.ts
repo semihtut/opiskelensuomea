@@ -11,7 +11,7 @@ const korva: Word = {
   en: "ear",
   selitys:
     "Kuuloaisti­elin pään sivulla; myös astian 'korva' = kahva. Tyyppi 9, ei astevaihtelua.",
-  kuva: { emoji: "👂", alt: "korva – ihmisen korva" },
+  kuva: { alt: "korva – ihmisen korva" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

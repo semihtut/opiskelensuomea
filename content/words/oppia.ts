@@ -11,7 +11,7 @@ const oppia: Word = {
   en: "to learn",
   selitys:
     "Saavuttaa tieto tai taito. Tyyppi 1, astevaihtelu pp:p (oppi- → opi-). Vrt. opiskella (= study, prosessi) ja opettaa (= teach).",
-  kuva: { emoji: "💡", alt: "oppia – oivallus ja oppiminen" },
+  kuva: { alt: "oppia – oivallus ja oppiminen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); astevaihtelu pp:p (oppi- → opi-)",

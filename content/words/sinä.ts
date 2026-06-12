@@ -11,7 +11,7 @@ const sina: Word = {
   en: "you (singular)",
   selitys:
     "Yksikön 2. persoonan pronomini (puhuteltava). Genetiivi sinun = your/yours. Kohteliaasti tai monikossa: te. Puhekielessä 'sä'.",
-  kuva: { emoji: "👉", alt: "sinä – osoitetaan puhuteltavaa" },
+  kuva: { alt: "sinä – osoitetaan puhuteltavaa" },
 
   kielioppi: {
     tyyppi: "persoonapronomini, yksikön 2. persoona",

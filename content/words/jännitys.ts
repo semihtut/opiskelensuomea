@@ -11,7 +11,7 @@ const jannitys: Word = {
   en: "excitement, suspense, tension; (electrical) voltage",
   selitys:
     "Innostunut tai pelonsekainen odotus; myös fyysinen kireys tai sähköjännite: 'jännitys ennen koetta'. Tyyppi 39/vastaus, ei astevaihtelua (-ys → -ykse-). Johdettu verbistä jännittää. Vrt. jännittää, jännittävä.",
-  kuva: { emoji: "😬", alt: "jännitys – innostunut tai pelonsekainen odotus" },
+  kuva: { alt: "jännitys – innostunut tai pelonsekainen odotus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo jännitykse-)",

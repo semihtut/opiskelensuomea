@@ -11,7 +11,7 @@ const kuva: Word = {
   en: "picture, image, photo",
   selitys:
     "Näkyvä esitys tai valokuva: 'ottaa kuva'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko kuvia. Vrt. kuvata (to film/describe), valokuva (photograph), kuvitella (to imagine).",
-  kuva: { emoji: "🖼️", alt: "kuva – näkyvä esitys tai valokuva" },
+  kuva: { alt: "kuva – näkyvä esitys tai valokuva" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

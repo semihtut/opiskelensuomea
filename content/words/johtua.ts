@@ -11,7 +11,7 @@ const johtua: Word = {
   en: "to be caused by, result from, stem from",
   selitys:
     "Olla seurausta jostakin syystä: 'myöhästyminen johtui ruuhkasta'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu t:d (johdun). Intransitiivinen, hallitsee elatiivia ('johtua jostakin'). Useimmiten 3. persoonassa. Vrt. johtaa, syy, aiheutua.",
-  kuva: { emoji: "🔗", alt: "johtua – olla seurausta jostakin syystä" },
+  kuva: { alt: "johtua – olla seurausta jostakin syystä" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu t:d (johtu- ~ johdu-)",

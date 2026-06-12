@@ -11,7 +11,7 @@ const kuluttaja: Word = {
   en: "consumer",
   selitys:
     "Henkilö, joka ostaa ja käyttää tuotteita ja palveluja: 'kuluttajan oikeudet'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko kuluttajia. Johdettu verbistä kuluttaa. Vrt. kuluttaa, asiakas, tuottaja.",
-  kuva: { emoji: "🧑‍💼", alt: "kuluttaja – henkilö joka ostaa ja käyttää tuotteita" },
+  kuva: { alt: "kuluttaja – henkilö joka ostaa ja käyttää tuotteita" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo kuluttaja-)",

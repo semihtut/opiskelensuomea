@@ -11,7 +11,7 @@ const terveellinen: Word = {
   en: "healthy, wholesome (good for health)",
   selitys:
     "Terveydelle hyvä: 'terveellinen ruoka'. Tyyppi 38, ei astevaihtelua. HUOM: kuvaa asiaa joka edistää terveyttä (ruoka, elämäntapa) — ihminen on 'terve'. Vrt. terveys (health), epäterveellinen (unhealthy).",
-  kuva: { emoji: "🥗", alt: "terveellinen – terveydelle hyvä" },
+  kuva: { alt: "terveellinen – terveydelle hyvä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

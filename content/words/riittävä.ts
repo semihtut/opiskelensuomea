@@ -11,7 +11,7 @@ const riittava: Word = {
   en: "sufficient, enough, adequate",
   selitys:
     "Sellainen, jota on tarpeeksi: 'riittävä määrä'. Tyyppi 10/koira, ei astevaihtelua. Verbin riittää partisiippi. Vastakohta riittämätön. Vrt. riittää (to suffice), riittävästi (sufficiently).",
-  kuva: { emoji: "✔️", alt: "riittävä – sellainen, jota on tarpeeksi" },
+  kuva: { alt: "riittävä – sellainen, jota on tarpeeksi" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo riittävä-)",

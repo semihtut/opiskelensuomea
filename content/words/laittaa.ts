@@ -11,7 +11,7 @@ const laittaa: Word = {
   en: "to put, make, prepare",
   selitys:
     "Asettaa jonnekin; valmistaa (ruokaa); panna kuntoon. Tyyppi 1, astevaihtelu tt:t: laittaa → laitan. Yleisverbi: laittaa ruokaa = to cook.",
-  kuva: { emoji: "🍳", alt: "laittaa – laitetaan ruokaa tai asetetaan paikalleen" },
+  kuva: { alt: "laittaa – laitetaan ruokaa tai asetetaan paikalleen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ttaa); astevaihtelu tt:t",

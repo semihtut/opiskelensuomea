@@ -11,7 +11,7 @@ const raha: Word = {
   en: "money",
   selitys:
     "Maksuväline, jolla ostetaan tavaroita ja palveluita. Ei astevaihtelua. Usein yksikössä; monikko (rahat) tarkoittaa rahavaroja.",
-  kuva: { emoji: "💶", alt: "raha – seteleitä" },
+  kuva: { alt: "raha – seteleitä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

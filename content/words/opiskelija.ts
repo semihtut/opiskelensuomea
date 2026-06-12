@@ -11,7 +11,7 @@ const opiskelija: Word = {
   en: "student",
   selitys:
     "Henkilö, joka opiskelee oppilaitoksessa, erityisesti lukiossa tai korkeakoulussa: 'yliopisto-opiskelija'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko opiskelijoita. Sanasta opiskella + -ja. HUOM: nuoremmasta käytetään usein sanaa oppilas. Vrt. opiskella, oppilas, opettaja.",
-  kuva: { emoji: "🧑‍🎓", alt: "opiskelija – henkilö joka opiskelee oppilaitoksessa" },
+  kuva: { alt: "opiskelija – henkilö joka opiskelee oppilaitoksessa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo opiskelija-)",

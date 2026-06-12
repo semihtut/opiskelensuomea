@@ -11,7 +11,7 @@ const kasite: Word = {
   en: "concept, notion",
   selitys:
     "Ajatuksellinen yksikkö, jonka mieli ymmärtää: 'abstrakti käsite'. Tyyppi 48/hame, astevaihtelu tt:t (käsitteen vahva, käsite/käsitettä heikko). Johdettu verbistä käsittää. Vrt. käsittää, käsitys, termi.",
-  kuva: { emoji: "🧠", alt: "käsite – ajatuksellinen yksikkö jonka mieli ymmärtää" },
+  kuva: { alt: "käsite – ajatuksellinen yksikkö jonka mieli ymmärtää" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu tt:t (vartalo käsittee-)",

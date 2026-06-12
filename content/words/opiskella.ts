@@ -11,7 +11,7 @@ const opiskella: Word = {
   en: "to study",
   selitys:
     "Hankkia tietoa tai taitoa, esim. koulussa. Tyyppi 3 (-lla → -e-), vartalo opiskele-, ei astevaihtelua. Vrt. oppia (= learn) ja lukea (= study for).",
-  kuva: { emoji: "📚", alt: "opiskella – kirjojen ääressä opiskelu" },
+  kuva: { alt: "opiskella – kirjojen ääressä opiskelu" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-lla); vartalo opiskele-, ei astevaihtelua",

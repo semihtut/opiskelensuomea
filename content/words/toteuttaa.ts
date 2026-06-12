@@ -11,7 +11,7 @@ const toteuttaa: Word = {
   en: "to carry out, implement, realize",
   selitys:
     "Tehdä suunnitelma tai idea todeksi: 'toteuttaa unelma'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (toteutan). Objekti partitiivissa/akkusatiivissa. Johdettu sanasta tosi/toteen. Vrt. toteutus, toteutua.",
-  kuva: { emoji: "🛠️", alt: "toteuttaa – tehdä suunnitelma todeksi" },
+  kuva: { alt: "toteuttaa – tehdä suunnitelma todeksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (toteuta- ~ toteutta-)",

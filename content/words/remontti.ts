@@ -11,7 +11,7 @@ const remontti: Word = {
   en: "renovation, repair work",
   selitys:
     "Asunnon tai rakennuksen korjaus ja uudistus: 'kylpyhuoneremontti'. Tyyppi 5, astevaihtelu tt:t (remontti → remontin). Partitiivin monikko remontteja. Vrt. remontoida (to renovate), peruskorjaus.",
-  kuva: { emoji: "🔨", alt: "remontti – asunnon korjaus ja uudistus" },
+  kuva: { alt: "remontti – asunnon korjaus ja uudistus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (remontti ↔ remonti-)",

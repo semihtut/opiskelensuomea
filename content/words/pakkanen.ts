@@ -11,7 +11,7 @@ const pakkanen: Word = {
   en: "frost, sub-zero cold",
   selitys:
     "Pakkaslämpötila, alle nollan asteen kylmyys: 'kova pakkanen'. Tyyppi 38, ei astevaihtelua; vartalo pakkase-. Partitiivin monikko pakkasia. Johdettu sanasta pakata/pakkaa. Vrt. pakastaa, pakkaslukema.",
-  kuva: { emoji: "🥶", alt: "pakkanen – alle nollan asteen kylmyys" },
+  kuva: { alt: "pakkanen – alle nollan asteen kylmyys" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo pakkase-",

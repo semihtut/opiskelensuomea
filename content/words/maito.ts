@@ -12,7 +12,7 @@ const maito: Word = {
   en: "milk",
   selitys:
     "Valkoinen juoma, jota saadaan esimerkiksi lehmästä. Astevaihtelu t:d (maito → maidon). Ainesana — esiintyy enimmäkseen yksikössä.",
-  kuva: { emoji: "🥛", alt: "maito – lasi maitoa" },
+  kuva: { alt: "maito – lasi maitoa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (maito → maidon)",

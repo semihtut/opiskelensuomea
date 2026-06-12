@@ -11,7 +11,7 @@ const vaikeus: Word = {
   en: "difficulty",
   selitys:
     "Se, että jokin on vaikeaa; vaikea tilanne tai ongelma: 'taloudelliset vaikeudet'. Tyyppi 40/kalleus, astevaihtelu t:d (vaikeus → vaikeuden). Johdettu sanasta vaikea. Monikkomuoto vaikeudet = troubles.",
-  kuva: { emoji: "🪨", alt: "vaikeus – se, että jokin on vaikeaa" },
+  kuva: { alt: "vaikeus – se, että jokin on vaikeaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo vaikeude-)",

@@ -11,7 +11,7 @@ const istua: Word = {
   en: "to sit",
   selitys:
     "Olla istuma-asennossa; asettua istumaan. Tyyppi 1, ei astevaihtelua: istua → istun. Vrt. seisoa (seistä pystyssä).",
-  kuva: { emoji: "🪑", alt: "istua – henkilö istuu tuolilla" },
+  kuva: { alt: "istua – henkilö istuu tuolilla" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); ei astevaihtelua",

@@ -11,7 +11,7 @@ const yksityinen: Word = {
   en: "private",
   selitys:
     "Yhdelle henkilölle tai taholle kuuluva, ei julkinen: 'yksityinen elämä', 'yksityinen yritys'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta yksi. Vastakohta julkinen. Vrt. yksityisyys, yksi.",
-  kuva: { emoji: "🔒", alt: "yksityinen – yhdelle kuuluva, ei julkinen" },
+  kuva: { alt: "yksityinen – yhdelle kuuluva, ei julkinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo yksityise-)",

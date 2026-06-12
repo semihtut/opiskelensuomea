@@ -11,7 +11,7 @@ const osa: Word = {
   en: "part, portion; some",
   selitys:
     "Kokonaisuuden pala tai jokin määrä siitä: 'osa ihmisistä', 'tärkeä osa'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko osia. Vrt. osata, osuus, kokonaisuus.",
-  kuva: { emoji: "🧩", alt: "osa – kokonaisuuden pala tai määrä siitä" },
+  kuva: { alt: "osa – kokonaisuuden pala tai määrä siitä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo osa-)",

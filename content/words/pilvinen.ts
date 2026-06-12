@@ -11,7 +11,7 @@ const pilvinen: Word = {
   en: "cloudy, overcast",
   selitys:
     "Sellainen, kun taivaalla on paljon pilviä: 'pilvinen taivas'. Tyyppi 38, ei astevaihtelua; vartalo pilvise-. Partitiivin monikko pilvisiä. Johdettu sanasta pilvi. Vastakohta aurinkoinen / selkeä.",
-  kuva: { emoji: "☁️", alt: "pilvinen – taivas täynnä pilviä" },
+  kuva: { alt: "pilvinen – taivas täynnä pilviä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua; vartalo pilvise-",

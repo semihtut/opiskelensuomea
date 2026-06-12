@@ -11,7 +11,7 @@ const etsia: Word = {
   en: "to look for, search",
   selitys:
     "Yrittää löytää jotakin. Tyyppi 1, vartalo etsi-, ei astevaihtelua. Kohde partitiivissa. Vrt. löytää (= find, tulos).",
-  kuva: { emoji: "🔦", alt: "etsiä – etsiminen taskulampulla" },
+  kuva: { alt: "etsiä – etsiminen taskulampulla" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-iä); vartalo etsi-, ei astevaihtelua",

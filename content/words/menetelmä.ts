@@ -11,7 +11,7 @@ const menetelma: Word = {
   en: "method, technique",
   selitys:
     "Järjestelmällinen tapa tehdä jotakin: 'uusi tutkimusmenetelmä'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko menetelmiä. Vrt. tapa, keino, menettely.",
-  kuva: { emoji: "⚙️", alt: "menetelmä – järjestelmällinen tapa tehdä jotakin" },
+  kuva: { alt: "menetelmä – järjestelmällinen tapa tehdä jotakin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo menetelmä-)",

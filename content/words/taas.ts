@@ -10,7 +10,7 @@ const taas: Word = {
   en: "again",
   selitys:
     "Uudestaan, uudelleen. Ajan adverbi, ei taivuteta. 'Sataa taas.' Voi myös ilmaista vastakohtaa: 'Minä pidän teestä, hän taas kahvista.'",
-  kuva: { emoji: "🔂", alt: "taas – uudestaan" },
+  kuva: { alt: "taas – uudestaan" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

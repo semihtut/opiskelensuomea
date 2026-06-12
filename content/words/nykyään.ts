@@ -10,7 +10,7 @@ const nykyaan: Word = {
   en: "nowadays, these days",
   selitys:
     "Tähän aikaan, näinä päivinä, ennen-sanan vastakohtana: 'nykyään moni tekee etätyötä'. Taipumaton ajan adverbi. Vrt. nyt (now), ennen (before), nykyinen (current), nykyaika.",
-  kuva: { emoji: "🕒", alt: "nykyään – tähän aikaan, näinä päivinä" },
+  kuva: { alt: "nykyään – tähän aikaan, näinä päivinä" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); taipumaton",

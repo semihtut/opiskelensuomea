@@ -12,7 +12,7 @@ const vanha: Word = {
   en: "old",
   selitys:
     "Pitkään elänyt tai kauan olemassa ollut; uuden vastakohta. Vertailu säännöllinen: vanha – vanhempi – vanhin.",
-  kuva: { emoji: "🧓", alt: "vanha – iäkäs henkilö" },
+  kuva: { alt: "vanha – iäkäs henkilö" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 9/kala; ei astevaihtelua; vertailu vanha – vanhempi – vanhin",

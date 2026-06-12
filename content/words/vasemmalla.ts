@@ -11,7 +11,7 @@ const vasemmalla: Word = {
   en: "on the left",
   selitys:
     "Vasemmalla puolella. Paikallissarja: vasemmalla (missä) – vasemmalta (mistä) – vasemmalle (mihin). Pohjana adjektiivi vasen. Vastakohta oikealla.",
-  kuva: { emoji: "👈", alt: "vasemmalla – vasemmalla puolella" },
+  kuva: { alt: "vasemmalla – vasemmalla puolella" },
 
   kielioppi: {
     tyyppi: "paikan adverbi (vasen); kolmiosainen paikallissarja",

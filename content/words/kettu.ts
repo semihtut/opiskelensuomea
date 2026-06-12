@@ -11,7 +11,7 @@ const kettu: Word = {
   en: "fox",
   selitys:
     "Punaturkkinen metsäeläin; kuvaannollisesti ovela ihminen: 'ovela kuin kettu'. Tyyppi 1/valo, astevaihtelu tt:t (kettu → ketun). Vrt. metsä, jänis, ovela.",
-  kuva: { emoji: "🦊", alt: "kettu – punaturkkinen metsäeläin" },
+  kuva: { alt: "kettu – punaturkkinen metsäeläin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (kettu ~ ketu-)",

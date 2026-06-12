@@ -10,7 +10,7 @@ const jo: Word = {
   en: "already",
   selitys:
     "Aikaisemmin kuin odotettiin; tähän mennessä. Ajan adverbi, ei taivuteta. 'Olen jo valmis.' Vastakohta 'ei vielä' (not yet).",
-  kuva: { emoji: "✅", alt: "jo – jo tapahtunut" },
+  kuva: { alt: "jo – jo tapahtunut" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

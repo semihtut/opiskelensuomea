@@ -11,7 +11,7 @@ const selain: Word = {
   en: "browser (web)",
   selitys:
     "Ohjelma, jolla katsotaan verkkosivuja: 'avata selain'. Tyyppi 33/kytkin, ei astevaihtelua; vartalo selaime-. Johdettu verbistä selata. Vrt. selata, verkko, sovellus.",
-  kuva: { emoji: "🌐", alt: "selain – ohjelma jolla katsotaan verkkosivuja" },
+  kuva: { alt: "selain – ohjelma jolla katsotaan verkkosivuja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 33/kytkin; ei astevaihtelua (vartalo selaime-)",

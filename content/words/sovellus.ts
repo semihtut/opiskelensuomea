@@ -11,7 +11,7 @@ const sovellus: Word = {
   en: "application, app",
   selitys:
     "Tietokoneen tai puhelimen ohjelma; myös käytäntöön soveltaminen: 'ladata sovellus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä soveltaa. Vrt. ohjelma, soveltaa, sovelluskauppa.",
-  kuva: { emoji: "📱", alt: "sovellus – puhelimen tai tietokoneen ohjelma" },
+  kuva: { alt: "sovellus – puhelimen tai tietokoneen ohjelma" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo sovellukse-)",

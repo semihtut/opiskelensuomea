@@ -11,7 +11,7 @@ const muodostua: Word = {
   en: "to be formed, consist of, come to be",
   selitys:
     "Syntyä tai koostua osista: 'ryhmä muodostuu kymmenestä jäsenestä'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen (transit. muodostaa). Hallitsee elatiivia ('muodostua jostakin'). Vrt. muodostaa, muoto, syntyä.",
-  kuva: { emoji: "🧩", alt: "muodostua – syntyä tai koostua osista" },
+  kuva: { alt: "muodostua – syntyä tai koostua osista" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo muodostu-",

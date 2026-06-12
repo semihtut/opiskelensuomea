@@ -11,7 +11,7 @@ const tekoaly: Word = {
   en: "artificial intelligence (AI)",
   selitys:
     "Koneen tai ohjelman kyky toimia älykkäästi: 'tekoäly auttaa työssä'. Tyyppi 1/valo, ei astevaihtelua; partitiivin monikko tekoälyjä. Yhdyssana teko + äly. Vrt. äly, älykäs, kone.",
-  kuva: { emoji: "🤖", alt: "tekoäly – koneen kyky toimia älykkäästi" },
+  kuva: { alt: "tekoäly – koneen kyky toimia älykkäästi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo tekoäly-)",

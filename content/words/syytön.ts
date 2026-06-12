@@ -11,7 +11,7 @@ const syyton: Word = {
   en: "innocent, not guilty",
   selitys:
     "Sellainen, joka ei ole syyllinen, ei ole tehnyt rikosta: 'syytön epäilty'. Tyyppi 34/onneton, astevaihtelu tt:t (syytön → syyttömän). Kieltojohdos syy + -tön. Vastakohta syyllinen. Vrt. syy, syyllinen, syyttömyys.",
-  kuva: { emoji: "🕊️", alt: "syytön – henkilö joka ei ole syyllinen" },
+  kuva: { alt: "syytön – henkilö joka ei ole syyllinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 34/onneton; astevaihtelu tt:t (vartalo syyttömä-)",

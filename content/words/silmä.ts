@@ -11,7 +11,7 @@ const silma: Word = {
   en: "eye",
   selitys:
     "Näköaisti­elin. Tyyppi 10, ei astevaihtelua. Monikon partitiivi silmiä; usein puhutaan parista (silmät).",
-  kuva: { emoji: "👁️", alt: "silmä – ihmisen silmä" },
+  kuva: { alt: "silmä – ihmisen silmä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

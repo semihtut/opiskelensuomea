@@ -11,7 +11,7 @@ const juuri: Word = {
   en: "just, exactly; just now",
   selitys:
     "Täsmälleen: 'juuri niin' = exactly so; juuri äsken: 'tulin juuri' = I just came. Adverbina ei taivuteta. (Homonyymi substantiivi juuri = root, taipuu juuren/juurta.)",
-  kuva: { emoji: "🎯", alt: "juuri – juuri oikein, juuri nyt" },
+  kuva: { alt: "juuri – juuri oikein, juuri nyt" },
 
   kielioppi: {
     tyyppi: "asteen/ajan adverbi; taipumaton (vrt. homonyymi substantiivi juuri = root)",

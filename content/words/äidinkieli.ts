@@ -11,7 +11,7 @@ const aidinkieli: Word = {
   en: "mother tongue, native language",
   selitys:
     "Kieli, jonka ihminen oppii ensimmäisenä lapsena: 'suomi on äidinkieleni'. Myös oppiaine koulussa. Tyyppi 26/pieni, ei astevaihtelua. Yhdyssana äiti (gen. äidin) + kieli. Vrt. kieli, äiti, vieras kieli.",
-  kuva: { emoji: "👶", alt: "äidinkieli – kieli jonka ihminen oppii ensimmäisenä lapsena" },
+  kuva: { alt: "äidinkieli – kieli jonka ihminen oppii ensimmäisenä lapsena" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 26/pieni; ei astevaihtelua (vartalo äidinkiele-)",

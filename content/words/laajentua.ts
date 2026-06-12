@@ -11,7 +11,7 @@ const laajentua: Word = {
   en: "to expand, broaden, widen",
   selitys:
     "Tulla laajemmaksi tai suuremmaksi: 'toiminta laajentui ulkomaille'. Tyyppi 1 (-ua), Kotus 52/sanoa, astevaihtelu nt:nn (laajennun). Intransitiivinen (transit. laajentaa). Johdettu sanasta laaja. Vrt. laajentaa, laajeneminen, laaja.",
-  kuva: { emoji: "↔️", alt: "laajentua – tulla laajemmaksi tai suuremmaksi" },
+  kuva: { alt: "laajentua – tulla laajemmaksi tai suuremmaksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; astevaihtelu nt:nn (laajentu- ~ laajennu-)",

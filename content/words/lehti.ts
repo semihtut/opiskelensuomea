@@ -11,7 +11,7 @@ const lehti: Word = {
   en: "newspaper, magazine; leaf",
   selitys:
     "Painettu julkaisu tai kasvin lehti: 'lukea lehteä' / 'puun lehti'. Tyyppi 7, astevaihtelu t:d (lehte- → lehde-). Vrt. sanomalehti (newspaper), aikakauslehti (magazine).",
-  kuva: { emoji: "📰", alt: "lehti – painettu julkaisu tai kasvin lehti" },
+  kuva: { alt: "lehti – painettu julkaisu tai kasvin lehti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; astevaihtelu t:d (lehte- ↔ lehde-)",

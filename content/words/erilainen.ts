@@ -11,7 +11,7 @@ const erilainen: Word = {
   en: "different, of a different kind",
   selitys:
     "Toisesta poikkeava, ei samanlainen: 'aivan erilainen ratkaisu'. Tyyppi 38/nainen, ei astevaihtelua. Yhdyssana eri + -lainen. Vastakohta samanlainen. Hallitsee elatiivia: 'erilainen kuin' tai 'erilainen jostakin'. Vrt. erilaisuus, erota.",
-  kuva: { emoji: "🎭", alt: "erilainen – toisesta poikkeava, ei samanlainen" },
+  kuva: { alt: "erilainen – toisesta poikkeava, ei samanlainen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo erilaise-)",

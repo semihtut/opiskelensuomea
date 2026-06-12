@@ -10,7 +10,7 @@ const koska: Word = {
   en: "because",
   selitys:
     "Alistuskonjunktio, joka ilmaisee syytä. Ei taivuteta. Aloittaa sivulauseen: 'Jäin kotiin, koska olin sairas.' Vastaa kysymykseen miksi?",
-  kuva: { emoji: "❓", alt: "koska – syy: miksi?" },
+  kuva: { alt: "koska – syy: miksi?" },
 
   kielioppi: {
     tyyppi: "alistuskonjunktio (syy); taipumaton; aloittaa sivulauseen",

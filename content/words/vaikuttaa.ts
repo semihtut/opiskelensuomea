@@ -11,7 +11,7 @@ const vaikuttaa: Word = {
   en: "to influence, to affect; to seem",
   selitys:
     "Saada aikaan muutos tai antaa vaikutelma: 'vaikuttaa päätökseen' / 'vaikuttaa väsyneeltä'. Tyyppi 1 (-aa), astevaihtelu tt:t (vaikutan, mutta vaikuttaa). Vrt. vaikutus (effect), vaikutelma (impression).",
-  kuva: { emoji: "🎯", alt: "vaikuttaa – saada aikaan muutos tai antaa vaikutelma" },
+  kuva: { alt: "vaikuttaa – saada aikaan muutos tai antaa vaikutelma" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (vaikutta- ↔ vaikuta-)",

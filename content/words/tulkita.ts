@@ -11,7 +11,7 @@ const tulkita: Word = {
   en: "to interpret",
   selitys:
     "Selittää tai ymmärtää jokin tietyllä tavalla: 'tulkita runo'. Tyyppi 4 (-ita), Kotus 69/valita, vartalo tulkitse-. NUT-partisiippi tulkinnut (huom!). Vrt. tulkinta, tulkki, ymmärtää.",
-  kuva: { emoji: "🔡", alt: "tulkita – selittää tai ymmärtää jokin tietyllä tavalla" },
+  kuva: { alt: "tulkita – selittää tai ymmärtää jokin tietyllä tavalla" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ita), Kotus 69/valita; vartalo tulkitse- (-tse-)",

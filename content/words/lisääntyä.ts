@@ -11,7 +11,7 @@ const lisaantya: Word = {
   en: "to increase, grow; to reproduce",
   selitys:
     "Kasvaa määrältään tai lukumäärältään; myös: lisääntyä eli saada jälkeläisiä: 'liikenne lisääntyy'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu nt:nn (lisäännyn). Intransitiivinen. Vastakohta vähentyä. Vrt. lisätä, lisäys.",
-  kuva: { emoji: "📈", alt: "lisääntyä – kasvaa määrältään" },
+  kuva: { alt: "lisääntyä – kasvaa määrältään" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu nt:nn (lisäänny- ~ lisäänty-)",

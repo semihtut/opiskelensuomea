@@ -11,7 +11,7 @@ const hevonen: Word = {
   en: "horse",
   selitys:
     "Suuri kotieläin, jolla ratsastetaan ja jota käytetään työhön: 'ratsastaa hevosella'. Tyyppi 38/nainen, ei astevaihtelua. Vrt. ratsastaa, talli, eläin.",
-  kuva: { emoji: "🐴", alt: "hevonen – suuri kotieläin jolla ratsastetaan" },
+  kuva: { alt: "hevonen – suuri kotieläin jolla ratsastetaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo hevose-)",

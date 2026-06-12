@@ -11,7 +11,7 @@ const televisio: Word = {
   en: "television, TV",
   selitys:
     "Laite, jolla katsotaan kuvaohjelmia. Tyyppi 3, ei astevaihtelua. Puhekielessä lyhyesti telkkari tai tv.",
-  kuva: { emoji: "📺", alt: "televisio – televisiovastaanotin" },
+  kuva: { alt: "televisio – televisiovastaanotin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 3/valtio; ei astevaihtelua",

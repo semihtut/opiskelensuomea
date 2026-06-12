@@ -11,7 +11,7 @@ const keskiarvo: Word = {
   en: "average, mean",
   selitys:
     "Lukujen summa jaettuna niiden määrällä: 'arvosanojen keskiarvo'. Tyyppi 1/valo, ei astevaihtelua. Yhdyssana keski + arvo. Vrt. arvo, keskimäärin, summa.",
-  kuva: { emoji: "➗", alt: "keskiarvo – lukujen summa jaettuna niiden määrällä" },
+  kuva: { alt: "keskiarvo – lukujen summa jaettuna niiden määrällä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo keskiarvo-)",

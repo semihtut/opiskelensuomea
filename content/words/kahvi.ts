@@ -11,7 +11,7 @@ const kahvi: Word = {
   en: "coffee",
   selitys:
     "Tumma, piristävä juoma, joka valmistetaan kahvipavuista. Ei astevaihtelua.",
-  kuva: { emoji: "☕", alt: "kahvi – kuppi kahvia" },
+  kuva: { alt: "kahvi – kuppi kahvia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

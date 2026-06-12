@@ -11,7 +11,7 @@ const teoria: Word = {
   en: "theory",
   selitys:
     "Perusteltu selitysmalli jollekin ilmiölle; myös ajatus ilman käytäntöä: 'teoriassa hyvä'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko teorioita. Vastakohta käytäntö. Vrt. teoreettinen, käytäntö.",
-  kuva: { emoji: "📐", alt: "teoria – perusteltu selitysmalli ilmiölle" },
+  kuva: { alt: "teoria – perusteltu selitysmalli ilmiölle" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo teoria-)",

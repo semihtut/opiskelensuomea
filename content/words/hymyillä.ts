@@ -11,7 +11,7 @@ const hymyillä: Word = {
   en: "to smile",
   selitys:
     "Ilmaista iloa tai ystävällisyyttä hymyllä: 'hymyillä jollekulle'. Tyyppi 3 (-llä), ei astevaihtelua; vartalo hymyile-. Johdettu sanasta hymy. Vrt. hymy (smile), hymyilevä (smiling).",
-  kuva: { emoji: "🙂", alt: "hymyillä – ilmaista iloa tai ystävällisyyttä hymyllä" },
+  kuva: { alt: "hymyillä – ilmaista iloa tai ystävällisyyttä hymyllä" },
 
   kielioppi: {
     tyyppi: "tyyppi 3 (-llä); ei astevaihtelua; vartalo hymyile- ~ hymyil-",

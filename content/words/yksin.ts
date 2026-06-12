@@ -11,7 +11,7 @@ const yksin: Word = {
   en: "alone, by oneself",
   selitys:
     "Ilman muita; itsekseen. Tavan adverbi, ei taivuteta. Vrt. yksinäinen (lonely, adjektiivi) ja yhdessä (together, vastakohta).",
-  kuva: { emoji: "🧍", alt: "yksin – henkilö yksinään" },
+  kuva: { alt: "yksin – henkilö yksinään" },
 
   kielioppi: {
     tyyppi: "tavan adverbi; taipumaton (johdettu sanasta yksi)",

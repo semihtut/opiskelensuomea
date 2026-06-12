@@ -11,7 +11,7 @@ const eriarvoisuus: Word = {
   en: "inequality",
   selitys:
     "Tila, jossa ihmisiä kohdellaan tai he ovat eriarvoisessa asemassa: 'taloudellinen eriarvoisuus'. Tyyppi 40/kalleus, astevaihtelu t:d (eriarvoisuus → eriarvoisuuden). Adjektiivista eriarvoinen. Vastakohta tasa-arvo. Vrt. tasa-arvo, syrjintä, oikeudenmukaisuus.",
-  kuva: { emoji: "⬆️", alt: "eriarvoisuus – tila jossa ihmiset ovat eriarvoisessa asemassa" },
+  kuva: { alt: "eriarvoisuus – tila jossa ihmiset ovat eriarvoisessa asemassa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (eriarvoisuute- ~ eriarvoisuude-)",

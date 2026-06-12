@@ -11,7 +11,7 @@ const meno: Word = {
   en: "going, departure; (pl.) expenses",
   selitys:
     "Meneminen tai kulutettu raha: 'meno ja paluu' / 'kuukauden menot'. Tyyppi 1, ei astevaihtelua. Partitiivin monikko menoja. Monikossa menot = expenses. Johdettu verbistä mennä. Vastakohta tulo.",
-  kuva: { emoji: "🧾", alt: "meno – kulutettu raha tai meneminen" },
+  kuva: { alt: "meno – kulutettu raha tai meneminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

@@ -11,7 +11,7 @@ const hetki: Word = {
   en: "moment, instant, while",
   selitys:
     "Lyhyt ajanjakso tai yksittäinen ajan kohta: 'odota hetki'. Tyyppi 7, ei astevaihtelua (tk säilyy). Partitiivin monikko hetkiä. Vrt. hetkinen (just a moment), hetkellinen (momentary).",
-  kuva: { emoji: "⏱️", alt: "hetki – lyhyt ajanjakso tai ajan kohta" },
+  kuva: { alt: "hetki – lyhyt ajanjakso tai ajan kohta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua",

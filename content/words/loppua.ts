@@ -11,7 +11,7 @@ const loppua: Word = {
   en: "to end; to run out",
   selitys:
     "Tulla loppuun; ehtyä (esim. raha loppuu). Tyyppi 1, astevaihtelu pp:p (loppu- → lopu-). Intransitiivinen; vastakohta alkaa.",
-  kuva: { emoji: "🔴", alt: "loppua – jokin loppuu" },
+  kuva: { alt: "loppua – jokin loppuu" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua); astevaihtelu pp:p (loppu- → lopu-)",

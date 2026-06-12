@@ -11,7 +11,7 @@ const sopu: Word = {
   en: "harmony, concord, agreement",
   selitys:
     "Sovinnollinen tila, jossa ei ole riitaa: 'elää sovussa'. Tyyppi 1/valo, astevaihtelu p:v (sopu → sovun). Vastakohta riita/epäsopu. Vrt. sopia, sovinto, yhteisymmärrys.",
-  kuva: { emoji: "🕊️", alt: "sopu – sovinnollinen tila ilman riitaa" },
+  kuva: { alt: "sopu – sovinnollinen tila ilman riitaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu p:v (vartalo sovu-)",

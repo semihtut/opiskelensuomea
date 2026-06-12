@@ -11,7 +11,7 @@ const kunnioittaa: Word = {
   en: "to respect, honour",
   selitys:
     "Arvostaa jotakuta tai jotakin syvästi: 'kunnioittaa vanhempiaan'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (kunnioitan). Objekti partitiivissa. Johdettu sanasta kunnia. Vrt. kunnia, kunnioitus, arvostaa.",
-  kuva: { emoji: "🙇", alt: "kunnioittaa – arvostaa jotakuta syvästi" },
+  kuva: { alt: "kunnioittaa – arvostaa jotakuta syvästi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (kunnioita- ~ kunnioitta-)",

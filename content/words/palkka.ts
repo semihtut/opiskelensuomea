@@ -11,7 +11,7 @@ const palkka: Word = {
   en: "salary, wage, pay",
   selitys:
     "Työstä saatu korvaus: 'hyvä palkka'. Tyyppi 9, astevaihtelu kk:k (palkka → palkan). Vrt. tuntipalkka (hourly pay), kuukausipalkka (monthly salary), palkkio (fee/reward).",
-  kuva: { emoji: "💶", alt: "palkka – työstä saatu korvaus" },
+  kuva: { alt: "palkka – työstä saatu korvaus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu kk:k",

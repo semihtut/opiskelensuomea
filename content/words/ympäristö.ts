@@ -11,7 +11,7 @@ const ymparisto: Word = {
   en: "environment, surroundings",
   selitys:
     "Ympäröivä alue ja olosuhteet: 'puhdas ympäristö'. Tyyppi 1, ei astevaihtelua. Johdettu sanasta ympäri (+ -stö). Vrt. ympäristönsuojelu (environmental protection), työympäristö (work environment).",
-  kuva: { emoji: "🌳", alt: "ympäristö – ympäröivä alue ja olosuhteet" },
+  kuva: { alt: "ympäristö – ympäröivä alue ja olosuhteet" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

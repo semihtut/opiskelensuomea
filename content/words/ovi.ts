@@ -11,7 +11,7 @@ const ovi: Word = {
   en: "door",
   selitys:
     "Aukko seinässä, josta kuljetaan sisään ja ulos, sekä sen sulkeva levy. Vartalossa i → e: oven. Ei astevaihtelua.",
-  kuva: { emoji: "🚪", alt: "ovi – oviaukko" },
+  kuva: { alt: "ovi – oviaukko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; ei astevaihtelua (vartalo ove-)",

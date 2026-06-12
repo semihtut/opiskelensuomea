@@ -11,7 +11,7 @@ const energia: Word = {
   en: "energy",
   selitys:
     "Voima tai teho, joka saa aikaan toimintaa; myös ihmisen tarmo: 'uusiutuva energia'. Tyyppi 12/kulkija, ei astevaihtelua; partitiivin monikko energioita. Vrt. voima, sähkö, energinen.",
-  kuva: { emoji: "⚡", alt: "energia – voima tai teho joka saa aikaan toimintaa" },
+  kuva: { alt: "energia – voima tai teho joka saa aikaan toimintaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 12/kulkija; ei astevaihtelua (vartalo energia-)",

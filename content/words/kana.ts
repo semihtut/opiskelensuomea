@@ -11,7 +11,7 @@ const kana: Word = {
   en: "hen, chicken",
   selitys:
     "Kotieläin, joka munii munia, tai sen liha ruokana: 'paistettu kana'. Tyyppi 9, ei astevaihtelua. Partitiivin monikko kanoja. Vrt. kananmuna (egg), broileri (broiler chicken), kukko (rooster).",
-  kuva: { emoji: "🐔", alt: "kana – kotieläin, joka munii munia" },
+  kuva: { alt: "kana – kotieläin, joka munii munia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua",

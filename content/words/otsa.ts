@@ -11,7 +11,7 @@ const otsa: Word = {
   en: "forehead",
   selitys:
     "Kasvojen yläosa silmien yläpuolella: 'hikinen otsa'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko otsia. Vrt. kasvot, otsatukka, ryppy.",
-  kuva: { emoji: "😅", alt: "otsa – kasvojen yläosa silmien yläpuolella" },
+  kuva: { alt: "otsa – kasvojen yläosa silmien yläpuolella" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo otsa-)",

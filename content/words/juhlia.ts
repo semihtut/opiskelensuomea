@@ -11,7 +11,7 @@ const juhlia: Word = {
   en: "to celebrate, party",
   selitys:
     "Viettää juhlaa tai iloita jostakin: 'juhlia syntymäpäivää'. Tyyppi 1 (-ia), Kotus 61/sallia, ei astevaihtelua. i-vartalo: minä-muoto sama preesensissä ja imperfektissä (juhlin). Sanasta juhla. Vrt. juhla, viettää, iloita.",
-  kuva: { emoji: "🎉", alt: "juhlia – viettää juhlaa tai iloita jostakin" },
+  kuva: { alt: "juhlia – viettää juhlaa tai iloita jostakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia), Kotus 61/sallia; ei astevaihtelua (vartalo juhli-)",

@@ -11,7 +11,7 @@ const alkaa: Word = {
   en: "to begin, start",
   selitys:
     "Saada alkunsa; ruveta tekemään. Tyyppi 1, astevaihtelu k:∅ (lk → l): alkaa → alan. Vastakohta loppua.",
-  kuva: { emoji: "🟢", alt: "alkaa – jokin alkaa" },
+  kuva: { alt: "alkaa – jokin alkaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu k:∅ (lk → l)",

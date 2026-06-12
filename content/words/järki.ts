@@ -11,7 +11,7 @@ const järki: Word = {
   en: "reason, sense, common sense",
   selitys:
     "Kyky ajatella loogisesti ja arvioida järkevästi: 'käyttää järkeä'. Tyyppi 7, astevaihtelu k:j (järki → järjen). Yleensä yksikössä. Vrt. järkevä (sensible), järjetön (senseless).",
-  kuva: { emoji: "⚖️", alt: "järki – kyky ajatella loogisesti" },
+  kuva: { alt: "järki – kyky ajatella loogisesti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; astevaihtelu k:j (järki ↔ järje-)",

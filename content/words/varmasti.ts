@@ -10,7 +10,7 @@ const varmasti: Word = {
   en: "certainly, surely, definitely",
   selitys:
     "Ilmaisee varmuutta. Modaaliadverbi, ei taivuteta. Pohjana adjektiivi varma. 'Tulen varmasti.' Vastakohta ehkä (epävarmuus).",
-  kuva: { emoji: "💯", alt: "varmasti – täysi varmuus" },
+  kuva: { alt: "varmasti – täysi varmuus" },
 
   kielioppi: {
     tyyppi: "modaaliadverbi (varmuus); taipumaton (varma → varmasti)",

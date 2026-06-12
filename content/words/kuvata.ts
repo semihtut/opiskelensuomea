@@ -11,7 +11,7 @@ const kuvata: Word = {
   en: "to describe, to depict; to film, to photograph",
   selitys:
     "Esittää sanoin tai kuvana, tai ottaa kuvaa: 'kuvata maisemaa'. Tyyppi 4 (-ata), ei astevaihtelua, vartalo kuvaa-. Juuri sanasta kuva. Vrt. kuvaus (description, filming), kuvailla (to describe).",
-  kuva: { emoji: "🎥", alt: "kuvata – esittää kuvana tai ottaa kuvaa" },
+  kuva: { alt: "kuvata – esittää kuvana tai ottaa kuvaa" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo kuvaa-",

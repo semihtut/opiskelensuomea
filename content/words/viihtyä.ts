@@ -11,7 +11,7 @@ const viihtya: Word = {
   en: "to enjoy being (somewhere), feel comfortable, thrive",
   selitys:
     "Tuntea olonsa hyväksi jossakin paikassa: 'viihtyä työssä', 'viihdyn täällä'. Tyyppi 1 (-yä), Kotus 52/sanoa, astevaihtelu t:d (viihdyn). Rektio: inessiivi/adessiivi (paikka). Vrt. nauttia, viihde, viihtyisä.",
-  kuva: { emoji: "😌", alt: "viihtyä – tuntea olonsa hyväksi jossakin paikassa" },
+  kuva: { alt: "viihtyä – tuntea olonsa hyväksi jossakin paikassa" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-yä), Kotus 52/sanoa; astevaihtelu t:d (viihty- ~ viihdy-)",

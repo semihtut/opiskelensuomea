@@ -11,7 +11,7 @@ const maailma: Word = {
   en: "world",
   selitys:
     "Koko maapallo tai jokin kokonaisuus: 'koko maailma'. Tyyppi 13, ei astevaihtelua. Partitiivin monikko maailmoita (tai maailmoja). Yhdyssana maa + ilma. Vrt. maailmankaikkeus (universe), maailmanlaajuinen (global).",
-  kuva: { emoji: "🌍", alt: "maailma – koko maapallo" },
+  kuva: { alt: "maailma – koko maapallo" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 13/katiska; ei astevaihtelua",

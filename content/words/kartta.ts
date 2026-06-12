@@ -11,7 +11,7 @@ const kartta: Word = {
   en: "map",
   selitys:
     "Piirretty kuva alueesta tai paikoista: 'katsoa kartasta'. Tyyppi 9, astevaihtelu tt:t (kartta → kartan). Partitiivin monikko karttoja. Lainasana ruotsista. Vrt. karttapallo, aarrekartta.",
-  kuva: { emoji: "🗺️", alt: "kartta – piirretty kuva alueesta" },
+  kuva: { alt: "kartta – piirretty kuva alueesta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu tt:t (kartta ↔ karta-)",

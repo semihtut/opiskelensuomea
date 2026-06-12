@@ -11,7 +11,7 @@ const selvita: Word = {
   en: "to manage, cope, get through; to become clear",
   selitys:
     "Pärjätä tai päästä vaikeasta tilanteesta läpi; myös: tulla selväksi tai ratketa: 'selvitä haasteista'. Tyyppi 5 (-itä), Kotus 75/selvitä, ei astevaihtelua. Asiasta elatiivi ('selvitä jostakin'). Vrt. selvittää (transitiivinen), selvä.",
-  kuva: { emoji: "🏁", alt: "selvitä – pärjätä ja päästä vaikeasta läpi" },
+  kuva: { alt: "selvitä – pärjätä ja päästä vaikeasta läpi" },
 
   kielioppi: {
     tyyppi: "tyyppi 5 (-itä), Kotus 75/selvitä; ei astevaihtelua; vartalot selviä- ~ selvis-",

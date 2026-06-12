@@ -11,7 +11,7 @@ const tuottaa: Word = {
   en: "to produce, yield; to cause",
   selitys:
     "Saada aikaan tai valmistaa jotakin: 'tuottaa tavaroita', 'tuottaa iloa'. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (tuotan). Johdettu sanasta tuote. Vrt. tuote, tuotanto, tuottaja, tuottava.",
-  kuva: { emoji: "🏭", alt: "tuottaa – saada aikaan tai valmistaa jotakin" },
+  kuva: { alt: "tuottaa – saada aikaan tai valmistaa jotakin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (tuota- ~ tuotta-)",

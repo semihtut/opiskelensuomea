@@ -11,7 +11,7 @@ const syrjinta: Word = {
   en: "discrimination",
   selitys:
     "Ihmisen tai ryhmän epäoikeudenmukainen kohtelu esimerkiksi taustan vuoksi: 'kieltää syrjintä', 'sukupuolisyrjintä'. Tyyppi 9/kala, astevaihtelu nt:nn (syrjintä → syrjinnän). Johdettu verbistä syrjiä. Vrt. syrjiä, tasa-arvo, eriarvoisuus.",
-  kuva: { emoji: "🚫", alt: "syrjintä – ihmisen tai ryhmän epäoikeudenmukainen kohtelu" },
+  kuva: { alt: "syrjintä – ihmisen tai ryhmän epäoikeudenmukainen kohtelu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (syrjintä ~ syrjinnä-)",

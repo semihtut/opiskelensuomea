@@ -11,7 +11,7 @@ const lukea: Word = {
   en: "to read; to study (for)",
   selitys:
     "Tulkita kirjoitettua tekstiä; myös 'lukea kokeeseen' = study for an exam. Tyyppi 1, astevaihtelu k:∅ (luke- → lue-).",
-  kuva: { emoji: "📖", alt: "lukea – avoin kirja lukemista varten" },
+  kuva: { alt: "lukea – avoin kirja lukemista varten" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ea); astevaihtelu k:∅ (luke- → lue-)",

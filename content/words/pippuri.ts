@@ -11,7 +11,7 @@ const pippuri: Word = {
   en: "pepper (spice)",
   selitys:
     "Yleinen voimakas mauste: 'suolaa ja pippuria'. Tyyppi 6/paperi, ei astevaihtelua; partitiivin monikko pippureita. Vrt. mauste, suola, chili.",
-  kuva: { emoji: "🌶️", alt: "pippuri – yleinen voimakas mauste" },
+  kuva: { alt: "pippuri – yleinen voimakas mauste" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua (vartalo pippuri-)",

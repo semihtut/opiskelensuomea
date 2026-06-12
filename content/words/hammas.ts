@@ -11,7 +11,7 @@ const hammas: Word = {
   en: "tooth",
   selitys:
     "Suun kova rakenne, jolla pureskellaan: 'pestä hampaat'. Tyyppi 41, astevaihtelu mp:mm (hammas → hampaan). Vahva aste mp näkyy vartalossa hampaa-. Vrt. hammaslääkäri (dentist), hammastahna (toothpaste).",
-  kuva: { emoji: "🦷", alt: "hammas – suun kova rakenne" },
+  kuva: { alt: "hammas – suun kova rakenne" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 41/vieras; astevaihtelu mp:mm (hammas ↔ hampaa-)",

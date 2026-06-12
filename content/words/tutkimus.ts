@@ -11,7 +11,7 @@ const tutkimus: Word = {
   en: "research, study, investigation",
   selitys:
     "Järjestelmällinen tiedon hankinta tai sen tulos: 'tehdä tutkimus'. Tyyppi 39/vastaus, ei astevaihtelua (-us → -ukse-). Johdettu verbistä tutkia. Vrt. tutkia, tutkija, tiede.",
-  kuva: { emoji: "📊", alt: "tutkimus – järjestelmällinen tiedon hankinta" },
+  kuva: { alt: "tutkimus – järjestelmällinen tiedon hankinta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo tutkimukse-)",

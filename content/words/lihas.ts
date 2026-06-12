@@ -11,7 +11,7 @@ const lihas: Word = {
   en: "muscle",
   selitys:
     "Kehon kudos, joka liikuttaa kehoa: 'vahva lihas', 'lihakset ovat kipeät'. Tyyppi 39/vastaus, ei astevaihtelua (-s → -kse-). Sanasta liha. Vrt. liha, lihaskunto, voima.",
-  kuva: { emoji: "💪", alt: "lihas – kehon kudos joka liikuttaa kehoa" },
+  kuva: { alt: "lihas – kehon kudos joka liikuttaa kehoa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo lihakse-)",

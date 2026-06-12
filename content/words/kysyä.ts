@@ -10,7 +10,7 @@ const kysyä: Word = {
   level: "A1",
   en: "to ask",
   selitys: "Esittää kysymys saadakseen tietoa. Tyyppi 1, vartalo kysy-, ei astevaihtelua.",
-  kuva: { emoji: "❓", alt: "kysyä – kysymysmerkki" },
+  kuva: { alt: "kysyä – kysymysmerkki" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ä); vartalo kysy-, ei astevaihtelua",

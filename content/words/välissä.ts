@@ -11,7 +11,7 @@ const valissa: Word = {
   en: "between, in between",
   selitys:
     "Kahden asian keskellä. Paikallissarja: välissä (missä) – välistä (mistä) – väliin (mihin). Postpositiona genetiivin kanssa: 'talojen välissä'.",
-  kuva: { emoji: "⏸️", alt: "välissä – kahden asian keskellä" },
+  kuva: { alt: "välissä – kahden asian keskellä" },
 
   kielioppi: {
     tyyppi: "paikan adverbi / postpositio (+ genetiivi); kolmiosainen paikallissarja",

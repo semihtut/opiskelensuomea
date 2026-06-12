@@ -11,7 +11,7 @@ const tilanne: Word = {
   en: "situation, circumstances",
   selitys:
     "Asioiden tila tiettynä hetkenä: 'vaikea tilanne'. Tyyppi 48, astevaihtelu nt:nn (tilanne → tilanteen). Juuri tila + -nne. Vrt. tila (state, space), asema (position).",
-  kuva: { emoji: "🎬", alt: "tilanne – asioiden tila tiettynä hetkenä" },
+  kuva: { alt: "tilanne – asioiden tila tiettynä hetkenä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu nt:nn",

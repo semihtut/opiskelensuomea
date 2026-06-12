@@ -11,7 +11,7 @@ const raskas: Word = {
   en: "heavy",
   selitys:
     "Painava; myös kuvallisesti vaikea tai rankka. Tyyppi 41, ei astevaihtelua, konsonanttivartalo (raskasta). Vastakohta kevyt.",
-  kuva: { emoji: "🏋️", alt: "raskas – painava taakka" },
+  kuva: { alt: "raskas – painava taakka" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua, konsonanttivartalo",

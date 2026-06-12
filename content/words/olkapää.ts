@@ -11,7 +11,7 @@ const olkapaa: Word = {
   en: "shoulder",
   selitys:
     "Käsivarren ja vartalon yhdistävä nivel: 'olkapää on jäykkä'. Tyyppi 18/maa, ei astevaihtelua. Yhdyssana olka + pää. Synonyymi hartia. Vrt. käsi, hartia, nivel.",
-  kuva: { emoji: "🤷", alt: "olkapää – käsivarren ja vartalon yhdistävä nivel" },
+  kuva: { alt: "olkapää – käsivarren ja vartalon yhdistävä nivel" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 18/maa; ei astevaihtelua (vartalo olkapää-)",

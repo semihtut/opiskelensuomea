@@ -12,7 +12,7 @@ const maksaa: Word = {
   en: "to pay; to cost",
   selitys:
     "Antaa rahaa jostakin (maksaa lasku) tai olla jonkin hintainen (paljonko se maksaa?). Tyyppi 1, ei astevaihtelua.",
-  kuva: { emoji: "💳", alt: "maksaa – maksukortti" },
+  kuva: { alt: "maksaa – maksukortti" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); vartalo maksa-, ei astevaihtelua",

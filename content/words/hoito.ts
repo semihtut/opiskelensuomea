@@ -11,7 +11,7 @@ const hoito: Word = {
   en: "care, treatment",
   selitys:
     "Huolenpito tai sairauden hoitaminen: 'saada hyvää hoitoa'. Tyyppi 1/valo, astevaihtelu t:d (hoito → hoidon). Johdettu verbistä hoitaa. Vrt. hoitaa, hoitaja, terveydenhoito.",
-  kuva: { emoji: "💊", alt: "hoito – huolenpito tai sairauden hoitaminen" },
+  kuva: { alt: "hoito – huolenpito tai sairauden hoitaminen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (vartalo hoido-)",

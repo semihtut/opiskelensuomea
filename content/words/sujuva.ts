@@ -11,7 +11,7 @@ const sujuva: Word = {
   en: "fluent, smooth",
   selitys:
     "Vaivattomasti etenevä, esteetön: 'sujuva suomen kieli', 'sujuva yhteistyö'. Tyyppi 10/koira, ei astevaihtelua. Verbin sujua partisiippi. Vrt. sujua, sujuvuus, sujuvasti.",
-  kuva: { emoji: "🌊", alt: "sujuva – vaivattomasti etenevä, esteetön" },
+  kuva: { alt: "sujuva – vaivattomasti etenevä, esteetön" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo sujuva-)",

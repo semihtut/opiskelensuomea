@@ -11,7 +11,7 @@ const mika: Word = {
   en: "what; which",
   selitys:
     "Kysyy asiaa tai esinettä (what/which). Genetiivi minkä, partitiivi mitä. Paikallissijat ovat tavallisia kysymyssanoja: missä, mistä, mihin. Henkilöistä kysytään kuka.",
-  kuva: { emoji: "❔", alt: "mikä – kysymys asiasta" },
+  kuva: { alt: "mikä – kysymys asiasta" },
 
   kielioppi: {
     tyyppi: "interrogatiivipronomini (asia); epäsäännöllinen, vartalo mi-",

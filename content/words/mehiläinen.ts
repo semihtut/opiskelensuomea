@@ -11,7 +11,7 @@ const mehilainen: Word = {
   en: "bee",
   selitys:
     "Hyönteinen, joka tekee hunajaa ja pölyttää kukkia: 'mehiläinen pörisee'. Tyyppi 38/nainen, ei astevaihtelua. Vrt. hunaja, kukka, hyönteinen.",
-  kuva: { emoji: "🐝", alt: "mehiläinen – hyönteinen joka tekee hunajaa ja pölyttää kukkia" },
+  kuva: { alt: "mehiläinen – hyönteinen joka tekee hunajaa ja pölyttää kukkia" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo mehiläise-)",

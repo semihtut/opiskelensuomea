@@ -11,7 +11,7 @@ const kaunis: Word = {
   en: "beautiful, pretty",
   selitys:
     "Silmää tai mieltä miellyttävä. Tyyppi 41, ei astevaihtelua, konsonanttivartalo (kaunista). Vastakohta ruma.",
-  kuva: { emoji: "🌸", alt: "kaunis – kaunis kukka" },
+  kuva: { alt: "kaunis – kaunis kukka" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 41/vieras; ei astevaihtelua, konsonanttivartalo",

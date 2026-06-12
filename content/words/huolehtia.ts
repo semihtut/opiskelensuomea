@@ -11,7 +11,7 @@ const huolehtia: Word = {
   en: "to take care of, look after; to see to",
   selitys:
     "Pitää huolta jostakin tai jostakusta: 'huolehtia lapsista'. Tyyppi 1 (-ia), Kotus 61/sallia, astevaihtelu ht:hd (huolehdin). i-vartalo: minä-muoto sama preesensissä ja imperfektissä. Rektio: elatiivi (huolehtia jostakin). Vrt. hoitaa, pitää huolta, huoli.",
-  kuva: { emoji: "🤲", alt: "huolehtia – pitää huolta jostakin tai jostakusta" },
+  kuva: { alt: "huolehtia – pitää huolta jostakin tai jostakusta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia), Kotus 61/sallia; astevaihtelu ht:hd (huoleht- ~ huolehd-)",

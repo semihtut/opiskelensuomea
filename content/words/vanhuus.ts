@@ -11,7 +11,7 @@ const vanhuus: Word = {
   en: "old age",
   selitys:
     "Elämänvaihe, jolloin ihminen on vanha: 'turvallinen vanhuus'. Tyyppi 40/kalleus, astevaihtelu t:d (vanhuus → vanhuuden). Adjektiivista vanha. Vrt. vanha, nuoruus, eläke.",
-  kuva: { emoji: "👴", alt: "vanhuus – elämänvaihe jolloin ihminen on vanha" },
+  kuva: { alt: "vanhuus – elämänvaihe jolloin ihminen on vanha" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vanhuute- ~ vanhuude-)",

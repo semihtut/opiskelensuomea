@@ -10,7 +10,7 @@ const aina: Word = {
   en: "always",
   selitys:
     "Joka kerta, kaiken aikaa. Ajan/toistuvuuden adverbi, ei taivuteta. Vastakohta 'ei koskaan'. 'Aina kun' = whenever.",
-  kuva: { emoji: "♾️", alt: "aina – joka kerta, kaiken aikaa" },
+  kuva: { alt: "aina – joka kerta, kaiken aikaa" },
 
   kielioppi: {
     tyyppi: "toistuvuuden adverbi; taipumaton",

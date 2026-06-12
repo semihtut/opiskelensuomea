@@ -11,7 +11,7 @@ const mahdollisuus: Word = {
   en: "possibility, chance, opportunity",
   selitys:
     "Se, että jokin voi tapahtua tai onnistua: 'hyvä mahdollisuus'. Tyyppi 40, astevaihtelu t:d (mahdollisuus → mahdollisuuden). Juuri mahdollinen + -uus. Vrt. tilaisuus (clearer opportunity).",
-  kuva: { emoji: "🚪", alt: "mahdollisuus – se että jokin voi onnistua" },
+  kuva: { alt: "mahdollisuus – se että jokin voi onnistua" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d",

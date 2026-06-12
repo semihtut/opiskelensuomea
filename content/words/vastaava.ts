@@ -11,7 +11,7 @@ const vastaava: Word = {
   en: "corresponding, equivalent; similar",
   selitys:
     "Toista vastaava tai samanarvoinen: 'vastaava tilanne'. Tyyppi 10/koira, ei astevaihtelua. Verbin vastata partisiippi. Voi tarkoittaa myös 'vastuussa oleva' (vastaava hoitaja). Vrt. vastata, vastaavasti.",
-  kuva: { emoji: "🔗", alt: "vastaava – toista vastaava tai samanarvoinen" },
+  kuva: { alt: "vastaava – toista vastaava tai samanarvoinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua (vartalo vastaava-)",

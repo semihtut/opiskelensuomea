@@ -11,7 +11,7 @@ const asua: Word = {
   en: "to live, reside, dwell",
   selitys:
     "Olla jonkin paikan asukas, esim. kaupungissa tai talossa. Tyyppi 1, vartalo asu-, ei astevaihtelua. Erota 'elää' (= olla elossa).",
-  kuva: { emoji: "🏡", alt: "asua – koti, jossa asutaan" },
+  kuva: { alt: "asua – koti, jossa asutaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-a); vartalo asu-, ei astevaihtelua",

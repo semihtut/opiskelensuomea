@@ -11,7 +11,7 @@ const allekirjoittaa: Word = {
   en: "to sign",
   selitys:
     "Kirjoittaa nimensä asiakirjan alle vahvistukseksi: 'allekirjoittaa sopimus'. Myös kuvaannollisesti: olla samaa mieltä. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (allekirjoitan). Yhdysverbi alle + kirjoittaa. Vrt. kirjoittaa, allekirjoitus, nimi.",
-  kuva: { emoji: "✍️", alt: "allekirjoittaa – kirjoittaa nimensä asiakirjan alle vahvistukseksi" },
+  kuva: { alt: "allekirjoittaa – kirjoittaa nimensä asiakirjan alle vahvistukseksi" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (allekirjoita- ~ allekirjoitta-)",

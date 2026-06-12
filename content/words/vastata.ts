@@ -11,7 +11,7 @@ const vastata: Word = {
   en: "to answer, to reply; to be responsible for",
   selitys:
     "Antaa vastaus tai olla vastuussa: 'vastaan kysymykseen' (illatiivi) = I answer the question. Tyyppi 4 (-ata): vastata → vastaan. Vrt. kysyä (ask), vastaus (answer).",
-  kuva: { emoji: "↩️", alt: "vastata – antaa vastaus" },
+  kuva: { alt: "vastata – antaa vastaus" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo vastaa-",

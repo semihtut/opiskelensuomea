@@ -11,7 +11,7 @@ const kuuma: Word = {
   en: "hot",
   selitys:
     "Hyvin korkea lämpötila, polttava: 'kuuma kahvi'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko kuumia. Vertailu kuumempi – kuumin. Vastakohta kylmä. Vrt. lämmin (vähemmän kuuma), kuumuus.",
-  kuva: { emoji: "🔥", alt: "kuuma – hyvin korkea lämpötila" },
+  kuva: { alt: "kuuma – hyvin korkea lämpötila" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

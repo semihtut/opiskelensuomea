@@ -11,7 +11,7 @@ const sijoittaa: Word = {
   en: "to invest; to place, position",
   selitys:
     "Laittaa raha tuottamaan tai asettaa jokin paikalleen: 'sijoittaa osakkeisiin' / 'sijoittaa esine hyllylle'. Tyyppi 1 (-aa), astevaihtelu tt:t (sijoitan ~ sijoittaa). Vrt. sijoitus (investment), sijainti (location).",
-  kuva: { emoji: "📈", alt: "sijoittaa – laittaa raha tuottamaan tai asettaa paikalleen" },
+  kuva: { alt: "sijoittaa – laittaa raha tuottamaan tai asettaa paikalleen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa); astevaihtelu tt:t (sijoitan ↔ sijoittaa); vartalo sijoitta- ~ sijoita-",

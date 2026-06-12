@@ -11,7 +11,7 @@ const sininen: Word = {
   en: "blue",
   selitys:
     "Selkeän taivaan ja meren väri. Tyyppi 38, ei astevaihtelua. Taivutusvartalo sinis-. Suomen lipun väri (sinivalkoinen).",
-  kuva: { emoji: "🔵", alt: "sininen – sininen väri" },
+  kuva: { alt: "sininen – sininen väri" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

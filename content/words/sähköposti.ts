@@ -11,7 +11,7 @@ const sähköposti: Word = {
   en: "email",
   selitys:
     "Sähköinen viesti tai sen järjestelmä: 'lähettää sähköposti'. Yhdyssana sähkö + posti. Tyyppi 5, ei astevaihtelua (st säilyy). Partitiivin monikko sähköposteja. Arkikielessä myös meili. Vrt. sähköpostiosoite.",
-  kuva: { emoji: "📧", alt: "sähköposti – sähköinen viesti" },
+  kuva: { alt: "sähköposti – sähköinen viesti" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

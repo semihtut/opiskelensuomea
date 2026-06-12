@@ -11,7 +11,7 @@ const avata: Word = {
   en: "to open",
   selitys:
     "Saada jokin auki; aloittaa toiminta. Tyyppi 4 (-ata): avata → avaan. Vastakohta sulkea. Vrt. adjektiivi auki / avoin.",
-  kuva: { emoji: "🔓", alt: "avata – ovi tai lukko avataan" },
+  kuva: { alt: "avata – ovi tai lukko avataan" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata); ei astevaihtelua; vartalo avaa-",

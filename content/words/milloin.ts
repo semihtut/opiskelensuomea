@@ -10,7 +10,7 @@ const milloin: Word = {
   en: "when",
   selitys:
     "Kysyy aikaa (when). Taipumaton kysymyssana. Synonyymi 'koska'. Vrt. paikan kysymyssanat missä/mistä/mihin.",
-  kuva: { emoji: "🕐", alt: "milloin – kysymys ajankohdasta" },
+  kuva: { alt: "milloin – kysymys ajankohdasta" },
 
   kielioppi: {
     tyyppi: "interrogatiivinen adverbi (aika), taipumaton",

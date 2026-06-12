@@ -11,7 +11,7 @@ const sopia: Word = {
   en: "to agree (on); to suit, fit",
   selitys:
     "Päästä yhteisymmärrykseen tai olla sopiva johonkin: 'sopia tapaaminen' / 'takki sopii sinulle'. Tyyppi 1 (-ia), astevaihtelu p:v (sovin ~ sopii). Vrt. sopiva (suitable), sopimus (agreement).",
-  kuva: { emoji: "🤝", alt: "sopia – päästä yhteisymmärrykseen tai olla sopiva" },
+  kuva: { alt: "sopia – päästä yhteisymmärrykseen tai olla sopiva" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ia); astevaihtelu p:v (sovin ↔ sopii); vartalo sopi- ~ sovi-",

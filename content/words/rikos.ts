@@ -11,7 +11,7 @@ const rikos: Word = {
   en: "crime, offence",
   selitys:
     "Lain rikkominen, rangaistava teko: 'tehdä rikos', 'vakava rikos'. Tyyppi 39/vastaus, ei astevaihtelua (-os → -okse-). Sanasta rikkoa. Vrt. rikkoa, rikollinen, rangaistus.",
-  kuva: { emoji: "🚔", alt: "rikos – lain rikkominen, rangaistava teko" },
+  kuva: { alt: "rikos – lain rikkominen, rangaistava teko" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua (vartalo rikokse-)",

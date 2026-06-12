@@ -11,7 +11,7 @@ const maahanmuuttaja: Word = {
   en: "immigrant",
   selitys:
     "Henkilö, joka on muuttanut toiseen maahan asumaan: 'kotouttaa maahanmuuttajia'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko maahanmuuttajia. Yhdyssana maahan + muuttaja. Vrt. muuttaa, maahanmuutto, ulkomaalainen.",
-  kuva: { emoji: "🧳", alt: "maahanmuuttaja – henkilö joka on muuttanut toiseen maahan asumaan" },
+  kuva: { alt: "maahanmuuttaja – henkilö joka on muuttanut toiseen maahan asumaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo maahanmuuttaja-)",

@@ -11,7 +11,7 @@ const vaatia: Word = {
   en: "to demand, require; to claim",
   selitys:
     "Edellyttää tai pyytää jotakin tiukasti: 'työ vaatii kärsivällisyyttä'. Tyyppi 2 (-tia), Kotus 61/sallia, astevaihtelu t:d (vaadin). Objekti partitiivissa. i-vartalo: minä-muoto sama preesensissä ja imperfektissä (vaadin). Vrt. vaatimus, vaativa.",
-  kuva: { emoji: "✊", alt: "vaatia – edellyttää tai pyytää jotakin tiukasti" },
+  kuva: { alt: "vaatia – edellyttää tai pyytää jotakin tiukasti" },
 
   kielioppi: {
     tyyppi: "tyyppi 2 (-tia), Kotus 61/sallia; astevaihtelu t:d (vaati- ~ vaadi-)",

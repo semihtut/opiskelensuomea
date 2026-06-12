@@ -11,7 +11,7 @@ const laakari: Word = {
   en: "doctor, physician",
   selitys:
     "Sairauksia hoitava ammattilainen. Tyyppi 6, ei astevaihtelua. Monikon partitiivi lääkäreitä.",
-  kuva: { emoji: "👩‍⚕️", alt: "lääkäri – lääkäri takissaan" },
+  kuva: { alt: "lääkäri – lääkäri takissaan" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua",

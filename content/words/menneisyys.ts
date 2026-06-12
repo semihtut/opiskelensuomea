@@ -11,7 +11,7 @@ const menneisyys: Word = {
   en: "the past",
   selitys:
     "Aika, joka on jo mennyt: 'elää menneisyydessä'. Tyyppi 40, astevaihtelu t:d (menneisyys → menneisyyden). Yleensä yksikössä. Johdettu sanasta mennyt. Vastakohta tulevaisuus.",
-  kuva: { emoji: "🕰️", alt: "menneisyys – aika, joka on jo mennyt" },
+  kuva: { alt: "menneisyys – aika, joka on jo mennyt" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (vartalo menneisyyde-)",

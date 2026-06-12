@@ -11,7 +11,7 @@ const kansalainen: Word = {
   en: "citizen, national",
   selitys:
     "Valtion jäsen, jolla on tietyn maan kansalaisuus: 'Suomen kansalainen'. Tyyppi 38/nainen, ei astevaihtelua. Johdettu sanasta kansa. Vrt. kansalaisuus, kansa, kansallinen.",
-  kuva: { emoji: "🪪", alt: "kansalainen – valtion jäsen, jolla on kansalaisuus" },
+  kuva: { alt: "kansalainen – valtion jäsen, jolla on kansalaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo kansalaise-)",

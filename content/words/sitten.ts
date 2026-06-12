@@ -11,7 +11,7 @@ const sitten: Word = {
   en: "ago; then, after that",
   selitys:
     "Ajanilmauksen kanssa = 'sitten' (ago): 'vuosi sitten'. Järjestyksessä = 'sitten' (then, next): 'ensin… sitten…'. Ei taivuteta. Puhekielessä 'sit'.",
-  kuva: { emoji: "⏱️", alt: "sitten – aiemmin (ago) tai seuraavaksi (then)" },
+  kuva: { alt: "sitten – aiemmin (ago) tai seuraavaksi (then)" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

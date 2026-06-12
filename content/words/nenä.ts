@@ -11,7 +11,7 @@ const nena: Word = {
   en: "nose",
   selitys:
     "Kasvojen osa, jolla haistetaan ja hengitetään: 'nenä vuotaa'. Tyyppi 10/koira, ei astevaihtelua; partitiivin monikko neniä. Vrt. haistaa, kasvot, hengittää.",
-  kuva: { emoji: "👃", alt: "nenä – kasvojen osa jolla haistetaan ja hengitetään" },
+  kuva: { alt: "nenä – kasvojen osa jolla haistetaan ja hengitetään" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo nenä-)",

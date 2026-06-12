@@ -11,7 +11,7 @@ const asunto: Word = {
   en: "apartment, flat, dwelling",
   selitys:
     "Paikka, jossa ihminen asuu: 'vuokra-asunto'. Tyyppi 1, astevaihtelu nt:nn (asunto → asunnon). Partitiivin monikko asuntoja. Johdettu verbistä asua. Vrt. asuntolaina, kerrostalo.",
-  kuva: { emoji: "🏠", alt: "asunto – paikka, jossa ihminen asuu" },
+  kuva: { alt: "asunto – paikka, jossa ihminen asuu" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu nt:nn (asunto ↔ asunno-)",

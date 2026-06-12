@@ -11,7 +11,7 @@ const nuori: Word = {
   en: "young; a young person",
   selitys:
     "Vähän aikaa elänyt; vanhan vastakohta. Toimii myös substantiivina ('nuoret' = the young). Konsonanttivartalo (partitiivi nuorta).",
-  kuva: { emoji: "🧑", alt: "nuori – nuori henkilö" },
+  kuva: { alt: "nuori – nuori henkilö" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 26/pieni; ei astevaihtelua, konsonanttivartalo; vertailu nuorempi – nuorin",

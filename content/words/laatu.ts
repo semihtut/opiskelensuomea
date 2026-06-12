@@ -11,7 +11,7 @@ const laatu: Word = {
   en: "quality; kind, sort",
   selitys:
     "Se, kuinka hyvä jokin on; myös laji tai tyyppi: 'hyvä laatu', 'tätä laatua'. Tyyppi 1/valo, astevaihtelu t:d (laatu → laadun). Vrt. laadukas, laadunvalvonta, taso.",
-  kuva: { emoji: "⭐", alt: "laatu – se kuinka hyvä jokin on" },
+  kuva: { alt: "laatu – se kuinka hyvä jokin on" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu t:d (laatu ~ laadu-)",

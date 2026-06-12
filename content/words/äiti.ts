@@ -12,7 +12,7 @@ const äiti: Word = {
   en: "mother, mom",
   selitys:
     "Naispuolinen vanhempi. Astevaihtelu t:d — äiti → äidin. Heikko aste (d) umpitavussa, vahva (t) avotavussa.",
-  kuva: { emoji: "👩‍👧", alt: "äiti – naispuolinen vanhempi" },
+  kuva: { alt: "äiti – naispuolinen vanhempi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu t:d (äiti → äidin)",

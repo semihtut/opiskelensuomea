@@ -10,7 +10,7 @@ const heti: Word = {
   en: "immediately, right away",
   selitys:
     "Ilman viivettä; saman tien. Ajan adverbi, ei taivuteta. 'Tulen heti.' 'Heti kun' = as soon as. Vrt. pian (soon).",
-  kuva: { emoji: "⚡", alt: "heti – saman tien, viipymättä" },
+  kuva: { alt: "heti – saman tien, viipymättä" },
 
   kielioppi: {
     tyyppi: "ajan adverbi; taipumaton",

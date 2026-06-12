@@ -11,7 +11,7 @@ const kasittaa: Word = {
   en: "to understand, grasp; to comprise, include",
   selitys:
     "1) Ymmärtää, tajuta: 'en käsitä tätä'. 2) Sisältää, kattaa: 'kurssi käsittää viisi osaa'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (käsitän). Vrt. käsite, käsitys, ymmärtää.",
-  kuva: { emoji: "💡", alt: "käsittää – ymmärtää tai sisältää" },
+  kuva: { alt: "käsittää – ymmärtää tai sisältää" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (käsitä- ~ käsittä-)",

@@ -11,7 +11,7 @@ const turisti: Word = {
   en: "tourist",
   selitys:
     "Henkilö, joka matkustaa huvin vuoksi ja katselee nähtävyyksiä: 'kaupunki on täynnä turisteja'. Tyyppi 5, ei astevaihtelua (st säilyy). Partitiivin monikko turisteja. Vrt. matkailija, turismi.",
-  kuva: { emoji: "📸", alt: "turisti – henkilö, joka matkustaa huvin vuoksi" },
+  kuva: { alt: "turisti – henkilö, joka matkustaa huvin vuoksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua",

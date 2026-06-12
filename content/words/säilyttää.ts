@@ -11,7 +11,7 @@ const sailyttaa: Word = {
   en: "to keep, preserve, store, retain",
   selitys:
     "Pitää tallessa tai muuttumattomana: 'säilyttää ruoka kylmässä'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (säilytän). Johdettu sanasta säilyä. Vrt. säilyä, säilytys, varjella.",
-  kuva: { emoji: "🫙", alt: "säilyttää – pitää tallessa tai muuttumattomana" },
+  kuva: { alt: "säilyttää – pitää tallessa tai muuttumattomana" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (säilytä- ~ säilyttä-)",

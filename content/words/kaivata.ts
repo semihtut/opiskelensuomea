@@ -11,7 +11,7 @@ const kaivata: Word = {
   en: "to miss, long for, yearn for; to need",
   selitys:
     "Tuntea ikävää tai tarvetta jotakin kohtaan: 'kaipaan sinua'. Tyyppi 4 (-ata), Kotus 73/salata, astevaihtelu p:v (kaipaan vahva, kaivata/kaivannut heikko). Objekti partitiivissa. Vrt. ikävä, kaipuu, tarvita.",
-  kuva: { emoji: "🥺", alt: "kaivata – tuntea ikävää tai tarvetta jotakin kohtaan" },
+  kuva: { alt: "kaivata – tuntea ikävää tai tarvetta jotakin kohtaan" },
 
   kielioppi: {
     tyyppi: "tyyppi 4 (-ata), Kotus 73/salata; astevaihtelu p:v (kaipaa- ~ kaiva-)",

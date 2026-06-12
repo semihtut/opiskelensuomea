@@ -11,7 +11,7 @@ const meri: Word = {
   en: "sea",
   selitys:
     "Suuri suolainen vesistö. Tyyppi 24, ei astevaihtelua, konsonanttivartalo. Poikkeus: partitiivi merta käyttää takavokaalia (ei *mertä).",
-  kuva: { emoji: "🌊", alt: "meri – aaltoileva meri" },
+  kuva: { alt: "meri – aaltoileva meri" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 24/uni; ei astevaihtelua, konsonanttivartalo",

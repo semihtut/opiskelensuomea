@@ -10,7 +10,7 @@ const ajoissa: Word = {
   en: "in time, on time, in good time",
   selitys:
     "Riittävän aikaisin, ennen takarajaa: 'tulin ajoissa asemalle'. Vakiintunut adverbi sanan aika monikon inessiivistä. Vrt. ajallaan (on schedule), ajoittain (occasionally), myöhässä (late).",
-  kuva: { emoji: "⏰", alt: "ajoissa – riittävän aikaisin, ennen takarajaa" },
+  kuva: { alt: "ajoissa – riittävän aikaisin, ennen takarajaa" },
 
   kielioppi: {
     tyyppi: "adverbi (ajan adverbi); vakiintunut sanan aika monikon inessiivistä",

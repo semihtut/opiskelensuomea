@@ -11,7 +11,7 @@ const karhu: Word = {
   en: "bear",
   selitys:
     "Suuri metsäeläin, Suomen kansalliseläin: 'karhu nukkuu talviunta'. Tyyppi 1/valo, ei astevaihtelua. Vrt. metsä, eläin, susi.",
-  kuva: { emoji: "🐻", alt: "karhu – suuri metsäeläin, Suomen kansalliseläin" },
+  kuva: { alt: "karhu – suuri metsäeläin, Suomen kansalliseläin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo karhu-)",

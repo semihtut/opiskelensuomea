@@ -11,7 +11,7 @@ const koulu: Word = {
   en: "school",
   selitys:
     "Paikka, jossa opiskellaan; myös oppilaitos yleisesti. Tyyppi 1, ei astevaihtelua.",
-  kuva: { emoji: "🏫", alt: "koulu – koulurakennus" },
+  kuva: { alt: "koulu – koulurakennus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua",

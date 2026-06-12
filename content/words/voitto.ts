@@ -11,7 +11,7 @@ const voitto: Word = {
   en: "victory, win; profit",
   selitys:
     "1) Kilpailun voittaminen: 'joukkueen voitto'. 2) Taloudellinen hyöty: 'yrityksen voitto'. Tyyppi 1/valo, astevaihtelu tt:t (voitto → voiton). Johdettu verbistä voittaa. Vastakohta tappio. Vrt. voittaa, voittaja.",
-  kuva: { emoji: "🏆", alt: "voitto – kilpailun voittaminen tai taloudellinen hyöty" },
+  kuva: { alt: "voitto – kilpailun voittaminen tai taloudellinen hyöty" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu tt:t (vartalo voito-)",

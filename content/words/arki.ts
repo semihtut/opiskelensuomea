@@ -12,7 +12,7 @@ const arki: Word = {
   en: "everyday life; weekday",
   selitys:
     "Tavallinen, jokapäiväinen elämä; myös arkipäivä viikonlopun vastakohtana. Astevaihtelu rk:rj (arki → arjen). Käytetään enimmäkseen yksikössä.",
-  kuva: { emoji: "📅", alt: "arki – tavallinen arkipäivä kalenterissa" },
+  kuva: { alt: "arki – tavallinen arkipäivä kalenterissa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 7/ovi; astevaihtelu rk:rj (arki → arjen)",

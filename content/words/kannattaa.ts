@@ -11,7 +11,7 @@ const kannattaa: Word = {
   en: "to be worth(while); to support",
   selitys:
     "Kaksi päämerkitystä: 1) persoonaton 'kannattaa tehdä jotakin' = on järkevää, hyödyllistä (sinun kannattaa levätä); 2) 'kannattaa jotakuta/jotakin' = tukea, olla puolella. Tyyppi 1 (-aa), Kotus 53/muistaa, astevaihtelu tt:t (kannatan). Vrt. kanta, kannattaja.",
-  kuva: { emoji: "👍", alt: "kannattaa – olla hyödyllistä tai tukea jotakuta" },
+  kuva: { alt: "kannattaa – olla hyödyllistä tai tukea jotakuta" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-aa), Kotus 53/muistaa; astevaihtelu tt:t (kannata- ~ kannatta-)",

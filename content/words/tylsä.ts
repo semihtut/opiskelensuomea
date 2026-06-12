@@ -11,7 +11,7 @@ const tylsä: Word = {
   en: "boring; blunt, dull",
   selitys:
     "Tylsistyttävä ja kiinnostamaton, tai terältään tylppä: 'tylsä elokuva' / 'tylsä veitsi'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko tylsiä. Vertailu tylsempi – tylsin. Vastakohta kiinnostava / terävä.",
-  kuva: { emoji: "🥱", alt: "tylsä – kiinnostamaton tai terältään tylppä" },
+  kuva: { alt: "tylsä – kiinnostamaton tai terältään tylppä" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 10/koira; ei astevaihtelua",

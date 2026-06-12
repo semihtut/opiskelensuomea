@@ -11,7 +11,7 @@ const käyttäjä: Word = {
   en: "user",
   selitys:
     "Henkilö, joka käyttää jotakin, esim. palvelua tai laitetta: 'rekisteröitynyt käyttäjä'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko käyttäjiä. Tekijännimi verbistä käyttää. Vrt. käyttäjätunnus.",
-  kuva: { emoji: "👤", alt: "käyttäjä – henkilö, joka käyttää jotakin" },
+  kuva: { alt: "käyttäjä – henkilö, joka käyttää jotakin" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua; tekijännimi (-jä)",

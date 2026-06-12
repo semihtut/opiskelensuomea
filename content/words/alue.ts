@@ -11,7 +11,7 @@ const alue: Word = {
   en: "area, region, zone",
   selitys:
     "Rajattu osa maata tai tilaa: 'asuinalue'. Tyyppi 48, ei astevaihtelua; vartalo aluee-. Partitiivin monikko alueita. Johdettu sanasta ala. Vrt. alueellinen (regional), asuinalue, teollisuusalue.",
-  kuva: { emoji: "🗺️", alt: "alue – rajattu osa maata tai tilaa" },
+  kuva: { alt: "alue – rajattu osa maata tai tilaa" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; ei astevaihtelua; vartalo aluee-",

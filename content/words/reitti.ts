@@ -11,7 +11,7 @@ const reitti: Word = {
   en: "route, way",
   selitys:
     "Suunniteltu kulkutie paikasta toiseen: 'nopein reitti'. Tyyppi 5, astevaihtelu tt:t (reitti → reitin). Partitiivin monikko reittejä. Vrt. bussireitti (bus route), reititin (router).",
-  kuva: { emoji: "🗺️", alt: "reitti – suunniteltu kulkutie" },
+  kuva: { alt: "reitti – suunniteltu kulkutie" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; astevaihtelu tt:t (reitti ↔ reiti-)",

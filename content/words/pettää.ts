@@ -11,7 +11,7 @@ const pettaa: Word = {
   en: "to betray, deceive; to fail, give way",
   selitys:
     "1) Pettää luottamus, huijata: 'pettää ystävänsä'. 2) Pettää eli rikkoutua tai pettää voimat: 'jalat pettivät'. Tyyppi 1 (-ää), Kotus 53/muistaa, astevaihtelu tt:t (petän). Vrt. petos, petollinen; eri sana kuin pettyä (to be disappointed).",
-  kuva: { emoji: "💔", alt: "pettää – pettää luottamus tai rikkoutua" },
+  kuva: { alt: "pettää – pettää luottamus tai rikkoutua" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ää), Kotus 53/muistaa; astevaihtelu tt:t (petä- ~ pettä-)",

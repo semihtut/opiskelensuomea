@@ -11,7 +11,7 @@ const kulttuuri: Word = {
   en: "culture",
   selitys:
     "Kansan tavat, arvot ja taide: 'suomalainen kulttuuri'. Tyyppi 6, ei astevaihtelua. Partitiivin monikko kulttuureita. Lainasana ruotsista (kultur). Vrt. kulttuurinen, korkeakulttuuri.",
-  kuva: { emoji: "🎭", alt: "kulttuuri – kansan tavat, arvot ja taide" },
+  kuva: { alt: "kulttuuri – kansan tavat, arvot ja taide" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 6/paperi; ei astevaihtelua",

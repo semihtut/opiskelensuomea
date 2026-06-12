@@ -11,7 +11,7 @@ const kirkko: Word = {
   en: "church",
   selitys:
     "Kristillinen rakennus jumalanpalvelusta varten; myös kirkkoinstituutio. Tyyppi 1, astevaihtelu kk:k (kirkko → kirkon).",
-  kuva: { emoji: "⛪", alt: "kirkko – kirkkorakennus torneineen" },
+  kuva: { alt: "kirkko – kirkkorakennus torneineen" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; astevaihtelu kk:k",

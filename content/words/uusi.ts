@@ -11,7 +11,7 @@ const uusi: Word = {
   en: "new",
   selitys:
     "Vasta tehty tai hankittu; vastakohta vanha. Tyyppi 27, astevaihtelu t:d, konsonanttivartalo (uutta). Vartalo uute- → uude-.",
-  kuva: { emoji: "✨", alt: "uusi – uusi, juuri hankittu" },
+  kuva: { alt: "uusi – uusi, juuri hankittu" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 27/käsi; astevaihtelu t:d, konsonanttivartalo",

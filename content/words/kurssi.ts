@@ -11,7 +11,7 @@ const kurssi: Word = {
   en: "course; exchange rate; (ship's) course",
   selitys:
     "1) Oppijakso tietystä aiheesta: 'käydä kielikurssi', 'ilmoittautua kurssille'. 2) Valuutan tai osakkeen kurssi. 3) Aluksen suunta. Tyyppi 5/risti, ei astevaihtelua; partitiivin monikko kursseja. Vrt. opiskella, valuuttakurssi.",
-  kuva: { emoji: "📚", alt: "kurssi – oppijakso tietystä aiheesta" },
+  kuva: { alt: "kurssi – oppijakso tietystä aiheesta" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 5/risti; ei astevaihtelua (vartalo kurssi-)",

@@ -11,7 +11,7 @@ const kokonaisuus: Word = {
   en: "whole, entirety, totality",
   selitys:
     "Osista muodostuva ehjä kokonaisuus: 'nähdä kokonaisuus'. Tyyppi 40/kalleus, astevaihtelu t:d (kokonaisuus → kokonaisuuden). Adjektiivista kokonainen. Vastakohta osa. Vrt. kokonainen, osa, yhteys.",
-  kuva: { emoji: "🌐", alt: "kokonaisuus – osista muodostuva ehjä kokonaisuus" },
+  kuva: { alt: "kokonaisuus – osista muodostuva ehjä kokonaisuus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 40/kalleus; astevaihtelu t:d (kokonaisuute- ~ kokonaisuude-)",

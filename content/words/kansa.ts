@@ -11,7 +11,7 @@ const kansa: Word = {
   en: "people, nation, folk",
   selitys:
     "Yhteisen kielen tai kulttuurin jakavat ihmiset: 'Suomen kansa'. Tyyppi 9, ei astevaihtelua (ns säilyy). Partitiivin monikko kansoja. Vrt. kansalainen (citizen), kansallinen (national), kansakunta (nation).",
-  kuva: { emoji: "👥", alt: "kansa – yhteisen kulttuurin jakavat ihmiset" },
+  kuva: { alt: "kansa – yhteisen kulttuurin jakavat ihmiset" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; ei astevaihtelua (ns säilyy)",

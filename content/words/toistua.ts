@@ -11,7 +11,7 @@ const toistua: Word = {
   en: "to recur, repeat itself, happen again",
   selitys:
     "Tapahtua uudelleen tai toistuvasti: 'sama virhe toistuu'. Tyyppi 1 (-ua), Kotus 52/sanoa, ei astevaihtelua. Intransitiivinen, useimmiten 3. persoonassa (toistuu, toistui). Johdettu verbistä toistaa. Vrt. toisto, jatkua.",
-  kuva: { emoji: "🔁", alt: "toistua – tapahtua uudelleen ja uudelleen" },
+  kuva: { alt: "toistua – tapahtua uudelleen ja uudelleen" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-ua), Kotus 52/sanoa; ei astevaihtelua; vartalo toistu-",

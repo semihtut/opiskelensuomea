@@ -11,7 +11,7 @@ const tyonantaja: Word = {
   en: "employer",
   selitys:
     "Henkilö tai yritys, joka palkkaa ja maksaa palkkaa: 'hyvä työnantaja'. Tyyppi 10/koira, ei astevaihtelua. Yhdyssana työ (genetiivi työn) + antaja ('työn antaja'). Vastakohta työntekijä. Vrt. antaa, palkata, työntekijä.",
-  kuva: { emoji: "🏢", alt: "työnantaja – yritys tai henkilö joka palkkaa työntekijöitä" },
+  kuva: { alt: "työnantaja – yritys tai henkilö joka palkkaa työntekijöitä" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo työnantaja-)",

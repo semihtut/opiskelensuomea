@@ -11,7 +11,7 @@ const syyllinen: Word = {
   en: "guilty; the guilty party, culprit",
   selitys:
     "Sellainen, joka on tehnyt rikoksen tai virheen: 'syyllinen rikokseen', 'todeta syylliseksi'. Substantiivina: syyllinen = se, joka on syyllinen. Tyyppi 38/nainen, ei astevaihtelua. Sanasta syy. Vastakohta syytön. Vrt. syy, syyllisyys, syyttää.",
-  kuva: { emoji: "😣", alt: "syyllinen – henkilö joka on tehnyt rikoksen tai virheen" },
+  kuva: { alt: "syyllinen – henkilö joka on tehnyt rikoksen tai virheen" },
 
   kielioppi: {
     tyyppi: "adjektiivi/substantiivi, tyyppi 38/nainen; ei astevaihtelua (vartalo syyllise-)",

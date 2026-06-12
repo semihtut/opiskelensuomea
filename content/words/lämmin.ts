@@ -11,7 +11,7 @@ const lämmin: Word = {
   en: "warm",
   selitys:
     "Sopivan kuuma, miellyttävän lämpöinen: 'lämmin sää'. Tyyppi 35, astevaihtelu mp:mm; vartalo lämpimä-. Partitiivi lämmintä, genetiivi lämpimän. Vertailu lämpimämpi – lämpimin. Vastakohta kylmä.",
-  kuva: { emoji: "🌡️", alt: "lämmin – miellyttävän lämpöinen" },
+  kuva: { alt: "lämmin – miellyttävän lämpöinen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 35/lämmin; astevaihtelu mp:mm (lämmin ↔ lämpimä-)",

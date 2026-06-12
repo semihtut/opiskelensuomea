@@ -11,7 +11,7 @@ const toivoa: Word = {
   en: "to hope (for), to wish",
   selitys:
     "Haluta että jokin hyvä tapahtuu: 'toivon, että…'. Vrt. haluta (tahtoa konkreettisesti), odottaa (vartoa). Substantiivi: toive.",
-  kuva: { emoji: "🌠", alt: "toivoa – haluta että jokin hyvä tapahtuu" },
+  kuva: { alt: "toivoa – haluta että jokin hyvä tapahtuu" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-oa); ei astevaihtelua; vartalo toivo-",

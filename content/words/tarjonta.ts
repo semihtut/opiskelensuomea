@@ -11,7 +11,7 @@ const tarjonta: Word = {
   en: "supply (economics); selection, offering",
   selitys:
     "Se, mitä on tarjolla ostettavaksi: 'kysyntä ja tarjonta'. Tyyppi 9/kala, astevaihtelu nt:nn (tarjonta → tarjonnan). Yleensä yksikössä. Johdettu verbistä tarjota. Vastakohta kysyntä. Vrt. tarjota, tarjous, valikoima.",
-  kuva: { emoji: "🏬", alt: "tarjonta – se mitä on tarjolla ostettavaksi" },
+  kuva: { alt: "tarjonta – se mitä on tarjolla ostettavaksi" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu nt:nn (vartalo tarjonna-)",

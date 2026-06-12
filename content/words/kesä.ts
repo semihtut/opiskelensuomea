@@ -11,7 +11,7 @@ const kesä: Word = {
   en: "summer",
   selitys:
     "Vuodenaika, lämpimin aika kevään ja syksyn välissä: 'lämmin kesä'. Tyyppi 10, ei astevaihtelua. Partitiivin monikko kesiä. 'Kesällä' = in summer (adessiivi). Vastakohta talvi. Vrt. kesäloma.",
-  kuva: { emoji: "☀️", alt: "kesä – lämpimin vuodenaika" },
+  kuva: { alt: "kesä – lämpimin vuodenaika" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua",

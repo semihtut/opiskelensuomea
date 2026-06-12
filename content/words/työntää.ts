@@ -11,7 +11,7 @@ const tyontaa: Word = {
   en: "to push",
   selitys:
     "Liikuttaa jotain itsestä poispäin voimalla: 'työnnä ovea' (push the door). Astevaihtelu nt:nn (työntää → työnnän), imperfekti poikkeava: työnsin. Vastakohta vetää (pull).",
-  kuva: { emoji: "🤚", alt: "työntää – liikuttaa poispäin" },
+  kuva: { alt: "työntää – liikuttaa poispäin" },
 
   kielioppi: {
     tyyppi: "tyyppi 1 (-tää); astevaihtelu nt:nn; vartalo työntä-",

@@ -11,7 +11,7 @@ const jate: Word = {
   en: "waste, garbage, rubbish",
   selitys:
     "Käytöstä poistettu, tarpeeton aine: 'lajitella jätteet'. Tyyppi 48/hame, astevaihtelu tt:t (jätteen vahva, jäte/jätettä heikko). Johdettu verbistä jättää. Vrt. roska, kierrättää, jätehuolto.",
-  kuva: { emoji: "🗑️", alt: "jäte – käytöstä poistettu tarpeeton aine" },
+  kuva: { alt: "jäte – käytöstä poistettu tarpeeton aine" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 48/hame; astevaihtelu tt:t (vartalo jättee-)",

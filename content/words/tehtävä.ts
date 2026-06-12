@@ -11,7 +11,7 @@ const tehtava: Word = {
   en: "task, assignment, duty; exercise",
   selitys:
     "Tehtäväksi annettu työ tai harjoitus: 'kotitehtävä', 'tärkeä tehtävä'. Myös vastuu tai rooli. Tyyppi 10/koira, ei astevaihtelua. Alun perin verbin tehdä passiivin partisiippi ('se, mikä on tehtävä'). Vrt. tehdä, kotitehtävä, työtehtävä.",
-  kuva: { emoji: "📋", alt: "tehtävä – tehtäväksi annettu työ tai harjoitus" },
+  kuva: { alt: "tehtävä – tehtäväksi annettu työ tai harjoitus" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 10/koira; ei astevaihtelua (vartalo tehtävä-)",

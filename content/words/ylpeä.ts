@@ -11,7 +11,7 @@ const ylpeä: Word = {
   en: "proud",
   selitys:
     "Tyytyväinen itseensä tai toiseen saavutuksen vuoksi: 'ylpeä lapsestaan'. Tyyppi 15, ei astevaihtelua. Partitiivin monikko ylpeitä. Yhteydessä elatiivi: 'ylpeä jostakin'. Vrt. ylpeys (pride), ylpeillä.",
-  kuva: { emoji: "🦚", alt: "ylpeä – tyytyväinen itseensä tai toiseen" },
+  kuva: { alt: "ylpeä – tyytyväinen itseensä tai toiseen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 15/korkea; ei astevaihtelua",

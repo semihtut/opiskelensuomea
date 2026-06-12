@@ -11,7 +11,7 @@ const kuitenkin: Word = {
   en: "however, nevertheless, after all",
   selitys:
     "Ilmaisee vastakohtaa edelliselle. Konjunktioadverbi, ei taivuteta. 'Oli kylmä; lähdin kuitenkin ulos.' Vrt. mutta (konjunktio).",
-  kuva: { emoji: "🔄", alt: "kuitenkin – vastoin odotusta, kuitenkin" },
+  kuva: { alt: "kuitenkin – vastoin odotusta, kuitenkin" },
 
   kielioppi: {
     tyyppi: "konjunktioadverbi (vastakohta); taipumaton; liikkuu lauseessa",

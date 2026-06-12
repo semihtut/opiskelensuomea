@@ -11,7 +11,7 @@ const kauppa: Word = {
   en: "shop, store; trade, deal",
   selitys:
     "Paikka, jossa myydään tavaroita; myös kaupankäynti tai sopimus. Astevaihtelu pp:p (kauppa → kaupan).",
-  kuva: { emoji: "🛒", alt: "kauppa – ostoskärry" },
+  kuva: { alt: "kauppa – ostoskärry" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 9/kala; astevaihtelu pp:p (kauppa → kaupan)",

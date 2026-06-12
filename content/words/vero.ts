@@ -11,7 +11,7 @@ const vero: Word = {
   en: "tax",
   selitys:
     "Pakollinen maksu valtiolle tai kunnalle: 'maksaa veroja'. Tyyppi 1/valo, ei astevaihtelua; partitiivin monikko veroja. Vrt. verottaa, verotus, maksu.",
-  kuva: { emoji: "🧾", alt: "vero – pakollinen maksu valtiolle tai kunnalle" },
+  kuva: { alt: "vero – pakollinen maksu valtiolle tai kunnalle" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 1/valo; ei astevaihtelua (vartalo vero-)",

@@ -11,7 +11,7 @@ const haastattelu: Word = {
   en: "interview",
   selitys:
     "Tilanne, jossa joku kyselee toiselta tietoja, esimerkiksi työ- tai lehtihaastattelu: 'mennä haastatteluun'. Tyyppi 2, ei astevaihtelua. Partitiivin monikko haastatteluja. Johdettu verbistä haastatella.",
-  kuva: { emoji: "🎤", alt: "haastattelu – tilanne, jossa joku kyselee toiselta tietoja" },
+  kuva: { alt: "haastattelu – tilanne, jossa joku kyselee toiselta tietoja" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 2/palvelu; ei astevaihtelua",

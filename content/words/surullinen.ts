@@ -11,7 +11,7 @@ const surullinen: Word = {
   en: "sad, sorrowful",
   selitys:
     "Tunne, jossa on raskas ja murheellinen olo. Tyyppi 38, ei astevaihtelua. Juuri substantiivista suru. Vastakohta iloinen.",
-  kuva: { emoji: "😢", alt: "surullinen – surullinen, itkevä ihminen" },
+  kuva: { alt: "surullinen – surullinen, itkevä ihminen" },
 
   kielioppi: {
     tyyppi: "adjektiivi, tyyppi 38/nainen; ei astevaihtelua",

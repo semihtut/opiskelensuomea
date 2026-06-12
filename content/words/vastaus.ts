@@ -11,7 +11,7 @@ const vastaus: Word = {
   en: "answer, reply, response",
   selitys:
     "Se, mitä sanotaan kysymykseen tai viestiin. Tyyppi 39, ei astevaihtelua. Juuri verbistä vastata.",
-  kuva: { emoji: "💬", alt: "vastaus – puhekupla vastauksena" },
+  kuva: { alt: "vastaus – puhekupla vastauksena" },
 
   kielioppi: {
     tyyppi: "substantiivi, tyyppi 39/vastaus; ei astevaihtelua",
