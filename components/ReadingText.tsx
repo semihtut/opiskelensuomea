@@ -23,7 +23,7 @@ export function ReadingText({ teksti }: { teksti: ReadingTextData }) {
   return (
     <article className="rounded-card border border-line bg-surface p-6 shadow-soft">
       <div className="flex items-center gap-3">
-        <h2 className="font-display text-2xl text-accent" lang="fi">
+        <h2 className="font-display text-2xl" lang="fi">
           {teksti.title}
         </h2>
         <LevelBadge level={teksti.level} />

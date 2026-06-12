@@ -53,7 +53,7 @@ export default async function ScenarioPage({
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd data={[scenarioSchema(scenario), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs crumbs={crumbs} />
 
@@ -61,7 +61,7 @@ export default async function ScenarioPage({
         {categoryLabel} · {formatLabel}
       </p>
       <div className="mt-1 flex items-center gap-3">
-        <h1 className="font-display text-3xl font-semibold text-accent" lang="fi">
+        <h1 className="font-display text-title font-semibold text-accent hyphenate" lang="fi">
           {scenario.title}
         </h1>
         <LevelBadge level={scenario.level} />
@@ -82,7 +82,7 @@ export default async function ScenarioPage({
       </div>
 
       <section className="mt-8">
-        <h2 className="text-xl text-accent">Avainsanat</h2>
+        <h2 className="text-2xl">Avainsanat</h2>
         <ul className="mt-3 flex flex-wrap gap-2">
           {scenario.focus.map((f) => (
             <li

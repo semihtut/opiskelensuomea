@@ -46,14 +46,14 @@ export default async function WeekPage({
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd data={breadcrumbSchema(crumbs)} />
       <Breadcrumbs crumbs={crumbs} />
 
       <p className="mt-6 text-sm font-semibold uppercase tracking-wide text-ink-soft">
         {week.phase} · Viikko {week.week}
       </p>
-      <h1 className="mt-1 font-display text-3xl font-semibold text-accent" lang="fi">
+      <h1 className="mt-1 font-display text-title font-semibold text-accent hyphenate" lang="fi">
         {week.theme}
       </h1>
 
@@ -65,16 +65,13 @@ export default async function WeekPage({
         </Tldr>
       </div>
 
-      <section className="mt-8">
-        <h2 className="text-xl text-accent">Päivät</h2>
-        <ol className="mt-3 flex flex-col gap-4">
+      <section className="mt-12">
+        <h2 className="text-2xl">Päivät</h2>
+        <ol className="stagger-children mt-4 divide-y divide-line border-y border-line">
           {week.days.map((day) => {
             const dayWords = wordsForDay(day);
             return (
-              <li
-                key={day.day}
-                className="rounded-card border border-line bg-surface p-4 shadow-soft"
-              >
+              <li key={day.day} className="py-4">
                 <h3 className="font-semibold text-ink">
                   Päivä {day.day}: <span lang="fi">{day.theme}</span>
                 </h3>
@@ -84,7 +81,7 @@ export default async function WeekPage({
                       <li key={word.slug}>
                         <Link
                           href={`/words/${word.slug}`}
-                          className="inline-flex items-center gap-2 rounded-chip border border-line bg-bg px-3 py-1 text-sm no-underline hover:border-accent"
+                          className="inline-flex items-center gap-2 rounded-chip border border-line bg-surface px-3 py-1 text-sm no-underline hover:border-accent"
                         >
                           <span className="font-medium text-accent" lang="fi">
                             {word.fi}
@@ -103,21 +100,27 @@ export default async function WeekPage({
         </ol>
       </section>
 
-      <section className="mt-8">
-        <h2 className="text-xl text-accent">Viikon teksti</h2>
+      <section className="mt-12">
+        <h2 className="text-2xl">Viikon teksti</h2>
         <Link
           href={`/week/${week.week}/text`}
-          className="mt-3 flex items-center justify-between rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+          className="group mt-3 flex items-center justify-between gap-4 border-y border-line py-4 no-underline"
         >
           <span>
-            <span className="font-display text-lg font-semibold text-accent" lang="fi">
+            <span
+              className="font-display text-lg font-semibold text-ink transition group-hover:text-accent"
+              lang="fi"
+            >
               {week.teksti.title}
             </span>
             <span className="mt-1 block text-sm text-ink-soft">{week.teksti.topic}</span>
           </span>
           <span className="flex items-center gap-3">
             <LevelBadge level={week.teksti.level} />
-            <span aria-hidden="true" className="text-accent">
+            <span
+              aria-hidden="true"
+              className="text-ink-soft transition group-hover:text-accent"
+            >
               →
             </span>
           </span>
@@ -125,22 +128,22 @@ export default async function WeekPage({
       </section>
 
       {scenarios.length > 0 && (
-        <section className="mt-8">
-          <h2 className="text-xl text-accent">Viikon tilanne</h2>
+        <section className="mt-12">
+          <h2 className="text-2xl">Viikon tilanne</h2>
           <p className="mt-1 text-sm text-ink-soft">
             Arjen tilanne, jossa viikon sanat tulevat käyttöön. Napauta korostettuja
             sanoja nähdäksesi niiden merkityksen.
           </p>
-          <ul className="mt-3 flex flex-col gap-3">
+          <ul className="mt-3 divide-y divide-line border-y border-line">
             {scenarios.map((s) => (
               <li key={s.slug}>
                 <Link
                   href={`/scenarios/${s.slug}`}
-                  className="flex items-center justify-between gap-4 rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+                  className="group flex items-center justify-between gap-4 py-4 no-underline"
                 >
                   <span>
                     <span
-                      className="font-display text-lg font-semibold text-accent"
+                      className="font-display text-lg font-semibold text-ink transition group-hover:text-accent"
                       lang="fi"
                     >
                       {s.title}
@@ -149,7 +152,10 @@ export default async function WeekPage({
                   </span>
                   <span className="flex items-center gap-3">
                     <LevelBadge level={s.level} />
-                    <span aria-hidden="true" className="text-accent">
+                    <span
+                      aria-hidden="true"
+                      className="text-ink-soft transition group-hover:text-accent"
+                    >
                       →
                     </span>
                   </span>

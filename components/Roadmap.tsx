@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { CheckIcon, LockIcon } from "@/components/icons";
 import { useProgress } from "@/components/useProgress";
 import { getWeek } from "@/lib/content";
 import { emptyProgress, isKnown } from "@/lib/progress";
@@ -50,14 +51,20 @@ export function Roadmap() {
                       completed
                         ? `${phase.node} border-transparent text-surface`
                         : isCurrent
-                          ? `bg-surface ${phase.ring} animate-pulse`
+                          ? `bg-surface ${phase.ring} ring-2 ring-current ring-offset-2 ring-offset-bg`
                           : hasContent
                             ? `bg-surface ${phase.ring}`
                             : "border-line bg-surface text-ink-soft"
                     }`}
                     aria-hidden="true"
                   >
-                    {completed ? "✓" : hasContent ? n : "🔒"}
+                    {completed ? (
+                      <CheckIcon className="h-4 w-4" />
+                    ) : hasContent ? (
+                      n
+                    ) : (
+                      <LockIcon className="h-3.5 w-3.5" />
+                    )}
                   </span>
 
                   <div
@@ -94,7 +101,9 @@ export function Roadmap() {
                           </Link>
                         )}
                         {completed && (
-                          <p className="mt-2 text-sm font-semibold text-success">Valmis ✓</p>
+                          <p className="mt-2 flex items-center gap-1 text-sm font-semibold text-success">
+                            <CheckIcon className="h-4 w-4" /> Valmis
+                          </p>
                         )}
                       </>
                     )}

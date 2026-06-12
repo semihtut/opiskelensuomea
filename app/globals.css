@@ -93,6 +93,19 @@
   h3 {
     @apply font-display text-ink;
     text-wrap: balance;
+    /* Long Finnish compounds (e.g. liikenneturvallisuus) wrap/hyphenate instead of
+       overflowing. hyphens:auto uses the element's lang (html is lang="fi"). */
+    overflow-wrap: break-word;
+    hyphens: auto;
+    /* Fraunces is optical-size aware: let the larger headings pull in the display
+       cut (higher opsz, sharper terminals) instead of the text cut. */
+    font-optical-sizing: auto;
+  }
+
+  /* At true display sizes the h1 earns Fraunces' characterful WONK alternates
+     (the splayed leg/ear) — editorial personality the body cut shouldn't carry. */
+  h1 {
+    font-variation-settings: "opsz" 144, "SOFT" 0, "WONK" 1;
   }
 
   a {
@@ -133,6 +146,39 @@
   .tnum {
     font-variant-numeric: tabular-nums;
   }
+  /* Hyphenate long Finnish words on non-heading display text (e.g. the flashcard
+     headword span). Relies on the element/ancestor lang for the hyphen dictionary. */
+  .hyphenate {
+    overflow-wrap: break-word;
+    hyphens: auto;
+  }
+
+  /* Editorial reveal: list rows rise + fade in sequence on first paint, so a long
+     hairline list arrives as a cascade rather than a static wall. Pure CSS (runs on
+     load, no JS gate, no LCP hit). Reduced-motion collapses it to an instant show
+     via the global rule below — `both` fill guarantees the final (visible) state. */
+  @keyframes fade-rise {
+    from {
+      opacity: 0;
+      transform: translateY(0.5rem);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  .stagger-children > * {
+    animation: fade-rise 0.5s var(--ease-standard, cubic-bezier(0.2, 0, 0, 1)) both;
+  }
+  .stagger-children > *:nth-child(1) { animation-delay: 0.03s; }
+  .stagger-children > *:nth-child(2) { animation-delay: 0.07s; }
+  .stagger-children > *:nth-child(3) { animation-delay: 0.11s; }
+  .stagger-children > *:nth-child(4) { animation-delay: 0.15s; }
+  .stagger-children > *:nth-child(5) { animation-delay: 0.19s; }
+  .stagger-children > *:nth-child(6) { animation-delay: 0.23s; }
+  .stagger-children > *:nth-child(7) { animation-delay: 0.27s; }
+  .stagger-children > *:nth-child(8) { animation-delay: 0.31s; }
+  .stagger-children > *:nth-child(n + 9) { animation-delay: 0.35s; }
 }
 
 /* Honor reduced-motion: micro-interactions only, never essential. */

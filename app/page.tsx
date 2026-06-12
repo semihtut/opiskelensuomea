@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ButtonLink } from "@/components/Button";
 import { LevelBadge } from "@/components/LevelBadge";
 import { Tldr } from "@/components/Tldr";
 import { getWord } from "@/lib/content";
@@ -66,11 +67,11 @@ export default function HomePage() {
   ];
 
   return (
-    <main className="mx-auto max-w-5xl px-6 py-12">
+    <main className="mx-auto max-w-page-wide px-6 py-12">
       {/* Hero: benefit headline + CTAs on the left, sample word card on the right */}
       <section className="grid items-center gap-10 lg:grid-cols-[1.1fr_1fr]">
         <div>
-          <h1 className="font-display text-3xl font-semibold leading-tight text-ink sm:text-[2.75rem]" lang="fi">
+          <h1 className="font-display text-display font-semibold text-ink hyphenate" lang="fi">
             Opi suomen 1000 yleisintä sanaa{" "}
             <span className="text-accent">kolmessa kuukaudessa.</span>
           </h1>
@@ -79,18 +80,10 @@ export default function HomePage() {
           </p>
 
           <div className="mt-6 flex flex-wrap gap-3">
-            <Link
-              href="/program"
-              className="inline-flex items-center rounded-chip bg-accent px-5 py-2.5 font-semibold text-bg no-underline transition hover:opacity-90"
-            >
-              Aloita Suomi 90
-            </Link>
-            <Link
-              href="/words"
-              className="inline-flex items-center rounded-chip border border-accent px-5 py-2.5 font-semibold text-accent no-underline transition hover:bg-accent hover:text-bg"
-            >
+            <ButtonLink href="/program">Aloita Suomi 90</ButtonLink>
+            <ButtonLink href="/words" variant="secondary">
               Selaa sanoja
-            </Link>
+            </ButtonLink>
           </div>
 
           <div className="mt-8">
@@ -111,7 +104,7 @@ export default function HomePage() {
             Esimerkkisana
           </p>
           <div className="mt-1 flex items-baseline gap-3">
-            <span className="font-display text-4xl font-semibold text-accent" lang="fi">
+            <span className="font-display text-4xl font-semibold text-accent hyphenate" lang="fi">
               {talo.fi}
             </span>
             <span className="text-lg text-ink-soft" lang="en">
@@ -185,7 +178,7 @@ export default function HomePage() {
 
       {/* How it works — three phase tiles in their level colors + a stat row */}
       <section className="mt-16">
-        <h2 className="font-display text-2xl text-accent">Kolme vaihetta kohti sujuvuutta</h2>
+        <h2 className="font-display text-2xl">Kolme vaihetta kohti sujuvuutta</h2>
         <p className="mt-1 text-ink-soft">
           13 viikkoa, jaettuna kolmeen vaiheeseen — alkeista kohti sujuvaa suomea.
         </p>

@@ -22,11 +22,11 @@ export default function WordsIndexPage() {
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd data={[itemListSchema(words), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs crumbs={crumbs} />
 
-      <h1 className="mt-6 font-display text-3xl font-semibold text-accent">
+      <h1 className="mt-6 font-display text-title font-semibold text-accent">
         Suomen sanat
       </h1>
 

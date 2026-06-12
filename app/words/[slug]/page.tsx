@@ -50,7 +50,7 @@ export default async function WordPage({
   ];
 
   return (
-    <main className="mx-auto max-w-4xl px-6 py-8">
+    <main className="mx-auto max-w-page-wide px-6 py-8">
       <JsonLd data={[wordSchema(word), faqSchema(faq), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs
         crumbs={crumbs}
@@ -63,7 +63,7 @@ export default async function WordPage({
         <div>
           <header>
             <div className="flex flex-wrap items-center gap-3">
-              <h1 className="font-display text-4xl font-semibold text-accent" lang="fi">
+              <h1 className="font-display text-title font-semibold text-accent hyphenate" lang="fi">
                 {word.fi}
               </h1>
               <LevelBadge level={word.level} />
@@ -89,8 +89,8 @@ export default async function WordPage({
       </section>
 
       {/* Key forms (always visible) + partitive callout for nominals */}
-      <section className="mt-8">
-        <h2 className="text-xl text-accent">Avainmuodot</h2>
+      <section className="mt-12">
+        <h2 className="text-2xl">Avainmuodot</h2>
         <div className="mt-3 grid gap-4">
           <SummaryForms muodot={word.kielioppi.muodot} />
           <PartitiveBox word={word} />
@@ -106,7 +106,7 @@ export default async function WordPage({
       {/* Full conjugation/declension tables, collapsed */}
       {word.taivutus && word.taivutus.sections.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-xl text-accent">Taivutus</h2>
+          <h2 className="text-2xl">Taivutus</h2>
           <div className="mt-3">
             <DeclensionTable sections={word.taivutus.sections} />
           </div>
@@ -114,8 +114,8 @@ export default async function WordPage({
       )}
 
       {/* Example sentences by level */}
-      <section className="mt-8">
-        <h2 className="text-xl text-accent">Esimerkkilauseet</h2>
+      <section className="mt-12">
+        <h2 className="text-2xl">Esimerkkilauseet</h2>
         <div className="mt-3">
           <ExampleList examples={word.esimerkit} />
         </div>
@@ -124,7 +124,7 @@ export default async function WordPage({
       {/* Derived words */}
       {word.johdokset.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-xl text-accent">Johdokset ja sukulaissanat</h2>
+          <h2 className="text-2xl">Johdokset ja sukulaissanat</h2>
           <div className="mt-3">
             <JohdoksetCards johdokset={word.johdokset} />
           </div>
@@ -134,7 +134,7 @@ export default async function WordPage({
       {/* Synonyms */}
       {word.synonyymit.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-xl text-accent">Synonyymit</h2>
+          <h2 className="text-2xl">Synonyymit</h2>
           <div className="mt-3">
             <SynonymChips synonyms={word.synonyymit} />
           </div>
@@ -142,7 +142,7 @@ export default async function WordPage({
       )}
 
       {/* FAQ (mirrors FAQPage JSON-LD added in Phase 5) */}
-      <section className="mt-10">
+      <section className="mt-12">
         <Faq items={faq} />
       </section>
 

@@ -41,7 +41,7 @@ export default function ProgramPage() {
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd
         data={[
           courseSchema({
@@ -53,7 +53,7 @@ export default function ProgramPage() {
       />
       <Breadcrumbs crumbs={crumbs} />
 
-      <h1 className="mt-6 font-display text-4xl font-semibold text-accent">
+      <h1 className="mt-6 font-display text-title font-semibold text-accent">
         Suomi 90
       </h1>
       <p className="mt-1 text-lg text-ink-soft">
@@ -72,9 +72,9 @@ export default function ProgramPage() {
       <div className="mt-10 flex flex-col gap-8">
         {PHASES.map((p) => (
           <section key={p.phase}>
-            <h2 className="text-2xl text-accent">{p.phase}</h2>
+            <h2 className="text-2xl">{p.phase}</h2>
             <p className="mt-1 text-ink-soft">{p.kuvaus}</p>
-            <ul className="mt-4 grid gap-3 sm:grid-cols-2">
+            <ul className="stagger-children mt-4 divide-y divide-line border-y border-line">
               {p.weeks.map((n) => {
                 const week = getWeek(n);
                 return (
@@ -82,17 +82,31 @@ export default function ProgramPage() {
                     {week ? (
                       <Link
                         href={`/week/${n}`}
-                        className="block rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+                        className="group flex items-baseline gap-4 py-4 no-underline"
                       >
-                        <span className="text-sm font-semibold text-ink">Viikko {n}</span>
-                        <span className="mt-1 block text-ink-soft" lang="fi">
-                          {week.theme}
+                        <span className="font-display text-2xl text-ink-soft tnum transition group-hover:text-accent">
+                          {n}
+                        </span>
+                        <span className="flex-1">
+                          <span className="block font-medium text-ink" lang="fi">
+                            {week.theme}
+                          </span>
+                          <span className="text-sm text-ink-soft">Viikko {n}</span>
+                        </span>
+                        <span
+                          aria-hidden="true"
+                          className="self-center text-ink-soft transition group-hover:text-accent"
+                        >
+                          →
                         </span>
                       </Link>
                     ) : (
-                      <div className="block rounded-card border border-dashed border-line p-4 text-ink-soft">
-                        <span className="text-sm font-semibold">Viikko {n}</span>
-                        <span className="mt-1 block text-sm">Tulossa</span>
+                      <div className="flex items-baseline gap-4 py-4 text-ink-soft">
+                        <span className="font-display text-2xl tnum">{n}</span>
+                        <span className="flex-1">
+                          <span className="block">Viikko {n}</span>
+                          <span className="text-sm">Tulossa</span>
+                        </span>
                       </div>
                     )}
                   </li>

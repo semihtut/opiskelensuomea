@@ -24,8 +24,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="fi" className={`${fraunces.variable} ${hankenGrotesk.variable}`}>
+    <html
+      lang="fi"
+      className={`${fraunces.variable} ${hankenGrotesk.variable}`}
+      suppressHydrationWarning
+    >
       <body className="flex min-h-screen flex-col">
+        {/* Apply the saved light/dark choice before paint to avoid a theme flash.
+            Runs synchronously ahead of the rest of the body. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html:
+              "(function(){try{var t=localStorage.getItem('theme');if(t==='dark'||t==='light')document.documentElement.setAttribute('data-theme',t);}catch(e){}})();",
+          }}
+        />
         <JsonLd data={[organizationSchema(), websiteSchema(), personSchema()]} />
         <Header />
         <div className="flex-1">{children}</div>

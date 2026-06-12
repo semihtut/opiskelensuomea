@@ -45,11 +45,11 @@ export default async function WeekTextPage({
   ];
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd data={[readingTextSchema(week), breadcrumbSchema(crumbs)]} />
       <Breadcrumbs crumbs={crumbs} />
 
-      <h1 className="mt-6 font-display text-3xl font-semibold text-accent" lang="fi">
+      <h1 className="mt-6 font-display text-title font-semibold text-accent hyphenate" lang="fi">
         {week.teksti.title}
       </h1>
       <p className="mt-1 text-ink-soft">

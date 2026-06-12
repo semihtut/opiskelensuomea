@@ -16,9 +16,10 @@ const SVGS: Record<string, React.ReactNode> = {
 };
 
 /**
- * WordIcon — renders the word's illustration. Prefers an inline SVG (by `kuva.icon`
- * key), then an emoji, then a typographic fallback (first letter). Decorative vs.
- * meaningful is handled via aria: the alt text comes from `kuva.alt`.
+ * WordIcon — renders a word's illustration ONLY when a real inline SVG exists for its
+ * `kuva.icon` key; otherwise renders nothing. The card design is typographic-first
+ * (the lemma is the hero), so there is no first-letter fallback, and emoji are never
+ * rendered (project rule — no emoji). When an icon exists it is a small accent.
  */
 export function WordIcon({
   word,
@@ -28,38 +29,21 @@ export function WordIcon({
   className?: string;
 }) {
   const svg = word.kuva?.icon ? SVGS[word.kuva.icon] : undefined;
-  const label = word.kuva?.alt ?? word.fi;
+  if (!svg) return null;
 
-  if (svg) {
-    return (
-      <svg
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        strokeWidth={1.6}
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        role="img"
-        aria-label={label}
-        className={className}
-      >
-        {svg}
-      </svg>
-    );
-  }
-
-  if (word.kuva?.emoji) {
-    return (
-      <span role="img" aria-label={label} className={className}>
-        {word.kuva.emoji}
-      </span>
-    );
-  }
-
-  // Typographic fallback — first letter in the display serif.
   return (
-    <span aria-hidden="true" className={`font-display ${className}`}>
-      {word.fi.charAt(0).toUpperCase()}
-    </span>
+    <svg
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth={1.6}
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      role="img"
+      aria-label={word.kuva?.alt ?? word.fi}
+      className={className}
+    >
+      {svg}
+    </svg>
   );
 }

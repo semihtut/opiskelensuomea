@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { CheckIcon, AgainIcon } from "@/components/icons";
 import type { CardStatus, Word } from "@/lib/content-types";
 import { getPartitives, isNominal } from "@/lib/forms";
 import { WordIcon } from "@/lib/icons";
@@ -9,9 +10,11 @@ import { LevelBadge } from "./LevelBadge";
 
 /**
  * Interactive learning flashcard with a 3D flip (docs/DESIGN-SYSTEM.md).
- * Front = recall prompt (icon + serif headword + level). Back = partitive callout
- * (nominals) + key forms + an A2 example. The flip is a real <button> (keyboard +
- * screen-reader accessible); clicking the card body also flips for pointer users.
+ * Front = a typographic recall prompt: the lemma is the hero (Fraunces), with the
+ * part of speech as quiet metadata and a small icon accent only where one exists.
+ * The front face IS a <button> (keyboard + screen-reader operable); the back holds
+ * the partitive callout, key forms, an A2 example and the Again/Osaan controls.
+ * `inert` is toggled on the hidden face so off-screen controls aren't focusable.
  * prefers-reduced-motion turns the flip into an instant change (global CSS rule).
  */
 export function Flashcard({
@@ -44,37 +47,34 @@ export function Flashcard({
           flipped ? "rotate-y-180" : ""
         }`}
       >
-        {/* FRONT */}
-        <div
+        {/* FRONT — typographic recall prompt; the whole face is the flip control */}
+        <button
+          type="button"
           onClick={toggle}
           aria-hidden={flipped}
-          className="absolute inset-0 flex cursor-pointer flex-col items-center justify-center gap-4 rounded-flashcard border border-line bg-elevated p-8 text-center shadow-soft backface-hidden transition hover:shadow-lift"
+          inert={flipped}
+          aria-pressed={flipped}
+          className="absolute inset-0 flex w-full flex-col items-center justify-center gap-3 rounded-flashcard border border-line bg-elevated p-8 text-center shadow-soft backface-hidden transition hover:shadow-lift"
         >
           <span className="absolute right-4 top-4">
             <LevelBadge level={word.level} />
           </span>
-          <WordIcon word={word} className="h-16 w-16 text-primary" />
-          <span className="font-display text-4xl font-semibold text-accent sm:text-5xl" lang="fi">
+          {/* Icon accent only when a real vector exists (most cards are typographic). */}
+          <WordIcon word={word} className="h-12 w-12 text-primary" />
+          <span className="font-display text-5xl font-semibold text-accent hyphenate" lang="fi">
             {word.fi}
           </span>
-          <button
-            type="button"
-            onClick={(e) => {
-              e.stopPropagation();
-              toggle();
-            }}
-            className="mt-2 rounded-pill border border-line px-4 py-2 text-sm font-semibold text-primary transition hover:bg-primary hover:text-surface"
-            aria-pressed={flipped}
-          >
-            Näytä taivutus →
-          </button>
-        </div>
+          <span className="text-xs font-semibold uppercase tracking-wide text-ink-soft">
+            {word.pos}
+          </span>
+          <span className="mt-2 text-sm font-semibold text-primary">Näytä taivutus →</span>
+        </button>
 
-        {/* BACK */}
+        {/* BACK — full info; flip-back is the real "Takaisin" button (not the body) */}
         <div
-          onClick={toggle}
           aria-hidden={!flipped}
-          className="absolute inset-0 flex cursor-pointer flex-col gap-3 overflow-y-auto rounded-flashcard border border-line bg-elevated p-6 shadow-soft backface-hidden rotate-y-180"
+          inert={!flipped}
+          className="absolute inset-0 flex flex-col gap-3 overflow-y-auto rounded-flashcard border border-line bg-elevated p-6 shadow-soft backface-hidden rotate-y-180"
         >
           <div className="flex items-baseline justify-between gap-2">
             <span className="font-display text-2xl font-semibold text-accent" lang="fi">
@@ -136,44 +136,46 @@ export function Flashcard({
           </div>
 
           {/* Answer controls — record progress (spaced repetition) when enabled */}
-          {trackProgress && (
-            <div onClick={(e) => e.stopPropagation()}>
-              {answered ? (
-                <p
-                  className={`rounded-chip px-3 py-2 text-center text-sm font-semibold text-surface ${
-                    answered === "known" ? "bg-success" : "bg-again"
-                  }`}
-                  role="status"
+          {trackProgress &&
+            (answered ? (
+              <p
+                className={`flex items-center justify-center gap-2 rounded-chip px-3 py-2 text-center text-sm font-semibold text-surface ${
+                  answered === "known" ? "bg-success" : "bg-again"
+                }`}
+                role="status"
+              >
+                {answered === "known" ? (
+                  <>
+                    <CheckIcon className="h-4 w-4" /> Merkitty opituksi
+                  </>
+                ) : (
+                  <>
+                    <AgainIcon className="h-4 w-4" /> Lisätty kertauslistalle
+                  </>
+                )}
+              </p>
+            ) : (
+              <div className="flex gap-2">
+                <button
+                  type="button"
+                  onClick={() => answer("again")}
+                  className="flex flex-1 items-center justify-center gap-2 rounded-chip border border-again px-3 py-2 text-sm font-semibold text-again transition hover:bg-again hover:text-surface"
                 >
-                  {answered === "known" ? "✓ Merkitty opituksi" : "↻ Lisätty kertauslistalle"}
-                </p>
-              ) : (
-                <div className="flex gap-2">
-                  <button
-                    type="button"
-                    onClick={() => answer("again")}
-                    className="flex-1 rounded-chip border border-again px-3 py-2 text-sm font-semibold text-again transition hover:bg-again hover:text-surface"
-                  >
-                    Kertaa
-                  </button>
-                  <button
-                    type="button"
-                    onClick={() => answer("known")}
-                    className="flex-1 rounded-chip bg-success px-3 py-2 text-sm font-semibold text-surface transition hover:opacity-90"
-                  >
-                    Osaan ✓
-                  </button>
-                </div>
-              )}
-            </div>
-          )}
+                  <AgainIcon className="h-4 w-4" /> Kertaa
+                </button>
+                <button
+                  type="button"
+                  onClick={() => answer("known")}
+                  className="flex flex-1 items-center justify-center gap-2 rounded-chip bg-success px-3 py-2 text-sm font-semibold text-surface transition hover:opacity-90"
+                >
+                  <CheckIcon className="h-4 w-4" /> Osaan
+                </button>
+              </div>
+            ))}
 
           <button
             type="button"
-            onClick={(e) => {
-              e.stopPropagation();
-              toggle();
-            }}
+            onClick={toggle}
             className="self-start text-sm font-semibold text-primary"
             aria-pressed={flipped}
           >

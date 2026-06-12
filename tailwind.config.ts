@@ -56,6 +56,17 @@ const config: Config = {
         "3xl": ["2.4375rem", { lineHeight: "1.15" }], // 39
         "4xl": ["3.0625rem", { lineHeight: "1.1" }], // 49
         "5xl": ["3.8125rem", { lineHeight: "1.05" }], // 61
+        // Fluid editorial display tier — scales between two scale-steps with the
+        // viewport (clamp), so headlines are confident on desktop without overflowing
+        // mobile. Tight tracking + optical line-height for large Fraunces settings.
+        display: [
+          "clamp(2.4375rem, 1.2rem + 5vw, 3.8125rem)", // 39 → 61, hero
+          { lineHeight: "1.0", letterSpacing: "-0.02em" },
+        ],
+        title: [
+          "clamp(1.9375rem, 1.1rem + 3.6vw, 3.0625rem)", // 31 → 49, page H1
+          { lineHeight: "1.08", letterSpacing: "-0.015em" },
+        ],
       },
       borderRadius: {
         card: "16px",
@@ -69,7 +80,11 @@ const config: Config = {
         lift: "0 20px 48px rgba(28, 37, 51, 0.16)", // flashcard lift
       },
       maxWidth: {
-        prose: "70ch",
+        // Named content measures (one deliberate width per surface type) so the
+        // content column doesn't jump size page-to-page.
+        prose: "70ch", // inline reading measure for body paragraphs
+        page: "48rem", // index / list pages (words, program, week, scenarios, roadmap)
+        "page-wide": "64rem", // hero + sidebar layouts and the page chrome (home, word, dashboard)
       },
       transitionDuration: {
         DEFAULT: "200ms",

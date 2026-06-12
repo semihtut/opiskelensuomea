@@ -10,7 +10,7 @@ export function Faq({ items, heading = "Usein kysytyt kysymykset" }: { items: Fa
 
   return (
     <section aria-label={heading}>
-      <h2 className="text-xl text-accent">{heading}</h2>
+      <h2 className="text-2xl">{heading}</h2>
       <div className="mt-4 flex flex-col gap-2">
         {items.map((item) => (
           <details

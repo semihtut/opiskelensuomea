@@ -1,8 +1,8 @@
 "use client";
 
-import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { Suspense, useEffect, useState } from "react";
+import { Button, ButtonLink } from "@/components/Button";
 import { Flashcard } from "@/components/Flashcard";
 import { useProgress } from "@/components/useProgress";
 import { allWords, getWord } from "@/lib/content";
@@ -41,19 +41,17 @@ function Session() {
   if (queue.length === 0) {
     return (
       <div className="rounded-card border border-line bg-surface p-8 text-center shadow-soft">
-        <p className="font-display text-2xl text-accent">Ei harjoiteltavaa juuri nyt 🎉</p>
+        <p className="font-display text-2xl text-accent">Ei harjoiteltavaa juuri nyt.</p>
         <p className="mt-2 text-ink-soft">
           {mode === "review"
             ? "Sinulla ei ole kerrattavia sanoja."
             : "Olet käynyt kaikki sanat läpi. Tule myöhemmin kertaamaan!"}
         </p>
         <div className="mt-4 flex justify-center gap-3">
-          <Link href="/dashboard" className="rounded-chip bg-accent px-5 py-2.5 font-semibold text-bg no-underline">
-            Oma sivu
-          </Link>
-          <Link href="/words" className="rounded-chip border border-accent px-5 py-2.5 font-semibold text-accent no-underline">
+          <ButtonLink href="/dashboard">Oma sivu</ButtonLink>
+          <ButtonLink href="/words" variant="secondary">
             Selaa sanoja
-          </Link>
+          </ButtonLink>
         </div>
       </div>
     );
@@ -64,22 +62,15 @@ function Session() {
     const learned = results.filter((r) => r === "known").length;
     return (
       <div className="rounded-card border border-line bg-surface p-8 text-center shadow-soft">
-        <p className="text-4xl">🎉</p>
-        <h1 className="mt-2 font-display text-3xl font-semibold text-accent">Seansi valmis!</h1>
+        <h1 className="font-display text-3xl font-semibold text-accent">Seansi valmis!</h1>
         <p className="mt-2 text-ink-soft">
           Harjoittelit {queue.length} korttia · {learned} merkitty opituksi · +{learned * 10} XP.
         </p>
         <div className="mt-5 flex justify-center gap-3">
-          <Link href="/dashboard" className="rounded-chip bg-accent px-5 py-2.5 font-semibold text-bg no-underline">
-            Oma sivu →
-          </Link>
-          <button
-            type="button"
-            onClick={restart}
-            className="rounded-chip border border-accent px-5 py-2.5 font-semibold text-accent transition hover:bg-accent hover:text-bg"
-          >
+          <ButtonLink href="/dashboard">Oma sivu →</ButtonLink>
+          <Button variant="secondary" onClick={restart}>
             Harjoittele lisää
-          </button>
+          </Button>
         </div>
       </div>
     );

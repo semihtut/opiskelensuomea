@@ -36,11 +36,11 @@ export default function ScenariosPage() {
     .filter((group) => group.items.length > 0);
 
   return (
-    <main className="mx-auto max-w-3xl px-6 py-8">
+    <main className="mx-auto max-w-page px-6 py-8">
       <JsonLd data={breadcrumbSchema(crumbs)} />
       <Breadcrumbs crumbs={crumbs} />
 
-      <h1 className="mt-6 font-display text-3xl font-semibold text-accent" lang="fi">
+      <h1 className="mt-6 font-display text-title font-semibold text-accent" lang="fi">
         Tilanteet
       </h1>
       <p className="mt-1 text-ink-soft">Arjen suomea tositilanteissa</p>
@@ -55,20 +55,20 @@ export default function ScenariosPage() {
       </div>
 
       {byCategory.map((group) => (
-        <section key={group.category} className="mt-8">
-          <h2 className="text-xl text-accent" lang="fi">
+        <section key={group.category} className="mt-12">
+          <h2 className="text-2xl" lang="fi">
             {group.label}
           </h2>
-          <ul className="mt-3 flex flex-col gap-3">
+          <ul className="mt-3 divide-y divide-line border-y border-line">
             {group.items.map((s) => (
               <li key={s.slug}>
                 <Link
                   href={`/scenarios/${s.slug}`}
-                  className="flex items-center justify-between gap-4 rounded-card border border-line bg-surface p-4 no-underline shadow-soft hover:border-accent"
+                  className="group flex items-center justify-between gap-4 py-4 no-underline"
                 >
                   <span>
                     <span
-                      className="font-display text-lg font-semibold text-accent"
+                      className="font-display text-lg font-semibold text-ink transition group-hover:text-accent"
                       lang="fi"
                     >
                       {s.title}
@@ -80,7 +80,10 @@ export default function ScenariosPage() {
                   </span>
                   <span className="flex items-center gap-3">
                     <LevelBadge level={s.level} />
-                    <span aria-hidden="true" className="text-accent">
+                    <span
+                      aria-hidden="true"
+                      className="text-ink-soft transition group-hover:text-accent"
+                    >
                       →
                     </span>
                   </span>
